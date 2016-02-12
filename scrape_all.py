@@ -1,12 +1,8 @@
 import os
-
+import errno
 import requests
 
 base_urls = open('urls.txt')
-
-import errno
-import os
-
 
 for url in base_urls:
     url = url.strip().replace('http://', '').replace('https://', '')
