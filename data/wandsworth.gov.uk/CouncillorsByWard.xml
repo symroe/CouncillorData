@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Balham</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>923</councillorid>
+          <fullusername>Councillor Paul Ellis</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/3/2/9/Info00000923/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/3/2/9/Info00000923/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member (Housing)</keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>pellis@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>4456</councillorid>
+          <fullusername>Councillor Clare Salier</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/6/5/4/Info00004456/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/6/5/4/Info00004456/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>CSalier@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1094</councillorid>
+          <fullusername>Councillor Mrs. Caroline Usher</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/4/9/0/Info00001094/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/4/9/0/Info00001094/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Strret</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>cusher@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>118 Ramsden Road</line1>
+            <line2>Balham</line2>
+            <postcode>SW12 8RB</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bedford</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>4450</councillorid>
+          <fullusername>Councillor Dr Rosena Allin-Khan</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/0/5/4/Info00004450/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/0/5/4/Info00004450/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of the Opposition (Non-Statutory)</keyposts>
+          <workaddress>
+            <email>RAllin-Khan@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>4452</councillorid>
+          <fullusername>Councillor Fleur Anderson</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/2/5/4/Info00004452/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/2/5/4/Info00004452/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>FAnderson@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>922</councillorid>
+          <fullusername>Councillor Mrs. Antonia Dunn</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/2/2/9/Info00000922/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/2/2/9/Info00000922/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>adunn@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>11 Magdalen Road</line1>
+            <line2>Wandsworth</line2>
+            <line3>London</line3>
+            <postcode>SW18 3NB</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Earlsfield</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>928</councillorid>
+          <fullusername>Councillor Mrs. Angela Graham</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/8/2/9/Info00000928/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/8/2/9/Info00000928/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>agraham@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>28 Burntwood Lane</line1>
+            <line2>Tooting</line2>
+            <line3>London</line3>
+            <postcode>SW17 OJZ</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>4457</councillorid>
+          <fullusername>Councillor Charles Lescott</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/7/5/4/Info00004457/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/7/5/4/Info00004457/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>CLescott@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>4458</councillorid>
+          <fullusername>Councillor Rachael Stokes</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/8/5/4/Info00004458/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/8/5/4/Info00004458/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>RStokes@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>East Putney</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>4454</councillorid>
+          <fullusername>Councillor George Crivelli</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/4/5/4/Info00004454/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/4/5/4/Info00004454/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>GCrivelli@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>927</councillorid>
+          <fullusername>Councillor Ravi Govindia</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/7/2/9/Info00000927/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/7/2/9/Info00000927/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Council</keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>rgovindia@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>53A St Ann's Hill</line1>
+            <line2>Wandsworth</line2>
+            <line3>London</line3>
+            <postcode>SW18 2EZ</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>944</councillorid>
+          <fullusername>Councillor Leslie McDonnell</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/4/4/9/Info00000944/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/4/4/9/Info00000944/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Mayor</keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>lmcdonnell@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>31 Westmore Court</line1>
+            <line2>Carlton Drive</line2>
+            <line3>Putney</line3>
+            <line4>London</line4>
+            <postcode>SW15 2BU</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Fairfield</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>943</councillorid>
+          <fullusername>Councillor Piers McCausland</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/3/4/9/Info00000943/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/3/4/9/Info00000943/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>pmccausland@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Flat 3</line1>
+            <line2>54 Wandsworth Common North Side</line2>
+            <line3>London</line3>
+            <postcode>SW18 2SL</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>4459</councillorid>
+          <fullusername>Councillor Will Sweet</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/9/5/4/Info00004459/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/9/5/4/Info00004459/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>WSweet@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1091</councillorid>
+          <fullusername>Councillor Stuart Thom</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/1/9/0/Info00001091/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/1/9/0/Info00001091/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>sthom@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>49 Goulden House</line1>
+            <line2>Bullen Street</line2>
+            <line3>London</line3>
+            <postcode>SW11 3HG</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Furzedown</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1075</councillorid>
+          <fullusername>Councillor Leonie Cooper</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/5/7/0/Info00001075/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/5/7/0/Info00001075/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <postcode>SW18 2PU</postcode>
+            <email>leoniecooper@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>4460</councillorid>
+          <fullusername>Councillor Candida Jones</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/0/6/4/Info00004460/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/0/6/4/Info00004460/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>CJones1@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1168</councillorid>
+          <fullusername>Councillor Mark Thomas</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/8/6/1/Info00001168/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/8/6/1/Info00001168/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>markthomas@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Graveney</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>926</councillorid>
+          <fullusername>Councillor Andy Gibbons</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/6/2/9/Info00000926/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/6/2/9/Info00000926/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>agibbons@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>133 Longley Road</line1>
+            <line2>Tooting</line2>
+            <line3>London</line3>
+            <postcode>SW17 9LD</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>4461</councillorid>
+          <fullusername>Councillor Alaina Macdonald</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/1/6/4/Info00004461/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/1/6/4/Info00004461/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>AMacDonald1@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1087</councillorid>
+          <fullusername>Councillor Rex Osborn</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/7/8/0/Info00001087/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/7/8/0/Info00001087/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Opposition</keyposts>
+          <workaddress>
+            <line1>The Members Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>rosborn@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Latchmere</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>907</councillorid>
+          <fullusername>Councillor Tony Belton</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/7/0/9/Info00000907/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/7/0/9/Info00000907/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <mobile>07778 405235</mobile>
+            <email>tbelton@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>99 Salcott Road</line1>
+            <line2>Battersea</line2>
+            <line3>London</line3>
+            <postcode>SW11 6DF</postcode>
+            <phone>020 7223 1736</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1169</councillorid>
+          <fullusername>Councillor Simon Hogg</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/9/6/1/Info00001169/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/9/6/1/Info00001169/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of the Opposition (Statutory)</keyposts>
+          <workaddress>
+            <email>shogg@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1170</councillorid>
+          <fullusername>Councillor Wendy Speck</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/0/7/1/Info00001170/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/0/7/1/Info00001170/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>wspeck@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Nightingale</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>4462</councillorid>
+          <fullusername>Councillor Richard Field</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/2/6/4/Info00004462/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/2/6/4/Info00004462/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>RField@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>906</councillorid>
+          <fullusername>Councillor Ian Hart</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/6/0/9/Info00000906/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/6/0/9/Info00000906/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>ihart@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>184 Henry Doulton Drive</line1>
+            <line2>Heritage Park</line2>
+            <line3>Tooting</line3>
+            <line4>London</line4>
+            <postcode>SW17 6DH</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1085</councillorid>
+          <fullusername>Councillor Mrs. Sarah McDermott</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/5/8/0/Info00001085/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/5/8/0/Info00001085/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <postcode>SW18 2PU</postcode>
+            <email>smcdermott@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>72A Balham Park Road</line1>
+            <line2>Balham</line2>
+            <postcode>SW12 8EA</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Northcote</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1077</councillorid>
+          <fullusername>Councillor Peter Dawson</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/7/7/0/Info00001077/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/7/7/0/Info00001077/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <postcode>SW18 2PU</postcode>
+            <email>pdawson@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>76 Alfriston Road</line1>
+            <line2>London</line2>
+            <postcode>SW11 6NW</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>4455</councillorid>
+          <fullusername>Councillor Jane Dodd</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/5/5/4/Info00004455/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/5/5/4/Info00004455/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>JDodd@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>911</councillorid>
+          <fullusername>Councillor Martin D. Johnson</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/1/1/9/Info00000911/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/1/1/9/Info00000911/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>martinjohnson@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Queenstown</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>4463</councillorid>
+          <fullusername>Councillor Sally-Ann Ephson</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/3/6/4/Info00004463/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/3/6/4/Info00004463/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>SEphson@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>4464</councillorid>
+          <fullusername>Councillor Marie Hanson</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/4/6/4/Info00004464/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/4/6/4/Info00004464/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>MHanson@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1173</councillorid>
+          <fullusername>Councillor Nicola Nardelli</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/3/7/1/Info00001173/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/3/7/1/Info00001173/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Mayor</keyposts>
+          <workaddress>
+            <email>nnardelli@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Roehampton and Putney Heath</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>4451</councillorid>
+          <fullusername>Councillor Jeremy Ambache</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/1/5/4/Info00004451/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/1/5/4/Info00004451/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>JAmbache@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1175</councillorid>
+          <fullusername>Councillor Peter Carpenter</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/5/7/1/Info00001175/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/5/7/1/Info00001175/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>pcarpenter@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>52 Westleigh Avenue</line1>
+            <line2>London</line2>
+            <postcode>SW15 6RL</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>4465</councillorid>
+          <fullusername>Councillor Sue McKinney</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/5/6/4/Info00004465/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/5/6/4/Info00004465/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>SMcKinney@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Shaftesbury</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1176</councillorid>
+          <fullusername>Councillor Jonathan Cook</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/6/7/1/Info00001176/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/6/7/1/Info00001176/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of the Council and Cabinet Member (Community Services)</keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>jonathancook@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>919</councillorid>
+          <fullusername>Councillor James Cousins</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/9/1/9/Info00000919/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/9/1/9/Info00000919/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Wandsworth Independent Alliance</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>jcousins@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>912</councillorid>
+          <fullusername>Councillor Guy Senior</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/2/1/9/Info00000912/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/2/1/9/Info00000912/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member (Finance and Corporate Resources)</keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>gsenior@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>55 Gowrie Road</line1>
+            <line2>Battersea</line2>
+            <line3>London</line3>
+            <postcode>SW11 5NN</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Southfields</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>3188</councillorid>
+          <fullusername>Councillor Kim Caddy</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/8/8/1/Info00003188/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/8/8/1/Info00003188/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>LONDON</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>kcaddy@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1177</councillorid>
+          <fullusername>Councillor Guy Humphries</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/7/7/1/Info00001177/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/7/7/1/Info00001177/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ghumphries@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1178</councillorid>
+          <fullusername>Councillor Terence Walsh</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/8/7/1/Info00001178/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/8/7/1/Info00001178/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>twalsh@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>St Mary's Park</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>4466</councillorid>
+          <fullusername>Councillor Melanie Hampton</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/6/6/4/Info00004466/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/6/6/4/Info00004466/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>MHampton@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>4467</councillorid>
+          <fullusername>Councillor Rory O'Broin</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/7/6/4/Info00004467/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/7/6/4/Info00004467/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>RO'Broin@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>953</councillorid>
+          <fullusername>Councillor Mrs. Tessa Strickland</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/3/5/9/Info00000953/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/3/5/9/Info00000953/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>tstrickland@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>23 Juer Street</line1>
+            <line2>Battersea</line2>
+            <line3>London</line3>
+            <postcode>SW11 4RE</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Thamesfield</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>904</councillorid>
+          <fullusername>Councillor James Maddan</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/4/0/9/Info00000904/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/4/0/9/Info00000904/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member (Adult Care and Health)</keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>jmaddan@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>12 Roseland House</line1>
+            <line2>Weimar Street</line2>
+            <line3>Putney</line3>
+            <line4>London</line4>
+            <postcode>SW15 1SY</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>2677</councillorid>
+          <fullusername>Councillor Michael Ryder</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/7/7/6/Info00002677/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/7/7/6/Info00002677/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Members Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <postcode>SW18 2PU</postcode>
+          </workaddress>
+          <homeaddress>
+            <email>mryder@wandsworth.gov.uk</email>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1093</councillorid>
+          <fullusername>Councillor Ms Rosemary Torrington</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/3/9/0/Info00001093/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/3/9/0/Info00001093/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>rtorrington@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>94 Deodar Road</line1>
+            <line2>Putney</line2>
+            <line3>London</line3>
+            <postcode>SW15 2NJ</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Tooting</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>4453</councillorid>
+          <fullusername>Councillor Annamarie Critchard</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/3/5/4/Info00004453/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/3/5/4/Info00004453/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ACritchard@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1180</councillorid>
+          <fullusername>Councillor James Daley</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/0/8/1/Info00001180/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/0/8/1/Info00001180/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>jamesdaley@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1181</councillorid>
+          <fullusername>Councillor Benjamin Johnson</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/1/8/1/Info00001181/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/1/8/1/Info00001181/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>bjohnson@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wandsworth Common</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1074</councillorid>
+          <fullusername>Councillor  Mrs. Claire Clay</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/4/7/0/Info00001074/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/4/7/0/Info00001074/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <postcode>SW18 2PU</postcode>
+            <email>cclay@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>58 Westover Road</line1>
+            <postcode>SW18 2RH</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>900</councillorid>
+          <fullusername>Councillor Maurice Heaster</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/0/0/9/Info00000900/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/0/0/9/Info00000900/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>mheaster@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>243 Burntwood Lane</line1>
+            <line2>Wandsworth Common</line2>
+            <line3>London</line3>
+            <postcode>SW17 0AW</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>901</councillorid>
+          <fullusername>Councillor Mrs. Kathy Tracey</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/1/0/9/Info00000901/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/1/0/9/Info00000901/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member (Education and Children's Services)</keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>ktracey@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Wycombe Place</line1>
+            <line2>Wandsworth</line2>
+            <line3>London</line3>
+            <postcode>SW18 2LU</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>West Hill</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1076</councillorid>
+          <fullusername>Councillor Nick Cuff</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/6/7/0/Info00001076/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/6/7/0/Info00001076/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <postcode>SW18 2PU</postcode>
+            <email>ncuff@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>910</councillorid>
+          <fullusername>Councillor Malcolm Grimston</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/0/1/9/Info00000910/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/0/1/9/Info00000910/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Wandsworth Independent Alliance</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth High Street</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>mgrimston@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>67 Trevelyan Road</line1>
+            <line2>Tooting</line2>
+            <line3>London</line3>
+            <postcode>SW17 9LR</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>4468</councillorid>
+          <fullusername>Councillor Andrew Peterkin</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/8/6/4/Info00004468/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/8/6/4/Info00004468/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>APeterkin@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>West Putney</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>918</councillorid>
+          <fullusername>Councillor Mrs. Jane Cooper</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/8/1/9/Info00000918/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/8/1/9/Info00000918/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>The Members' Room</line1>
+            <line2>The Town Hall</line2>
+            <line3>Wandsworth Town Hall</line3>
+            <line4>London</line4>
+            <postcode>SW18 2PU</postcode>
+            <email>janecooper@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>219 Wimbledon Park Road</line1>
+            <line2>Wandsworth</line2>
+            <line3>London</line3>
+            <postcode>SW18 5RH</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>4469</councillorid>
+          <fullusername>Councillor Ian Lewer</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/9/6/4/Info00004469/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/9/6/4/Info00004469/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ILewer@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1182</councillorid>
+          <fullusername>Councillor Steffi Sutters</fullusername>
+          <photosmallurl>https://democracy.wandsworth.gov.uk/UserData/2/8/1/Info00001182/smallpic.jpg</photosmallurl>
+          <photobigurl>https://democracy.wandsworth.gov.uk/UserData/2/8/1/Info00001182/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member (Communications)</keyposts>
+          <workaddress>
+            <email>ssutters@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

@@ -1,0 +1,2042 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Aldborough</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1638</councillorid>
+          <fullusername>Councillor John Peter Howard</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/8/3/6/Info00001638/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/8/3/6/Info00001638/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>C/O Town Hall</line1>
+            <line2>Town Hall</line2>
+            <line3>128-142 High Road</line3>
+            <line4>Ilford</line4>
+            <postcode>IG1 1DD</postcode>
+            <email>john.howard@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>020 3289 0565</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Drop ins are held</line1>
+            <line2>Every Second Monday - Newbury Park Sainsburys, King George Avenue from 6pm</line2>
+            <line3>Every Fourth Monday - Barkingside Tescos, Cranbrook Road from 6pm</line3>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>836</councillorid>
+          <fullusername>Councillor Debbie Kaur-Thiara</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/6/3/8/Info00000836/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/6/3/8/Info00000836/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Aldborough Ward</representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <line1>c/o Town Hall</line1>
+            <line2>128-142 High Road</line2>
+            <line3>Ilford</line3>
+            <line4>Essex</line4>
+            <postcode>IG1 1DD</postcode>
+            <email>debbie.kaur-thiara@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>07951 533545</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Friday from 6pm to 7pm</line1>
+            <line2>at Fullwell Cross Library, 140 High Street, Barkingside</line2>
+            <line3>Drop ins are held:</line3>
+            <line4>Every Second Monday - Newbury Park Sainsburys, King George Avenue from 6pm</line4>
+            <line5>Every Fourth Monday - Barkingside Tescos, Cranbrook Road from 6pm</line5>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>783</councillorid>
+          <fullusername>Councillor Wes Streeting</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/3/8/7/Info00000783/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/3/8/7/Info00000783/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>wes.streeting@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>High Road</line3>
+            <line4>Ilford, Essex</line4>
+            <postcode>IG1 1DD</postcode>
+            <phone>020 3475 7901</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>I hold a fortnightly surgery in Barkingside, street surgeries throughout the year and can make alternative arrangements where needed.</line1>
+            <line2>To make an appointment, please call 020 3475 7901.</line2>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Barkingside</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>515</councillorid>
+          <fullusername>Councillor Ashley Stephen Kissin</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/5/1/5/Info00000515/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/5/1/5/Info00000515/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ashley.kissin@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>110 Glenwood Gardens</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG2 6XX</postcode>
+            <phone>020 8708 0202</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>This Councillor prefers to be contacted directly by phone or email so he can deal with the matter immediately.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1639</councillorid>
+          <fullusername>Councillor Karen Packer</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/9/3/6/Info00001639/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/9/3/6/Info00001639/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Town Hall</line1>
+            <line2>128-142 High Road</line2>
+            <line3>Ilford</line3>
+            <line4>Essex</line4>
+            <postcode>IG1 1DD</postcode>
+            <email>karen.packer@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8708 2021</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>29</councillorid>
+          <fullusername>Councillor Keith Prince</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/9/2/0/Info00000029/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/9/2/0/Info00000029/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <mobile>07944 442034</mobile>
+            <email>keith.prince@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>Ilford</line3>
+            <line4>Essex</line4>
+            <postcode>IG1 1DD</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>This Councillor prefers to be contacted directly by phone or email so he can deal with the matter immediately.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bridge</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>753</councillorid>
+          <fullusername>Councillor Paul Canal</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/3/5/7/Info00000753/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/3/5/7/Info00000753/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Conservative Group</keyposts>
+          <workaddress>
+            <email>paul.canal@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>40 Deynecourt Gardens</line1>
+            <line2>Wanstead</line2>
+            <line3>London</line3>
+            <postcode>E11 2BU</postcode>
+            <phone>020 8708 2440</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For a consultation or appointment, please contact Cllr Canal on 020 8708 0027 or via E.mail at paul.canal@redbridge.gov.uk</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>505</councillorid>
+          <fullusername>Councillor John William Fairley-Churchill</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/5/0/5/Info00000505/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/5/0/5/Info00000505/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>john.fairley-churchill@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>44 Green Lane</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG1 1YL</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For a consultation or appointment, please contact Cllr Fairley-Churchill on 020 8708 0205 or via E.mail at john.fairley-churchill@redbridge.gov.uk</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>506</councillorid>
+          <fullusername>Councillor Robin Andrew Turbefield</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/6/0/5/Info00000506/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/6/0/5/Info00000506/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>robin.turbefield@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>20 Wallington Road</line1>
+            <line2>Seven Kings</line2>
+            <line3>Ilford</line3>
+            <postcode>IG3 8QQ</postcode>
+            <phone>020 8708 0206</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For a consultation or appointment, please contact Cllr Turbefield on 020 8708 0206 or via E.mail at robin.turbefield@redbridge.gov.uk</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Chadwell</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>769</councillorid>
+          <fullusername>Councillor Aziz Ahmed Choudhury</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/9/6/7/Info00000769/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/9/6/7/Info00000769/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>London Borough of Redbridge</line1>
+            <line2>Town Hall</line2>
+            <line3>PO Box 2, High Road</line3>
+            <line4>Ilford, Essex.</line4>
+            <postcode>IG1 1DD</postcode>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8708 9084</phone>
+            <mobile>07515 538376</mobile>
+            <email>aziz.choudhury@redbridge.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Surgeries are held at the Keith Axon Centre, Grove Road, Chadwell Heath, on the following dates/times:-</line1>
+            <line2>No appointment necessary</line2>
+            <line3>11th December - 7pm to 8pm</line3>
+            <line4>2016</line4>
+            <line5>8th January - 7pm to 8pm</line5>
+            <line6>22nd January - 4.30pm to 5.30pm</line6>
+            <line7>12 February - 7pm to 8pm</line7>
+            <line8>26 February - 4.30pm to 5.30pm</line8>
+            <line9>11th March - 7pm to 8pm</line9>
+            <line10>8th April - 7pm to 8pm</line10>
+            <line11>22nd April - 4.30pm to 5.30pm</line11>
+            <line12>13th May - 7pm to 8pm</line12>
+            <line13>27th May - 4.30pm to 5.30pm</line13>
+            <line14>10th June - 7pm to 8pm</line14>
+            <line15>24th June - 4.30pm to 5.30pm</line15>
+            <line16>8th July - 7pm to 8pm</line16>
+            <line17>22nd July - 4.30pm to 5.30pm</line17>
+            <line18>August - No Surgeries</line18>
+            <line19>9th September - 7pm to 8pm</line19>
+            <line20>23rd September - 4.30pm to 5.30pm</line20>
+            <line21>14th October - 7pm to 8pm</line21>
+            <line22>28th October - 4.30pm to 5.30pm</line22>
+            <line23>11th November - 7pm to 8pm</line23>
+            <line24>25th November - 4.30pm to 5.30pm</line24>
+            <line25>9th December - 7pm to 8pm</line25>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1640</councillorid>
+          <fullusername>Councillor Anne Marie Sachs</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/0/4/6/Info00001640/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/0/4/6/Info00001640/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>anne.sachs@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>13 Carrick Drive</line1>
+            <line2>Barkingside</line2>
+            <line3>Ilford</line3>
+            <line4>Essex</line4>
+            <postcode>IG6 2LX</postcode>
+            <mobile>07813 363430</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Surgeries are held at the Keith Axon Centre, Grove Road, Chadwell Heath, on the following dates/times:-</line1>
+            <line2>No appointment necessary</line2>
+            <line3>11th December - 7pm to 8pm</line3>
+            <line4>2016</line4>
+            <line5>8th January - 7pm to 8pm</line5>
+            <line6>22nd January - 4.30pm to 5.30pm</line6>
+            <line7>12 February - 7pm to 8pm</line7>
+            <line8>26 February - 4.30pm to 5.30pm</line8>
+            <line9>11th March - 7pm to 8pm</line9>
+            <line10>8th April - 7pm to 8pm</line10>
+            <line11>22nd April - 4.30pm to 5.30pm</line11>
+            <line12>13th May - 7pm to 8pm</line12>
+            <line13>27th May - 4.30pm to 5.30pm</line13>
+            <line14>10th June - 7pm to 8pm</line14>
+            <line15>24th June - 4.30pm to 5.30pm</line15>
+            <line16>8th July - 7pm to 8pm</line16>
+            <line17>22nd July - 4.30pm to 5.30pm</line17>
+            <line18>August - No Surgeries</line18>
+            <line19>9th September - 7pm to 8pm</line19>
+            <line20>23rd September - 4.30pm to 5.30pm</line20>
+            <line21>14th October - 7pm to 8pm</line21>
+            <line22>28th October - 4.30pm to 5.30pm</line22>
+            <line23>11th November - 7pm to 8pm</line23>
+            <line24>25th November - 4.30pm to 5.30pm</line24>
+            <line25>9th December - 7pm to 8pm</line25>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1641</councillorid>
+          <fullusername>Councillor Neil Patrick Zammett</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/1/4/6/Info00001641/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/1/4/6/Info00001641/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>neil.zammett@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Gloucester Road</line1>
+            <line2>Wanstead</line2>
+            <line3>London</line3>
+            <postcode>E11 2ED</postcode>
+            <phone>0208 989 8080</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Surgeries are held at the Keith Axon Centre, Grove Road, Chadwell Heath, on the following dates/times:-</line1>
+            <line2>No appointment necessary</line2>
+            <line3>11th December - 7pm to 8pm</line3>
+            <line4>2016</line4>
+            <line5>8th January - 7pm to 8pm</line5>
+            <line6>22nd January - 4.30pm to 5.30pm</line6>
+            <line7>12 February - 7pm to 8pm</line7>
+            <line8>26 February - 4.30pm to 5.30pm</line8>
+            <line9>11th March - 7pm to 8pm</line9>
+            <line10>8th April - 7pm to 8pm</line10>
+            <line11>22nd April - 4.30pm to 5.30pm</line11>
+            <line12>13th May - 7pm to 8pm</line12>
+            <line13>27th May - 4.30pm to 5.30pm</line13>
+            <line14>10th June - 7pm to 8pm</line14>
+            <line15>24th June - 4.30pm to 5.30pm</line15>
+            <line16>8th July - 7pm to 8pm</line16>
+            <line17>22nd July - 4.30pm to 5.30pm</line17>
+            <line18>August - No Surgeries</line18>
+            <line19>9th September - 7pm to 8pm</line19>
+            <line20>23rd September - 4.30pm to 5.30pm</line20>
+            <line21>14th October - 7pm to 8pm</line21>
+            <line22>28th October - 4.30pm to 5.30pm</line22>
+            <line23>11th November - 7pm to 8pm</line23>
+            <line24>25th November - 4.30pm to 5.30pm</line24>
+            <line25>9th December - 7pm to 8pm</line25>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Church End</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1642</councillorid>
+          <fullusername>Councillor Emma Best</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/2/4/6/Info00001642/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/2/4/6/Info00001642/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>emma.best@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>Ilford</line3>
+            <line4>Essex</line4>
+            <postcode>IG1 1DD</postcode>
+            <mobile>07813 363315</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Church End Ward and Monkhams Ward will be holding joint surgeries at Woodford Green Library, Snakes Lane West, Woodford Green, Essex, IG8 0DX from 6pm to 8pm on:-</line1>
+            <line2>Tuesday 26th January 2016</line2>
+            <line3>Tuesday 16th February 2016</line3>
+            <line4>Tuesday 22nd March 2016</line4>
+            <line5>Tuesday 19th April 2016</line5>
+            <line6>Tuesday 10th May 2016</line6>
+            <line7>There is no appointment necessary for these Surgeries</line7>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>51</councillorid>
+          <fullusername>Councillor Hugh Cleaver</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/1/5/0/Info00000051/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/1/5/0/Info00000051/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Hugh.cleaver@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>91 Malford Grove</line1>
+            <line2>South Woodford</line2>
+            <line3>London</line3>
+            <postcode>E18 2DH</postcode>
+            <phone>020 8530 7810</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Please contact Councillor Cleaver direct in any of the ways listed below.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1643</councillorid>
+          <fullusername>Councillor Tom McLaren</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/3/4/6/Info00001643/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/3/4/6/Info00001643/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>tom.mclaren@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>C/O Town Hall</line1>
+            <line2>128 - 142 High Road</line2>
+            <line3>Ilford</line3>
+            <postcode>IG1 1DD</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Church End Ward and Monkhams Ward will be holding joint surgeries at Woodford Green Library, Snakes Lane West, Woodford Green, Essex, IG8 0DX from 6pm to 8pm on:-</line1>
+            <line2>Tuesday 26th January 2016</line2>
+            <line3>Tuesday 16th February 2016</line3>
+            <line4>Tuesday 22nd March 2016</line4>
+            <line5>Tuesday 19th April 2016</line5>
+            <line6>Tuesday 10th May 2016</line6>
+            <line7>There is no appointment necessary for these Surgeries</line7>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Clayhall</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>761</councillorid>
+          <fullusername>Councillor Gurdial Bhamra</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/1/6/7/Info00000761/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/1/6/7/Info00000761/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Gurdial.bhamra@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>66 Mighell Avenue</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG4 5JP</postcode>
+            <phone>020 8708 9074</phone>
+            <email>gurdial.bhamra@redbridge.gov.uk</email>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>88</councillorid>
+          <fullusername>Councillor Robert A. Cole</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/8/8/0/Info00000088/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/8/8/0/Info00000088/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>robert.cole@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>Ilford</line3>
+            <line4>Essex</line4>
+            <postcode>IG1 1DD</postcode>
+            <phone>020 8708 9712</phone>
+            <email>robert.cole@redbridge.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every 2nd Friday of the month from 7pm to 8pm</line1>
+            <line2>Redbridge Primary School, College Gardens, IG4 5HW</line2>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>54</councillorid>
+          <fullusername>Councillor Alan Edward Weinberg MBE</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/4/5/0/Info00000054/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/4/5/0/Info00000054/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>alan.weinberg@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Stradbroke Grove</line1>
+            <line2>Clayhall</line2>
+            <line3>Ilford</line3>
+            <line4>Essex</line4>
+            <postcode>IG5 0DN</postcode>
+            <phone>020 8708 9646</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Please contact Councillor Weinberg direct in any of the ways listed below.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Clementswood</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>763</councillorid>
+          <fullusername>Councillor Helen Mary Coomb</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/3/6/7/Info00000763/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/3/6/7/Info00000763/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Planning, Economy and Regeneration</keyposts>
+          <workaddress>
+            <mobile>07583 001683</mobile>
+            <email>helen.coomb@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>162 The Drive</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG1 3PP</postcode>
+            <phone>020 8708 9072</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries for this Ward are held:-</line1>
+            <line2>Every Saturday</line2>
+            <line3>At:-</line3>
+            <line4>St Albans Church</line4>
+            <line5>Albert Road</line5>
+            <line6>Ilford, IG1 1HS</line6>
+            <line7>From 10am - 11am</line7>
+            <line8>There is no appointment necessary for these Surgeries</line8>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>764</councillorid>
+          <fullusername>Councillor Zulfiqar Hussain</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/4/6/7/Info00000764/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/4/6/7/Info00000764/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Zulfiqar.Hussain@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>81 Rutland Road</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG1 1ER</postcode>
+            <phone>020 8708 9073</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries for this Ward are held:-</line1>
+            <line2>Every Saturday</line2>
+            <line3>At:-</line3>
+            <line4>St Albans Church</line4>
+            <line5>Albert Road</line5>
+            <line6>Ilford, IG1 1HS</line6>
+            <line7>From 10am - 11am</line7>
+            <line8>There is no appointment necessary for these Surgeries</line8>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>80</councillorid>
+          <fullusername>Councillor Muhammed Javed</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/0/8/0/Info00000080/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/0/8/0/Info00000080/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Please address any mail to:</line1>
+            <line2>c/o Members' Services</line2>
+            <line3>Town Hall</line3>
+            <line4>Ilford, Essex</line4>
+            <postcode>IG1 1DD</postcode>
+            <email>muhammed.javed@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>44 Dudley Road</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG1 1ES</postcode>
+            <phone>07976 309023</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries for this Ward are held:-</line1>
+            <line2>Every Saturday</line2>
+            <line3>At:-</line3>
+            <line4>St Albans Church</line4>
+            <line5>Albert Road</line5>
+            <line6>Ilford, IG1 1HS</line6>
+            <line7>From 10am - 11am</line7>
+            <line8>There is no appointment necessary for these Surgeries</line8>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cranbrook</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>767</councillorid>
+          <fullusername>Councillor Mushtaq Ahmed</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/7/6/7/Info00000767/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/7/6/7/Info00000767/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>54 Sackville Gardens</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG1 3LJ</postcode>
+            <phone>020 8708 9071</phone>
+            <email>mushtaq.ahmed@redbridge.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>St Andrew's Church</line1>
+            <line2>The Drive</line2>
+            <line3>Ilford, IG1 3PE</line3>
+            <line4>9.30am - 11.30am</line4>
+            <line5>1st Saturday of every month</line5>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>674</councillorid>
+          <fullusername>Councillor Mahboob Chaudhary</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/4/7/6/Info00000674/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/4/7/6/Info00000674/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Cranbrook</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Mahboob.chaudhary@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Holcombe Road</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG1 4XF</postcode>
+            <phone>(020) 8708 9766</phone>
+            <mobile>07973 271987</mobile>
+            <email>mahboob.chaudhary@redbridge.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Surgeries are being held on the 2nd Saturday of the month (starting from the 8th November 2014) from 9am to 11am at St Andrew's Church Hall, The Drive, Ilford, IG1 3PE</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1644</councillorid>
+          <fullusername>Councillor Varinder Singh Bola</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/4/4/6/Info00001644/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/4/4/6/Info00001644/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>6 Mildmay Road</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG1 1DT</postcode>
+            <email>varinder.singhbola@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8708 2019</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Saturday of every month between 9.30am-11.30am at St Andrew's Church, The Drive, Ilford, IG1 3PE</line1>
+            <line2>No prior appointment is required in order to attend these advice surgeries.  Please bring copies of any relevant documents with you.</line2>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Fairlop</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>509</councillorid>
+          <fullusername>Councillor Brian Robert Lambert</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/9/0/5/Info00000509/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/9/0/5/Info00000509/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>brian.lambert@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>284 Fencepiece Road</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG6 2SY</postcode>
+            <phone>020 8708 0207</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>As most residents come to us direct as and when help is needed, we are no longer holding the monthly Ward Surgeries.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>64</councillorid>
+          <fullusername>Councillor Joyce Ellen Ryan</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/4/6/0/Info00000064/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/4/6/0/Info00000064/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>joyce.ryan@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Inverness Drive</line1>
+            <line2>Hainault</line2>
+            <line3>Essex</line3>
+            <postcode>IG6 3BW</postcode>
+            <phone>020 8708 9613</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>As most residents come to us direct as and when help is needed, we are no longer holding the monthly Ward Surgeries.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1645</councillorid>
+          <fullusername>Councillor Tom Sharpe</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/5/4/6/Info00001645/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/5/4/6/Info00001645/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>tom.sharpe@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Arlington House</line1>
+            <line2>Regents Drive</line2>
+            <line3>Woodford Green</line3>
+            <postcode>IG8 8RD</postcode>
+            <mobile>07958 911135</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Fullwell</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1646</councillorid>
+          <fullusername>Councillor David Bromiley</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/6/4/6/Info00001646/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/6/4/6/Info00001646/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.bromiley@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>46 Brockham Drive</line1>
+            <line2>Gants Hill</line2>
+            <line3>Ilford</line3>
+            <line4>Essex</line4>
+            <postcode>IG2 6QW</postcode>
+            <mobile>07922 053687</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries for this Ward are held:-</line1>
+            <line2>On the 3rd Saturday in the month</line2>
+            <line3>At:-</line3>
+            <line4>Trinity Hall</line4>
+            <line5>Holy Trinity Church</line5>
+            <line6>Mossford Green</line6>
+            <line7>Barkingside</line7>
+            <line8>IG6 2BX</line8>
+            <line9>10am - 11.30am</line9>
+            <line10>There is no appointment necessary for these Surgeries</line10>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1647</councillorid>
+          <fullusername>Councillor Jeevah Daniel Haran</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/7/4/6/Info00001647/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/7/4/6/Info00001647/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>jeevah.haran@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Roundaway Road</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG5 0NP</postcode>
+            <mobile>07813 363429</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries for this Ward are held:-</line1>
+            <line2>On the 3rd Saturday in the month</line2>
+            <line3>At:-</line3>
+            <line4>Trinity Hall</line4>
+            <line5>Holy Trinity Church</line5>
+            <line6>Mossford Green</line6>
+            <line7>Barkingside</line7>
+            <line8>IG6 2BX</line8>
+            <line9>10am - 11.30am</line9>
+            <line10>There is no appointment necessary for these Surgeries</line10>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>511</councillorid>
+          <fullusername>Councillor Nick Hayes</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/1/1/5/Info00000511/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/1/1/5/Info00000511/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>nicholas.hayes@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>25 Kingspark Court</line1>
+            <line2>London</line2>
+            <postcode>E18 2DD</postcode>
+            <phone>07758 110015</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries for this Ward are held:-</line1>
+            <line2>On the 3rd Saturday in the month</line2>
+            <line3>At:-</line3>
+            <line4>Trinity Hall</line4>
+            <line5>Holy Trinity Church</line5>
+            <line6>Mossford Green</line6>
+            <line7>Barkingside</line7>
+            <line8>IG6 2BX</line8>
+            <line9>10am - 11.30am</line9>
+            <line10>There is no appointment necessary for these Surgeries</line10>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Goodmayes</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>750</councillorid>
+          <fullusername>Councillor Bert Jones</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/0/5/7/Info00000750/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/0/5/7/Info00000750/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>bert.jones@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>Ilford</line3>
+            <line4>Essex</line4>
+            <postcode>IG1 1DD</postcode>
+            <mobile>07730 273619</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries for this Ward are held at Goodmayes Community Centre, 616c Green Lane, Ilford, Essex, IG3 9SE from 10.30am to 11.30am on the following dates:</line1>
+            <line2>12th December 2015</line2>
+            <line3>9th January 2016</line3>
+            <line4>30th January 2016</line4>
+            <line5>13th February 2016</line5>
+            <line6>27th February 2016</line6>
+            <line7>12th March 2016</line7>
+            <line8>26th March 2016</line8>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1648</councillorid>
+          <fullusername>Councillor Kam Rai</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/8/4/6/Info00001648/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/8/4/6/Info00001648/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Finance and Support Services</keyposts>
+          <workaddress>
+            <line1>C/O Town Hall</line1>
+            <line2>128-142 High Road</line2>
+            <line3>Ilford</line3>
+            <line4>IG1 1DD</line4>
+            <email>kam.rai@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8708 2020</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries for this Ward are held at Goodmayes Community Centre, 616c Green Lane, Ilford, Essex, IG3 9SE from 10.30am to 11.30am on the following dates:</line1>
+            <line2>12th December 2015</line2>
+            <line3>9th January 2016</line3>
+            <line4>30th January 2016</line4>
+            <line5>13th February 2016</line5>
+            <line6>27th February 2016</line6>
+            <line7>12th March 2016</line7>
+            <line8>26th March 2016</line8>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>752</councillorid>
+          <fullusername>Councillor Barbara White</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/2/5/7/Info00000752/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/2/5/7/Info00000752/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Mayor of Redbridge</keyposts>
+          <workaddress>
+            <email>barbara.white@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>16 Bramley Crescent</line1>
+            <line2>Gants Hill</line2>
+            <line3>Ilford</line3>
+            <postcode>IG2 6DA</postcode>
+            <phone>020 8708 9077</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries for this Ward are held at Goodmayes Community Centre, 616c Green Lane, Ilford, Essex, IG3 9SE from 10.30am to 11.30am on the following dates:</line1>
+            <line2>12th December 2015</line2>
+            <line3>9th January 2016</line3>
+            <line4>30th January 2016</line4>
+            <line5>13th February 2016</line5>
+            <line6>27th February 2016</line6>
+            <line7>12th March 2016</line7>
+            <line8>26th March 2016</line8>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Hainault</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1649</councillorid>
+          <fullusername>Councillor Roy Emmett</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/9/4/6/Info00001649/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/9/4/6/Info00001649/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>roy.emmett@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>63 Brocket Way</line1>
+            <line2>Chigwell</line2>
+            <line3>Essex</line3>
+            <postcode>IG7 4ER</postcode>
+            <phone>020 8708 2022</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Advice Surgeries for this Ward are held:</line1>
+            <line2>First and Third Saturday of the month</line2>
+            <line3>at the Hainault Forest Community Association, Manford Way</line3>
+            <line4>between 10am and 11am.</line4>
+            <line5>No appointment necessary.  No Surgeries on 2nd January 2016</line5>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1650</councillorid>
+          <fullusername>Councillor Joe Hehir</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/0/5/6/Info00001650/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/0/5/6/Info00001650/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>joe.hehir@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Ashford Road</line1>
+            <line2>South Woodford</line2>
+            <line3>London</line3>
+            <postcode>E18 1JZ</postcode>
+            <phone>020 8708 2050</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Advice Surgeries for this Ward are held:</line1>
+            <line2>First and Third Saturday of the month</line2>
+            <line3>at the Hainault Forest Community Association, Manford Way</line3>
+            <line4>between 10am and 11am.</line4>
+            <line5>No appointment necessary.  No Surgeries on 2nd January 2016</line5>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1651</councillorid>
+          <fullusername>Councillor Mark Santos</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/1/5/6/Info00001651/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/1/5/6/Info00001651/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Health and Social Care</keyposts>
+          <workaddress>
+            <email>mark.santos@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>Ilford</line3>
+            <line4>Essex</line4>
+            <postcode>IG1 1DD</postcode>
+            <phone>020 8708 2099</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Advice Surgeries for this Ward are held:</line1>
+            <line2>First and Third Saturday of the month</line2>
+            <line3>at the Hainault Forest Community Association, Manford Way</line3>
+            <line4>between 10am and 11am.</line4>
+            <line5>No appointment necessary.  No Surgeries on 2nd January 2016</line5>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Loxford</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1653</councillorid>
+          <fullusername>Councillor Shakil Warraich Ahmad</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/3/5/6/Info00001653/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/3/5/6/Info00001653/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>shakil.ahmad@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Tylehurst Gardens</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG1 2QL</postcode>
+            <phone>020 8708 2026</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries are held every first, second and third Saturday of the month from 11am to 12noon</line1>
+            <line2>at:-</line2>
+            <line3>St. Mary &amp; St. Erconwald Church Hall</line3>
+            <line4>Khartoum Road, Off Ilford Lane,</line4>
+            <line5>Ilford,</line5>
+            <line6>Essex, IG1 2NR</line6>
+            <line7>There is no appointment necessary for these Surgeries</line7>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1652</councillorid>
+          <fullusername>Councillor Mohammad Ahmed</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/2/5/6/Info00001652/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/2/5/6/Info00001652/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>mohammad.ahmed@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>67 Fairfield Road</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG1 2JL</postcode>
+            <phone>020 8708 2030</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries are held every first, second and third Saturday of the month from 11am to 12noon</line1>
+            <line2>at:-</line2>
+            <line3>St. Mary &amp; St. Erconwald Church Hall</line3>
+            <line4>Khartoum Road, Off Ilford Lane,</line4>
+            <line5>Ilford,</line5>
+            <line6>Essex, IG1 2NR</line6>
+            <line7>There is no appointment necessary for these Surgeries</line7>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>759</councillorid>
+          <fullusername>Councillor Taifur Rashid</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/9/5/7/Info00000759/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/9/5/7/Info00000759/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>taifur.rashid@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>196 Beehive Lane</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG4 5EE</postcode>
+            <phone>020 8708 9080</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries are held every first, second and third Saturday of the month from 11am to 12noon</line1>
+            <line2>at:-</line2>
+            <line3>St. Mary &amp; St. Erconwald Church Hall</line3>
+            <line4>Khartoum Road, Off Ilford Lane,</line4>
+            <line5>Ilford,</line5>
+            <line6>Essex, IG1 2NR</line6>
+            <line7>There is no appointment necessary for these Surgeries</line7>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Mayfield</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>760</councillorid>
+          <fullusername>Councillor Jas Athwal</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/0/6/7/Info00000760/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/0/6/7/Info00000760/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Council</keyposts>
+          <workaddress>
+            <line1>C/O Town Hall</line1>
+            <line2>128-142 High Road</line2>
+            <line3>Ilford</line3>
+            <postcode>IG1 1DD</postcode>
+            <phone>020 8708 2121</phone>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8708 9083</phone>
+            <email>jas.athwal@redbridge.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgery:</line1>
+            <line2>Every Friday of the month Parkside Community Association, 176 Goodmayes Lane, IG3 9PP 6 - 7pm</line2>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>762</councillorid>
+          <fullusername>Councillor Kay Flint</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/2/6/7/Info00000762/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/2/6/7/Info00000762/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>kay.flint@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>55 Cromwell Lodge</line1>
+            <line2>Longbridge Road</line2>
+            <line3>Barking</line3>
+            <postcode>IG11 8UB</postcode>
+            <phone>020 8708 9088</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgery:</line1>
+            <line2>Every Friday of the month Parkside Community Association, 176 Goodmayes Lane, IG3 9PP 6 - 7pm</line2>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>517</councillorid>
+          <fullusername>Councillor Ayodhiya Parkash</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/7/1/5/Info00000517/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/7/1/5/Info00000517/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ayodhiya.parkash@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>309 Henley Road</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG1 2TH</postcode>
+            <phone>0208 708 0211</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgery:</line1>
+            <line2>Every Friday of the month Parkside Community Association, 176 Goodmayes Lane, IG3 9PP 6 - 7pm</line2>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Monkhams</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>45</councillorid>
+          <fullusername>Councillor Linda A. Huggett</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/5/4/0/Info00000045/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/5/4/0/Info00000045/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>linda.huggett@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>21 The Albany</line1>
+            <line2>Sunset Avenue</line2>
+            <line3>Woodford Green</line3>
+            <line4>Essex</line4>
+            <postcode>IG8 0TJ</postcode>
+            <phone>0208 989 3315</phone>
+            <mobile>07919 045335</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Monkhams Ward and Church End Ward will be holding joint surgeries at Woodford Green Library, Snakes Lane West, Woodford Green, Essex, IG8 0DX from 6pm to 8pm on:-</line1>
+            <line2>Tuesday 26th January 2016</line2>
+            <line3>Tuesday 16th February 2016</line3>
+            <line4>Tuesday 22nd March 2016</line4>
+            <line5>Tuesday 19th April 2016</line5>
+            <line6>Tuesday 10th May 2016</line6>
+            <line7>There is no appointment necessary for these Surgeries</line7>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>69</councillorid>
+          <fullusername>Councillor James P.  O'Shea</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/9/6/0/Info00000069/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/9/6/0/Info00000069/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Alexandra House</line1>
+            <line2>Richmond Drive</line2>
+            <line3>Repton Park</line3>
+            <line4>Woodford Green, Essex</line4>
+            <postcode>IG8 8RF</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Monkhams Ward and Church End Ward will be holding joint surgeries at Woodford Green Library, Snakes Lane West, Woodford Green, Essex, IG8 0DX from 6pm to 8pm on:-</line1>
+            <line2>Tuesday 26th January 2016</line2>
+            <line3>Tuesday 16th February 2016</line3>
+            <line4>Tuesday 22nd March 2016</line4>
+            <line5>Tuesday 19th April 2016</line5>
+            <line6>Tuesday 10th May 2016</line6>
+            <line7>There is no appointment necessary for these Surgeries</line7>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>57</councillorid>
+          <fullusername>Councillor Michael John Stark</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/7/5/0/Info00000057/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/7/5/0/Info00000057/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Area 2 Committee (Bridge, Church End, Monkhams and Roding)</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>michael.stark@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>142 Whitehall Road</line1>
+            <line2>Woodford Green</line2>
+            <line3>Essex</line3>
+            <postcode>IG8 0SB</postcode>
+            <phone>020 8708 9680</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Monkhams Ward and Church End Ward will be holding joint surgeries at Woodford Green Library, Snakes Lane West, Woodford Green, Essex, IG8 0DX from 6pm to 8pm on:-</line1>
+            <line2>Tuesday 26th January 2016</line2>
+            <line3>Tuesday 16th February 2016</line3>
+            <line4>Tuesday 22nd March 2016</line4>
+            <line5>Tuesday 19th April 2016</line5>
+            <line6>Tuesday 10th May 2016</line6>
+            <line7>There is no appointment necessary for these Surgeries</line7>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Newbury</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>765</councillorid>
+          <fullusername>Councillor Thavathuray Jeyaranjan BEng (Lond)</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/5/6/7/Info00000765/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/5/6/7/Info00000765/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>thavathuray.jeyaranjan@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>78 Stainforth Road</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG2 7EJ</postcode>
+            <phone>020 8708 9086</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Surgeries held 1st and 3rd Saturday of the month at</line1>
+            <line2>St John's Church, Saint John's Road, Ilford, IG3 8UL</line2>
+            <line3>between 10am  - 12pm</line3>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>70</councillorid>
+          <fullusername>Councillor Elaine Norman</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/0/7/0/Info00000070/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/0/7/0/Info00000070/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of the Council and Cabinet Member for Children and Young People</keyposts>
+          <workaddress>
+            <line1>Please address any mail to:-</line1>
+            <line2>c/o Members Secretariat</line2>
+            <line3>Town Hall</line3>
+            <line4>Ilford, Essex</line4>
+            <postcode>IG1 1DD</postcode>
+            <email>elaine.norman@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>36 Herongate Road</line1>
+            <line2>London</line2>
+            <postcode>E12 5EG</postcode>
+            <phone>020 8708 9722</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Surgeries held 1st and 3rd Saturday of the month at</line1>
+            <line2>St John's Church, Saint John's Road, Ilford, IG3 8UL</line2>
+            <line3>between 10am  - 12pm</line3>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>62</councillorid>
+          <fullusername>Councillor Dev Sharma</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/2/6/0/Info00000062/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/2/6/0/Info00000062/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Civic Pride</keyposts>
+          <workaddress>
+            <email>dev.sharma@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>42 Charter Avenue</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG2 7AB</postcode>
+            <phone>020 8708 9686</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Surgeries held 1st and 3rd Saturday of the month at</line1>
+            <line2>St John's Church, Saint John's Road, Ilford, IG3 8UL</line2>
+            <line3>between 10am  - 12pm</line3>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Roding</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1654</councillorid>
+          <fullusername>Councillor Sarah Blaber</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/4/5/6/Info00001654/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/4/5/6/Info00001654/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>sarah.blaber@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>102 Brocket way</line1>
+            <line2>Chigwell</line2>
+            <line3>Essex</line3>
+            <postcode>IG7 4EX</postcode>
+            <mobile>07856 762 515</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>52</councillorid>
+          <fullusername>Councillor Ian Bond</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/2/5/0/Info00000052/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/2/5/0/Info00000052/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Liberal Democrat Group</keyposts>
+          <workaddress>
+            <phone>020 8708 2049</phone>
+            <email>ian.bond@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>18 Dangan Road</line1>
+            <line2>Wanstead</line2>
+            <line3>London</line3>
+            <postcode>E11 2RF</postcode>
+            <phone>020 8708 2049</phone>
+            <email>ian.bond@redbridge.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Please contact Councillor Bond direct in any of the ways listed below.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>766</councillorid>
+          <fullusername>Councillor Gwyneth Deakins</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/6/6/7/Info00000766/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/6/6/7/Info00000766/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of the Liberal Democrat Group</keyposts>
+          <workaddress>
+            <email>gwyneth.deakins@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>74 Wynndale Road</line1>
+            <line2>South Woodford</line2>
+            <line3>London</line3>
+            <postcode>E18 1DX</postcode>
+            <phone>020 8708 9087</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Seven Kings</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>89</councillorid>
+          <fullusername>Councillor Stuart Bellwood</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/9/8/0/Info00000089/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/9/8/0/Info00000089/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>stuart.bellwood@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>43c Eastwood Road</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG3 8UT</postcode>
+            <phone>020 8708 9750</phone>
+            <email>stuart.bellwood@redbridge.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Drop-Ins for this Ward are held:-</line1>
+            <line2>every Friday from 5-6pm</line2>
+            <line3>Seven Kings Library, 679 High Road, Seven Kings, IG3 8RH AND</line3>
+            <line4>every Saturday 11.00-12.00noon</line4>
+            <line5>Keith Axon Library, Grove Road, Chadwell Heath</line5>
+            <line6>No appointment necessary</line6>
+            <line7>To listen, advise/inform and help.</line7>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>77</councillorid>
+          <fullusername>Councillor Robert C. Littlewood</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/7/7/0/Info00000077/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/7/7/0/Info00000077/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>bob.littlewood@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Herongate Road</line1>
+            <line2>Wanstead</line2>
+            <line3>London</line3>
+            <postcode>E12 5EG</postcode>
+            <phone>020 8530 6584</phone>
+            <mobile>07808 227149</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Drop-Ins for this Ward are held:-</line1>
+            <line2>every Friday from 5-6pm</line2>
+            <line3>Seven Kings Library, 679 High Road, Seven Kings, IG3 8RH AND</line3>
+            <line4>every Saturday 11.00-12.00noon</line4>
+            <line5>Keith Axon Library, Grove Road, Chadwell Heath</line5>
+            <line6>No appointment necessary</line6>
+            <line7>To listen, advise/inform and help.</line7>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>755</councillorid>
+          <fullusername>Councillor Baldesh Kaur Nijjar</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/5/5/7/Info00000755/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/5/5/7/Info00000755/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Environment and Sustainability</keyposts>
+          <workaddress>
+            <email>baldesh.nijjar@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>Ilford</line3>
+            <line4>Essex</line4>
+            <postcode>IG1 1DD</postcode>
+            <phone>07960 503686</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Drop-Ins for this Ward are held:-</line1>
+            <line2>every Friday from 5-6pm</line2>
+            <line3>Seven Kings Library, 679 High Road, Seven Kings, IG3 8RH AND</line3>
+            <line4>every Saturday 11.00-12.00noon</line4>
+            <line5>Keith Axon Library, Grove Road, Chadwell Heath</line5>
+            <line6>No appointment necessary</line6>
+            <line7>To listen, advise/inform and help.</line7>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Snaresbrook</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1655</councillorid>
+          <fullusername>Councillor Colin Cronin</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/5/5/6/Info00001655/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/5/5/6/Info00001655/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>colin.cronin@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>20 Addison Road</line1>
+            <line2>Wanstead</line2>
+            <line3>London</line3>
+            <postcode>E11 2RG</postcode>
+            <phone>020 8708 2042</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries for Snaresbrook Ward will be held on the last Saturday of the month at the Corner House, 2 Grove Park, E11 2DL (junction with High Street Wanstead/Grove Park E11 2DL)</line1>
+            <line2>from 10am - 11am</line2>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>37</councillorid>
+          <fullusername>Councillor C Cummins</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/7/3/0/Info00000037/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/7/3/0/Info00000037/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>christopher.cummins@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>20 Woodford House</line1>
+            <line2>Woodford Road</line2>
+            <line3>Snaresbrook</line3>
+            <line4>London</line4>
+            <postcode>E18 2ES</postcode>
+            <phone>020 8708 9762</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries for Snaresbrook Ward will be held on the last Saturday of the month at the Corner House, 2 Grove Park, E11 2DL (junction with High Street Wanstead/Grove Park E11 2DL)</line1>
+            <line2>from 10am - 11am</line2>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>72</councillorid>
+          <fullusername>Councillor Suzanne Nolan</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/2/7/0/Info00000072/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/2/7/0/Info00000072/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>suzanne.nolan@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>Ilford</line3>
+            <line4>Essex</line4>
+            <postcode>IG1 1DD</postcode>
+            <phone>020 8708 9609</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries for Snaresbrook Ward will be held on the last Saturday of the month at the Corner House, 2 Grove Park, E11 2DL (junction with High Street Wanstead/Grove Park E11 2DL)</line1>
+            <line2>from 10am - 11am</line2>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Valentines</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1656</councillorid>
+          <fullusername>Councillor Khayer Chowdhury</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/6/5/6/Info00001656/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/6/5/6/Info00001656/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>khayer.chowdhury@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Gaysham Avenue</line1>
+            <line2>Barkingside</line2>
+            <line3>Ilford</line3>
+            <postcode>IG2 6TH</postcode>
+            <mobile>07813 363316</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Cranbrook Baptist Church</line1>
+            <line2>Wellesley Road</line2>
+            <line3>Ilford, IG1 4JZ</line3>
+            <line4>3pm - 5pm</line4>
+            <line5>No appointment necessary</line5>
+            <line6>Every 4th Sunday of the month excluding August and December</line6>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>770</councillorid>
+          <fullusername>Councillor Ross James Hatfull</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/0/7/7/Info00000770/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/0/7/7/Info00000770/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Housing, Payments and Benefits</keyposts>
+          <workaddress>
+            <email>ross.hatfull@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>67 Kimberley Avenue</line1>
+            <line2>Ilford</line2>
+            <line3>Essex</line3>
+            <postcode>IG2 7AR</postcode>
+            <phone>020 8708 9085</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Cranbrook Baptist Church</line1>
+            <line2>Wellesley Road</line2>
+            <line3>Ilford, IG1 4JZ</line3>
+            <line4>3pm - 5pm</line4>
+            <line5>No appointment necessary</line5>
+            <line6>Every 4th Sunday of the month excluding August and December</line6>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1657</councillorid>
+          <fullusername>Councillor Farah Khanum Hussain</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/7/5/6/Info00001657/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/7/5/6/Info00001657/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for A Fairer Redbridge</keyposts>
+          <workaddress>
+            <line1>C/O Town Hall</line1>
+            <line2>128-142 High Road</line2>
+            <line3>Ilford</line3>
+            <postcode>IG1 1DD</postcode>
+            <email>farah.hussain@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Cranbrook Baptist Church</line1>
+            <line2>Wellesley Road</line2>
+            <line3>Ilford, IG1 4JZ</line3>
+            <line4>3pm - 5pm</line4>
+            <line5>No appointment necessary</line5>
+            <line6>Every 4th Sunday of the month excluding August and December</line6>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wanstead</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1658</councillorid>
+          <fullusername>Councillor Sheila Bain</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/8/5/6/Info00001658/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/8/5/6/Info00001658/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>C/O Town Hall</line1>
+            <line2>128-142 High Road</line2>
+            <line3>Ilford</line3>
+            <postcode>IG1 1DD</postcode>
+            <email>sheila.bain@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8708 2092</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Saturday of the month</line1>
+            <line2>10am to 11am</line2>
+            <line3>Allan Burgess Centre (Corner of Grove Park/Wanstead High Street), 2 Grove Park, Wanstead, E11 2DL</line3>
+            <line4>3rd Saturday of the month</line4>
+            <line5>10am to 11am</line5>
+            <line6>St Gabriel's Church, Aldersbrook Road, E12 5HH (Park Road entrance)</line6>
+            <line7>NO SURGERIES WILL BE HELD IN AUGUST</line7>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>39</councillorid>
+          <fullusername>Councillor Michelle Dunn</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/9/3/0/Info00000039/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/9/3/0/Info00000039/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of the Conservative Group</keyposts>
+          <workaddress>
+            <email>michelle.dunn@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>24 Jackson Court</line1>
+            <line2>Brading Crescent</line2>
+            <line3>Wanstead</line3>
+            <line4>London</line4>
+            <postcode>E11 3RX</postcode>
+            <phone>020 8708 9764</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ward Surgeries will be held on the last Saturday of the month at the Corner House 2 Grove Park, E11 2DL (junction with High Street Wanstead/Grove Park E11 2DL)</line1>
+            <line2>from 10am - 11am</line2>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1659</councillorid>
+          <fullusername>Councillor Paul Joseph Merry</fullusername>
+          <photosmallurl>http://moderngov.redbridge.gov.uk/UserData/9/5/6/Info00001659/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.redbridge.gov.uk/UserData/9/5/6/Info00001659/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>paul.merry@redbridge.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Woodcote Road</line1>
+            <line2>Wanstead</line2>
+            <line3>London</line3>
+            <postcode>E11 2QA</postcode>
+            <phone>020 8708 2014</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Saturday of the month</line1>
+            <line2>10am to 11am</line2>
+            <line3>Allan Burgess Centre (Corner of Grove Park/Wanstead High Street), 2 Grove Park, Wanstead, E11 2DL</line3>
+            <line4>3rd Saturday of the month</line4>
+            <line5>10am to 11am</line5>
+            <line6>St. Gabriel's Church, Aldersbrook Road, E12 5HH (Park Road entrance)</line6>
+            <line7>NO SURGERIES WILL BE HELD IN AUGUST</line7>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Borough Member</wardtitle>
+      <councillors>
+        <councillorcount> 7</councillorcount>
+        <councillor>
+          <councillorid>105</councillorid>
+          <fullusername>Councillor Liaquat Ali MBE, JP</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/5/0/1/Info00000105/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/5/0/1/Info00000105/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>LFEPA</line1>
+            <line2>169 Union St</line2>
+            <line3>London</line3>
+            <postcode>SE1 0LL</postcode>
+            <phone>0207 983 5507</phone>
+            <email>cllr.liaquat.ali@walthamforest.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>111</councillorid>
+          <fullusername>Councillor Susan Hall</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/1/1/1/Info00000111/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/1/1/1/Info00000111/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>LFEPA</line1>
+            <line2>169 Union St</line2>
+            <line3>London</line3>
+            <postcode>SE1 0LL</postcode>
+            <email>susanmaryhall@gmail.com</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>220</councillorid>
+          <fullusername>Councillor Sarah Hayward</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/0/2/2/Info00000220/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/0/2/2/Info00000220/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>LFEPA</line1>
+            <line2>169 Union St</line2>
+            <line3>London</line3>
+            <postcode>SE1 0LL</postcode>
+            <phone>0207 983 5507</phone>
+            <email>sarah.hayward@camden.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>221</councillorid>
+          <fullusername>Councillor Jack Hopkins</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/1/2/2/Info00000221/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/1/2/2/Info00000221/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>LB Lambeth</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>LFEPA</line1>
+            <line2>169 Union St</line2>
+            <line3>London</line3>
+            <postcode>SE1 0LL</postcode>
+            <phone>0207 983 5507</phone>
+            <email>jhopkins@lambeth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>228</councillorid>
+          <fullusername>Councillor Pauline Morrison</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/8/2/2/Info00000228/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/8/2/2/Info00000228/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>0207 983 5507</phone>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>230</councillorid>
+          <fullusername>Councillor Oonagh Moulton</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/0/3/2/Info00000230/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/0/3/2/Info00000230/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>226</councillorid>
+          <fullusername>Councillor Martin Whelton</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/6/2/2/Info00000226/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/6/2/2/Info00000226/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>0207 983 5507</phone>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>London Assembly Member</wardtitle>
+      <councillors>
+        <councillorcount> 8</councillorcount>
+        <councillor>
+          <councillorid>106</councillorid>
+          <fullusername>Councillor Tony Arbour JP, AM</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/6/0/1/Info00000106/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/6/0/1/Info00000106/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Greater London Authority</line1>
+            <line2>City Hall</line2>
+            <line3>The Queen's Walk</line3>
+            <line4>London</line4>
+            <postcode>SE1 2AA</postcode>
+            <phone>020 7983 4361</phone>
+            <email>tony.arbour@london.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>107</councillorid>
+          <fullusername>Gareth Bacon AM</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/7/0/1/Info00000107/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/7/0/1/Info00000107/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chairman</keyposts>
+          <workaddress>
+            <line1>Greater London Authority</line1>
+            <line2>City Hall</line2>
+            <line3>The Queen's Walk</line3>
+            <line4>London</line4>
+            <postcode>SE1 2AA</postcode>
+            <phone>020 7983 5784</phone>
+            <email>gareth.bacon@london.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>232</councillorid>
+          <fullusername>Andrew Boff AM</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/2/3/2/Info00000232/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/2/3/2/Info00000232/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>231</councillorid>
+          <fullusername>Tom Copley AM</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/1/3/2/Info00000231/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/1/3/2/Info00000231/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>185</councillorid>
+          <fullusername>Andrew Dismore AM</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/5/8/1/Info00000185/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/5/8/1/Info00000185/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>LFEPA</line1>
+            <line2>169 Union Street</line2>
+            <line3>London</line3>
+            <postcode>SE1 0LL</postcode>
+            <phone>020 8555 1200 x30155</phone>
+            <email>andrew.dismore@london.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>113</councillorid>
+          <fullusername>Darren Johnson AM</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/3/1/1/Info00000113/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/3/1/1/Info00000113/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Green Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Greater London Authority</line1>
+            <line2>City Hall</line2>
+            <line3>The Queen's Walk</line3>
+            <line4>London</line4>
+            <postcode>SE1 2AA</postcode>
+            <phone>020 7983 4388</phone>
+            <email>darren.johnson@london.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>186</councillorid>
+          <fullusername>Councillor Stephen Knight AM</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/6/8/1/Info00000186/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/6/8/1/Info00000186/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>LFEPA</line1>
+            <line2>169 Union St</line2>
+            <line3>London</line3>
+            <postcode>SE1 0LL</postcode>
+            <phone>020 8555 1200 x30157</phone>
+            <email>stephen.knight@london.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>187</councillorid>
+          <fullusername>Dr Fiona Twycross AM</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/7/8/1/Info00000187/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/7/8/1/Info00000187/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chair</keyposts>
+          <workaddress>
+            <line1>LFEPA</line1>
+            <line2>169 Union St</line2>
+            <line3>London</line3>
+            <postcode>SE1 0LL</postcode>
+            <phone>0207 983 5507</phone>
+            <email>fiona.twycross@london.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Mayoral Appointee</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>108</councillorid>
+          <fullusername>Councillor David Cartwright QFSM</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/8/0/1/Info00000108/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/8/0/1/Info00000108/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>LFEPA</line1>
+            <line2>169 Union St</line2>
+            <line4>London</line4>
+            <postcode>SE1 0LL</postcode>
+            <phone>0207 983 5787</phone>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>112</councillorid>
+          <fullusername>Councillor Maurice Heaster OBE</fullusername>
+          <photosmallurl>http://10.170.34.172:9071/UserData/2/1/1/Info00000112/smallpic.jpg</photosmallurl>
+          <photobigurl>http://10.170.34.172:9071/UserData/2/1/1/Info00000112/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>LFEPA</line1>
+            <line2>169 Union St</line2>
+            <line3>London</line3>
+            <postcode>SE1 0LL</postcode>
+            <phone>0207 983 5787</phone>
+            <email>mheaster@wandsworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

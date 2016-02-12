@@ -1,0 +1,2088 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Audley and Bignall End</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>119</councillorid>
+          <fullusername>Councillor Ann Beech</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/1/1/Info00000119/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/1/1/Info00000119/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>Audley Parish</districttitle>
+          <representing>Audley and Bignall End Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Offices</line1>
+            <line2>Merrial Street</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 2AG</postcode>
+            <email>ann.beech@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>07973 119842</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>14/06/2004</startdate>
+              <enddate>07/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>621</councillorid>
+          <fullusername>Councillor Bert Proctor</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/1/2/6/Info00000621/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/1/2/6/Info00000621/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Borough Independent Group</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Audley and Bignall End Ward</representing>
+          <keyposts>Group Leader</keyposts>
+          <workaddress>
+            <email>bert.proctor@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Rye Hill Farm</line1>
+            <line2>Ryehills</line2>
+            <line3>Bignall End</line3>
+            <line4>Stoke on Trent</line4>
+            <postcode>ST7 8LP</postcode>
+            <phone>01782 729126</phone>
+            <mobile>07900166169</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Wedesday of the month at Audley Community Centre</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>172</councillorid>
+          <fullusername>Councillor Ian Wilkes</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/2/7/1/Info00000172/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/2/7/1/Info00000172/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Audley and Bignall End Ward</representing>
+          <keyposts>Deputy Mayor</keyposts>
+          <workaddress>
+            <email>ian.wilkes@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>33 Chester Road</line1>
+            <line2>Audley</line2>
+            <line3>Stoke-on Trent</line3>
+            <line4>Staffs</line4>
+            <postcode>ST7 8JD</postcode>
+            <phone>01782 722343</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>14/06/2004</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bradwell</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>114</councillorid>
+          <fullusername>Mayor's Consort. Councillor Trevor Hambleton</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/4/1/1/Info00000114/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/4/1/1/Info00000114/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Bradwell Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.elkington@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>21 Hanbridge Avenue</line1>
+            <line2>Bradwell</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 8HH</postcode>
+            <phone>01782 624919</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Saturday of the month between 10am and 11am at Bradwell Community Centre, Riceyman Road</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/1999</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>141</councillorid>
+          <fullusername>The Mayor. Councillor Sandra Hambleton</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/1/4/1/Info00000141/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/1/4/1/Info00000141/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour and Co-operative Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Bradwell Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Sandra.Hambleton@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>21 Hanbridge Ave</line1>
+            <line2>Bradwell</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 8HH</postcode>
+            <phone>01782 624919</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Saturday of the month between 10am and 12 noon at Bradwell Community Centre, Riceyman Road</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2003</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>416</councillorid>
+          <fullusername>Councillor Glyn Plant</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/6/1/4/Info00000416/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/6/1/4/Info00000416/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Bradwell Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>glyn.plant@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Silverton Close</line1>
+            <line2>Bradwell</line2>
+            <line3>Newcastle-under-Lyme</line3>
+            <line4>Staffordshire</line4>
+            <postcode>ST5 8LU</postcode>
+            <phone>01782 660613</phone>
+            <mobile>077518274479</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Butt Lane</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>417</councillorid>
+          <fullusername>Councillor  Mrs Silvia Burgess</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/7/1/4/Info00000417/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/7/1/4/Info00000417/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Butt Lane Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>silvia.burgess@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>211 Gloucester Road</line1>
+            <line2>Kidsgrove</line2>
+            <line3>Stoke-on-Trent</line3>
+            <line4>Staffordshire</line4>
+            <postcode>ST7 4DQ</postcode>
+            <mobile>07906 337215</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>08/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>667</councillorid>
+          <fullusername>Councillor Ms Sylvia Dymond</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/7/6/6/Info00000667/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/7/6/6/Info00000667/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Butt Lane Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>sylvia.dymond@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>53 Church Street</line1>
+            <line2>Butt Lane</line2>
+            <line3>Stoke on Trent</line3>
+            <postcode>ST7 1NX</postcode>
+            <phone>01782 787352</phone>
+            <mobile>07904569665</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>158</councillorid>
+          <fullusername>Councillor Kyle Robinson</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/8/5/1/Info00000158/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/8/5/1/Info00000158/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Butt Lane Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>kyle.robinson@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>88 Newchapel Road</line1>
+            <line2>Kidsgrove</line2>
+            <line3>Stoke on Trent</line3>
+            <postcode>ST7 4RT</postcode>
+            <phone>01782 787268</phone>
+            <mobile>07837905443</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Chesterton</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>622</councillorid>
+          <fullusername>Councillor David Harper</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/2/2/6/Info00000622/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/2/2/6/Info00000622/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UKIP</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Chesterton Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.harper@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>C/O Civic Offices</line1>
+            <line2>Merrial Street</line2>
+            <line3>Newcastle under Lyme</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 2AG</postcode>
+            <mobile>07921299050</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>146</councillorid>
+          <fullusername>Councillor Mrs Hilda Johnson</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/6/4/1/Info00000146/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/6/4/1/Info00000146/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Chesterton Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>hilda.johnson@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>30 Apple Croft</line1>
+            <line2>Crackley</line2>
+            <line3>Chesterton</line3>
+            <line4>Newcastle Staffs</line4>
+            <postcode>ST5 7BS</postcode>
+            <mobile>07598 118208</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>160</councillorid>
+          <fullusername>CouncillorMrs Sandra Simpson</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/0/6/1/Info00000160/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/0/6/1/Info00000160/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Chesterton Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>sandra.simpson@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>29 Sheldon Grove</line1>
+            <line2>Chesterton</line2>
+            <line3>Newcastle-under-Lyme</line3>
+            <line4>Staffordshire</line4>
+            <postcode>ST5 7PW</postcode>
+            <phone>01782 564483</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>14/06/2004</startdate>
+              <enddate>07/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2007</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Clayton</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>664</councillorid>
+          <fullusername>Councillor Andrew Parker</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/4/6/6/Info00000664/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/4/6/6/Info00000664/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Clayton Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>andrew.parker@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>83 Clumber Avenue</line1>
+            <line2>Clayton</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 3AP</postcode>
+            <phone>660176</phone>
+            <mobile>07776005125</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>164</councillorid>
+          <fullusername>Councillor Stephen Sweeney</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/4/6/1/Info00000164/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/4/6/1/Info00000164/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Clayton Ward</representing>
+          <keyposts>Group Leader</keyposts>
+          <workaddress>
+            <email>stephen.sweeney@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>85 Clumber Avenue</line1>
+            <line2>Clayton</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 3AP</postcode>
+            <phone>01782 661430</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cross Heath</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>173</councillorid>
+          <fullusername>Councillor Mrs Gillian Williams</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/3/7/1/Info00000173/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/3/7/1/Info00000173/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Cross Heath Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>gillian.williams@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>16 St Michael's Road</line1>
+            <line2>Cross Heath</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 9LW</postcode>
+            <phone>01782 639657</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits please use the telephone numbers or email address below.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/1993</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>174</councillorid>
+          <fullusername>Councillor John Williams</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/4/7/1/Info00000174/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/4/7/1/Info00000174/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Cross Heath Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>john.williams@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>16 St Michael's Road</line1>
+            <line2>Cross Heath</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 9LW</postcode>
+            <phone>01782 639657</phone>
+            <mobile>07532219756</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits please use the telephone numbers or email address below.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/1995</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>418</councillorid>
+          <fullusername>Councillor Joan Winfield</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/8/1/4/Info00000418/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/8/1/4/Info00000418/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Cross Heath Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>joan.winfield@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Lyme Grove</line1>
+            <line2>Cross Heath</line2>
+            <line3>Newcastle-under-Lyme</line3>
+            <line4>Staffordshire</line4>
+            <postcode>ST5 9NT</postcode>
+            <phone>01782 624888</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits please use the telephone numbers or email address below.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Halmer End</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>666</councillorid>
+          <fullusername>Councillor Avril Frankish</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/6/6/6/Info00000666/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/6/6/6/Info00000666/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Halmerend Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Chapel Barn</line1>
+            <line2>Shraleybrook Road</line2>
+            <line3>Halmerend</line3>
+            <line4>Stoke on Trent</line4>
+            <postcode>ST7 8AH</postcode>
+            <phone>01782 729078</phone>
+            <mobile>07852291145</mobile>
+            <email>Avril@Frankish.org</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Wednesday of the month at 6pm at The Railway, Halmer End High Street and</line1>
+            <line2>Last Wednesday of the month at 6pm at The Swan, Betley</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>171</councillorid>
+          <fullusername>Councillor Andrew Wemyss</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/1/7/1/Info00000171/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/1/7/1/Info00000171/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Halmerend Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>andrew.wemyss@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>18 Westfield Avenue</line1>
+            <line2>Audley</line2>
+            <line3>Stoke on Trent</line3>
+            <postcode>ST7 8EQ</postcode>
+            <phone>01782 723117</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/1999</startdate>
+              <enddate>13/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Holditch</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>623</councillorid>
+          <fullusername>Councillor Kenneth Owen</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/3/2/6/Info00000623/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/3/2/6/Info00000623/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UKIP</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Holditch Ward</representing>
+          <keyposts>Group Leader</keyposts>
+          <workaddress>
+            <email>kenneth.owen@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>23 Palatine Drive</line1>
+            <line2>Chesterton</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 7QY</postcode>
+            <phone>01782 861174</phone>
+            <mobile>07982911386</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>419</councillorid>
+          <fullusername>Councillor Mrs Sophia Snell</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/1/4/Info00000419/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/1/4/Info00000419/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Holditch Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>sophia.snell@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>29 Vale Street</line1>
+            <line2>Silverdale</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 6QB</postcode>
+            <phone>07842 400290</phone>
+            <mobile>07842400290</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Keele</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>181</councillorid>
+          <fullusername>Councillor Tony Kearon</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/1/8/1/Info00000181/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/1/8/1/Info00000181/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour and Co-operative Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Keele Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Offices</line1>
+            <line2>Merrial Street</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 2AG</postcode>
+            <email>tony.kearon@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07575961734</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>624</councillorid>
+          <fullusername>Councillor Wenslie Naylon</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/4/2/6/Info00000624/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/4/2/6/Info00000624/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Green Party</politicalpartytitle>
+          <districttitle>Keele Parish</districttitle>
+          <representing>Keele Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>wenslie.naylon@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Highway Lane</line1>
+            <line2>Keele</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 5AN</postcode>
+            <phone>01782 627243</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Kidsgrove</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>178</councillorid>
+          <fullusername>Councillor Mrs Margaret Astle</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/8/7/1/Info00000178/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/8/7/1/Info00000178/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Kidsgrove Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>margaret.astle@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>16 Sussex Drive</line1>
+            <line2>Kidsgrove</line2>
+            <line3>Stoke on Trent</line3>
+            <postcode>ST7 1HG</postcode>
+            <phone>01782 776236</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/12/1997</startdate>
+              <enddate>04/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>190</councillorid>
+          <fullusername>Councillor Reginald Bailey</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/0/9/1/Info00000190/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/0/9/1/Info00000190/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Kidsgrove Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.elkington@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>52 King Street</line1>
+            <line2>Kidsgrove</line2>
+            <line3>Stoke on Trent</line3>
+            <postcode>ST7 1HN</postcode>
+            <phone>01782 775800</phone>
+            <mobile>07760200980</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>427</councillorid>
+          <fullusername>Councillor Terry Turner</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/7/2/4/Info00000427/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/7/2/4/Info00000427/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Kidsgrove Ward</representing>
+          <keyposts>Deputy Leader of the Council</keyposts>
+          <workaddress>
+            <email>terry.turner@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Medina Way</line1>
+            <line2>Kidsgrove</line2>
+            <line3>Stoke on Trent</line3>
+            <line4>Staffs</line4>
+            <postcode>ST7 4TJ</postcode>
+            <mobile>07593 356571</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/1996</startdate>
+              <enddate>07/05/2000</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2012</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Knutton and Silverdale</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>180</councillorid>
+          <fullusername>Councillor Tony Eagles</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/0/8/1/Info00000180/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/0/8/1/Info00000180/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Knutton and Silverdale Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>tony.eagles@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>116 Moran Road</line1>
+            <line2>Knutton</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 6EY</postcode>
+            <phone>01782 620272</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Second Saturday of the month 10am to 12pm in Silverdale Library</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>625</councillorid>
+          <fullusername>Councillor Derrick Huckfield</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/5/2/6/Info00000625/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/5/2/6/Info00000625/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Newcastle Independent Group</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Knutton and Silverdale Ward</representing>
+          <keyposts>Group Leader</keyposts>
+          <workaddress>
+            <email>derrick.huckfield@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>20 Cherry Hill Lane</line1>
+            <line2>Silverdale</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 6EE</postcode>
+            <phone>01782 628740</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Loggerheads and Whitmore</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>188</councillorid>
+          <fullusername>Councillor David Loades</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/8/8/1/Info00000188/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/8/8/1/Info00000188/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Loggerheads and Whitmore Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.loades@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>31 Badger Brow Road</line1>
+            <line2>Loggerheads</line2>
+            <line3>Nr Market Drayton</line3>
+            <line4>Shropshire</line4>
+            <postcode>TF9 4RG</postcode>
+            <phone>01630 673532</phone>
+            <mobile>07960 131408</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Third Monday of the month 10am to 1pm in Loggerheads Library</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>626</councillorid>
+          <fullusername>Councillor Paul Northcott</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/6/2/6/Info00000626/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/6/2/6/Info00000626/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Loggerheads and Whitmore Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>paul.northcott@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Badgers View</line1>
+            <line2>Mucklestone Wood Lane</line2>
+            <line3>Loggerheads</line3>
+            <line4>Nr Market Drayton</line4>
+            <postcode>TF9 4ED</postcode>
+            <mobile>07900600009</mobile>
+            <email>prnorthcott@aol.com</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits please call the number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>426</councillorid>
+          <fullusername>Councillor Mrs Tracey Peers</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/6/2/4/Info00000426/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/6/2/4/Info00000426/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Parish</districttitle>
+          <representing>Loggerheads &amp; Whitmore Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Tracey.Peers@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Holly House</line1>
+            <line2>Station Road</line2>
+            <line3>Onneley</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW3 9QE</postcode>
+            <phone>01782 752530</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Madeley</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>170</councillorid>
+          <fullusername>Councillor Billy Welsh</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/0/7/1/Info00000170/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/0/7/1/Info00000170/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Borough Independent Group</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Madeley Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>billy.welsh@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>28 Wharf Terrace</line1>
+            <line2>Madeley Heath</line2>
+            <line3>Nr Crewe</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW3 9LP</postcode>
+            <phone>01782 751942</phone>
+            <mobile>07825700228</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>398</councillorid>
+          <fullusername>Councillor Simon White</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/8/9/3/Info00000398/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/8/9/3/Info00000398/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Borough Independent Group</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Madeley Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>simon.white@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Old Hall Country House</line1>
+            <line2>Poolside</line2>
+            <line3>Madeley, Nr Crewe</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW3 9DX</postcode>
+            <phone>01782 752543</phone>
+            <mobile>07561340899</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/02/2012</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>May Bank</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>149</councillorid>
+          <fullusername>Councillor Ian Matthews</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/4/1/Info00000149/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/4/1/Info00000149/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>May Bank Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ian.matthews@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Earls Drive</line1>
+            <line2>Newcastle</line2>
+            <line3>Staffs</line3>
+            <postcode>ST5 3QR</postcode>
+            <mobile>07981171234</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Wednesday of the month (excluding school holidays)</line1>
+            <line2>6 - 7pm at May Bank Infants school (rear entrance).</line2>
+            <line3>Upcoming dates are:</line3>
+            <line4>2nd April, 7th May, 4th June, 2nd July, 3rd Sept, 1st Oct, 5th Nov, and 3rd Dec</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>14/06/2004</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>165</councillorid>
+          <fullusername>Councillor John Tagg</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/5/6/1/Info00000165/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/5/6/1/Info00000165/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>May Bank</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>john.tagg@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>16 Wooliscroft Avenue</line1>
+            <line2>May Bank</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 0NR</postcode>
+            <phone>01782 909275</phone>
+            <mobile>07765035969</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Wednesday of the month (excluding school holidays)</line1>
+            <line2>6 - 7pm at May Bank Infants school (rear entrance).</line2>
+            <line3>Upcoming dates are:</line3>
+            <line4>2nd April, 7th May, 4th June, 2nd July, 3rd Sept, 1st Oct, 5th Nov, and 3rd Dec</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>03/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>166</councillorid>
+          <fullusername>Councillor Simon Tagg</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/6/6/1/Info00000166/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/6/6/1/Info00000166/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>May Bank Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>simon.tagg@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1A Winston Terrace</line1>
+            <line2>Porthill</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 8AE</postcode>
+            <mobile>07896 778360</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Wednesday of the month (excluding school holidays)</line1>
+            <line2>6 - 7pm at May Bank Infants school (rear entrance).</line2>
+            <line3>Upcoming dates are:</line3>
+            <line4>2nd April, 7th May, 4th June, 2nd July, 3rd Sept, 1st Oct, 5th Nov, and 3rd Dec</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2003</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Newchapel</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>391</councillorid>
+          <fullusername>Councillor Mrs Elsie Bates</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/1/9/3/Info00000391/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/1/9/3/Info00000391/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Newchapel Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>elsie.bates@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>54 Sands Road</line1>
+            <line2>Harriseahead</line2>
+            <line3>Stoke on Trent</line3>
+            <postcode>ST7 4LA</postcode>
+            <phone>01782 518949</phone>
+            <mobile>07869057096</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>27/10/2011</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>183</councillorid>
+          <fullusername>Councillor Paul Waring</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/3/8/1/Info00000183/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/3/8/1/Info00000183/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Newchapel Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>paul.waring@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Chapel Lane</line1>
+            <line2>Harriseahead</line2>
+            <line3>Stoke on Trent</line3>
+            <postcode>ST7 4JJ</postcode>
+            <phone>01782 511683</phone>
+            <mobile>07766257067</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2019</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Porthill</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>129</councillorid>
+          <fullusername>Councillor John Cooper</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/2/1/Info00000129/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/2/1/Info00000129/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Porthill Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>john.cooper@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>8 St Marys Road</line1>
+            <line2>Wolstanton</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 0BS</postcode>
+            <mobile>07981 867783</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Bradwell Lodge, 6.30-7.30pm, first Monday of the month,</line1>
+            <line2>For home visits, please call the telephone number below</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/1992</startdate>
+              <enddate>02/05/1996</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>14/06/2004</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>134</councillorid>
+          <fullusername>Councillor Miss Julie Cooper</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/4/3/1/Info00000134/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/4/3/1/Info00000134/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Porthill Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>julie.cooper@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>24 South Terrace</line1>
+            <line2>Wolstanton</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 8BY</postcode>
+            <mobile>07826 142798</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Bradwell Lodge, 6.30-7.30pm, first Monday of the month,</line1>
+            <line2>For home visits, please call the telephone number below</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Ravenscliffe</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>668</councillorid>
+          <fullusername>Councillor Ms Sarah Pickup</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/8/6/6/Info00000668/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/8/6/6/Info00000668/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ravenscliffe Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>92 Coppice Road</line1>
+            <line2>Talke</line2>
+            <line3>Stoke on Trent</line3>
+            <postcode>ST7 1UA</postcode>
+            <phone>01782 935880</phone>
+            <mobile>07714695556</mobile>
+            <email>sarah.pickup@newcastle-staffs.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>420</councillorid>
+          <fullusername>Councillor David Stringer</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/0/2/4/Info00000420/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/0/2/4/Info00000420/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ravenscliffe Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.stringer@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>66 Chatterley Drive</line1>
+            <line2>Kidsgrove</line2>
+            <line3>Stoke-on-Trent</line3>
+            <line4>Staffordshire</line4>
+            <postcode>ST7 4LL</postcode>
+            <phone>01782 860140</phone>
+            <mobile>07906886462</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Seabridge</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>137</councillorid>
+          <fullusername>Councillor Andrew Fear</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/7/3/1/Info00000137/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/7/3/1/Info00000137/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Seabridge Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>andrew.fear@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Springpool</line1>
+            <line2>Keele</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 5BN</postcode>
+            <phone>01782 627201</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/1998</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>139</councillorid>
+          <fullusername>Councillor Peter Hailstones</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/3/1/Info00000139/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/3/1/Info00000139/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Seabridge Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>peter.hailstones@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Burley House</line1>
+            <line2>Apedale Road</line2>
+            <line3>Apedale</line3>
+            <line4>Newcastle, Staffs</line4>
+            <postcode>ST5 6BJ</postcode>
+            <phone>01782 566509</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2000</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>421</councillorid>
+          <fullusername>Councillor Miss Chloe Mancey</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/1/2/4/Info00000421/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/1/2/4/Info00000421/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Seabridge Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Offices</line1>
+            <line2>Merrial Street</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 2AG</postcode>
+            <email>chloe.mancey@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>26 Mellard Street</line1>
+            <line2>Newcastle</line2>
+            <line3>Staffs</line3>
+            <postcode>ST5 2DN</postcode>
+            <phone>07814 464945</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Silverdale and Parksite</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>627</councillorid>
+          <fullusername>Councillor Mrs Eileen Braithwaite</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/7/2/6/Info00000627/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/7/2/6/Info00000627/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Newcastle Independent Group</politicalpartytitle>
+          <districttitle>Silverdale Parish</districttitle>
+          <representing>Silverdale and Park Site Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>eileen.braithwaite@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>396 Silverdale Road</line1>
+            <line2>Newcastle</line2>
+            <line3>Staffs</line3>
+            <postcode>ST5 6EG</postcode>
+            <phone>01782 623095</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>548</councillorid>
+          <fullusername>Councillor Mrs Amelia Rout</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/8/4/5/Info00000548/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/8/4/5/Info00000548/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour and Co-operative Party</politicalpartytitle>
+          <districttitle>Silverdale Parish</districttitle>
+          <representing>Silverdale and Park Site Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>amelia.rout@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>134 Church Street</line1>
+            <line2>Silverdale</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 6JH</postcode>
+            <mobile>07432291659</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Second Saturday of the month 10am to 12pm in Silverdale Library</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/07/2013</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Talke</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>179</councillorid>
+          <fullusername>Councillor David Allport</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/7/1/Info00000179/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/7/1/Info00000179/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Talke Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.allport@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>11 Harecastle Villas</line1>
+            <line2>Kidsgrove</line2>
+            <line3>Stoke on Trent</line3>
+            <postcode>ST7 1EQ</postcode>
+            <mobile>07870650248</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>422</councillorid>
+          <fullusername>Councillor Mike Stubbs</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/2/2/4/Info00000422/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/2/2/4/Info00000422/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Talke Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>mike.stubbs@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Andrew Mulligan Close</line1>
+            <line2>Tunstall</line2>
+            <line3>Stoke on Trent</line3>
+            <postcode>ST6 5XF</postcode>
+            <mobile>07500 091504</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Thistleberry</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>156</councillorid>
+          <fullusername>Councillor Marion Reddish</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/6/5/1/Info00000156/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/6/5/1/Info00000156/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Thistleberry Ward</representing>
+          <keyposts>Group Leader</keyposts>
+          <workaddress>
+            <email>marion.reddish@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Renfrew Close</line1>
+            <line2>Newcastle</line2>
+            <line3>Staffs</line3>
+            <postcode>ST5 2JZ</postcode>
+            <phone>01782 613265</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>17/06/2002</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>169</councillorid>
+          <fullusername>Councillor Miss June Walklate</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/6/1/Info00000169/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/6/1/Info00000169/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Thistleberry Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>june.walklate@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Barracks Road</line1>
+            <line2>Newcastle</line2>
+            <line3>Staffs</line3>
+            <postcode>ST5 1LF</postcode>
+            <mobile>07749530202</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/1987</startdate>
+              <enddate>05/05/2002</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>17/06/2002</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>665</councillorid>
+          <fullusername>Councillor Miss Lucinda Wing</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/5/6/6/Info00000665/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/5/6/6/Info00000665/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Thistleberry Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Offices</line1>
+            <line2>Merrial Street</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 2AG</postcode>
+            <email>lucinda.wing@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07940702777</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Town</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>714</councillorid>
+          <fullusername>Vacant seat</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>
+          </politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Town Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>159</councillorid>
+          <fullusername>Councillor Elizabeth Shenton</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/5/1/Info00000159/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/5/1/Info00000159/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Town</representing>
+          <keyposts>Leader of the Council</keyposts>
+          <workaddress>
+            <line1>c/o Civic Offices</line1>
+            <line2>Merrial Street</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 2AG</postcode>
+            <email>elizabeth.shenton@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07904189579</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Saturday of the month (except bank holiday weekends) - Ground floor meeting room of Newcastle Library. 10.30 am to 12 noon</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2006</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Westlands</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>140</councillorid>
+          <fullusername>Councillor Mrs Linda Hailstones</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/0/4/1/Info00000140/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/0/4/1/Info00000140/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Westlands Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>linda.hailstones@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Burley House</line1>
+            <line2>Apedale Road</line2>
+            <line3>Apedale</line3>
+            <line4>Newcastle, Staffs</line4>
+            <postcode>ST5 6BJ</postcode>
+            <phone>01782 566509</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>16/07/2007</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>142</councillorid>
+          <fullusername>CouncillorMrs Gillian Heesom</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/2/4/1/Info00000142/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/2/4/1/Info00000142/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Westlands Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>gillian.heesom@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Barford Road</line1>
+            <line2>Seabridge</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 3LF</postcode>
+            <phone>01782 610411</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>189</councillorid>
+          <fullusername>Councillor Mark Holland</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/8/1/Info00000189/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/9/8/1/Info00000189/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Westlands Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>mark.holland@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>26A Clayton Road</line1>
+            <line2>Clayton</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 3AQ</postcode>
+            <mobile>07891032626</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wolstanton</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>424</councillorid>
+          <fullusername>Councillor Colin Eastwood</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/4/2/4/Info00000424/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/4/2/4/Info00000424/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Wolstanton Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>colin.eastwood@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>32 Marina Drive</line1>
+            <line2>May Bank</line2>
+            <line3>Newcastle-under-Lyme</line3>
+            <line4>Staffordshire</line4>
+            <postcode>ST5 0RS</postcode>
+            <phone>01782 612584</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>663</councillorid>
+          <fullusername>Councillor Trevor Johnson</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/3/6/6/Info00000663/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/3/6/6/Info00000663/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Wolstanton Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>trevor.johnson@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>24 High Street</line1>
+            <line2>May Bank</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 0JB</postcode>
+            <phone>01782 632294</phone>
+            <mobile>07940286129</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Monday of every month. 6.30pm-7.30pm at Bradwell Community Centre</line1>
+            <line2>First Wednesday of the month (excluding school holidays)</line2>
+            <line3>6 - 7pm at May Bank Infants school (rear entrance).</line3>
+            <line4>For home visits, please contact the number below.</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>175</councillorid>
+          <fullusername>Councillor David Woolley</fullusername>
+          <photosmallurl>http://moderngov.newcastle-staffs.gov.uk/UserData/5/7/1/Info00000175/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.newcastle-staffs.gov.uk/UserData/5/7/1/Info00000175/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Newcastle Independent Group</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.woolley@newcastle-staffs.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>19 Silverdale Road</line1>
+            <line2>Wolstanton</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 8BQ</postcode>
+            <mobile>07957187714</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>For home visits, please call the telephone number below</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

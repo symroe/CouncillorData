@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Castle</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>2891</councillorid>
+          <fullusername>Councillor Paul Cross</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/1/9/8/Info00002891/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/1/9/8/Info00002891/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Castle Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.paul.cross@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Maisonette</line1>
+            <line2>1 St Helen's Square</line2>
+            <line3>SCARBOROUGH</line3>
+            <postcode>YO11 1EU</postcode>
+            <phone>01723 367320</phone>
+            <mobile>0795 0010073</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>126</councillorid>
+          <fullusername>Councillor Mrs Janet Jefferson</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/6/2/1/Info00000126/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/6/2/1/Info00000126/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Castle Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Janet.Jefferson@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>41 Eastborough</line1>
+            <line2>Scarborough</line2>
+            <postcode>YO11 1NH</postcode>
+            <phone>01723 354019</phone>
+            <mobile>07759 914730</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/1999</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cayton</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>926</councillorid>
+          <fullusername>Councillor Simon Green</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/6/2/9/Info00000926/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/6/2/9/Info00000926/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Cayton ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Simon.Green@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Killerby Cottage Farm</line1>
+            <line2>Cayton</line2>
+            <postcode>YO11 3TP</postcode>
+            <phone>01723 581236</phone>
+            <email>Cllr.Simon.Green@scarborough.gov.uk</email>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>927</councillorid>
+          <fullusername>Councillor Ms Roberta Florence Swiers</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/7/2/9/Info00000927/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/7/2/9/Info00000927/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Cayton Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.roberta.swiers@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>23, Main Street</line1>
+            <line2>Cayton</line2>
+            <line3>Scarborough</line3>
+            <line4>North Yorkshire</line4>
+            <postcode>YO11 3RS</postcode>
+            <phone>01723 584386</phone>
+            <mobile>07885 269771</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Central</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>106</councillorid>
+          <fullusername>Councillor David L Billing</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/6/0/1/Info00000106/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/6/0/1/Info00000106/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Central Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.david.billing@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>38 Lyell Street</line1>
+            <line2>Scarborough</line2>
+            <postcode>YO12 7LW</postcode>
+            <phone>01723 361415</phone>
+            <mobile>07813 139130</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/11/2000</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>110</councillorid>
+          <fullusername>Councillor Eric Broadbent</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/0/1/1/Info00000110/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/0/1/1/Info00000110/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Central Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Eric.Broadbent@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Woodrise</line1>
+            <line2>Filey Road</line2>
+            <line3>Scarborough</line3>
+            <postcode>YO11 3NH</postcode>
+            <mobile>07538316317</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/1991</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Danby</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>2894</councillorid>
+          <fullusername>Councillor Clive Pearson</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/4/9/8/Info00002894/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/4/9/8/Info00002894/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Danby Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.clive.pearson@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Hill House Farm</line1>
+            <line2>Lealholm</line2>
+            <line3>Whitby</line3>
+            <line4>North Yorkshire</line4>
+            <postcode>YO21 2QS</postcode>
+            <phone>01947 897372</phone>
+            <mobile>07854 961168</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Derwent Valley</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>125</councillorid>
+          <fullusername>Councillor David C Jeffels</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/5/2/1/Info00000125/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/5/2/1/Info00000125/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Derwent Valley Ward</representing>
+          <keyposts>Deputy Group Leader: Con</keyposts>
+          <workaddress>
+            <email>Cllr.David.Jeffels@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Orchard Cottage</line1>
+            <line2>19 Hall Garth Lane</line2>
+            <line3>West Ayton</line3>
+            <line4>Scarborough</line4>
+            <postcode>YO13 9JA</postcode>
+            <phone>01723 863395</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/06/1973</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2824</councillorid>
+          <fullusername>Councillor Mrs Heather Phillips</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/4/2/8/Info00002824/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/4/2/8/Info00002824/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>East Ayton</districttitle>
+          <representing>Derwent Valley</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.heather.phillips@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>26 Chantry Road</line1>
+            <line2>East Ayton</line2>
+            <line3>Scarborough</line3>
+            <line4>North Yorkshire</line4>
+            <postcode>YO13 9EP</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>27/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Eastfield</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>2363</councillorid>
+          <fullusername>Councillor  Jonathan Dodds</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/3/6/3/Info00002363/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/3/6/3/Info00002363/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UK Independence Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Eastfield Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.jonathan.dodds@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>43 Pindar Road</line1>
+            <line2>Eastfield</line2>
+            <line3>Scarborough</line3>
+            <line4>North Yorkshire</line4>
+            <postcode>YO11 3LU</postcode>
+            <mobile>07875 218228</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>674</councillorid>
+          <fullusername>Councillor Tony Randerson</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/4/7/6/Info00000674/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/4/7/6/Info00000674/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Eastfield Ward</representing>
+          <keyposts>Deputy Group Leader: Lab</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>32 Ashville Avenue</line1>
+            <line2>Scarborough</line2>
+            <line3>North Yorkshire</line3>
+            <line4>YO12 7NF</line4>
+            <mobile>07926 226904</mobile>
+            <email>cllr.tony.randerson@scarborough.gov.uk</email>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>151</councillorid>
+          <fullusername>Councillor John Warburton</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/1/5/1/Info00000151/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/1/5/1/Info00000151/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Eastfield Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.John.Warburton@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Holbeck Avenue</line1>
+            <line2>Scarborough</line2>
+            <postcode>YO11 2XQ</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>02/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Esk Valley</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1318</councillorid>
+          <fullusername>Councillor Guy Coulson</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/8/1/3/Info00001318/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/8/1/3/Info00001318/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Esk Valley</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Iburndale Lane</line1>
+            <line2>Sleights</line2>
+            <line3>Whitby</line3>
+            <line4>YO22 5EL</line4>
+            <phone>01947 810782</phone>
+            <email>Cllr.Guy.Coulson@scarborough.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>20/09/2012</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>982</councillorid>
+          <fullusername>Councillor Phillip Henry Trumper</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/2/8/9/Info00000982/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/2/8/9/Info00000982/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Esk Valley</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.phil.trumper@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Beech Grove</line1>
+            <line2>Whitby</line2>
+            <line3>North Yorkshire</line3>
+            <postcode>YO21 1HT</postcode>
+            <phone>01947 604937</phone>
+            <mobile>07740 103363</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Falsgrave</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>2890</councillorid>
+          <fullusername>Councillor Liz Colling</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/0/9/8/Info00002890/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/0/9/8/Info00002890/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Falsgrave Park Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.liz.colling@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Westbourne Park</line1>
+            <line2>SCARBOROUGH</line2>
+            <postcode>YO12 4AS</postcode>
+            <phone>01723 351214</phone>
+            <mobile>07595 733841</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>933</councillorid>
+          <fullusername>Councillor John Ritchie</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/3/3/9/Info00000933/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/3/3/9/Info00000933/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Falsgrave Park ward</representing>
+          <keyposts>Deputy Mayor</keyposts>
+          <workaddress>
+            <email>Cllr.John.Ritchie@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Pinfold Close</line1>
+            <line2>Scarborough</line2>
+            <line3>North Yorkshire</line3>
+            <line4>YO12 6UZ</line4>
+            <phone>01723 366673</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Filey</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>397</councillorid>
+          <fullusername>Councillor Mike Cockerill</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/7/9/3/Info00000397/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/7/9/3/Info00000397/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Filey Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>T'Norad</line1>
+            <line2>2 Wooldale Drive</line2>
+            <line3>Filey</line3>
+            <postcode>YO14 9ER</postcode>
+            <phone>01723 512844</phone>
+            <mobile>07875 877 943</mobile>
+            <email>cllr.mike.cockerill@scarborough.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2007</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>398</councillorid>
+          <fullusername>Councillor Sam Cross</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/8/9/3/Info00000398/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/8/9/3/Info00000398/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UK Independence Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Filey Ward</representing>
+          <keyposts>UKIP Group Leader</keyposts>
+          <workaddress>
+            <email>Cllr.sam.cross@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>12 Cliff Top</line1>
+            <line2>Filey</line2>
+            <postcode>YO14 0BB</postcode>
+            <phone>01723 515843</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2007</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>122</councillorid>
+          <fullusername>Councillor Colin Haddington</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/2/2/1/Info00000122/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/2/2/1/Info00000122/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UK Independence Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Filey Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Colin.Haddington@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Cormorant Close</line1>
+            <line2>Filey</line2>
+            <postcode>YO14 0DE</postcode>
+            <phone>01723 516981</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Fylingdales</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>135</councillorid>
+          <fullusername>Councillor Mrs Jane E Mortimer</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/5/3/1/Info00000135/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/5/3/1/Info00000135/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Fylingdales Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Jane.Mortimer@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>&amp;quot;Inthorpe&amp;quot;</line1>
+            <line2>Middlewood Lane</line2>
+            <line3>Fylingthorpe</line3>
+            <line4>Whitby</line4>
+            <postcode>YO22 4TT</postcode>
+            <phone>01947 880058</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/1991</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Hertford</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>103</councillorid>
+          <fullusername>Councillor Godfrey W Allanson</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/3/0/1/Info00000103/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/3/0/1/Info00000103/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Hertford Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.godfrey.allanson@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>&amp;quot;Jungfrau&amp;quot;</line1>
+            <line2>West Street</line2>
+            <line3>Muston</line3>
+            <line4>Filey</line4>
+            <postcode>YO14 0ER</postcode>
+            <phone>01723 513678</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/06/1973</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>341</councillorid>
+          <fullusername>Councillor Michelle Donohue-Moncrieff</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/1/4/3/Info00000341/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/1/4/3/Info00000341/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Hertford ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>74 Northgate</line1>
+            <line2>Hunmanby</line2>
+            <line3>YO14 0NX</line3>
+            <phone>01723 891891.</phone>
+            <email>Cllr.Michelle.Donohue-Moncrieff@Scarborough.gov.uk</email>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Lindhead</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>104</councillorid>
+          <fullusername>Councillor G Andrew Backhouse</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/4/0/1/Info00000104/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/4/0/1/Info00000104/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Lindhead Ward</representing>
+          <keyposts>Conservative Group Leader</keyposts>
+          <workaddress>
+            <email>cllr.andrew.backhouse@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 West Park Avenue</line1>
+            <line2>Newby</line2>
+            <line3>Scarborough</line3>
+            <postcode>YO12 6HH</postcode>
+            <mobile>07789698771</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Mayfield</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>941</councillorid>
+          <fullusername>Councillor David  Chance</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/1/4/9/Info00000941/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/1/4/9/Info00000941/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Mayfield ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.David.Chance@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Adventure House</line1>
+            <line2>Newholm</line2>
+            <line3>Whitby</line3>
+            <line4>North Yorkshire</line4>
+            <postcode>YO21 3QY</postcode>
+            <phone>01947 605376</phone>
+            <mobile>07552 168573</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>2892</councillorid>
+          <fullusername>Councillor Gerald Dennett</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/2/9/8/Info00002892/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/2/9/8/Info00002892/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Mayfield Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.gerald.dennett@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>White House Farm</line1>
+            <line2>Fylingdales</line2>
+            <line3>North Yorkshire</line3>
+            <postcode>YO22 4QF</postcode>
+            <phone>01947 881296</phone>
+            <mobile>07802 784843</mobile>
+          </homeaddress>
+          <surgerydetails>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Mulgrave</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>123</councillorid>
+          <fullusername>Councillor Mrs Marie Harland</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/3/2/1/Info00000123/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/3/2/1/Info00000123/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Mulgrave Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Marie.Harland@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>26 Westbourne Avenue</line1>
+            <line2>WHITBY</line2>
+            <line3>YO21  3NF</line3>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2897</councillorid>
+          <fullusername>Councillor John Nock</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/7/9/8/Info00002897/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/7/9/8/Info00002897/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Mulgrave Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.john.nock@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4, Charlton Avenue</line1>
+            <line2>Whitby</line2>
+            <line3>North Yorkshire</line3>
+            <postcode>YO21 3JF</postcode>
+            <phone>01947 603807</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Newby</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>2888</councillorid>
+          <fullusername>Councillor Luke Backhouse</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/8/8/8/Info00002888/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/8/8/8/Info00002888/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Newby Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.luke.backhouse@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 High Street</line1>
+            <line2>Snainton</line2>
+            <line3>SCARBOROUGH</line3>
+            <postcode>YO13 9AE</postcode>
+            <phone>01723 850307</phone>
+            <mobile>07794057982</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1044</councillorid>
+          <fullusername>Councillor Vanda Inman</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/4/4/0/Info00001044/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/4/4/0/Info00001044/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Newby Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.vanda.inman@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>946</councillorid>
+          <fullusername>Councillor Andrew Jenkinson</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/6/4/9/Info00000946/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/6/4/9/Info00000946/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Newby ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Andrew.Jenkinson@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>28 Lady Ediths Avenue</line1>
+            <line2>Scarborough</line2>
+            <postcode>YO12 5RB</postcode>
+            <phone>01723 369436</phone>
+            <mobile>07828782279</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>North Bay</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>2895</councillorid>
+          <fullusername>Councillor Neil Price</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/5/9/8/Info00002895/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/5/9/8/Info00002895/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>North Bay Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.neil.price@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Kingsway Hotel</line1>
+            <line2>58 Columbus Ravine</line2>
+            <line3>Scarborough</line3>
+            <postcode>YO12 7QU</postcode>
+            <phone>01723 372948</phone>
+            <mobile>07949 486583</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>296</councillorid>
+          <fullusername>Councillor Martin Smith</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/6/9/2/Info00000296/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/6/9/2/Info00000296/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>North Bay ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Martin.Smith@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Orchard Lodge</line1>
+            <line2>47 Green Lane</line2>
+            <line3>Scarborough</line3>
+            <postcode>YO12 6HL</postcode>
+            <phone>01723 365955</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Northstead</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>950</councillorid>
+          <fullusername>Councillor Carl David Maw</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/0/5/9/Info00000950/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/0/5/9/Info00000950/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Northstead Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.carl.maw@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07481 435475</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>136</councillorid>
+          <fullusername>Councillor Norman K Murphy</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/6/3/1/Info00000136/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/6/3/1/Info00000136/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UK Independence Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Northstead</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Norman.Murphy@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>N K Murphy</line1>
+            <line2>6 Cross Lane</line2>
+            <line3>Newby</line3>
+            <line4>SCARBOROUGH</line4>
+            <postcode>YO12 6DE</postcode>
+            <phone>01723 353099</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/1999</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Ramshill</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1630</councillorid>
+          <fullusername>Councillor Steve Siddons</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/0/3/6/Info00001630/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/0/3/6/Info00001630/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ramshill Ward</representing>
+          <keyposts>Labour Group Leader</keyposts>
+          <workaddress>
+            <email>cllr.steve.siddons@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>130 Filey Road</line1>
+            <line2>Scarborough</line2>
+            <line3>North Yorkshire</line3>
+            <postcode>YO11 3AA</postcode>
+            <phone>07923 495722</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/08/2013</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>956</councillorid>
+          <fullusername>Councillor Mark Terence Vesey</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/6/5/9/Info00000956/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/6/5/9/Info00000956/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Green Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ramshill Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.mark.vesey@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>45 Royal Avenue</line1>
+            <line2>Scarborough</line2>
+            <line3>North Yorkshire</line3>
+            <postcode>YO11 2LS</postcode>
+            <mobile>07885 294917</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Scalby</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>105</councillorid>
+          <fullusername>Councillor Derek J Bastiman</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/5/0/1/Info00000105/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/5/0/1/Info00000105/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Scalby, Hackness and Staintondale Wards</representing>
+          <keyposts>Leader of the Council</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Hamilton Close</line1>
+            <line2>Scalby</line2>
+            <line3>Scarborough</line3>
+            <postcode>YO13 0RN</postcode>
+            <phone>01723 361435</phone>
+            <email>cllr.derek.bastiman@scarborough.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/1995</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>130</councillorid>
+          <fullusername>Councillor Mrs Hazel E Lynskey</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/0/3/1/Info00000130/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/0/3/1/Info00000130/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Scalby, Hackness and Staintondale Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Hazel.Lynskey@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>&amp;quot;Longmynd&amp;quot;</line1>
+            <line2>7 North Street</line2>
+            <line3>Scalby</line3>
+            <line4>Scarborough</line4>
+            <postcode>YO13 0RP</postcode>
+            <phone>01723 377660</phone>
+            <mobile>07964 530483</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>06/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Seamer</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>132</councillorid>
+          <fullusername>Councillor Mrs Helen F Mallory</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/2/3/1/Info00000132/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/2/3/1/Info00000132/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Seamer Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Helen.Mallory@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Ryedale House</line1>
+            <line2>Malton Road</line2>
+            <line3>Seamer</line3>
+            <line4>Scarborough</line4>
+            <postcode>YO12 4PX</postcode>
+            <mobile>07836 704142</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>318</councillorid>
+          <fullusername>Councillor Roxanne Murphy</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/8/1/3/Info00000318/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/8/1/3/Info00000318/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UK Independence Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Seamer ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Roxanne.Murphy@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>41 West Park Avenue</line1>
+            <line2>Scarborough</line2>
+            <line3>N Yorkshire</line3>
+            <postcode>YO12 6HH</postcode>
+            <phone>01723 863160</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stepney</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1007</councillorid>
+          <fullusername>Councillor Mrs Lynn Bastiman</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/7/0/0/Info00001007/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/7/0/0/Info00001007/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Stepney Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Lynn.Bastiman@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Hamilton Close</line1>
+            <line2>Scalby</line2>
+            <postcode>YO13 0RN</postcode>
+            <phone>01723 361435</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>402</councillorid>
+          <fullusername>Councillor Dilys Vine Cluer</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/2/0/4/Info00000402/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/2/0/4/Info00000402/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Green Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Stepney Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.dilys.cluer@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>19 Alexandra Park</line1>
+            <line2>Scarborough</line2>
+            <postcode>YO12 5JN</postcode>
+            <phone>01723 368475</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2007</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Streonshalh</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>2889</councillorid>
+          <fullusername>Councillor Rob Barnett</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/9/8/8/Info00002889/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/9/8/8/Info00002889/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Streonshalh Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.rob.barnett@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Esk Terrace</line1>
+            <line2>WHITBY</line2>
+            <line3>N Yorkshire</line3>
+            <postcode>YO21 1PA</postcode>
+            <phone>07903370268</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>149</councillorid>
+          <fullusername>Councillor Mrs Sandra Turner</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/9/4/1/Info00000149/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/9/4/1/Info00000149/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Streonshalh Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.sandra.turner@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Gledhill Drive</line1>
+            <line2>Whitby</line2>
+            <postcode>YO21 1LS</postcode>
+            <phone>01947 600567</phone>
+            <mobile>07833 397994</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>25/05/2000</startdate>
+              <enddate>02/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>14/08/2009</startdate>
+              <enddate>10/03/2013</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Weaponness</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>121</councillorid>
+          <fullusername>Councillor Thomas W Fox</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/1/2/1/Info00000121/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/1/2/1/Info00000121/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Weaponness Ward</representing>
+          <keyposts>Mayor</keyposts>
+          <workaddress>
+            <email>Cllr.Tom.Fox@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>25 St Sepulchre Street</line1>
+            <line2>Scarborough</line2>
+            <postcode>YO11 1QG</postcode>
+            <phone>01723 374594</phone>
+            <mobile>07875877999</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2896</councillorid>
+          <fullusername>Councillor Callam Walsh</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/6/9/8/Info00002896/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/6/9/8/Info00002896/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Weaponness Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.callam.walsh@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o The Town Hall</line1>
+            <line2>St Nicholas Street</line2>
+            <line3>Scarborough</line3>
+            <line4>North Yorkshire</line4>
+            <postcode>YO11 2HG</postcode>
+            <phone>01723 330385/360398</phone>
+            <mobile>07794 056806</mobile>
+            <email>cllr.callam.walsh@scarborough.gov.uk</email>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Whitby West Cliff</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>970</councillorid>
+          <fullusername>Councillor Alf Abbott</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/0/7/9/Info00000970/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/0/7/9/Info00000970/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Whitby West Cliff</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Alf.Abbott@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Turnbull Court</line1>
+            <line2>Whitehall Landing</line2>
+            <line3>Whitby</line3>
+            <postcode>YO22 4FJ</postcode>
+            <mobile>07775 857359</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>140</councillorid>
+          <fullusername>Councillor Joseph Plant</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/0/4/1/Info00000140/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/0/4/1/Info00000140/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Whitby West Cliff Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Joseph.Plant@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>St Fillans</line1>
+            <line2>White Point Avenue</line2>
+            <line3>Whitby</line3>
+            <postcode>YO21 3JG</postcode>
+            <phone>01947 821159</phone>
+            <mobile>07780 883507</mobile>
+          </homeaddress>
+          <surgerydetails>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Woodlands</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>115</councillorid>
+          <fullusername>Councillor William Chatt</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/5/1/1/Info00000115/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/5/1/1/Info00000115/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Woodlands Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Cllr.Bill.Chatt@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>160 Barrowcliff Road</line1>
+            <line2>Scarborough</line2>
+            <postcode>YO12 6EY</postcode>
+            <phone>01723 375464</phone>
+            <mobile>07952 017290</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/1999</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2893</councillorid>
+          <fullusername>Councillor Richard Moody</fullusername>
+          <photosmallurl>http://democracy.scarborough.gov.uk/UserData/3/9/8/Info00002893/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.scarborough.gov.uk/UserData/3/9/8/Info00002893/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Woodlands Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>cllr.richard.moody@scarborough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

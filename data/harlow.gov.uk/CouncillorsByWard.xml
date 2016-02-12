@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Bush Fair</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>114</councillorid>
+          <fullusername>Councillor Ian Beckett</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/4/1/1/Info00000114/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/4/1/1/Info00000114/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ian.beckett@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Spencers Croft</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM18 6JX</postcode>
+            <phone>(01279) 442669</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>11/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>118</councillorid>
+          <fullusername>Councillor Manny Doku</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/8/1/1/Info00000118/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/8/1/1/Info00000118/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>emmanuel.doku@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>56 Great Brays</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM18 6DN</postcode>
+            <phone>(01279) 306569</phone>
+            <mobile>07988 372357</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>28/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>251</councillorid>
+          <fullusername>Councillor Dan Long</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/1/5/2/Info00000251/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/1/5/2/Info00000251/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UKIP</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>dan.long@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>57 Longfield</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM18 6LA</postcode>
+            <mobile>07775799985</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Church Langley</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>139</councillorid>
+          <fullusername>Councillor Simon Carter</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/9/3/1/Info00000139/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/9/3/1/Info00000139/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>71 Mark Hall Moors</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM20 2NF</postcode>
+            <phone>(01279) 429443</phone>
+            <email>simon.carter@harlow.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/1991</startdate>
+              <enddate>04/05/1995</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2000</startdate>
+              <enddate>02/05/2002</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>01/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>10/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>140</councillorid>
+          <fullusername>Councillor Tony Hall</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/0/4/1/Info00000140/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/0/4/1/Info00000140/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chairman of the Council</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Fullers End</line1>
+            <line2>Kingsdon Lane</line2>
+            <line3>Harlow</line3>
+            <line4>Essex</line4>
+            <postcode>CM17 9AB</postcode>
+            <phone>(01279) 445897</phone>
+            <email>tony.hall@harlow.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>01/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>08/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>141</councillorid>
+          <fullusername>Councillor Andrew Johnson</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/1/4/1/Info00000141/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/1/4/1/Info00000141/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>78 Mallards Rise</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM17 9PL</postcode>
+            <phone>(01279) 865673</phone>
+            <email>andrew.johnson@harlow.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/1998</startdate>
+              <enddate>02/05/2002</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/1998</startdate>
+              <enddate>28/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>01/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Great Parndon</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>125</councillorid>
+          <fullusername>Councillor David Carter</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/5/2/1/Info00000125/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/5/2/1/Info00000125/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.carter@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>23 Greygoose Park</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM19 4JL</postcode>
+            <phone>(01279) 420340</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>25/10/2007</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>126</councillorid>
+          <fullusername>Councillor Eddie Johnson</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/6/2/1/Info00000126/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/6/2/1/Info00000126/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>eddie.johnson@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>47 Old Orchard</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM18 6YQ</postcode>
+            <phone>(01279) 312195</phone>
+            <email>eddie.johnson@harlow.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2000</startdate>
+              <enddate>02/05/2002</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2000</startdate>
+              <enddate>18/07/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>06/05/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>01/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>10/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>280</councillorid>
+          <fullusername>Councillor Shona Johnson</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/0/8/2/Info00000280/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/0/8/2/Info00000280/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Shona.johnson@harlow.co.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>78 Mallards Rise</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM17 9PL</postcode>
+            <phone>01279 865673</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Harlow Common</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>112</councillorid>
+          <fullusername>Councillor Maggie Hulcoop</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/2/1/1/Info00000112/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/2/1/1/Info00000112/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>330 Carters Mead</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <line4>CM17 9HA</line4>
+            <phone>(01279) 452252</phone>
+            <email>maggie.hulcoop@harlow.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/1996</startdate>
+              <enddate>02/05/2000</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/1996</startdate>
+              <enddate>28/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2000</startdate>
+              <enddate>28/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>04/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>07/10/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>24/10/2012</startdate>
+              <enddate>01/06/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>04/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>129</councillorid>
+          <fullusername>Councillor Emma Toal</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/9/2/1/Info00000129/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/9/2/1/Info00000129/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader and Portfolio Holder for Youth &amp; Community</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre, The Water Gardens</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <line4>CM20 1WG</line4>
+            <mobile>07885 881255</mobile>
+          </workaddress>
+          <homeaddress>
+            <email>emma.toal@harlow.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>117</councillorid>
+          <fullusername>Councillor Mark Wilkinson</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/7/1/1/Info00000117/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/7/1/1/Info00000117/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Portfolio Holder for Environment</keyposts>
+          <workaddress>
+            <mobile>07718696429</mobile>
+            <email>mark.wilkinson@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>56 Sakins Croft</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <line4>CM18 7BP</line4>
+            <mobile>07718696429</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/1997</startdate>
+              <enddate>06/05/1999</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>25/09/1997</startdate>
+              <enddate>06/05/1999</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>01/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>01/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/2003</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2011</startdate>
+              <enddate>01/06/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Little Parndon and Hare Street</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>138</councillorid>
+          <fullusername>Councillor Jean Clark</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/8/3/1/Info00000138/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/8/3/1/Info00000138/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Portfolio Holder for Governance</keyposts>
+          <workaddress>
+            <email>jean.clark@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Rushmead Villas</line1>
+            <line2>School Lane</line2>
+            <line3>Harlow</line3>
+            <line4>Essex</line4>
+            <postcode>CM20 2QE</postcode>
+            <phone>(01279) 423474</phone>
+            <email>jean.clark@harlow.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/1987</startdate>
+              <enddate>02/05/1991</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/1991</startdate>
+              <enddate>07/05/1992</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/1992</startdate>
+              <enddate>02/05/1996</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/1996</startdate>
+              <enddate>04/05/2000</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2000</startdate>
+              <enddate>07/06/2001</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/06/2001</startdate>
+              <enddate>01/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>136</councillorid>
+          <fullusername>Councillor Jon Clempner</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/6/3/1/Info00000136/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/6/3/1/Info00000136/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Council</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Canons Brook</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM19 4EE</postcode>
+            <phone>01279 436444</phone>
+            <email>jon@clempner.com</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>137</councillorid>
+          <fullusername>Councillor Tony Durcan</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/7/3/1/Info00000137/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/7/3/1/Info00000137/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Portfolio Holder for Regeneration &amp; Enterprise</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>329 Rundells</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM18 7HN</postcode>
+            <phone>(01279) 414357</phone>
+            <email>anthony.durcan@harlow.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/1997</startdate>
+              <enddate>07/06/2001</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/06/2001</startdate>
+              <enddate>05/05/2005</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2005</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>08/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Mark Hall</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>133</councillorid>
+          <fullusername>Councillor Jacqui Cross</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/3/3/1/Info00000133/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/3/3/1/Info00000133/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Harlow Council</line1>
+            <line2>Civic Centre</line2>
+            <line3>The Water Gardens</line3>
+            <line4>Harlow, Essex</line4>
+            <postcode>CM20 1WG</postcode>
+            <mobile>07599 188756</mobile>
+            <email>jacqui.cross@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>278</councillorid>
+          <fullusername>Councillor Bob Davis</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/8/7/2/Info00000278/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/8/7/2/Info00000278/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>bob.davis@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Commonfields</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM20 3QE</postcode>
+            <phone>01279 300582</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>273</councillorid>
+          <fullusername>Councillor Danny Purton</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/3/7/2/Info00000273/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/3/7/2/Info00000273/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Harlow Council</line1>
+            <line2>Civic Centre</line2>
+            <line3>The Water Gdns</line3>
+            <line4>Harlow</line4>
+            <postcode>CM20 1WG</postcode>
+            <phone>07763 486882</phone>
+            <email>danny.purton@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>12/02/2015</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Netteswell</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>110</councillorid>
+          <fullusername>Councillor Mike Danvers</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/0/1/1/Info00000110/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/0/1/1/Info00000110/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Portfolio Holder for Resources</representing>
+          <keyposts>Portfolio Holder for Resources</keyposts>
+          <workaddress>
+            <email>mike.danvers@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>65 Tunnmeade</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM20 3HN</postcode>
+            <phone>(01279) 425934</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/1972</startdate>
+              <enddate>02/05/1991</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>28/05/1992</startdate>
+              <enddate>04/05/2000</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>28/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>135</councillorid>
+          <fullusername>Councillor Waida Forman</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/5/3/1/Info00000135/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/5/3/1/Info00000135/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>waida.forman@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>16 Holmes Meadow</line1>
+            <line2>Sumners Farm</line2>
+            <line3>Harlow</line3>
+            <line4>Essex</line4>
+            <postcode>CM19 5SG</postcode>
+            <mobile>07970 732314</mobile>
+            <email>waida.forman@harlow.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>115</councillorid>
+          <fullusername>Councillor Edna Stevens</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/5/1/1/Info00000115/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/5/1/1/Info00000115/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice Chairman of the Council</keyposts>
+          <workaddress>
+            <email>edna.stevens@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>210 Fullers Mead</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM17 9AX</postcode>
+            <phone>(01279) 324183</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Old Harlow</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>250</councillorid>
+          <fullusername>Councillor Joel Charles</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/0/5/2/Info00000250/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/0/5/2/Info00000250/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>joel.charles@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>86 Jocelyns</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM17 0BU</postcode>
+            <mobile>07752096765</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>03/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>130</councillorid>
+          <fullusername>Councillor Muriel Jolles</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/0/3/1/Info00000130/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/0/3/1/Info00000130/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Harlow Council</line1>
+            <line2>Civic Centre</line2>
+            <line3>The Water Gardens</line3>
+            <line4>Harlow, Essex</line4>
+            <postcode>CM20 1WG</postcode>
+            <phone>(01279) 432242</phone>
+            <email>muriel.jolles@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>01/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>01/06/2008</startdate>
+              <enddate>02/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>132</councillorid>
+          <fullusername>Councillor Sue Livings</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/2/3/1/Info00000132/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/2/3/1/Info00000132/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>sue.livings@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Seeleys</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM17 0AD</postcode>
+            <phone>(01279) 422339</phone>
+            <email>sue.livings@harlow.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>27/06/1991</startdate>
+              <enddate>05/05/1994</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>27/06/1999</startdate>
+              <enddate>02/05/2002</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/06/2002</startdate>
+              <enddate>01/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Staple Tye</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>142</councillorid>
+          <fullusername>Councillor Patrick McCabe</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/2/4/1/Info00000142/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/2/4/1/Info00000142/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>61 Great Plumtree</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM20 2NU</postcode>
+            <phone>(01279) 861177</phone>
+            <mobile>07701 060520</mobile>
+            <email>patrick.mccabe@harlow.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>254</councillorid>
+          <fullusername>Councillor Bill Pryor</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/4/5/2/Info00000254/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/4/5/2/Info00000254/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UKIP</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>bill.pryor@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Joyners Field</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM18 7PU</postcode>
+            <mobile>07780876934</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Surgeries for Staple Tye Ward</line1>
+            <line2>Staple Tye Library, Parnall Rd, Staple Tye</line2>
+            <line3>3rd Saturday of each month 10.30am-12.00pm</line3>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>279</councillorid>
+          <fullusername>Councillor John Strachan</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/9/7/2/Info00000279/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/9/7/2/Info00000279/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Harlow Council</line1>
+            <line2>Civic Centre</line2>
+            <line3>Harlow</line3>
+            <line4>Essex</line4>
+            <postcode>CM20 1WG</postcode>
+            <email>john.strachan@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>01279 323656</phone>
+            <mobile>07941 829965</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sumners and Kingsmoor</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>109</councillorid>
+          <fullusername>Councillor Nick Churchill</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/9/0/1/Info00000109/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/9/0/1/Info00000109/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>215 Brockles Mead</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM19 4QA</postcode>
+            <phone>(01279) 621094</phone>
+            <email>nick.churchill@harlow.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/1999</startdate>
+              <enddate>02/05/2002</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>04/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>04/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>123</councillorid>
+          <fullusername>Councillor Russell Perrin</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/3/2/1/Info00000123/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/3/2/1/Info00000123/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Harlow Council</line1>
+            <line2>Civic Centre</line2>
+            <line3>The Water Gardens</line3>
+            <line4>Harlow, Essex</line4>
+            <postcode>CM20 1WG</postcode>
+            <phone>(01279) 312195</phone>
+            <email>russell.perrin@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>10/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>281</councillorid>
+          <fullusername>Councillor Clive Souter</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/1/8/2/Info00000281/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/1/8/2/Info00000281/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>clive.souter@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>227 Longbanks</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM18 7PB</postcode>
+            <mobile>07850667900</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Toddbrook</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>203</councillorid>
+          <fullusername>Councillor Karen Clempner</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/3/0/2/Info00000203/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/3/0/2/Info00000203/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>karen.clempner@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Canons Brook</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM19 4EE</postcode>
+            <phone>01279 436444</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>128</councillorid>
+          <fullusername>Councillor Rod Truan</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/8/2/1/Info00000128/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/8/2/1/Info00000128/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Portfolio Holder for Housing</keyposts>
+          <workaddress>
+            <email>rod.truan@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>17C High Street</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM17 0DN</postcode>
+            <mobile>07850907232</mobile>
+            <email>rod.truan@harlow.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>08/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>04/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>145</councillorid>
+          <fullusername>Councillor Phil Waite</fullusername>
+          <photosmallurl>http://moderngov.harlow.gov.uk/UserData/5/4/1/Info00000145/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.harlow.gov.uk/UserData/5/4/1/Info00000145/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>phil.waite@harlow.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Spruce Hill</line1>
+            <line2>Harlow</line2>
+            <line3>Essex</line3>
+            <postcode>CM18 7SR</postcode>
+            <mobile>07812 147663</mobile>
+            <email>phil.waite@harlow.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

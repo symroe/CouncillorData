@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Abersychan</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>9</councillorid>
+          <fullusername>Councillor Gwyneira Clark</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/9/0/0/Info00000009/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/9/0/0/Info00000009/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Executive Member Housing, Planning &amp; Public Protection</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07980682398</mobile>
+            <email>gwyneira.clark@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Stanley Road</line1>
+            <line2>Garndiffaith</line2>
+            <line3>Pontyppol</line3>
+            <line4>NP4 7LZ</line4>
+            <phone>01495 773737</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor does not hold a surgery, please contact directly.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>17</councillorid>
+          <fullusername>Councillor Giles Davies</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/7/1/0/Info00000017/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/7/1/0/Info00000017/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Mayor</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07507 054313</mobile>
+            <email>Giles.Davies@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Members Services</line1>
+            <line2>Civic Centre</line2>
+            <line3>Hanbury Road</line3>
+            <line4>Pontypool</line4>
+            <postcode>NP4 6YB</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor does not hold a surgery, please contact directly.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>20</councillorid>
+          <fullusername>Councillor Wayne Tomlinson</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/0/2/0/Info00000020/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/0/2/0/Info00000020/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07943525281</mobile>
+            <email>Wayne.tomlinson@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Bradley</line1>
+            <line2>Ffrwd Road</line2>
+            <line3>Abersychan</line3>
+            <line4>Pontypool</line4>
+            <postcode>NP4 8PJ</postcode>
+            <phone>01495 772558</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor does not hold a surgery, please contact directly.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Blaenavon</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>22</councillorid>
+          <fullusername>Councillor Stuart Evans</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/2/2/0/Info00000022/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/2/2/0/Info00000022/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent Group</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <email>Stuart.Evans@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Charles Street</line1>
+            <line2>Blaenavon</line2>
+            <line3>Torfaen</line3>
+            <line4>NP4 9JT</line4>
+            <phone>01495 792335</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Monday of every month at 7pm, except Bank Holidays, when the surgery will be held on the second Monday of the month. Alternating between 3 locations - Forgeside Community Centre, Garn-yr-Erw Welfare Hall and Blaenavon Workmen's Hall.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>24</councillorid>
+          <fullusername>Councillor Alun Furzer</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/4/2/0/Info00000024/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/4/2/0/Info00000024/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07507 054314</mobile>
+            <email>Alun.Furzer@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>25 Queen Street</line1>
+            <line2>Blaenavon</line2>
+            <line3>Torfaen</line3>
+            <line4>NP4 9PN</line4>
+            <phone>01495 792497</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Surgeries are held at 6pm on the last Thursday of the month at The Council Office, 101 High Street, Blaenavon.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>27</councillorid>
+          <fullusername>Councillor Alan  Jones</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/7/2/0/Info00000027/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/7/2/0/Info00000027/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07507 054426</mobile>
+            <email>Alan.S.Jones@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>22 Llanover Road</line1>
+            <line2>Blaenavon</line2>
+            <line3>Torfaen</line3>
+            <line4>NP4 9HR</line4>
+            <phone>01495 790477</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Surgeries are held at 6pm on the last Thursday of the month at The Council Office, 101 High Street, Blaenavon.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Brynwern</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>31</councillorid>
+          <fullusername>Councillor Leonard Constance</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/1/3/0/Info00000031/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/1/3/0/Info00000031/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07576 772064</mobile>
+            <email>Leonard.Constance@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Bryngwyn Road</line1>
+            <line2>Pontypool</line2>
+            <line3>Torfaen</line3>
+            <line4>NP4 6ET</line4>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor does not hold a surgery, please contact directly.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Coed Eva</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>33</councillorid>
+          <fullusername>Councillor Fiona Cross</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/3/3/0/Info00000033/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/3/3/0/Info00000033/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Plaid Cymru</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07881 855553</mobile>
+            <email>fionaplaid@yahoo.co.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>130 Oaksford</line1>
+            <line2>Coed Eva</line2>
+            <line3>Cwmbran</line3>
+            <line4>NP44 6UN</line4>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor does not hold a surgery, please contact directly.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Croesyceiliog North</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>10</councillorid>
+          <fullusername>Councillor Richard Clark</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/0/1/0/Info00000010/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/0/1/0/Info00000010/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Executive Member Health Social Care &amp;   Wellbeing</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07966 461361</mobile>
+            <email>richard.clark@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>29 Glaslyn Court</line1>
+            <line2>Croesyceiliog</line2>
+            <line3>Cwmbran</line3>
+            <line4>Torfaen</line4>
+            <postcode>NP44 2JF</postcode>
+            <phone>01633 480083</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors Clark and Davies hold surgeries on the second Saturday of every month 11am–12pm at the community council offices at Woodland Road Social Centre.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>34</councillorid>
+          <fullusername>Councillor Nigel Davies</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/4/3/0/Info00000034/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/4/3/0/Info00000034/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07507 054383</mobile>
+            <email>Nigel.Davies@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>13 Gower Green</line1>
+            <line2>Croesyceiliog</line2>
+            <line3>Cwmbran</line3>
+            <line4>NP44 2QL</line4>
+            <phone>01633 867020</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors Clark and Davies hold surgeries on the second Saturday of every month 11am–12pm at the community council offices at Woodland Road Social Centre.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Croesyceiliog South</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>36</councillorid>
+          <fullusername>Councillor Veronica Crick JP</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/6/3/0/Info00000036/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/6/3/0/Info00000036/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Mayor</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07507 054241</mobile>
+            <email>Veronica.Crick@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>49 The Highway</line1>
+            <line2>Croesyceiliog</line2>
+            <line3>Torfaen</line3>
+            <line4>NP44 2BQ</line4>
+            <phone>01633 860668</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor Crick holds surgeries on the second Saturday of every month 11am–12pm at the community council offices at Woodland Road Social Centre.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cwmynyscoy</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>38</councillorid>
+          <fullusername>Councillor Neil Waite</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/8/3/0/Info00000038/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/8/3/0/Info00000038/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Licensing Committee</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07507 054598</mobile>
+            <email>Neil.Waite@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>73 Blaendare Road</line1>
+            <line2>Pontypool</line2>
+            <line3>Torfaen</line3>
+            <line4>NP4 5RU</line4>
+            <phone>01495 759468</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor Waite will hold surgeries on the last Saturday of the month, except August, at the community hall at Hillside Drive at 11am.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Fairwater</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>12</councillorid>
+          <fullusername>Councillor Jeff Rees</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/2/1/0/Info00000012/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/2/1/0/Info00000012/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Plaid Cymru</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Democratic Services Committee</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07517 467262</mobile>
+            <email>jeff.rees@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Members Services</line1>
+            <line2>Torfaen County Borough Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Pontypool</line4>
+            <postcode>NP4 6YB</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Cllr Rees holds surgeries on the last Saturday of the month 10am–12pm at Fairwater Leisure Centre.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>40</councillorid>
+          <fullusername>Councillor Philip Seabourne</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/0/4/0/Info00000040/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/0/4/0/Info00000040/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <email>Phil.Seabourne@Torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Dale Path</line1>
+            <line2>Fairwater</line2>
+            <line3>Cwmbran</line3>
+            <line4>NP44 4QR</line4>
+            <phone>01633 863744</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor Seabourne holds surgeries on the first Saturday of every month, except August, 10.30am–12pm at Fairhill Methodist Church.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Greenmeadow</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>41</councillorid>
+          <fullusername>Councillor Mandy Owen</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/1/4/0/Info00000041/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/1/4/0/Info00000041/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Cleaner Communities Overview &amp; Scrutiny Committee</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07966 460568</mobile>
+            <email>Amanda.Owen@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>94 Beddick</line1>
+            <line2>Greenmeadow</line2>
+            <line3>Cwmbran</line3>
+            <line4>NP44 4UX</line4>
+            <phone>01633 872665</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors Owen and Wellington hold surgeries on the first Saturday of the month 9.30am–11am at Greenmeadow &amp; St Dials Community Hall and 11am–12pm at Thornhill Community Centre.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>42</councillorid>
+          <fullusername>Councillor Bob Wellington CBE (Leader)</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/2/4/0/Info00000042/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/2/4/0/Info00000042/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Council</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <email>Leader@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Rowans</line1>
+            <line2>Craig Road</line2>
+            <line3>Greenmeadow</line3>
+            <line4>Cwmbran</line4>
+            <postcode>NP44 5YY</postcode>
+            <phone>01633 868402</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors Owen and Wellington hold surgeries on the first Saturday of the month 9.30am–11am at Greenmeadow &amp; St Dials Community Hall and 11am–12pm at Thornhill Community Centre.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Llantarnam</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>43</councillorid>
+          <fullusername>Councillor David Daniels</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/3/4/0/Info00000043/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/3/4/0/Info00000043/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Executive Member for Communities</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07507 054310</mobile>
+            <email>David.Daniels@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Members Services</line1>
+            <line2>Civic Centre</line2>
+            <line3>Hanbury Road</line3>
+            <line4>Pontypool</line4>
+            <postcode>NP4 6YB</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Joint surgeries will be held with Bron Afon and Gwent Police on the first Wednesday of every month, alternating between Court Farm and Oakfield Community Hall, Llantarnam Church Hall and The Tower in Southville, all at 6-7pm (starting with Court Farm and Oakfield Community Hall in September).</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>44</councillorid>
+          <fullusername>Councillor Maria Graham</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/4/4/0/Info00000044/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/4/4/0/Info00000044/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent Councillor Graham</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07966 463256</mobile>
+            <email>Maria.Graham@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Members Services</line1>
+            <line2>Civic Centre</line2>
+            <line3>Hanbury Road</line3>
+            <line4>Pontypool</line4>
+            <postcode>NP4 6YB</postcode>
+            <phone>07817 609419</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor does not hold a surgery, please contact directly.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Llanyrafon North</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>45</councillorid>
+          <fullusername>Councillor Glyn Caron</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/5/4/0/Info00000045/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/5/4/0/Info00000045/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <email>Glyn.Caron@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>16 Llanyrafon Way</line1>
+            <line2>Llanyrafon</line2>
+            <line3>Cwmbran</line3>
+            <line4>NP44 8HN</line4>
+            <phone>01633 871047</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor does not hold a surgery, please contact directly.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Llanyrafon South</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>46</councillorid>
+          <fullusername>Councillor Huw Bevan</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/6/4/0/Info00000046/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/6/4/0/Info00000046/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07966 463476</mobile>
+            <email>Huw.Bevan@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Moyle Grove</line1>
+            <line2>Ponthir</line2>
+            <line3>Newport</line3>
+            <line4>NP18 1GP</line4>
+            <phone>01633 421983</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>New Inn</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>47</councillorid>
+          <fullusername>Councillor Keith James</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/7/4/0/Info00000047/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/7/4/0/Info00000047/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <email>Keith.James@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>121 Chester Close</line1>
+            <line2>New Inn</line2>
+            <line3>Pontypool</line3>
+            <line4>Torfaen</line4>
+            <postcode>NP4 0LW</postcode>
+            <phone>01495 758559</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The three New Inn Councillors share a surgery on the first Saturday of every month, except August, at 10am–12pm at Learning Centre, the Highway.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>14</councillorid>
+          <fullusername>Councillor Raymond Mills</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/4/1/0/Info00000014/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/4/1/0/Info00000014/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Healthier Communities Overview &amp; Scrutiny Committee</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07507 054440</mobile>
+            <email>Raymond.Mills@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>11 Hillcrest</line1>
+            <line2>New Inn</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 0NG</line4>
+            <phone>01495 750327</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The three New Inn Councillors share a surgery on the first Saturday of every month, except August, at 10am–12pm at Learning Centre, the Highway.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>48</councillorid>
+          <fullusername>Councillor Graham Smith</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/8/4/0/Info00000048/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/8/4/0/Info00000048/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07527 963774</mobile>
+            <email>Graham.Smith@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>105a The Highway</line1>
+            <line2>New Inn</line2>
+            <line3>Pontypool</line3>
+            <line4>Torfaen</line4>
+            <postcode>NP4 0PJ</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The three New Inn Councillors share a surgery on the first Saturday of every month, except August, at 10am–12pm at Learning Centre, the Highway.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Panteg</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>49</councillorid>
+          <fullusername>Councillor Anthony Hunt (Deputy Leader)</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/9/4/0/Info00000049/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/9/4/0/Info00000049/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Executive Member for Resources &amp; Corporate Governance</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07870 116463</mobile>
+            <email>Anthony.Hunt@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>24 Greenhill Road</line1>
+            <line2>Griffithstown</line2>
+            <line3>Pontypool</line3>
+            <line4>Torfaen</line4>
+            <postcode>NP4 5BE</postcode>
+            <phone>01495 741568</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The three Panteg Councillors hold surgeries on the second Saturday of every month 11am–12pm at Sebastopol Labour Hall alternating with Griffithstown Labour Hall.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>51</councillorid>
+          <fullusername>Councillor Norma Parrish</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/1/5/0/Info00000051/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/1/5/0/Info00000051/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <email>norma.parrish@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>26 Lansdowne</line1>
+            <line2>Sebastopol</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 5EF</line4>
+            <phone>01495 763067</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The three Panteg Councillors hold surgeries on the second Saturday of every month 11am–12pm at Sebastopol Labour Hall alternating with Griffithstown Labour Hall.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>11</councillorid>
+          <fullusername>Councillor David Yeowell</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/1/1/0/Info00000011/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/1/1/0/Info00000011/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Executive Member for Education</keyposts>
+          <workaddress>
+            <line1>Torfaen  County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07411 311361</mobile>
+            <email>david.yeowell@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>21 Sunnybank Road</line1>
+            <line2>Griffithstown</line2>
+            <line3>Pontypool</line3>
+            <postcode>NP4 5LT</postcode>
+            <phone>01495 762095</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The three Panteg Councillors hold surgeries on the second Saturday of every month 11am–12pm at Sebastopol Labour Hall alternating with Griffithstown Labour Hall.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Pontnewydd</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>15</councillorid>
+          <fullusername>Councillor Stuart Ashley</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/5/1/0/Info00000015/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/5/1/0/Info00000015/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Resources &amp; Corporate Business O&amp;S Committee</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07971 890265</mobile>
+            <email>stuart.ashley@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>16 Paddock Close</line1>
+            <line2>Pontnewydd</line2>
+            <line3>Cwmbran</line3>
+            <line4>NP44 1LL</line4>
+            <phone>01633 868413</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The three Pontnewydd Councillors share a surgery on the first Saturday of every month 10.30am–12pm at Mount Pleasant Hall.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>52</councillorid>
+          <fullusername>Councillor Brian Mawby</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/2/5/0/Info00000052/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/2/5/0/Info00000052/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Planning Committee</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Torfaen</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07944218830</mobile>
+            <email>brian.mawby@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>55 Station Road</line1>
+            <line2>Pontnewydd</line2>
+            <line3>Cwmbran</line3>
+            <line4>NP44 1NZ</line4>
+            <phone>01633 484948</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The three Pontnewydd Councillors share a surgery on the first Saturday of every month 10.30am–12pm at Mount Pleasant Hall.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>50</councillorid>
+          <fullusername>Councillor Jessica Powell</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/0/5/0/Info00000050/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/0/5/0/Info00000050/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07940 434654</mobile>
+            <email>jessica.powell@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Isca Close</line1>
+            <line2>Northville</line2>
+            <line3>Cwmbran</line3>
+            <line4>NP44 1QN</line4>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The three Pontnewydd Councillors share a surgery on the first Saturday of every month 10.30am–12pm at Mount Pleasant Hall.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Pontnewynydd</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>53</councillorid>
+          <fullusername>Councillor Kelvin Harnett JP</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/3/5/0/Info00000053/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/3/5/0/Info00000053/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent Councillor Harnett</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07500447751</mobile>
+            <email>kelvin.harnett@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>58 Hanbury Road</line1>
+            <line2>Pontnewynydd</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6PF</line4>
+            <phone>01495 760295</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor does not hold a surgery, please contact directly.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Pontypool</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>25</councillorid>
+          <fullusername>Councillor Mike Harris</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/5/2/0/Info00000025/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/5/2/0/Info00000025/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent Group</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07725982550</mobile>
+            <email>michael.harris@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Members Services</line1>
+            <line2>Torfaen County Borough Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Pontypool</line4>
+            <postcode>NP4 6YB</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor Harris holds surgeries on the first Friday of every month 10.30am–11.30am at St Matthews Church, Cwmfields.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Snatchwood</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>30</councillorid>
+          <fullusername>Councillor Barry Taylor JP</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/0/3/0/Info00000030/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/0/3/0/Info00000030/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07507054503</mobile>
+            <email>barry.taylor@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Glen View</line1>
+            <line2>North Road</line2>
+            <line3>Snatchwood</line3>
+            <line4>Pontypool</line4>
+            <postcode>NP4 7BN</postcode>
+            <phone>01495 774281</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor does not hold a surgery, please contact directly.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>St Cadocs &amp; Penygarn</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>28</councillorid>
+          <fullusername>Councillor Neil Mason</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/8/2/0/Info00000028/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/8/2/0/Info00000028/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07507054234</mobile>
+            <email>neil.mason@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>42 Folly View</line1>
+            <line2>Penygarn</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 8BU</line4>
+            <phone>01495 750019</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor does not hold a surgery, please contact directly.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>St Dials</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>35</councillorid>
+          <fullusername>Councillor Stephen Brooks KSS JP</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/5/3/0/Info00000035/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/5/3/0/Info00000035/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07980 682503</mobile>
+            <email>stephen.brooks@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>12b Cefn Milwr</line1>
+            <line2>Hollybush</line2>
+            <line3>Cwmbran</line3>
+            <line4>NP44 7PH</line4>
+            <phone>01633 868283</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor does not hold a surgery, please contact directly.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>37</councillorid>
+          <fullusername>Councillor Elizabeth Haynes</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/7/3/0/Info00000037/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/7/3/0/Info00000037/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent Group</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07507054393</mobile>
+            <email>elizabeth.haynes@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>One to one surgeries, home visits and various surgeries throughout the ward as advertised in Torfaen Talks. Or telephone for more details.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Trevethin</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>39</councillorid>
+          <fullusername>Councillor Lewis Jones</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/9/3/0/Info00000039/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/9/3/0/Info00000039/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Executive Member for Regeneration</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Civic Centre</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07980682014</mobile>
+            <email>Lewis.Jones@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>44 Glenview Road</line1>
+            <line2>Trevethin</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 8ED</line4>
+            <phone>01495 756950</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor does not hold a surgery, please contact directly.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>32</councillorid>
+          <fullusername>Councillor John Marshall</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/2/3/0/Info00000032/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/2/3/0/Info00000032/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07980 682011</mobile>
+            <email>john.marshall@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Kelsha Bungalow</line1>
+            <line2>Pentwyn</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 7TA</line4>
+            <phone>01495 755812</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor does not hold a surgery, please contact directly.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Two Locks and Henllys</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>29</councillorid>
+          <fullusername>Councillor Ron Burnett</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/9/2/0/Info00000029/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/9/2/0/Info00000029/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent Group</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>Torfaen</line4>
+            <postcode>NP4 6YB</postcode>
+            <mobile>07980682481</mobile>
+            <email>ronald.burnett@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Sunny Bank</line1>
+            <line2>Henllys</line2>
+            <line3>Cwmbran</line3>
+            <line4>NP44 6HB</line4>
+            <phone>01633 874157</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Contact Councillor for a home visit.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>26</councillorid>
+          <fullusername>Councillor Pamela Cameron</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/6/2/0/Info00000026/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/6/2/0/Info00000026/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <email>pamela.cameron@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>8 Garth Road</line1>
+            <line2>Ty Coch</line2>
+            <line3>Cwmbran</line3>
+            <line4>NP44 7AB</line4>
+            <phone>01633 873793</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Friday of every month from 2pm - 3pm at the White Hut Coed Eva and the following day from 10am - 11am at the White Hut Coed Eva and 11.15am - 12.15pm at Henllys Village Hall.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>23</councillorid>
+          <fullusername>Councillor Colette Thomas</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/3/2/0/Info00000023/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/3/2/0/Info00000023/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Learning Communities Overview &amp; Scrutiny Committee</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07966 461725</mobile>
+            <email>colette.thomas@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Sandybrook Close</line1>
+            <line2>Off Ton Road</line2>
+            <line3>Cwmbran</line3>
+            <line4>NP44 7JA</line4>
+            <phone>01633 482104</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Friday of every month from 2pm - 3pm at the White Hut Coed Eva and the following day from 10am - 11am at the White Hut Coed Eva and 11.15am - 12.15pm at Henllys Village Hall.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Upper Cwmbran</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>21</councillorid>
+          <fullusername>Councillor Mary Barnett</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/1/2/0/Info00000021/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/1/2/0/Info00000021/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Pensions Committee</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07812 208097</mobile>
+            <email>mary.barnett@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>'Ty Canol'</line1>
+            <line2>Upper Cwmbran Road</line2>
+            <line3>Upper Cwmbran</line3>
+            <line4>NP44 5SL</line4>
+            <phone>01633 484002</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors Barnett and Cunningham share a surgery on the first Saturday of every month, except August, at 10am–12pm. One councillor will be at Thornhill Community Association, the other at West Pontnewydd Community Hall.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>19</councillorid>
+          <fullusername>Councillor John Cunningham MBE KSG</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/9/1/0/Info00000019/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/9/1/0/Info00000019/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Executive Member Neighbourhoods</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07980 682007</mobile>
+            <email>john.cunningham@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Ty Pwca Road</line1>
+            <line2>Upper Cwmbran</line2>
+            <line3>Cwmbran</line3>
+            <line4>NP44 1SZ</line4>
+            <phone>01633 862050</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors Barnett and Cunningham share a surgery on the first Saturday of every month, except August, at 10am–12pm. One councillor will be at Thornhill Community Association, the other at West Pontnewydd Community Hall.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>18</councillorid>
+          <fullusername>Councillor Robert Kemp</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/8/1/0/Info00000018/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/8/1/0/Info00000018/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent Group</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Safer Communities Overview &amp; Scrutiny Committee</keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07507 054473</mobile>
+            <email>robert.kemp@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Councillor R D Kemp</line1>
+            <line2>6 Crown Close</line2>
+            <line3>Pontnewydd</line3>
+            <line4>Cwmbran</line4>
+            <postcode>NP44 1BW</postcode>
+            <phone>01633 793009</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor Kemp holds surgeries on the second Saturday of every month 9.30am–10.45am at Thornhill Community Centre and 11am–12pm at West Pontnewydd Community Centre.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wainfelin</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>13</councillorid>
+          <fullusername>Councillor Mike Jeremiah</fullusername>
+          <photosmallurl>http://moderngov.torfaen.gov.uk/UserData/3/1/0/Info00000013/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.torfaen.gov.uk/UserData/3/1/0/Info00000013/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent Group</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Torfaen County Borough Council</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Pontypool</line3>
+            <line4>NP4 6YB</line4>
+            <mobile>07935 991143</mobile>
+            <email>Mike.Jeremiah@torfaen.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>83 Wainfelin Avenue</line1>
+            <line2>Wainfelin</line2>
+            <line3>Pontypool</line3>
+            <line4>Torfaen</line4>
+            <postcode>NP4 6DP</postcode>
+            <phone>01495 755830</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor Jeremiah holds surgeries on the first Saturday of every month 10.30am–12pm at Wainfelin and Pentranch Community Hall.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Ashford Common</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>199</councillorid>
+          <fullusername>Councillor John Kavanagh</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/9/9/1/Info00000199/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/9/9/1/Info00000199/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Wolsey Road</line1>
+            <line2>Ashford</line2>
+            <postcode>TW15 2RA</postcode>
+            <phone>07508 230970</phone>
+            <email>cllr.kavanagh@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>200</councillorid>
+          <fullusername>Councillor Howard Thomson</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/0/0/2/Info00000200/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/0/0/2/Info00000200/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>52 Ashford Crescent</line1>
+            <line2>Ashford</line2>
+            <postcode>TW15 3EB</postcode>
+            <phone>07770 917538</phone>
+            <email>cllr.thomson@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>201</councillorid>
+          <fullusername>Councillor Howard Williams</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/1/0/2/Info00000201/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/1/0/2/Info00000201/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Great Western Cottages</line1>
+            <line2>Moor Lane</line2>
+            <line3>Staines-upon-Thames</line3>
+            <postcode>TW18 4YP</postcode>
+            <phone>07539 430945</phone>
+            <email>cllr.williams@spelthorne.gov.uk</email>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Ashford East</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>202</councillorid>
+          <fullusername>Councillor Rose Chandler</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/2/0/2/Info00000202/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/2/0/2/Info00000202/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>38 Wrens Avenue</line1>
+            <line2>Ashford</line2>
+            <postcode>TW15 1AP</postcode>
+            <phone>07949 588162</phone>
+            <email>cllr.chandler@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>137</councillorid>
+          <fullusername>Councillor Chris Frazer</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/7/3/1/Info00000137/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/7/3/1/Info00000137/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Camilla Close</line1>
+            <line2>Cavendish Road</line2>
+            <line3>Sunbury on Thames</line3>
+            <postcode>TW16 7PZ</postcode>
+            <phone>01932 989553</phone>
+            <email>cllr.frazer@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>148</councillorid>
+          <fullusername>Councillor Tony Mitchell</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/8/4/1/Info00000148/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/8/4/1/Info00000148/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>92 Village Way</line1>
+            <line2>Ashford</line2>
+            <postcode>TW15 2JU</postcode>
+            <phone>01784 253929</phone>
+            <mobile>07855 397007</mobile>
+            <email>cllr.mitchell@spelthorne.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Ashford Residents' Meeting - Wednesday 16 September at 6.30pm in St Matthew's Church.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Ashford North and Stanwell South</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>203</councillorid>
+          <fullusername>Councillor Sinead Mooney</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/3/0/2/Info00000203/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/3/0/2/Info00000203/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>26 Avondale Road</line1>
+            <line2>Ashford</line2>
+            <postcode>TW15 3HS</postcode>
+            <phone>07450218451</phone>
+            <email>cllr.mooney@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>204</councillorid>
+          <fullusername>Councillor Anne-Marie Neale</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/4/0/2/Info00000204/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/4/0/2/Info00000204/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>3b Salcome Road</line1>
+            <line2>Ashford</line2>
+            <postcode>TW15 3BP</postcode>
+            <phone>07988 789110</phone>
+            <email>cllr.neale@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>158</councillorid>
+          <fullusername>Councillor Joanne Sexton</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/8/5/1/Info00000158/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/8/5/1/Info00000158/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>The Hollies</line1>
+            <line2>17 Rosefield Road</line2>
+            <line3>Staines-upon-Thames</line3>
+            <postcode>TW18 4NB</postcode>
+            <mobile>07967 967990</mobile>
+            <email>cllr.sexton@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Ashford Town</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>112</councillorid>
+          <fullusername>Councillor Nick Gething</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/2/1/1/Info00000112/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/2/1/1/Info00000112/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>22 Tennyson Road</line1>
+            <line2>Ashford</line2>
+            <postcode>TW15 2LN</postcode>
+            <phone>01784 229787</phone>
+            <email>cllr.gething@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>205</councillorid>
+          <fullusername>Councillor Naz Islam</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/5/0/2/Info00000205/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/5/0/2/Info00000205/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>11 Romney Close</line1>
+            <line2>Ashford</line2>
+            <postcode>TW15 1EE</postcode>
+            <phone>07984 886344</phone>
+            <email>cllr.islam@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>206</councillorid>
+          <fullusername>Councillor Olivia Rybinski</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/6/0/2/Info00000206/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/6/0/2/Info00000206/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>67 Adelaide Road</line1>
+            <line2>Ashford</line2>
+            <postcode>TW15 3LL</postcode>
+            <phone>07912 106081</phone>
+            <email>cllr.rybinski@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Halliford and Sunbury West</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>142</councillorid>
+          <fullusername>Councillor Sandra Dunn</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/2/4/1/Info00000142/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/2/4/1/Info00000142/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>16 Loudwater Road</line1>
+            <line2>Lower Sunbury</line2>
+            <postcode>TW16 6DB</postcode>
+            <phone>01932 787854</phone>
+            <email>cllr.dunn@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>115</councillorid>
+          <fullusername>Councillor Tim Evans</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/5/1/1/Info00000115/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/5/1/1/Info00000115/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>37 School Walk</line1>
+            <line2>Sunbury On Thames</line2>
+            <postcode>TW16 6RB</postcode>
+            <phone>01932 785138</phone>
+            <email>cllr.evans@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>207</councillorid>
+          <fullusername>Councillor Anthony Jones</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/7/0/2/Info00000207/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/7/0/2/Info00000207/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>22 Minsterley Avenue</line1>
+            <line2>Shepperton</line2>
+            <postcode>TW17 8QT</postcode>
+            <phone>01932 783888</phone>
+            <email>cllr.jones@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Laleham and Shepperton Green</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>214</councillorid>
+          <fullusername>Councillor Maureen Attewell</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/4/1/2/Info00000214/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/4/1/2/Info00000214/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>25 Mulberry Trees</line1>
+            <line2>Shepperton</line2>
+            <postcode>TW17 8JL</postcode>
+            <mobile>07850 297754</mobile>
+            <email>cllr.attewell@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>147</councillorid>
+          <fullusername>Councillor Mary Madams</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/7/4/1/Info00000147/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/7/4/1/Info00000147/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Riverdale cottage</line1>
+            <line2>Vicarage Lane</line2>
+            <postcode>TW18 1UE</postcode>
+            <phone>01784 462683</phone>
+            <email>cllr.madams@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>153</councillorid>
+          <fullusername>Councillor Richard Smith-Ainsley</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/3/5/1/Info00000153/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/3/5/1/Info00000153/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>22 Hetherington Road</line1>
+            <line2>Shepperton</line2>
+            <postcode>TW17 OSP</postcode>
+            <phone>01932 713879</phone>
+            <email>cllr.smith-ainsley@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Riverside and Laleham</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>208</councillorid>
+          <fullusername>Councillor Quentin Edgington</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/8/0/2/Info00000208/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/8/0/2/Info00000208/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>50 Fairwater Drive</line1>
+            <line2>Shepperton</line2>
+            <postcode>TW17 8EW</postcode>
+            <phone>07703 887757</phone>
+            <email>cllr.edgington@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>146</councillorid>
+          <fullusername>Councillor Tony Harman</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/6/4/1/Info00000146/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/6/4/1/Info00000146/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Communications and ICT</representing>
+          <keyposts>Deputy Leader</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <phone>01784 457884</phone>
+            <email>cllr.harman@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>152</councillorid>
+          <fullusername>Councillor Denise Saliagopoulos</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/2/5/1/Info00000152/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/2/5/1/Info00000152/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>45 Penton Avenue</line1>
+            <line2>Staines-upon-Thames</line2>
+            <postcode>TW18 2NA</postcode>
+            <phone>01784 454420</phone>
+            <email>cllr.saliagopoulos@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Shepperton Town</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>255</councillorid>
+          <fullusername>Councillor Colin Barnard</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/5/5/2/Info00000255/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/5/5/2/Info00000255/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>52c Thames Meadow</line1>
+            <line2>Shepperton</line2>
+            <postcode>TW17 8LT</postcode>
+            <phone>01932 705950</phone>
+            <mobile>07999 516199</mobile>
+            <email>cllr.barnard@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>15/12/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>109</councillorid>
+          <fullusername>Councillor Vivienne Leighton</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/9/0/1/Info00000109/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/9/0/1/Info00000109/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Hamhaugh Island</line1>
+            <line2>Shepperton</line2>
+            <postcode>TW17 9LP</postcode>
+            <phone>01932 231596</phone>
+            <email>cllr.leighton@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>108</councillorid>
+          <fullusername>Councillor Robin Sider BEM</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/8/0/1/Info00000108/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/8/0/1/Info00000108/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Thamesmead Villas</line1>
+            <line2>Walton Lane</line2>
+            <line3>Shepperton</line3>
+            <postcode>TW17 8LL</postcode>
+            <phone>01932 232990</phone>
+            <email>cllr.sider@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/1999</startdate>
+              <enddate>09/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Staines</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>135</councillorid>
+          <fullusername>Councillor Colin Davis</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/5/3/1/Info00000135/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/5/3/1/Info00000135/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>133 Church Street</line1>
+            <line2>Staines-upon-Thames</line2>
+            <postcode>TW18 4XZ</postcode>
+            <phone>07530 858839</phone>
+            <email>cllr.davis@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>143</councillorid>
+          <fullusername>Councillor Mark Francis</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/3/4/1/Info00000143/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/3/4/1/Info00000143/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Mayor</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>51 Edgell Road</line1>
+            <line2>Staines-upon-Thames</line2>
+            <postcode>TW18 2EP</postcode>
+            <mobile>07511 674608</mobile>
+            <email>cllr.francis@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>136</councillorid>
+          <fullusername>Councillor Jean Pinkerton OBE</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/6/3/1/Info00000136/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/6/3/1/Info00000136/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>46 Rosefield Road</line1>
+            <line2>Staines-upon-Thames</line2>
+            <postcode>TW18 4NB</postcode>
+            <phone>01784 456440</phone>
+            <email>cllr.pinkertonjean@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Staines South</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>209</councillorid>
+          <fullusername>Councillor Steven Burkmar</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/9/0/2/Info00000209/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/9/0/2/Info00000209/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>11 Green Lake Terrace</line1>
+            <line2>Laleham Road</line2>
+            <line3>Staines-upon-Thames</line3>
+            <postcode>TW18 2NU</postcode>
+            <phone>07757 730315</phone>
+            <email>cllr.burkmar@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>210</councillorid>
+          <fullusername>Councillor Sabine Capes</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/0/1/2/Info00000210/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/0/1/2/Info00000210/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Thickthorne Lane</line1>
+            <line2>Staines upon Thames</line2>
+            <postcode>TW18 1LU</postcode>
+            <phone>07711 934331</phone>
+            <email>cllr.capes@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>107</councillorid>
+          <fullusername>Councillor Penny Forbes-Forsyth</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/7/0/1/Info00000107/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/7/0/1/Info00000107/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>51 Hensworth Road</line1>
+            <line2>Ashford</line2>
+            <postcode>TW15 3NG</postcode>
+            <phone>01784 770697</phone>
+            <mobile>07957 811082</mobile>
+            <email>cllr.forbes-forsyth@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stanwell North</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>198</councillorid>
+          <fullusername>Councillor Richard Barratt</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/8/9/1/Info00000198/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/8/9/1/Info00000198/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>17 Tennyson Road</line1>
+            <line2>Ashford</line2>
+            <postcode>TW15 2LN</postcode>
+            <phone>07747 157972</phone>
+            <email>cllr.barratt@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>212</councillorid>
+          <fullusername>Councillor Susan Doran</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/2/1/2/Info00000212/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/2/1/2/Info00000212/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>20 Britannia Way</line1>
+            <line2>Stanwell</line2>
+            <postcode>TW19 7HJ</postcode>
+            <phone>01784 255470</phone>
+            <mobile>07708 418154</mobile>
+            <email>cllr.doran@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>213</councillorid>
+          <fullusername>Councillor Kevin Flurry</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/3/1/2/Info00000213/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/3/1/2/Info00000213/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>130 Woodthorpe Road</line1>
+            <line2>Ashford</line2>
+            <postcode>TW15 3LH</postcode>
+            <mobile>07914289882</mobile>
+            <email>cllr.flurry@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sunbury Common</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>134</councillorid>
+          <fullusername>Councillor Ian Beardsmore</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/4/3/1/Info00000134/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/4/3/1/Info00000134/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>190 Staines Road East</line1>
+            <line2>Sunbury On Thames</line2>
+            <postcode>TW16 5AY</postcode>
+            <phone>01932 782031</phone>
+            <email>cllr.beardsmore@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/1991</startdate>
+              <enddate>04/05/1995</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/1999</startdate>
+              <enddate>01/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>211</councillorid>
+          <fullusername>Councillor Alison Griffiths</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/1/1/2/Info00000211/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/1/1/2/Info00000211/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>124 Spelthorne Grove</line1>
+            <line2>Sunbury on Thames</line2>
+            <postcode>TW16 7BY</postcode>
+            <phone>07708 166522</phone>
+            <email>cllr.griffiths@spelthorne.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Saturday of the month at Sunbury Common Library from 10.30am – 12 30pm.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>155</councillorid>
+          <fullusername>Councillor Bernie Spoor</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/5/5/1/Info00000155/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/5/5/1/Info00000155/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>44 Stratton Road</line1>
+            <line2>Sunbury</line2>
+            <postcode>TW16 6PQ</postcode>
+            <phone>01932 700025</phone>
+            <email>cllr.spoor@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>19/12/2012</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sunbury East</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>118</councillorid>
+          <fullusername>Councillor Alfred Friday</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/8/1/1/Info00000118/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/8/1/1/Info00000118/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Mayor</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>15 French Street</line1>
+            <line2>Sunbury On Thames</line2>
+            <postcode>TW16 5JH</postcode>
+            <phone>01932 781246</phone>
+            <email>cllr.friday@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>117</councillorid>
+          <fullusername>Councillor Ian Harvey</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/7/1/1/Info00000117/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/7/1/1/Info00000117/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Economic Development and Fixed Assets</representing>
+          <keyposts>Leader</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Bay Villas</line1>
+            <line2>Green Street</line2>
+            <line3>Sunbury On Thames</line3>
+            <postcode>TW16 6QH</postcode>
+            <mobile>07917 773595</mobile>
+            <email>cllr.harvey@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2013</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>149</councillorid>
+          <fullusername>Councillor Daxa Patel</fullusername>
+          <photosmallurl>http://democracy.spelthorne.gov.uk/UserData/9/4/1/Info00000149/smallpic.jpg</photosmallurl>
+          <photobigurl>http://democracy.spelthorne.gov.uk/UserData/9/4/1/Info00000149/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>60a Manor Lane</line1>
+            <line2>Sunbury</line2>
+            <postcode>TW16 5EG</postcode>
+            <phone>01932 706970</phone>
+            <mobile>07970 736938</mobile>
+            <email>cllr.patel@spelthorne.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

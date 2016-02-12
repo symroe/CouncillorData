@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Broadmead Ward</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>383</councillorid>
+          <fullusername>Councillor Mrs Ann Berry</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/3/8/3/Info00000383/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/3/8/3/Info00000383/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>AnnCllr.Berry@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>35 Birkdale Drive</line1>
+            <line2>Folkestone, Kent</line2>
+            <line4>CT19 5LP</line4>
+            <phone>01303 278644</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cheriton Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>389</councillorid>
+          <fullusername>Councillor John Collier</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/9/8/3/Info00000389/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/9/8/3/Info00000389/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for the District Economy</keyposts>
+          <workaddress>
+            <mobile>07813 702852</mobile>
+            <email>john.collier@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Blenheim Place</line1>
+            <line2>Coolinge Lane</line2>
+            <line3>Folkestone, Kent</line3>
+            <postcode>CT20 3RJ</postcode>
+            <phone>01303 255779</phone>
+            <mobile>07813 702852</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>144</councillorid>
+          <fullusername>Councillor Peter Gane</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/4/4/1/Info00000144/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/4/4/1/Info00000144/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>peter.gane@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>142 Shaftesbury Avenue</line1>
+            <line2>Cheriton</line2>
+            <line3>Folkestone, Kent</line3>
+            <postcode>CT19 4LX</postcode>
+            <phone>01303 276652</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1762</councillorid>
+          <fullusername>Councillor Damon Robinson</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/2/6/7/Info00001762/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/2/6/7/Info00001762/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UKIP</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>damon.robinson@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Fairfax Close</line1>
+            <line2>Cheriton</line2>
+            <line3>Folkestone</line3>
+            <line4>Kent</line4>
+            <postcode>CT20 3SL</postcode>
+            <phone>01303 489394</phone>
+            <mobile>07733481168</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>East Folkestone Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1763</councillorid>
+          <fullusername>Councillor Mrs Claire Jeffrey</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/3/6/7/Info00001763/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/3/6/7/Info00001763/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>claire.jeffrey@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>30 Bradstone Avenue</line1>
+            <line2>Folkestone</line2>
+            <line3>Kent</line3>
+            <postcode>CT19 5AG</postcode>
+            <phone>01303 250011</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1764</councillorid>
+          <fullusername>Councillor Frank McKenna</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/4/6/7/Info00001764/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/4/6/7/Info00001764/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UKIP</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>frank.mckenna@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>52B Broadmead Road</line1>
+            <line2>Folkestone</line2>
+            <line3>Kent</line3>
+            <postcode>CT19 5AP</postcode>
+            <mobile>07812688591</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1765</councillorid>
+          <fullusername>Councillor Mrs Carol Sacre</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/5/6/7/Info00001765/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/5/6/7/Info00001765/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UKIP</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01303 853493</phone>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Folkestone Central Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>131</councillorid>
+          <fullusername>Councillor David Monk</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/1/3/1/Info00000131/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/1/3/1/Info00000131/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Council</keyposts>
+          <workaddress>
+            <email>david.monk@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>23 Minter Avenue</line1>
+            <line2>Densole</line2>
+            <line3>Kent</line3>
+            <postcode>CT18 7DS</postcode>
+            <phone>01303 891001</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>161</councillorid>
+          <fullusername>Councillor Richard Pascoe</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/1/6/1/Info00000161/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/1/6/1/Info00000161/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>richard.pascoe@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Horsley Close</line1>
+            <line2>Hawkinge</line2>
+            <line3>Folkestone</line3>
+            <postcode>CT18 7FN</postcode>
+            <phone>01303 894390</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1766</councillorid>
+          <fullusername>Councillor Mrs Rodica Wheeler</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/6/6/7/Info00001766/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/6/6/7/Info00001766/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>rodica.wheeler@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Flat 4</line1>
+            <line2>3 Grimston Avenue</line2>
+            <line3>Folkestone</line3>
+            <line4>Kent</line4>
+            <postcode>CT20 2QE</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Folkestone Harbour Ward</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1767</councillorid>
+          <fullusername>Councillor Mrs Mary E Lawes</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/7/6/7/Info00001767/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/7/6/7/Info00001767/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UKIP</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of UKIP Group</keyposts>
+          <workaddress>
+            <email>mary.lawes@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>61 Warren Road</line1>
+            <line2>Folkestone</line2>
+            <line3>Kent</line3>
+            <postcode>CT19 6DL</postcode>
+            <mobile>07505882169</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>126</councillorid>
+          <fullusername>Councillor Mrs Susan Wallace</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/6/2/1/Info00000126/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/6/2/1/Info00000126/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>susan.wallace@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>33 Penfold Road</line1>
+            <line2>Folkestone</line2>
+            <line3>Kent</line3>
+            <postcode>CT19 6DG</postcode>
+            <phone>01303 778099</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Hythe Rural Ward</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>130</councillorid>
+          <fullusername>Councillor Michael Lyons</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/0/3/1/Info00000130/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/0/3/1/Info00000130/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>michael.lyons@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Craigside</line1>
+            <line2>67 Turnpike Hill</line2>
+            <line3>Hythe</line3>
+            <line4>Kent</line4>
+            <postcode>CT21 4SE</postcode>
+            <mobile>07960 794602</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>385</councillorid>
+          <fullusername>Councillor Paul Peacock</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/5/8/3/Info00000385/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/5/8/3/Info00000385/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>paul.peacock@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Waymakers</line1>
+            <line2>44A Bartholomew Street</line2>
+            <line3>Hythe, Kent</line3>
+            <postcode>CT21 5BY</postcode>
+            <mobile>07596973885</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Hythe Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>141</councillorid>
+          <fullusername>Councillor Malcolm Dearden</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/1/4/1/Info00000141/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/1/4/1/Info00000141/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Transport and Commercial</keyposts>
+          <workaddress>
+            <email>malcolm.dearden@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Highways</line1>
+            <line2>Cliff Road</line2>
+            <line3>Hythe, Kent</line3>
+            <postcode>CT21 5XA</postcode>
+            <phone>01303 261008</phone>
+            <mobile>07889 775999</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>143</councillorid>
+          <fullusername>Councillor Alan Ewart-James</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/3/4/1/Info00000143/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/3/4/1/Info00000143/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Housing</keyposts>
+          <workaddress>
+            <email>alan.ewart-james@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Lewty Barn</line1>
+            <line2>Cliff Road</line2>
+            <line3>Hythe, Kent</line3>
+            <postcode>CT21 5XN</postcode>
+            <phone>01303 265316</phone>
+            <mobile>07894817434</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>162</councillorid>
+          <fullusername>Councillor David Owen</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/2/6/1/Info00000162/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/2/6/1/Info00000162/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Chairman of the Council</keyposts>
+          <workaddress>
+            <email>david.owen@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Lower Blackhouse Hill</line1>
+            <line2>Hythe</line2>
+            <line3>Kent</line3>
+            <postcode>CT21 5LS</postcode>
+            <phone>01303 260682</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>New Romney Ward</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1768</councillorid>
+          <fullusername>Councillor Miss Susie Govett</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/8/6/7/Info00001768/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/8/6/7/Info00001768/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UKIP</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>susie.govett@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>24 Meehan Road</line1>
+            <line2>Greatstone</line2>
+            <line3>New Romney</line3>
+            <line4>Kent</line4>
+            <postcode>TN28 8NZ</postcode>
+            <mobile>07870445704</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>387</councillorid>
+          <fullusername>Councillor Peter Simmons</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/7/8/3/Info00000387/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/7/8/3/Info00000387/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>peter.simmons@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>72 Meehan Road</line1>
+            <line2>Greatstone</line2>
+            <line3>New Romney, Kent</line3>
+            <postcode>TN28 8NY</postcode>
+            <phone>01797 367367</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>North Downs East Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>146</councillorid>
+          <fullusername>Councillor David Godfrey</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/6/4/1/Info00000146/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/6/4/1/Info00000146/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Special Projects</keyposts>
+          <workaddress>
+            <email>david.godfrey@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 The Pasture</line1>
+            <line2>Hawkinge</line2>
+            <line3>Kent</line3>
+            <postcode>CT18 7PN</postcode>
+            <mobile>07584 304301</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>155</councillorid>
+          <fullusername>Councillor Philip Martin</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/5/5/1/Info00000155/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/5/5/1/Info00000155/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>North Downs East</representing>
+          <keyposts>Cabinet Member for Property Management and Environmental Health</keyposts>
+          <workaddress>
+            <email>philip.martin@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>65A Canterbury Road</line1>
+            <line2>Hawkinge</line2>
+            <line3>Folkestone</line3>
+            <line4>Kent</line4>
+            <postcode>CT18 7BP</postcode>
+            <phone>01303 892512</phone>
+            <mobile>07968 406702</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>163</councillorid>
+          <fullusername>Councillor Stuart Peall</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/3/6/1/Info00000163/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/3/6/1/Info00000163/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for the Environment</keyposts>
+          <workaddress>
+            <email>stuart.peall@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>11 The Pasture</line1>
+            <line2>Hawkinge</line2>
+            <line3>Kent</line3>
+            <postcode>CT18 7PN</postcode>
+            <mobile>07956 110887</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>North Downs West Ward</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>135</councillorid>
+          <fullusername>Councillor Miss Susan Carey</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/5/3/1/Info00000135/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/5/3/1/Info00000135/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Finance</keyposts>
+          <workaddress>
+            <email>susan.carey@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>North House</line1>
+            <line2>116A North Road</line2>
+            <line3>Hythe, Kent</line3>
+            <postcode>CT21 5DY</postcode>
+            <phone>01303 670561</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>150</councillorid>
+          <fullusername>Councillor Mrs Jennifer Hollingsbee</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/0/5/1/Info00000150/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/0/5/1/Info00000150/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader and Cabinet Member for Communities</keyposts>
+          <workaddress>
+            <phone>01797 364593</phone>
+            <email>jenny.hollingsbee@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Snowdrop</line1>
+            <line2>Swan Lane</line2>
+            <line3>Sellindge, Ashford</line3>
+            <postcode>TN25 6EB</postcode>
+            <phone>01303 812066</phone>
+            <mobile>07887 918458</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Romney Marsh Ward</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1769</councillorid>
+          <fullusername>Councillor Ian Meyers</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/9/6/7/Info00001769/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/9/6/7/Info00001769/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UKIP</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>26 Mill Road</line1>
+            <line2>Dymchurch</line2>
+            <line3>Kent</line3>
+            <postcode>TN29 0NZ</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>386</councillorid>
+          <fullusername>Councillor Roger Wilkins</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/6/8/3/Info00000386/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/6/8/3/Info00000386/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>roger.wilkins@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 St Marys Road</line1>
+            <line2>Dymchurch</line2>
+            <line3>Romney Marsh, Kent</line3>
+            <postcode>TN29 0PL</postcode>
+            <mobile>07766781685</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sandgate and West Folkestone Ward</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>149</councillorid>
+          <fullusername>Councillor Ms Janet Holben</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/9/4/1/Info00000149/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/9/4/1/Info00000149/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chairman of the Council</keyposts>
+          <workaddress>
+            <email>janet.holben@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>30 Valley Road</line1>
+            <line2>Sandgate</line2>
+            <line3>Folkestone, Kent</line3>
+            <postcode>CT20 3BS</postcode>
+            <phone>01303 248784</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>153</councillorid>
+          <fullusername>Councillor Rory Love</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/3/5/1/Info00000153/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/3/5/1/Info00000153/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Customers and Digital Delivery</keyposts>
+          <workaddress>
+            <email>rory.love@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>89 Harbour Way</line1>
+            <line2>Folkestone</line2>
+            <line3>Kent</line3>
+            <postcode>CT20 1LZ</postcode>
+            <phone>01303 241785</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Walland and Denge Marsh Ward</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>145</councillorid>
+          <fullusername>Councillor Clive Goddard</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/5/4/1/Info00000145/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/5/4/1/Info00000145/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>clive.goddard@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>24 Vinelands</line1>
+            <line2>Lydd</line2>
+            <line3>Romney Marsh, Kent</line3>
+            <postcode>TN29 9BH</postcode>
+            <phone>01797 320989</phone>
+            <mobile>07857 377555</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1770</councillorid>
+          <fullusername>Councillor Len Laws</fullusername>
+          <photosmallurl>http://www.shepway.gov.uk/moderngov/UserData/0/7/7/Info00001770/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.shepway.gov.uk/moderngov/UserData/0/7/7/Info00001770/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UKIP</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader UKIP group</keyposts>
+          <workaddress>
+            <email>len.laws@shepway.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Yalta House</line1>
+            <line2>Romney Road</line2>
+            <line3>Lydd</line3>
+            <line4>Kent</line4>
+            <postcode>TN29 9LN</postcode>
+            <phone>01797 322169</phone>
+            <mobile>07778152166</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

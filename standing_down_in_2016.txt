@@ -1,0 +1,111 @@
+05/05/2016,Councillor Katrina Trott,137,Liberal Democrats,,ktrott@fareham.gov.uk
+05/05/2016,Councillor John Bryant,147,Conservative,,jbryant@fareham.gov.uk
+05/05/2016,Councillor David Whittingham,123,Conservative,,dwhittingham@fareham.gov.uk
+05/05/2016,Councillor Trevor Howard,145,Conservative,,thoward@fareham.gov.uk
+05/05/2016,Councillor Nick Gregory,162,Independent,,ngregory@fareham.gov.uk
+05/05/2016,Councillor Tim Knight,136,Conservative,,tknight@fareham.gov.uk
+05/05/2016,Councillor Keith Evans,143,Conservative,,kevans@fareham.gov.uk
+05/05/2016,Councillor Marian Ellerton,148,Conservative,,mellerton@fareham.gov.uk
+05/05/2016,Councillor David Norris,166,Liberal Democrats,,dnorris@fareham.gov.uk
+05/05/2016,Councillor Nick Walker,122,Conservative,,nwalker@fareham.gov.uk
+05/05/2016,Councillor David Swanbrow,121,Conservative,,dswanbrow@fareham.gov.uk
+05/05/2016,Councillor Kay Mandry,152,Conservative,,kmandry@fareham.gov.uk
+05/05/2016,Councillor Tiffany Harper,165,Conservative,,tharper@fareham.gov.uk
+05/05/2016,Councillor Sarah Pankhurst,149,Conservative,,spankhurst@fareham.gov.uk
+05/05/2016,"Councillor Michael Ford, JP",118,Conservative,,mford@fareham.gov.uk
+05/05/2016,Councillor Eddie Jones,924,Labour,,eddie.jones@halton.gov.uk
+05/05/2016,Councillor Tony McDermott,933,Labour,,tony.mcdermott@halton.gov.uk
+05/05/2016,Councillor Marjorie Bradshaw,1438,Conservative,,marjorie.bradshaw@halton.gov.uk
+05/05/2016,Councillor Marie Wright,941,Labour,,marie.wright@halton.gov.uk
+05/05/2016,Councillor Stef Nelson,946,Labour,,stef.nelson@halton.gov.uk
+05/05/2016,Councillor Harry Howard,1124,Labour,,harry.howard@halton.gov.uk
+05/05/2016,Councillor Dave Thompson,949,Labour,,dave.thompson@halton.gov.uk
+05/05/2016,Councillor Paul Nolan,951,Labour,,paul.nolan@halton.gov.uk
+05/05/2016,Councillor Margaret Horabin,955,Labour,,margaret.horabin@halton.gov.uk
+05/05/2016,Councillor Ron Hignett,975,Labour,,ron.hignett@halton.gov.uk
+05/05/2016,Councillor Manny Doku,118,Labour,,emmanuel.doku@harlow.gov.uk
+05/05/2016,Councillor Simon Carter,139,Conservative,,simon.carter@harlow.gov.uk
+05/05/2016,Councillor Eddie Johnson,126,Conservative,,eddie.johnson@harlow.gov.uk
+05/05/2016,Councillor Emma Toal,129,Labour,,emma.toal@harlow.gov.uk
+05/05/2016,Councillor Jon Clempner,136,Labour,,jon@clempner.com
+05/05/2016,Councillor Jacqui Cross,133,Labour,,jacqui.cross@harlow.gov.uk
+05/05/2016,Councillor Waida Forman,135,Labour,,waida.forman@harlow.gov.uk
+05/05/2016,Councillor Muriel Jolles,130,Conservative,,muriel.jolles@harlow.gov.uk
+05/05/2016,Councillor Patrick McCabe,142,Labour,,patrick.mccabe@harlow.gov.uk
+05/05/2016,Councillor Russell Perrin,123,Conservative,,russell.perrin@harlow.gov.uk
+05/05/2016,Councillor Phil Waite,145,Labour,,phil.waite@harlow.gov.uk
+05/05/2016,Councillor John Paul Morris,2908,Liberal Democrat,,john.morris@huntingdonshire.gov.uk
+05/05/2016,Councillor Ken James Churchill,1355,UK Independence Party,Huntingdonshire District Council,Ken.Churchill@huntingdonshire.gov.uk
+05/05/2016,Councillor Phil Scott,149,Liberal Democrat,,phil.scott@kirklees.gov.uk
+05/05/2016,Councillor Ken Smith,152,Labour,,ken.smith@kirklees.gov.uk
+05/05/2016,Councillor Hanif Mayet,132,Labour,,hanif.mayet@kirklees.gov.uk
+05/05/2016,Councillor Shabir Pandor,137,Labour,,shabir.pandor@kirklees.gov.uk
+05/05/2016,Councillor Andrew Palfreeman,136,Conservative,,andrew.palfreeman@kirklees.gov.uk
+05/05/2016,Councillor Kath Pinnock,142,Liberal Democrat,,kath.pinnock@kirklees.gov.uk
+05/05/2016,Councillor David Ridgway,145,Liberal Democrat,,david.ridgway@kirklees.gov.uk
+05/05/2016,Councillor Molly Walton,160,Labour,,molly.walton@kirklees.gov.uk
+05/05/2016,Councillor Naheed Mather,131,Labour,,naheed.mather@kirklees.gov.uk
+05/05/2016,Councillor Graham Turner,158,Labour,,graham.turner@kirklees.gov.uk
+05/05/2016,Councillor Paul Kane,121,Labour,,paul.kane@kirklees.gov.uk
+05/05/2016,Councillor Abdul Patel,138,Labour,,abdul.patel@kirklees.gov.uk
+05/05/2016,Councillor Karen Rowling,146,Labour,,karen.rowling@kirklees.gov.uk
+05/05/2016,Councillor Christine Iredale,120,Liberal Democrat,,christine.iredale@kirklees.gov.uk
+05/05/2016,Councillor Sheikh Ullah,338,Labour,,sheikh.ullah@kirklees.gov.uk
+05/05/2016,Councillor Steve Hall,111,Labour,,steve.hall@kirklees.gov.uk
+05/05/2016,Councillor Charles Greaves,109,Valley Independent,,charles.greaves@kirklees.gov.uk
+05/05/2016,Councillor Donald Firth,107,Conservative,,donald.firth@kirklees.gov.uk
+05/05/2016,Councillor Robert Barraclough,98,Green Party,,robertw.barraclough@kirklees.gov.uk
+05/05/2016,Councillor Mark Hemingway,114,Conservative,,mark.hemingway@kirklees.gov.u
+05/05/2016,Councillor Simon Alvy,96,Labour,,simon.alvy@kirklees.gov.uk
+05/05/2016,Councillor Martyn Bolt,101,Conservative,,martyn.bolt@kirklees.gov.uk
+05/05/2016,Councillor Andrew Cooper,105,Green Party,,andrew.cooper@kirklees.gov.uk
+05/05/2016,Councillor Ian Wilkes,172,Liberal Democrats,Audley and Bignall End Ward,ian.wilkes@newcastle-staffs.gov.uk
+05/05/2016,Councillor Glyn Plant,416,Labour,Bradwell Ward,glyn.plant@newcastle-staffs.gov.uk
+05/05/2016,Councillor  Mrs Silvia Burgess,417,Labour,Butt Lane Ward,silvia.burgess@newcastle-staffs.gov.uk
+05/05/2016,Councillor Mrs Hilda Johnson,146,Labour,Chesterton Ward,hilda.johnson@newcastle-staffs.gov.uk
+05/05/2016,Councillor Andrew Parker,664,Conservative,Clayton Ward,andrew.parker@newcastle-staffs.gov.uk
+05/05/2016,Councillor Joan Winfield,418,Labour,Cross Heath Ward,joan.winfield@newcastle-staffs.gov.uk
+05/05/2016,Councillor Andrew Wemyss,171,Liberal Democrats,Halmerend Ward,andrew.wemyss@newcastle-staffs.gov.uk
+05/05/2016,Councillor Mrs Sophia Snell,419,Labour,Holditch Ward,sophia.snell@newcastle-staffs.gov.uk
+05/05/2016,Councillor Reginald Bailey,190,Labour,Kidsgrove Ward,david.elkington@newcastle-staffs.gov.uk
+05/05/2016,Councillor Mrs Tracey Peers,426,Conservative,Loggerheads & Whitmore Ward,Tracey.Peers@newcastle-staffs.gov.uk
+05/05/2016,Councillor Ian Matthews,149,Conservative,May Bank Ward,ian.matthews@newcastle-staffs.gov.uk
+05/05/2016,Councillor Mrs Elsie Bates,391,Labour,Newchapel Ward,elsie.bates@newcastle-staffs.gov.uk
+05/05/2016,Councillor John Cooper,129,Conservative,Porthill Ward,john.cooper@newcastle-staffs.gov.uk
+05/05/2016,Councillor David Stringer,420,Liberal Democrats,Ravenscliffe Ward,david.stringer@newcastle-staffs.gov.uk
+05/05/2016,Councillor Miss Chloe Mancey,421,Conservative,Seabridge Ward,chloe.mancey@newcastle-staffs.gov.uk
+05/05/2016,Councillor Mike Stubbs,422,Labour,Talke Ward,mike.stubbs@newcastle-staffs.gov.uk
+05/05/2016,Councillor Marion Reddish,156,Liberal Democrats,Thistleberry Ward,marion.reddish@newcastle-staffs.gov.uk
+05/05/2016,Councillor Colin Eastwood,424,Labour,Wolstanton Ward,colin.eastwood@newcastle-staffs.gov.uk
+05/05/2016,Councillor Matt Tucker,2110,Labour,,Councillor.M.Tucker@southampton.gov.uk
+05/05/2016,Councillor John Hannides,166,Conservative,,councillor.j.hannides@southampton.gov.uk
+05/05/2016,Councillor Stephen Barnes-Andrews,160,Labour,,councillor.s.barnes-andrews@southampton.gov.uk
+05/05/2016,Councillor Mary Lloyd,2127,Labour,,councillor.m.lloyd@southampton.gov.uk
+05/05/2016,Councillor Ivan White,155,Conservative,,councillor.i.white@southampton.gov.uk
+05/05/2016,Councillor Sally  Spicer,2144,Labour,,councillor.s.spicer@southampton.gov.uk
+05/05/2016,Councillor Dave Shields,2151,Labour,,Councillor.D.Shields@southampton.gov.uk
+05/05/2016,Councillor Edward Daunt,127,Conservative,,councillor.e.daunt@southampton.gov.uk
+05/05/2016,Councillor Eamonn Keogh,2161,Labour,,Councillor.E.Keogh@southampton.gov.uk
+05/05/2016,Councillor Linda Norris,2173,Conservative,,Councillor.L.Norris@southampton.gov.uk
+05/05/2016,Councillor Lee Whitbread,2175,Labour,,Councillor.L.Whitbread@southampton.gov.uk
+05/05/2016,Councillor Mark Chaloner,2180,Labour,,Councillor.M.Chaloner@southampton.gov.uk
+05/05/2016,Councillor Daniel Jeffery,2206,Labour,,Councillor.D.Jeffery@southampton.gov.uk
+05/05/2016,Councillor Sharon Mintoff,2189,Labour,,Councillor.S.Mintoff@southampton.gov.uk
+05/05/2016,Councillor Maureen Penny,1827,CONSERVATIVE,,maureen.penny2@btinternet.com
+05/05/2016,Councillor Bob Wright,923,LABOUR,,bob.wright.gov@ntlworld.com
+05/05/2016,Councillor Richard Hurley,1400,CONSERVATIVE,,richardh093@gmail.com
+05/05/2016,Councillor Stan Pajak,267,LIBERAL DEMOCRATS,,stanpajak@ymail.com
+05/05/2016,Councillor Ray Ballman,452,LABOUR,,rayballmann@yahoo.co.uk
+05/05/2016,Councillor Oliver Donachie,2021,CONSERVATIVE,,oliver.donachie@gmail.com
+05/05/2016,Councillor Fay Howard,261,LABOUR,,fayhoward@live.co.uk
+05/05/2016,Councillor Michael Bray,927,CONSERVATIVE,,BrMicha454@aol.com
+05/05/2016,Councillor Kevin Small,273,LABOUR,,kevinsmall@hotmail.com
+05/05/2016,Councillor Brian Mattock,929,CONSERVATIVE,,BMattock@swindon.gov.uk
+05/05/2016,Councillor Paul Baker,1094,LABOUR,,pauljbaker@ntlworld.com
+05/05/2016,Councillor Andrew Bennett,453,CONSERVATIVE,,abennett@ndirect.co.uk
+05/05/2016,Councillor Des Moffatt,344,LABOUR,,fendessy@yahoo.co.uk
+05/05/2016,Councillor Keith Williams,930,CONSERVATIVE,,KRWilliams@swindon.gov.uk
+05/05/2016,Councillor Vera Tomlinson,1204,CONSERVATIVE,,vtomlinson@swindon.gov.uk
+05/05/2016,Councillor Russell Holland,1095,CONSERVATIVE,,rholland@swindon.gov.uk
+05/05/2016,Councillor Steve Allsopp,225,LABOUR,,jean.norris1@ntlworld.com
+05/05/2016,Councillor Brian Ford,256,CONSERVATIVE,,bjf.ford1@gmail.com

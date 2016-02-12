@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Acton</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>47</councillorid>
+          <fullusername>Councillor Geoff Lowe</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/7/4/0/Info00000047/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/7/4/0/Info00000047/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>geoff.lowe@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>117 Herbert Jennings Avenue</line1>
+            <line2>Acton</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL12 7YA</postcode>
+            <phone>01978 359493</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Borras Park</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>44</councillorid>
+          <fullusername>Councillor J A Kelly KSG</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/4/4/0/Info00000044/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/4/4/0/Info00000044/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>james.kelly@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>21 Stratford Close</line1>
+            <line2>Acton Park</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL12 7UR</postcode>
+            <phone>01978 354271</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bronington</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>29</councillorid>
+          <fullusername>Councillor J R Skelland</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/9/2/0/Info00000029/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/9/2/0/Info00000029/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Conservatives</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>rodney.skelland@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Willington Cross Farm</line1>
+            <line2>Willington</line2>
+            <line3>Malpas</line3>
+            <line4>Cheshire</line4>
+            <postcode>SY14 7NA</postcode>
+            <phone>01948 830361</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Brymbo</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>26</councillorid>
+          <fullusername>Councillor Paul Rogers</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/6/2/0/Info00000026/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/6/2/0/Info00000026/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Conservatives</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>paul2.rogers@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>19 Ffordd Owain</line1>
+            <line2>Brymbo</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL11 5AY</postcode>
+            <phone>01978 753304</phone>
+            <mobile>07591032036</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bryn Cefn</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>28</councillorid>
+          <fullusername>Councillor Barbara Roxburgh</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/8/2/0/Info00000028/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/8/2/0/Info00000028/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Barbara.roxburgh@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Tanpant Teg</line1>
+            <line2>Pendwll Road</line2>
+            <line3>Moss Valley</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL11 6EU</postcode>
+            <phone>01978 756426</phone>
+            <mobile>07729068333</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Brynyffynnon</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>43</councillorid>
+          <fullusername>Councillor Phil Wynn</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/3/4/0/Info00000043/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/3/4/0/Info00000043/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>phil.wynn@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Court Road</line1>
+            <line2>Wrexham</line2>
+            <postcode>LL13 7RH</postcode>
+            <phone>01978 291208</phone>
+            <mobile>07792 542679</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cartrefle</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>21</councillorid>
+          <fullusername>Councillor Ronnie Prince</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/1/2/0/Info00000021/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/1/2/0/Info00000021/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ron.prince@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Havard Way</line1>
+            <line2>Wrexham</line2>
+            <postcode>LL13 9LP</postcode>
+            <phone>01978 362749</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cefn</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>32</councillorid>
+          <fullusername>Councillor David Taylor</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/2/3/0/Info00000032/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/2/3/0/Info00000032/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.taylor@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Cefn Mawr Post Office</line1>
+            <line2>Crane Street</line2>
+            <line3>Cefn Mawr</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL14 3LN</postcode>
+            <phone>01978 823090</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>41</councillorid>
+          <fullusername>Councillor Derek Wright</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/1/4/0/Info00000041/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/1/4/0/Info00000041/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>derek.wright@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Fern Villa</line1>
+            <line2>Church Street</line2>
+            <line3>Rhosymedre</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL14 3EA</postcode>
+            <phone>01978 822497</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Ceiriog Valley</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>24</councillorid>
+          <fullusername>Councillor Mrs J M B Roberts</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/4/2/0/Info00000024/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/4/2/0/Info00000024/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>barbara.roberts@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Gables</line1>
+            <line2>High Street</line2>
+            <line3>Glyn Ceiriog</line3>
+            <line4>Llangollen</line4>
+            <postcode>LL20 7EH</postcode>
+            <phone>01691 718387</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Chirk North</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>23</councillorid>
+          <fullusername>Councillor I Roberts</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/3/2/0/Info00000023/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/3/2/0/Info00000023/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ian1.roberts@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>62 Church View</line1>
+            <line2>Shepherds Lane</line2>
+            <line3>Chirk</line3>
+            <postcode>LL14 5PF</postcode>
+            <phone>01691 773758</phone>
+            <mobile>07979 067211</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Chirk South</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>59</councillorid>
+          <fullusername>Councillor Terry Evans</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/9/5/0/Info00000059/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/9/5/0/Info00000059/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>terry.evans@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Brooklyn</line1>
+            <line2>13 Ceiriog Close</line2>
+            <line3>Chirk</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL14 5SB</postcode>
+            <phone>01691 772015</phone>
+            <mobile>07709916109</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Coedpoeth</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>53</councillorid>
+          <fullusername>Councillor Krista Childs</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/3/5/0/Info00000053/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/3/5/0/Info00000053/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>krista.childs@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Yr Hen Garreg</line1>
+            <line2>10 Penygelli Road</line2>
+            <line3>Coedpoeth</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL11 3RN</postcode>
+            <phone>01978 759175</phone>
+            <mobile>07875090490</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>19</councillorid>
+          <fullusername>Councillor G W Griffiths</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/9/1/0/Info00000019/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/9/1/0/Info00000019/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>gareth.wyngriffiths@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Maes Tyddyn</line1>
+            <line2>off Talwrn Road</line2>
+            <line3>Coedpoeth</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL11 3LA</postcode>
+            <phone>01978 754338</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Erddig</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>55</councillorid>
+          <fullusername>Councillor R J Dutton OBE</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/5/5/0/Info00000055/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/5/5/0/Info00000055/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>bob.dutton@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>28 Drws-y-Coed</line1>
+            <line2>Sontley Road</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL13 7QB</postcode>
+            <phone>01978 357112</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Esclusham</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>12</councillorid>
+          <fullusername>Councillor Mark Pritchard</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/2/1/0/Info00000012/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/2/1/0/Info00000012/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Non Specified</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>mark.pritchard@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>'Adaley'</line1>
+            <line2>Henry Street</line2>
+            <line3>Rhostyllen</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL14 4BY</postcode>
+            <phone>01978 356856</phone>
+            <mobile>07740 637591</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Garden Village</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>34</councillorid>
+          <fullusername>Councillor Andy Williams</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/4/3/0/Info00000034/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/4/3/0/Info00000034/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>andy.williams@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>11 Haytor Road</line1>
+            <line2>Garden Village</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL11 2PT</postcode>
+            <phone>01978 351153</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Gresford East/West</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>13</councillorid>
+          <fullusername>Councillor Andrew Bailey</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/3/1/0/Info00000013/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/3/1/0/Info00000013/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>andrew.bailey@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Woodvale</line1>
+            <line2>Pant Lane</line2>
+            <line3>Gresford</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL12 8EU</postcode>
+            <phone>01978 855144</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Grosvenor</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>38</councillorid>
+          <fullusername>Councillor Steve Wilson</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/8/3/0/Info00000038/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/8/3/0/Info00000038/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>steve.wilson@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Spring Road</line1>
+            <line2>Rhosddu</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL11 2LU</postcode>
+            <phone>01978 355879</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Gwenfro</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>10</councillorid>
+          <fullusername>Councillor Neil Rogers</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/0/1/0/Info00000010/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/0/1/0/Info00000010/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>neil.rogers@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Cripps Avenue</line1>
+            <line2>Southsea</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL11 6RA</postcode>
+            <phone>01978 750237</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Gwersyllt East/South</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>61</councillorid>
+          <fullusername>Councillor D J Griffiths</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/1/6/0/Info00000061/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/1/6/0/Info00000061/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.griffiths@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Ty Newydd</line1>
+            <line2>Glan-Llyn Road</line2>
+            <line3>Bradley</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL11 4BB</postcode>
+            <phone>01978 759491</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>49</councillorid>
+          <fullusername>Councillor Bernie McCann</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/9/4/0/Info00000049/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/9/4/0/Info00000049/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Bernard.mccann@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Sherbourne Avenue</line1>
+            <line2>Bradley</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL11 4AZ</postcode>
+            <phone>01978 756085</phone>
+            <mobile>07931720210</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Gwersyllt North</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>36</councillorid>
+          <fullusername>Councillor Michael Williams</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/6/3/0/Info00000036/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/6/3/0/Info00000036/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>michael.williams@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Summerhill Park</line1>
+            <line2>Wrexham</line2>
+            <postcode>LL11 4SY</postcode>
+            <phone>01978 758295</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Gwersyllt West</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>37</councillorid>
+          <fullusername>Councillor O Arfon Jones</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/7/3/0/Info00000037/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/7/3/0/Info00000037/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Plaid Cymru</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>arfon.jones@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>12 Fairway Gardens</line1>
+            <line2>Gwersyllt</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL11 4XB</postcode>
+            <phone>01978 755048</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Hermitage</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>25</councillorid>
+          <fullusername>Councillor Graham Rogers</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/5/2/0/Info00000025/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/5/2/0/Info00000025/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>graham1.rogers@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Bell Court</line1>
+            <line2>Hightown</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL13 8QP</postcode>
+            <phone>01978 351107</phone>
+            <mobile>07968 214189</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Holt</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>50</councillorid>
+          <fullusername>Councillor M G Morris</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/0/5/0/Info00000050/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/0/5/0/Info00000050/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Conservatives</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>michael.morris@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Denverra</line1>
+            <line2>Sun Lane</line2>
+            <line3>Bowling Bank</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL13 9RW</postcode>
+            <phone>01978 661815</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Johnstown</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>31</councillorid>
+          <fullusername>Councillor David A Bithell</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/1/3/0/Info00000031/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/1/3/0/Info00000031/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>davida.bithell@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Hollies</line1>
+            <line2>Bangor Road</line2>
+            <line3>Eyton</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL13 0SW</postcode>
+            <phone>01978 781422</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Little Acton</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>18</councillorid>
+          <fullusername>Councillor William Baldwin</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/8/1/0/Info00000018/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/8/1/0/Info00000018/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>william.baldwin@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>24 Frances Avenue</line1>
+            <line2>Wrexham</line2>
+            <postcode>LL12 8BN</postcode>
+            <phone>01978 361327</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Llangollen Rural</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>30</councillorid>
+          <fullusername>Councillor P Jeffares</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/0/3/0/Info00000030/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/0/3/0/Info00000030/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>pat.jeffares@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Wexford</line1>
+            <line2>16 Wenfryn Close</line2>
+            <line3>Trevor</line3>
+            <line4>Llangollen</line4>
+            <postcode>LL20 7TU</postcode>
+            <phone>01978 820570</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Llay</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>42</councillorid>
+          <fullusername>Councillor Terry Boland</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/2/4/0/Info00000042/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/2/4/0/Info00000042/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>terry.boland@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>166 Bryn Place</line1>
+            <line2>Llay</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL12 0LT</postcode>
+            <phone>01978 851718</phone>
+            <mobile>07946789714</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>133</councillorid>
+          <fullusername>Councillor Robert Walsh</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/3/3/1/Info00000133/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/3/3/1/Info00000133/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Robert.Walsh@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Drill Hall Court</line1>
+            <line2>Llay</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL12 0PH</postcode>
+            <phone>01978 448020</phone>
+            <mobile>07915 476820</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Maesydre</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>51</councillorid>
+          <fullusername>Councillor Carole O'Toole MBE</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/1/5/0/Info00000051/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/1/5/0/Info00000051/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>carole.otoole@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>24 Park Avenue</line1>
+            <line2>Wrexham</line2>
+            <postcode>LL12 7AH</postcode>
+            <phone>01978 291250</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Marchwiel</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>22</councillorid>
+          <fullusername>Councillor John Pritchard</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/2/2/0/Info00000022/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/2/2/0/Info00000022/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>john.pritchard@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>21 Elwyn Drive</line1>
+            <line2>Marchwiel</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL13 ORD</postcode>
+            <phone>01978 358153</phone>
+            <mobile>07746857511</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Marford and Hosely</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>56</councillorid>
+          <fullusername>Councillor Mike Edwards</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/6/5/0/Info00000056/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/6/5/0/Info00000056/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>michael.edwards@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>13 Sandrock Road</line1>
+            <line2>Marford</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL12 8LT</postcode>
+            <phone>01978 854992</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Minera</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>40</councillorid>
+          <fullusername>Councillor David Kelly</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/0/4/0/Info00000040/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/0/4/0/Info00000040/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01978 759429</phone>
+            <email>david.kelly@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Min-Y-Mynydd</line1>
+            <line2>Old Road</line2>
+            <line3>Minera</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL11 3YR</postcode>
+            <phone>01978 752317</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>New Broughton</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>57</councillorid>
+          <fullusername>Councillor T Alan Edwards</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/7/5/0/Info00000057/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/7/5/0/Info00000057/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>talan.edwards@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Gwynfa Cottages</line1>
+            <line2>Gatewen Road</line2>
+            <line3>New Broughton</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL11 6UY</postcode>
+            <phone>01978 755501</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Offa</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>14</councillorid>
+          <fullusername>Councillor R Alun Jenkins</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/4/1/0/Info00000014/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/4/1/0/Info00000014/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>alun.jenkins@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Maes Glas</line1>
+            <line2>Court Road</line2>
+            <line3>Wrexham</line3>
+            <line4>LL13 7SN</line4>
+            <phone>01978 352879</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Overton</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>15</councillorid>
+          <fullusername>Councillor Lloyd Kenyon</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/5/1/0/Info00000015/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/5/1/0/Info00000015/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Conservatives</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>lloyd.kenyon@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Gredington</line1>
+            <line2>Whitchurch</line2>
+            <line3>Shropshire</line3>
+            <postcode>SY13 3DH</postcode>
+            <phone>01948 830305</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Pant</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>52</councillorid>
+          <fullusername>Councillor Mark Owens</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/2/5/0/Info00000052/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/2/5/0/Info00000052/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>marka.owens@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Fennant Road</line1>
+            <line2>Ponciau</line2>
+            <line3>Wrexham</line3>
+            <phone>01978 639507</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Penycae</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>17</councillorid>
+          <fullusername>Councillor John Phillips</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/7/1/0/Info00000017/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/7/1/0/Info00000017/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>johnc.phillips@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>57 Ffordd Llanerch</line1>
+            <line2>Penycae</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL14 2ND</postcode>
+            <phone>01978 843125</phone>
+            <mobile>07707209603</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Penycae and Ruabon South</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>48</councillorid>
+          <fullusername>Councillor Mrs JM Lowe</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/8/4/0/Info00000048/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/8/4/0/Info00000048/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>joan.lowe@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Plas Issa</line1>
+            <line2>Penycae</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL14 1TT</postcode>
+            <phone>01978 840156</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Plas Madoc</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>39</councillorid>
+          <fullusername>Councillor Paul Blackwell</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/9/3/0/Info00000039/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/9/3/0/Info00000039/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>paul.blackwell@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Croft</line1>
+            <line2>Abernant</line2>
+            <line3>Acrefair</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL14 3SN</postcode>
+            <phone>01490 430873</phone>
+            <mobile>07855620891</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Ponciau</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>27</councillorid>
+          <fullusername>Councillor Kevin Hughes</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/7/2/0/Info00000027/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/7/2/0/Info00000027/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>kevin1.hughes@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Penrhos</line1>
+            <line2>Erw Gerrig</line2>
+            <line3>Rhosllanerchrugog</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL14 2BS</postcode>
+            <phone>01978 840884</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>16</councillorid>
+          <fullusername>Councillor Paul H Pemberton</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/6/1/0/Info00000016/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/6/1/0/Info00000016/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>paul.pemberton@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Gilfach Goch</line1>
+            <line2>Queen Street</line2>
+            <line3>Rhos</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL14 1PY</postcode>
+            <phone>01978 842579</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Queensway</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>20</councillorid>
+          <fullusername>Councillor Colin Powell</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/0/2/0/Info00000020/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/0/2/0/Info00000020/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>colin.powell@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>26 Ashbourne Avenue</line1>
+            <line2>Gwersyllt</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL11 4RR</postcode>
+            <phone>01978 269003</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Rhosnesni</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>58</councillorid>
+          <fullusername>Councillor Anne Evans</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/8/5/0/Info00000058/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/8/5/0/Info00000058/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>anne.evans@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>23 Hilltop View Road</line1>
+            <line2>Borras Park</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL12 7SF</postcode>
+            <phone>01978 291452</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Rossett</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>11</councillorid>
+          <fullusername>Councillor Hugh Jones</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/1/1/0/Info00000011/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/1/1/0/Info00000011/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Conservatives</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01978 292588</phone>
+            <email>hugh.jones@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Stonewalls</line1>
+            <line2>Burton</line2>
+            <line3>Rossett</line3>
+            <line4>Wrexham</line4>
+            <postcode>LL12 0LG</postcode>
+            <mobile>07583152703</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Ruabon</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>54</councillorid>
+          <fullusername>Councillor Mrs Dana Davies</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/4/5/0/Info00000054/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/4/5/0/Info00000054/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>dana.davies@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Bedwell Close</line1>
+            <line2>Ruabon</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL14 6BW</postcode>
+            <phone>01978 824433</phone>
+            <mobile>07516069760</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Smithfield</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>60</councillorid>
+          <fullusername>Councillor A Keith Gregory</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/0/6/0/Info00000060/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/0/6/0/Info00000060/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Plaid Cymru</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>keith.gregory@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>13 Colwyn Road</line1>
+            <line2>Smithfield</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL13 8ET</postcode>
+            <phone>01978 263552</phone>
+            <mobile>07776 312744</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stansty</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>35</councillorid>
+          <fullusername>Councillor I David Bithell, MBE</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/5/3/0/Info00000035/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/5/3/0/Info00000035/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>idavid.bithell@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>27 Clarence Road</line1>
+            <line2>Rhosddu</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL11 2EU</postcode>
+            <phone>01978 355009</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Whitegate</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>46</councillorid>
+          <fullusername>Councillor Brian Cameron</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/6/4/0/Info00000046/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/6/4/0/Info00000046/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>brian.cameron@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>17 Clifton Close</line1>
+            <line2>Kings Mill</line2>
+            <line3>Wrexham</line3>
+            <postcode>LL13 0YJ</postcode>
+            <phone>01978 264795</phone>
+            <mobile>07790413363</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wynnstay</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>45</councillorid>
+          <fullusername>Councillor M C King OBE</fullusername>
+          <photosmallurl>http://moderngov.wrexham.gov.uk/UserData/5/4/0/Info00000045/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.wrexham.gov.uk/UserData/5/4/0/Info00000045/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Welsh Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01978 355761</phone>
+            <email>malcolm.king@wrexham.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Tyddyn Draw</line1>
+            <line2>Llanelidan</line2>
+            <line3>Ruthin</line3>
+            <line4>Denbighshire</line4>
+            <postcode>LL15 2TA</postcode>
+            <phone>01824 750710</phone>
+            <email>malcolm.king@wrexham.gov.uk</email>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

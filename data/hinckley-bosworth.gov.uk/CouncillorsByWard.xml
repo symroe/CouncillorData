@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Ambien</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>101</councillorid>
+          <fullusername>Councillor R Ward</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/1/0/1/Info00000101/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/1/0/1/Info00000101/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>reg.ward@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Mill House</line1>
+            <line2>Higham Lane</line2>
+            <line3>Stoke Golding</line3>
+            <line4>Nuneaton, Warwickshire</line4>
+            <postcode>CV13 6JH</postcode>
+            <phone>01455 212369</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/1999</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Barlestone, Nailstone &amp; Osbaston</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>11</councillorid>
+          <fullusername>Councillor WJ Crooks</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/1/1/0/Info00000011/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/1/1/0/Info00000011/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Hornbeam Road</line1>
+            <line2>Newbold Verdon</line2>
+            <line3>Leics</line3>
+            <postcode>LE9 9NT</postcode>
+            <phone>01455 822027</phone>
+            <email>bill.crooks@hinckley-bosworth.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/1987</startdate>
+              <enddate>01/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Barwell</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>485</councillorid>
+          <fullusername>Councillor RB Roberts</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/5/8/4/Info00000485/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/5/8/4/Info00000485/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>russell.roberts@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07813 038640</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>95</councillorid>
+          <fullusername>Councillor Mrs H Smith</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/5/9/0/Info00000095/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/5/9/0/Info00000095/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>hazel.smith@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>39 Bradgate Road</line1>
+            <line2>Barwell</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE9 8FB</postcode>
+            <phone>01455841919</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>488</councillorid>
+          <fullusername>Councillor HG Williams</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/8/8/4/Info00000488/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/8/8/4/Info00000488/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>huw.williams@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>94 Charnwood Road</line1>
+            <line2>Barwell</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE9 8FX</postcode>
+            <mobile>07968593624</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Burbage Sketchley &amp; Stretton</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>490</councillorid>
+          <fullusername>Councillor M Hall</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/0/9/4/Info00000490/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/0/9/4/Info00000490/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of Council</keyposts>
+          <workaddress>
+            <email>mike.hall@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Sketchley Lane</line1>
+            <line2>Burbage</line2>
+            <line3>Hinckley</line3>
+            <line4>Leicestershire</line4>
+            <postcode>LE10 2NG</postcode>
+            <mobile>07983 823122</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2003</startdate>
+              <enddate>06/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>301</councillorid>
+          <fullusername>Councillor SL Rooney</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/1/0/3/Info00000301/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/1/0/3/Info00000301/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Conservative Group Whip</keyposts>
+          <workaddress>
+            <email>stanley.rooney@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>18 The Stables</line1>
+            <line2>Burbage</line2>
+            <line3>Hinckley</line3>
+            <line4>Leicestershire</line4>
+            <postcode>LE10 2GS</postcode>
+            <phone>01455619123</phone>
+            <mobile>07790466601</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>495</councillorid>
+          <fullusername>Councillor A Wright</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/5/9/4/Info00000495/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/5/9/4/Info00000495/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>amanda.wright@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Florin House</line1>
+            <line2>Sketchley Lane</line2>
+            <line3>Burbage</line3>
+            <line4>Leicestershire</line4>
+            <postcode>LE10 2NG</postcode>
+            <phone>01455 890947</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Burbage St Catherines &amp; Lash Hill</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>498</councillorid>
+          <fullusername>Councillor M Nickerson</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/8/9/4/Info00000498/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/8/9/4/Info00000498/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>mark.nickerson@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>73 Duport Road</line1>
+            <line2>Burbage</line2>
+            <line3>Hinckley</line3>
+            <line4>Leicestershire</line4>
+            <postcode>LE10 2RN</postcode>
+            <mobile>07914 719708</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>500</councillorid>
+          <fullusername>Councillor P Wallace</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/0/0/5/Info00000500/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/0/0/5/Info00000500/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01455611999</phone>
+            <email>peter.wallace@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Outwoods House</line1>
+            <line2>Elm Tree Drive</line2>
+            <line3>Burbage</line3>
+            <line4>Leicestershire</line4>
+            <postcode>LE10 2TX</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cadeby, Carlton &amp; Market Bosworth with Shackerstone</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>456</councillorid>
+          <fullusername>Councillor MA Cook</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/6/5/4/Info00000456/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/6/5/4/Info00000456/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>12 Fox's Covert</line1>
+            <line2>Fenny Drayton</line2>
+            <line3>Nuneaton</line3>
+            <line4>Warwickshire</line4>
+            <postcode>CV13 6BG</postcode>
+            <phone>01827712011</phone>
+            <mobile>07773449275</mobile>
+            <email>maureen.cook@hinckley-bosworth.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2003</startdate>
+              <enddate>10/06/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Earl Shilton</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>8</councillorid>
+          <fullusername>Councillor RG Allen</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/8/0/0/Info00000008/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/8/0/0/Info00000008/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Mayor</keyposts>
+          <workaddress>
+            <email>richard.allen@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>63 Keats Lane</line1>
+            <line2>Earl Shilton</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE9 7DS</postcode>
+            <mobile>07870567733</mobile>
+            <email>richard.allen@hinckley-bosworth.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>77</councillorid>
+          <fullusername>Councillor C Ladkin</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/7/7/0/Info00000077/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/7/7/0/Info00000077/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>chris.ladkin@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 The Poplars</line1>
+            <line2>Earl Shilton</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE9 7ET</postcode>
+            <mobile>07885 599299</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>94</councillorid>
+          <fullusername>Councillor Mrs J Richards</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/4/9/0/Info00000094/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/4/9/0/Info00000094/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>janice.richards@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>92 Station Road</line1>
+            <line2>Earl Shilton</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE9 7GA</postcode>
+            <phone>01455 846799</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Groby</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>20</councillorid>
+          <fullusername>Councillor MB Cartwright</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/0/2/0/Info00000020/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/0/2/0/Info00000020/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>martin.cartwright@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Pine Tree Avenue</line1>
+            <line2>Groby</line2>
+            <line3>Leicester</line3>
+            <line4>-</line4>
+            <postcode>LE6 0EQ</postcode>
+            <phone>0116 2874500</phone>
+            <mobile>07850707050</mobile>
+            <email>martin.cartwright@hinckley-bosworth.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>355</councillorid>
+          <fullusername>Councillor E Hollick</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/5/5/3/Info00000355/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/5/5/3/Info00000355/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ted.hollick@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Shaw Wood Close</line1>
+            <line2>Groby</line2>
+            <line3>Leicester</line3>
+            <postcode>LE6 0FY</postcode>
+            <phone>0116 2875955</phone>
+            <mobile>07962373983</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Hinckley Castle</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>18</councillorid>
+          <fullusername>Councillor SL Bray</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/8/1/0/Info00000018/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/8/1/0/Info00000018/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Liberal Democrat Group</keyposts>
+          <workaddress>
+            <email>stuart.bray@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>26 Netherley Court</line1>
+            <line2>Hinckley</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE10 0RN</postcode>
+            <phone>01455 637898</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/03/2000</startdate>
+              <enddate>01/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>103</councillorid>
+          <fullusername>Councillor Ms BM Witherford</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/3/0/1/Info00000103/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/3/0/1/Info00000103/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Liberal Democrat Group Whip</keyposts>
+          <workaddress>
+            <email>bron.witherford@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Brandon Road</line1>
+            <line2>Hinckley</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE10 0JW</postcode>
+            <phone>01455442864</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>13/11/2008</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Hinckley Clarendon</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>16</councillorid>
+          <fullusername>Councillor DC Bill MBE</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/6/1/0/Info00000016/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/6/1/0/Info00000016/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of the Liberal Democrat Group</keyposts>
+          <workaddress>
+            <email>david.bill@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>8A Thornfield Way</line1>
+            <line2>Hinckley</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE10 1BE</postcode>
+            <phone>01455632445</phone>
+            <mobile>07779345437</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/1974</startdate>
+              <enddate>01/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>85</councillorid>
+          <fullusername>Councillor KWP Lynch</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/5/8/0/Info00000085/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/5/8/0/Info00000085/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>keith.lynch@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>12 Salisbury Road</line1>
+            <line2>Burbage</line2>
+            <line3>Hinckley</line3>
+            <line4>Leicestershire</line4>
+            <postcode>LE10 2AR</postcode>
+            <phone>01455 635007</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1983</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>16/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>100</councillorid>
+          <fullusername>Councillor Miss DM Taylor</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/0/0/1/Info00000100/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/0/0/1/Info00000100/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>diane.taylor@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Queens Park Terrace</line1>
+            <line2>Hinckley</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE10 1HY</postcode>
+            <phone>01455615802</phone>
+            <mobile>07970410812</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Hinckley De Montfort</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>64</councillorid>
+          <fullusername>Councillor Mrs L Hodgkins</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/4/6/0/Info00000064/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/4/6/0/Info00000064/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>lynda.hodgkins@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>70 Derby Road</line1>
+            <line2>Hinckley</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE10 1QF</postcode>
+            <phone>01455 447203</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>528</councillorid>
+          <fullusername>Councillor J Kirby</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/8/2/5/Info00000528/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/8/2/5/Info00000528/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>jan.kirby@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>134 Leicester Road</line1>
+            <line2>Hinckley</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE10 1LU</postcode>
+            <mobile>07818 064895</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>92</councillorid>
+          <fullusername>Councillor K Nichols</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/2/9/0/Info00000092/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/2/9/0/Info00000092/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>keith.nichols@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>12 Woodland Road</line1>
+            <line2>Hinckley</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE10 1JG</postcode>
+            <phone>01455 632763</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Hinckley Trinity</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>9</councillorid>
+          <fullusername>Councillor DS Cope</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/9/0/0/Info00000009/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/9/0/0/Info00000009/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.cope@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>119 Outlands Drive</line1>
+            <line2>Hinckley</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE10 0TN</postcode>
+            <phone>01455 451641</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/1995</startdate>
+              <enddate>06/05/1999</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/1999</startdate>
+              <enddate>01/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>538</councillorid>
+          <fullusername>Councillor GAW Cope</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/8/3/5/Info00000538/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/8/3/5/Info00000538/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>genesta.cope@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>119 Outlands Drive</line1>
+            <line2>Hinckley</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE10 0TN</postcode>
+            <phone>01455 451641</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/1994</startdate>
+              <enddate>04/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Markfield, Stanton &amp; Field Head</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>15</councillorid>
+          <fullusername>Councillor PS Bessant</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/5/1/0/Info00000015/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/5/1/0/Info00000015/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Bufton Lodge</line1>
+            <line2>Botcheston Road</line2>
+            <line3>Newtown Unthank</line3>
+            <line4>Leicestershire</line4>
+            <postcode>LE9 9FB</postcode>
+            <mobile>07966444654</mobile>
+            <email>paul.bessant@hinckley-bosworth.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>81</councillorid>
+          <fullusername>Councillor MR Lay</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/1/8/0/Info00000081/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/1/8/0/Info00000081/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>matthew.lay@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>57 Jacqueline Road</line1>
+            <line2>Markfield</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE67 9RD</postcode>
+            <phone>01530 245189</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/1995</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Newbold Verdon with Desford &amp; Peckleton</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>19</councillorid>
+          <fullusername>Councillor Mrs R Camamile</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/9/1/0/Info00000019/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/9/1/0/Info00000019/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ruth.camamile@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Lynwood Close</line1>
+            <line2>Desford</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE9 9HG</postcode>
+            <phone>01455 822149</phone>
+            <email>ruth.camamile@hinckley-bosworth.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/1991</startdate>
+              <enddate>06/05/1999</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>547</councillorid>
+          <fullusername>Councillor MJ Surtees</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/7/4/5/Info00000547/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/7/4/5/Info00000547/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>miriam.surtees@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>44 Main Street</line1>
+            <line2>Desford</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE9 9GR</postcode>
+            <phone>01455 828008</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>98</councillorid>
+          <fullusername>Councillor BE Sutton</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/8/9/0/Info00000098/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/8/9/0/Info00000098/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>brian.sutton@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Mulberry House, Sycamore Farm</line1>
+            <line2>29 Main Street</line2>
+            <line3>Barton-in-the-Beans, Nuneaton</line3>
+            <line4>Warwickshire</line4>
+            <postcode>CV13 0DJ</postcode>
+            <phone>01455 293452</phone>
+            <mobile>07831 617621</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/1991</startdate>
+              <enddate>01/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Ratby, Bagworth &amp; Thornton</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>17</councillorid>
+          <fullusername>Councillor CW Boothby</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/7/1/0/Info00000017/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/7/1/0/Info00000017/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>chris.boothby@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>34 Markfield Road</line1>
+            <line2>Ratby</line2>
+            <line3>Leicester</line3>
+            <postcode>LE6 0LP</postcode>
+            <phone>0116 2388301</phone>
+            <mobile>07880 711222</mobile>
+            <email>chris.boothby@hinckley-bosworth.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>93</councillorid>
+          <fullusername>Councillor LJP O'Shea</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/3/9/0/Info00000093/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/3/9/0/Info00000093/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ozzy.oshea@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>19 Heathbrook Drive</line1>
+            <line2>Ratby</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE6 0XB</postcode>
+            <phone>0116 2394336</phone>
+            <mobile>07808585825</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Twycross &amp; Witherley with Sheepy</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>90</councillorid>
+          <fullusername>Councillor K Morrell</fullusername>
+          <photosmallurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/0/9/0/Info00000090/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.hinckley-bosworth.gov.uk/UserData/0/9/0/Info00000090/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of the Council</keyposts>
+          <workaddress>
+            <email>kevin.morrell@hinckley-bosworth.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Garden Lane</line1>
+            <line2>Ibstock</line2>
+            <line3>Leicestershire</line3>
+            <postcode>LE67 6GZ</postcode>
+            <phone>01530 261928</phone>
+            <mobile>07733202026</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>05/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

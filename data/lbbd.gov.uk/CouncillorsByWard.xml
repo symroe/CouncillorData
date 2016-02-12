@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Abbey</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1725</councillorid>
+          <fullusername>Cllr Laila Butt</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/5/2/7/Info00001725/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/5/2/7/Info00001725/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Cabinet Member for Crime and Enforcement</keyposts>
+          <workaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>1 Town Square</line3>
+            <line4>Barking, Essex</line4>
+            <postcode>IG11 7LU</postcode>
+            <phone>020 8227 2892</phone>
+            <email>laila.butt@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Friday each month from 11.00am-1.00pm at Barking Learning Centre</line1>
+            <line2>No surgeries are held in August &amp; December</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2517</councillorid>
+          <fullusername>Cllr Danielle Lawrence</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/7/1/5/Info00002517/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/7/1/5/Info00002517/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>danielle.lawrence@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Friday each month from 11.00am-1.00pm at Barking Learning Centre</line1>
+            <line2>No surgeries are held in August &amp; December</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2521</councillorid>
+          <fullusername>Cllr Giasuddin Miah</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/1/2/5/Info00002521/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/1/2/5/Info00002521/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Deputy Chair of Standards Committee</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <mobile>07764 997507</mobile>
+            <email>giasuddin.miah@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Friday each month from 11.00am-1.00pm at Barking Learning Centre</line1>
+            <line2>No surgeries are held in August &amp; December</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Alibon</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1719</councillorid>
+          <fullusername>Cllr Sanchia Alasia</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/9/1/7/Info00001719/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/9/1/7/Info00001719/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Chair of Development Control Board</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>sanchia.alasia@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07534 028047</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Wed of the month between 7.00-8.00pm at St George's Church, 86 Rogers Road, RM10 8JX</line1>
+            <line2>3rd Thursday of the month between 6.00-7.00pm at Dagenham Congregational Church, Osborne Square, RM9 5BA</line2>
+            <line3>No surgeries will be held in August, December, or on Bank holidays (incl. Good Friday)</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2522</councillorid>
+          <fullusername>Cllr Chris Hughes</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/2/2/5/Info00002522/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/2/2/5/Info00002522/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <mobile>07842 110 753</mobile>
+            <email>christopher.hughes@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Wed of the month between 7.00-8.00pm at St George's Church, 86 Rogers Road, RM10 8JX</line1>
+            <line2>3rd Thursday of the month between 6.00-7.00pm at Dagenham Congregational Church, Osborne Square, RM9 5BA</line2>
+            <line3>No surgeries will be held in August or December, or on Bank holidays (incl. Good Friday)</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1743</councillorid>
+          <fullusername>Cllr Darren Rodwell</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/3/4/7/Info00001743/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/3/4/7/Info00001743/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Leader of the Council and Labour Group</keyposts>
+          <workaddress>
+            <line1>c/o Leader's Office</line1>
+            <line2>Town Hall</line2>
+            <line3>1 Town Square</line3>
+            <line4>Barking, Essex</line4>
+            <postcode>IG11 7LU</postcode>
+            <phone>020 8724 8448</phone>
+            <email>darren.rodwell@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Wed of the month between 7.00-8.00pm at St George's Church, 86 Rogers Road, RM10 8JX</line1>
+            <line2>3rd Thursday of the month between 6.00-7.00pm at Dagenham Congregational Church, Osborne Square, RM9 5BA</line2>
+            <line3>No surgeries will be held in August, December, or on Bank holidays (incl. Good Friday)</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Becontree</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1122</councillorid>
+          <fullusername>Cllr Evelyn Carpenter</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/2/2/1/Info00001122/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/2/2/1/Info00001122/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Cabinet Member for Education and Schools</keyposts>
+          <workaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>1 Town Square</line3>
+            <line4>Barking, Essex</line4>
+            <postcode>IG11 7LU</postcode>
+            <email>evelyn.carpenter@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8591 7604</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>3rd Tuesday in the month at the Reception and Reintegration Unit, Marlborough Road between 4.00 and 5.00 pm (except school half-term, August and December)</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>09/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2527</councillorid>
+          <fullusername>Cllr Faruk Choudhury</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/7/2/5/Info00002527/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/7/2/5/Info00002527/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>faruk.choudhury@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07479 799959</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Thursday each month at Becontree Children’s Centre, Steven's Road, Dagenham, Essex  RM8 2QR from 5.00-6.00pm</line1>
+            <line2>No surgeries will take place in August and December</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1737</councillorid>
+          <fullusername>Cllr James Ogungbose</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/7/3/7/Info00001737/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/7/3/7/Info00001737/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>1 Town Square</line3>
+            <line4>Barking, Essex</line4>
+            <postcode>IG11 7LU</postcode>
+            <email>james.ogungbose@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07852 497521</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>4th Wednesday in the month (except August and December) at The Vibe Youth Centre, Becontree Avenue between 2.00 and 3.00 pm</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Chadwell Heath</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>2532</councillorid>
+          <fullusername>Cllr Sade Bright</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/2/3/5/Info00002532/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/2/3/5/Info00002532/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>sade.bright@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07825 637097</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Monday each month between 10.00-11.00m at Chadwell Heath Community Centre</line1>
+            <line2>1st Tuesday of each month from 7.00-8.00pm at Marks Gate Community Centre</line2>
+            <line3>No surgeries will be held in August &amp; December</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1746</councillorid>
+          <fullusername>Cllr Sam Tarry</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/6/4/7/Info00001746/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/6/4/7/Info00001746/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>sam.tarry@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07971 819830</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Wednesday of the month from 19:00 - 20:30 at Marks Gate Community Hall, Rose Lane (except August)</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1748</councillorid>
+          <fullusername>Cllr Jeff Wade</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/8/4/7/Info00001748/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/8/4/7/Info00001748/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>jeff.wade@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8227 9850</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>3rd Thursday of the month from 12:00 – 13:00 at Marks Gate Community Hall, Rose Lane</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Eastbrook</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>2538</councillorid>
+          <fullusername>Cllr Edna Fergus</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/8/3/5/Info00002538/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/8/3/5/Info00002538/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>edna.fergus@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 3601 4813</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Wednesday each month, between 2.00-3.00pm at Wantz Hall, Rainham Road North, Dagenham  RM10 7DX</line1>
+            <line2>(excluding August and December).</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>222</councillorid>
+          <fullusername>Cllr Mick McCarthy</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/2/2/2/Info00000222/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/2/2/2/Info00000222/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Deputy Lead Member of Living &amp; Working Select Committee</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>mick.mccarthy@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>16 Gorseway</line1>
+            <line2>Rush Green</line2>
+            <line3>Romford</line3>
+            <line4>Essex</line4>
+            <postcode>RM7 0RP</postcode>
+            <phone>01708 734507</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Thursday at Barking &amp; Dagenham College, Dagenham Road, Romford RM7 0XU between 5.00pm and 5.30 p.m. and at Dagenham &amp; Redbridge Football Club between 5.45pm and 6.15 p.m. during school term time only - FOR EASTBROOK WARD RESIDENTS ONLY</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>09/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1740</councillorid>
+          <fullusername>Cllr Tony Ramsay</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/0/4/7/Info00001740/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/0/4/7/Info00001740/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Chair of Assembly</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>tony.ramsay@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8924 8239</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Thursday at Barking &amp; Dagenham College, Dagenham Road, Romford RM7 0XU between 5.00pm and 5.30 p.m. and at Dagenham &amp; Redbridge Football Club between 5.45pm and 6.15 p.m. during school term time only - FOR EASTBROOK WARD RESIDENTS ONLY</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Eastbury</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>176</councillorid>
+          <fullusername>Cllr Jeanne Alexander</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/6/7/1/Info00000176/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/6/7/1/Info00000176/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Lead Member of Safer &amp; Stronger Community Select Committee</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>jeannette.alexander@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>8 St Erkenwald Road</line1>
+            <line2>Barking</line2>
+            <line3>Essex</line3>
+            <postcode>IG11 7XA</postcode>
+            <phone>020 8924 8239</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st and 3rd Thursday of the month from 6.00-7.00pm at Eastbury Manor House (except August and December)</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>09/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1109</councillorid>
+          <fullusername>Cllr Hardial Singh Rai</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/9/0/1/Info00001109/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/9/0/1/Info00001109/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>hardialsingh.rai@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8594 1617</phone>
+            <mobile>07946 343929</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st and 3rd Thursday of the month from 6.00-7.00pm at Eastbury Manor House (except August and December)</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>31/07/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2541</councillorid>
+          <fullusername>Cllr Faraaz Shaukat</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/1/4/5/Info00002541/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/1/4/5/Info00002541/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Deputy Chair of Development Control Board</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>faraaz.shaukat@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07507 727112</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st and 3rd Thursday of the month at Eastbury Manor House, Eastbury Square, Barking IG11 9SN from 6.00-7.00pm, except August &amp; December</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Gascoigne</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1720</councillorid>
+          <fullusername>Cllr Saima Ashraf</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/0/2/7/Info00001720/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/0/2/7/Info00001720/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Deputy Leader of the Council and Cabinet Member for Housing</keyposts>
+          <workaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>1 Town Square</line3>
+            <line4>Barking, Essex</line4>
+            <postcode>IG11 7LU</postcode>
+            <phone>020 8227 2892</phone>
+            <email>saima.ashraf@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st &amp; 3rd Thursday of the month at the Salvation Army, Ripple Road Entrance between 5.30pm-7.00pm</line1>
+            <line2>(not August)</line2>
+            <line3>2nd &amp; 4th Wednesday of the month at Gascoigne Childrens Centre, 124-128 St Ann's, Barking  IG11 7AD from 9.30-11.00am (not August)</line3>
+            <line4>FOR GASCOIGNE RESIDENTS ONLY</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1721</councillorid>
+          <fullusername>Cllr Abdul Aziz</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/1/2/7/Info00001721/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/1/2/7/Info00001721/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>abdul.gafooraziz@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>111 St. Ann's</line1>
+            <line2>Barking</line2>
+            <line3>Essex</line3>
+            <postcode>IG11 7AD</postcode>
+            <mobile>07915 392101</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st &amp; 3rd Thursday of the month at the Salvation Army, Ripple Road Entrance between 5.30pm-7.00pm</line1>
+            <line2>(not August)</line2>
+            <line3>2nd &amp; 4th Wednesday of the month at Gascoigne Childrens Centre, 124-128 St Ann's, Barking  IG11 7AD from 9.30-11.00am (not August)</line3>
+            <line4>FOR GASCOIGNE RESIDENTS ONLY</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1747</councillorid>
+          <fullusername>Cllr Dominic Twomey</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/7/4/7/Info00001747/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/7/4/7/Info00001747/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Deputy Leader of the Council and Cabinet Member for Finance and Central Services</keyposts>
+          <workaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>1 Town Square</line3>
+            <line4>Barking, Essex</line4>
+            <postcode>IG11 7LU</postcode>
+            <phone>020 8724 8013</phone>
+            <email>dominic.twomey@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07846 928109</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st &amp; 3rd Thursday of the month at the Salvation Army, Ripple Road Entrance between 5.30pm-7.00pm</line1>
+            <line2>(not August)</line2>
+            <line3>2nd &amp; 4th Wednesday of the month at Gascoigne Childrens Centre, 124-128 St Ann's, Barking  IG11 7AD from 9.30-11.00am (not August)</line3>
+            <line4>FOR GASCOIGNE RESIDENTS ONLY</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Goresbrook</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>2090</councillorid>
+          <fullusername>Cllr Simon Bremner</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/0/9/0/Info00002090/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/0/9/0/Info00002090/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>The Mayor 2015/16</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+          </workaddress>
+          <homeaddress>
+            <mobile>07765 061993</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Saturday of each month Foyer Castle Green, Gale Street between 10:30 – 11:30 am</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/1990</startdate>
+              <enddate>08/05/1994</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>20/04/2012</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2554</councillorid>
+          <fullusername>Cllr Irma Freeborn</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/4/5/5/Info00002554/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/4/5/5/Info00002554/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>irma.freeborn@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07713 879235</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Saturday of each month Foyer Castle Green, Gale Street between 10:30 – 11:30 am</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2559</councillorid>
+          <fullusername>Cllr Moin Quadri</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/9/5/5/Info00002559/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/9/5/5/Info00002559/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>moin.quadri@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07861 728155</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Saturday of each month Foyer Castle Green, Gale Street between 10:30 – 11:30 am</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Heath</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>272</councillorid>
+          <fullusername>Cllr Dave Miles</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/2/7/2/Info00000272/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/2/7/2/Info00000272/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Lead Member of Public Accounts &amp; Audit Select Committee</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>dave.miles2@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8592 1677</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Thursday every month from 10.30-11.30am at Heath Park Community Centre, Rusholme Road, Dagenham</line1>
+            <line2>1st Thursday every month from 6.00-7.00pm at Civic Centre, Dagenham</line2>
+            <line3>No surgeries are held in August and December.</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2002</startdate>
+              <enddate>07/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1125</councillorid>
+          <fullusername>Cllr Linda Reason</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/5/2/1/Info00001125/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/5/2/1/Info00001125/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>linda.reason2@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07875 025176</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Thursday every month from 10.30-11.30am at Heath Park Community Centre, Rusholme Road, Dagenham</line1>
+            <line2>1st Thursday every month from 6.00-7.00pm at Civic Centre, Dagenham</line2>
+            <line3>No surgeries are held in August and December</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>09/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2563</councillorid>
+          <fullusername>Cllr Dan Young</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/3/6/5/Info00002563/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/3/6/5/Info00002563/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>daniel.young@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07957 212282</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Thursday every month from 10.30-11.30am at Heath Park Community Centre, Rusholme Road, Dagenham</line1>
+            <line2>1st Thursday every month from 6.00-7.00pm at Civic Centre, Dagenham</line2>
+            <line3>No surgeries are held in August and December</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Longbridge</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>2222</councillorid>
+          <fullusername>Cllr Syed Ahammad</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/2/2/2/Info00002222/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/2/2/2/Info00002222/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>syed.ahammad@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07946465137</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The 1st Saturday every month between 2.00-3.00pm at the Daily Munch Cafe, 21 Faircross Parade, Longbridge Road, Barking IG11 8UW - no surgeries are held in August and December</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2013</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1112</councillorid>
+          <fullusername>Cllr Rocky Gill</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/2/1/1/Info00001112/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/2/1/1/Info00001112/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <mobile>07971 988651</mobile>
+            <email>rocky.gill@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>91 Woodbridge Road</line1>
+            <line2>Barking</line2>
+            <line3>Essex</line3>
+            <postcode>IG11 9ET</postcode>
+            <phone>020 8591 2448</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Thursday (except August and December) between 6.00-7.00pm at Barking Abbey School Leisure Centre, Woodbridge Road</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1742</councillorid>
+          <fullusername>Cllr Lynda Rice</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/2/4/7/Info00001742/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/2/4/7/Info00001742/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Cabinet Member for Environment</keyposts>
+          <workaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>1 Town Square</line3>
+            <line4>Barking, Essex</line4>
+            <postcode>IG11 7LU</postcode>
+            <phone>020 8227 2892</phone>
+            <email>lynda.rice@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8593 8251</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The last Thursday each month (excl. school holidays) at Barking Abbey Leisure Centre, Woodbridge Road (Sandringham Road site) from 7.00-8.00pm.  Please enquire at Reception where you will be notified which room the surgery will be held in.</line1>
+            <line2>Cllr Lynda Rice will be inviting you to coffee afternoons at the Royal Oak shortly.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Mayesbrook</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>2570</councillorid>
+          <fullusername>Cllr Kashif Haroon</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/0/7/5/Info00002570/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/0/7/5/Info00002570/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>kashif.haroon@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07784 712150</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st and last Friday each month, from 3.30-4.30pm at Memory Lane Resource Centre, Porters Avenue, Dagenham, Essex RM8 2EQ</line1>
+            <line2>No surgeries will be held in August or December.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2571</councillorid>
+          <fullusername>Cllr Adegboyega Oluwole</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/1/7/5/Info00002571/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/1/7/5/Info00002571/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Deputy Chair of Licensing &amp; Regulatory Board</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>adegboyega.oluwole@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07539 758711</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st and last Friday each month, from 3.30-4.30pm at Memory Lane Resource Centre, Porters Avenue, Dagenham, Essex RM8 2EQ</line1>
+            <line2>No surgeries will be held in August or December.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2574</councillorid>
+          <fullusername>Cllr Danielle Smith</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/4/7/5/Info00002574/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/4/7/5/Info00002574/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <mobile>07966 987609</mobile>
+            <email>daniellej.smith@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st and last Friday each month, from 3.30-4.30pm at Memory Lane Resource Centre, Porters Avenue, Dagenham, Essex RM8 2EQ</line1>
+            <line2>No surgeries will be held in August or December.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Parsloes</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1732</councillorid>
+          <fullusername>Cllr Elizabeth Kangethe</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/2/3/7/Info00001732/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/2/3/7/Info00001732/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>1 Town Square</line3>
+            <line4>Barking, Essex</line4>
+            <postcode>IG11 7LU</postcode>
+            <email>elizabeth.kangethe@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07958 612632</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>3rd Thursday in the month at Kingsley Hall, Parsloes Avenue - 7.00 – 9.00 p.m. (except August and December)</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1741</councillorid>
+          <fullusername>Cllr Chris Rice</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/1/4/7/Info00001741/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/1/4/7/Info00001741/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>chris.rice@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>127 Valence Wood Road</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM8 3AJ</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>3rd Thursday in the month at Kingsley Hall, Parsloes Avenue - 7.00 – 9.00 p.m. (except August and December)</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2579</councillorid>
+          <fullusername>Cllr Linda Zanitchkhah</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/9/7/5/Info00002579/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/9/7/5/Info00002579/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>linda.zanitchkhah2@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07801 420540</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>3rd Thursday in the month at Kingsley Hall, Parsloes Avenue - 7.00 – 9.00 p.m. (except August and December)</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>River</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>2580</councillorid>
+          <fullusername>Cllr Peter Chand</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/0/8/5/Info00002580/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/0/8/5/Info00002580/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Chair of Standards Committee and Deputy Lead Member of Health and Adult Services Select Committee</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>peter.chand@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07852 176305</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Saturday each month from 1.00-2.00pm at Dagenham Park School Leisure Centre, School Road, Dagenham.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1731</councillorid>
+          <fullusername>Cllr Amardeep Singh Jamu</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/1/3/7/Info00001731/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/1/3/7/Info00001731/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Deputy Lead Member of Public Accounts &amp; Audit Select Committee</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>amardeep.jamu@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>29 Oval Road South</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 9DP</postcode>
+            <phone>020 8595 5691</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Thursday of each month at Dagenham Library/One Stop Shop, Heathway between 6.30-7.30pm</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1733</councillorid>
+          <fullusername>Cllr Eileen Keller</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/3/3/7/Info00001733/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/3/3/7/Info00001733/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Lead Member of Health &amp; Adult Services Select Committee</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>eileen.keller2@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8252 2921</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Saturday each month from 10.00-11.00am at the Dagenham Library/One Stop Shop, Heathway, Dagenham (no surgeries in August or December)</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Thames</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1726</councillorid>
+          <fullusername>Cllr Josephine Channer</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/6/2/7/Info00001726/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/6/2/7/Info00001726/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Chair of Licensing &amp; Regulatory Board</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>josephine.channer@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07454 523207</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Thursday of every month from 5.30pm - 6.15pm at the Sue Bramley Centre, Bastable Avenue, Barking, Essex IG11 0LH</line1>
+            <line2>Last Thursday every month from 6.30pm-7.15pm at the Rivergate Centre, Minter Road, Barking, Essex IG11 0FJ</line2>
+            <line3>Last Friday every month from from 5.30pm-6.15pm at Scrattons TRA Shop, Julia Gardens, Scratton's Farm</line3>
+            <line4>No surgeries are held in August or December</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>175</councillorid>
+          <fullusername>Cllr Cameron Geddes</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/5/7/1/Info00000175/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/5/7/1/Info00000175/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Cabinet Member for Regeneration</keyposts>
+          <workaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>1 Town Square</line3>
+            <line4>Barking, Essex</line4>
+            <postcode>IG11 7LU</postcode>
+            <phone>020 8724 2892</phone>
+            <email>cameron.geddes@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>117a Woodbridge Road</line1>
+            <line2>Barking</line2>
+            <line3>Essex</line3>
+            <postcode>IG11 9EX</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Thursday of every month from 5.30pm - 6.15pm at the Sue Bramley Centre, Bastable Avenue, Barking, Essex IG11 0LH</line1>
+            <line2>Last Thursday every month from 6.30pm-7.15pm at the Rivergate Centre, Minter Road, Barking, Essex IG11 0FJ</line2>
+            <line3>Last Friday every month from from 5.30pm-6.15pm at Scrattons TRA Shop, Julia Gardens, Scratton's Farm</line3>
+            <line4>No surgeries are held in August or December</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>12/05/1986</startdate>
+              <enddate>07/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2589</councillorid>
+          <fullusername>Cllr Bill Turner</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/9/8/5/Info00002589/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/9/8/5/Info00002589/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Cabinet Member for Children's Services and Social Care</keyposts>
+          <workaddress>
+            <line1>Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>1 Town Square</line3>
+            <line4>Barking, Essex</line4>
+            <postcode>IG11 7LU</postcode>
+            <phone>020 8227 2892</phone>
+            <email>bill.turner@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Thursday of every month from 5.30pm - 6.15pm at the Sue Bramley Centre, Bastable Avenue, Barking, Essex IG11 0LH</line1>
+            <line2>Last Thursday every month from 6.30pm-7.15pm at the Rivergate Centre, Minter Road, Barking, Essex IG11 0FJ</line2>
+            <line3>Last Friday every month from from 5.30pm-6.15pm at Scrattons TRA Shop, Julia Gardens, Scratton's Farm</line3>
+            <line4>No surgeries are held in August or December</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Valence</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>2592</councillorid>
+          <fullusername>Cllr Syed Ghani</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/2/9/5/Info00002592/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/2/9/5/Info00002592/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Deputy Chair of Assembly</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>syed.ghani@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07404 784246</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The 1st Wednesday each month from 4.00-5.00pm at Valence Library, Becontree Avenue, Dagenham</line1>
+            <line2>The 2nd and 4th Saturday morning each month from 9.30 a.m. to 10.30 a.m. at Baptist Church Hall, Becontree Avenue</line2>
+            <line3>No surgeries will be held in August or December</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2594</councillorid>
+          <fullusername>Cllr Jane Jones</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/4/9/5/Info00002594/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/4/9/5/Info00002594/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Chair of Personnel Board</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <mobile>07935 803069</mobile>
+            <email>jane.jones@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The 1st Wednesday each month from 4.00-5.00pm at Valence Library, Becontree Avenue, Dagenham</line1>
+            <line2>The 2nd and 4th Saturday morning each month from 9.30 a.m. to 10.30 a.m. at Baptist Church Hall, Becontree Avenue</line2>
+            <line3>No surgeries will be held in August or December</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1736</councillorid>
+          <fullusername>Cllr Maureen Worby</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/6/3/7/Info00001736/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/6/3/7/Info00001736/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Barking</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Cabinet Member for Adult Social Care and Health</keyposts>
+          <workaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Town Hall</line2>
+            <line3>1 Town Square</line3>
+            <line4>Barking, Essex</line4>
+            <postcode>IG11 7LU</postcode>
+            <phone>020 8227 2892</phone>
+            <email>maureen.worby@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>106 Academy Court</line1>
+            <line2>Longbridge Road</line2>
+            <line3>Dagenham</line3>
+            <line4>Essex</line4>
+            <postcode>RM8 2AR</postcode>
+            <phone>020 8599 2592</phone>
+            <mobile>07939 011004</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The 1st Wednesday each month from 4.00-5.00pm at Valence Library, Becontree Avenue, Dagenham</line1>
+            <line2>The 2nd and 4th Saturday morning each month from 9.30 a.m. to 10.30 a.m. at Baptist Church Hall, Becontree Avenue</line2>
+            <line3>No surgeries will be held in August or December</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>14/03/1988</startdate>
+              <enddate>05/05/2002</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Village</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1735</councillorid>
+          <fullusername>Cllr Margaret Mullane</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/5/3/7/Info00001735/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/5/3/7/Info00001735/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Deputy Chair of Personnel Board</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>margaret.mullane@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8984 7854 (Work)</phone>
+            <mobile>07947 476598</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Saturday of the month at the Old Dagenham Methodist Church, Rainham Road South from 11.00am - 1.00pm - Please ring for an appointment.</line1>
+            <line2>Third Thursday of the month at the John Perry Children’s Centre, Auriel Avenue, Dagenham  RM10 8BS from 4.00 - 6.00pm</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>274</councillorid>
+          <fullusername>Cllr Lee Waker</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/4/7/2/Info00000274/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/4/7/2/Info00000274/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Deputy Lead Member of Safer &amp; Stronger Community Select Committee</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>lee.waker@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>115 Church Elm Lane</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 9RL</postcode>
+            <phone>020 8593 4299</phone>
+            <mobile>07896 790610</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Thursday in month at Village Community Centre, Vicarage Road  – 6.00 – 7.00 p.m. (except August and January)</line1>
+            <line2>3rd Thursday in month, the Dagenham Library, 1 Church Elm Lane (entrance on Heathway), 6.00 - 7.00 p.m. (except August and December)</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>09/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>987</councillorid>
+          <fullusername>Cllr Phil Waker</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/7/8/9/Info00000987/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/7/8/9/Info00000987/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Lead Member of Living &amp; Working Select Committee</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>philip.waker@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>64 Gay Gardens</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7TD</postcode>
+            <mobile>07809 238400</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Thursday in month at Village Community Centre, Vicarage Road  – 6.00 – 7.00 p.m. (except August and January)</line1>
+            <line2>3rd Thursday in month, the Dagenham Library, 1 Church Elm Lane (entrance on Heathway), 6.00 - 7.00 p.m. (except August and December)</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/10/2004</startdate>
+              <enddate>07/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>10/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Whalebone</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>2599</councillorid>
+          <fullusername>Cllr Melanie Bartlett</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/9/9/5/Info00002599/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/9/9/5/Info00002599/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Deputy Lead Member of Children's Services Select Committee</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <mobile>07599 935940</mobile>
+            <email>melanie.bartlett2@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Thursday each month from 6.30-7.00pm at the Civic Centre (no surgery will be held in August)</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>214</councillorid>
+          <fullusername>Cllr Liam Smith</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/4/1/2/Info00000214/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/4/1/2/Info00000214/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>iris.buffoni@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 3016 6082</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Thursday each month from 6.30-7.00pm at the Civic Centre (no surgery will be held in August)</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>09/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1120</councillorid>
+          <fullusername>Cllr John White</fullusername>
+          <photosmallurl>http://moderngov.lbbd.gov.uk/UserData/0/2/1/Info00001120/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.lbbd.gov.uk/UserData/0/2/1/Info00001120/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour Party</politicalpartytitle>
+          <districttitle>Dagenham &amp; Rainham</districttitle>
+          <representing>LBBD</representing>
+          <keyposts>Lead Member of Children's Services Select Committee</keyposts>
+          <workaddress>
+            <line1>c/o Civic Centre</line1>
+            <line2>Dagenham</line2>
+            <line3>Essex</line3>
+            <postcode>RM10 7BN</postcode>
+            <email>john.white@lbbd.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Bennett Road</line1>
+            <line2>Chadwell Heath</line2>
+            <line3>Romford</line3>
+            <line4>Essex</line4>
+            <postcode>RM6 6ES</postcode>
+            <phone>020 8252 3676</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Thursday in the month at Chadwell Heath Community Centre (former Robert Jeyes Library), High Road between 7.00 - 8.00pm</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>09/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>25/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

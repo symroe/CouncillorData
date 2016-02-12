@@ -1,0 +1,1981 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Aveland</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1751</councillorid>
+          <fullusername>Councillor Dr Peter Moseley</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/1/5/7/Info00001751/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/1/5/7/Info00001751/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Aveland Ward</representing>
+          <keyposts>Vice-Chairman: Governance and Audit Committee</keyposts>
+          <workaddress>
+            <phone>01778 441 273</phone>
+            <email>p.moseley@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 East Street</line1>
+            <line2>Rippingale</line2>
+            <line3>Bourne</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>PE10 0SS</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Belmont</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>293</councillorid>
+          <fullusername>Councillor George Chivers</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/3/9/2/Info00000293/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/3/9/2/Info00000293/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Belmont Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01476410294</phone>
+            <mobile>07752 694418</mobile>
+            <email>g.chivers@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>129 Fifth Avenue</line1>
+            <line2>Grantham</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>NG31 9TH</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2003</startdate>
+              <enddate>07/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>200</councillorid>
+          <fullusername>Councillor Nick Craft</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/0/0/2/Info00000200/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/0/0/2/Info00000200/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Belmont Ward</representing>
+          <keyposts>Deputy Leader of the Council. Portfolio: Environment</keyposts>
+          <workaddress>
+            <phone>01476 40 61 98</phone>
+            <mobile>07731 701 936</mobile>
+            <email>n.craft@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Blakeney</line1>
+            <line2>School Lane</line2>
+            <line3>Old Somerby</line3>
+            <line4>Grantham</line4>
+            <postcode>NG33 4AQ</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/1999</startdate>
+              <enddate>04/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2003</startdate>
+              <enddate>07/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Belvoir</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>289</councillorid>
+          <fullusername>Councillor Mrs Pam Bosworth</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/9/8/2/Info00000289/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/9/8/2/Info00000289/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Belvoir Ward</representing>
+          <keyposts>Chairman: Licensing Committee and Alcohol, Entertainment and Late Night Refreshment Licensing Committee</keyposts>
+          <workaddress>
+            <phone>01476 561430</phone>
+            <mobile>07808 413043</mobile>
+            <email>p.bosworth@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>12a Grange Paddock</line1>
+            <line2>Barrowby</line2>
+            <line3>Grantham</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>NG32 1DN</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>unspecified</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2003</startdate>
+              <enddate>07/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2180</councillorid>
+          <fullusername>Councillor Hannah Westropp</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/0/8/1/Info00002180/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/0/8/1/Info00002180/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Belvoir Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <mobile>07771 367 021</mobile>
+            <email>h.westropp@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Dairy Farm Stables</line1>
+            <line2>Hungerton</line2>
+            <line3>Grantham</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>NG32 1AJ</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bourne Austerby</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1979</councillorid>
+          <fullusername>Councillor Duncan Ashwell</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/9/7/9/Info00001979/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/9/7/9/Info00001979/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Bourne Austerby Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>C/O South Kesteven District Council</line1>
+            <line2>Council Offices</line2>
+            <line3>St Peter's Hill</line3>
+            <line4>Grantham</line4>
+            <postcode>NG31 6PZ</postcode>
+            <email>d.ashwell@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1987</councillorid>
+          <fullusername>Councillor Ms Jane Kingman</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/7/8/9/Info00001987/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/7/8/9/Info00001987/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Bourne Austerby Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <mobile>07932 449 845</mobile>
+            <email>j.kingman@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Alexandra Terrace</line1>
+            <line2>Bourne</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>PE10 9HJ</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1991</councillorid>
+          <fullusername>Councillor Robert Reid</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/1/9/9/Info00001991/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/1/9/9/Info00001991/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Bourne Austerby Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>r.reid@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>34 Great Northern Gardens</line1>
+            <line2>Bourne</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>PE10 9EH</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bourne East</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1051</councillorid>
+          <fullusername>Councillor Bob Russell</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/1/5/0/Info00001051/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/1/5/0/Info00001051/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Bourne East Ward</representing>
+          <keyposts>Vice-chairman of Licensing Committee and Alcohol, Entertainment and Late Night Refreshment Licensing Committee and Vice-chairman of Scrutiny Committee</keyposts>
+          <workaddress>
+            <mobile>07947 042426</mobile>
+            <email>b.russell@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>82 Mill Drove</line1>
+            <line2>Bourne</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>PE10 9BZ</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>309</councillorid>
+          <fullusername>Councillor Mrs Judy Smith</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/9/0/3/Info00000309/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/9/0/3/Info00000309/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Bourne East Ward</representing>
+          <keyposts>Vice-Chairman of the Council</keyposts>
+          <workaddress>
+            <phone>01778 422219</phone>
+            <email>judy.smith@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Granchester House</line1>
+            <line2>60 Gladstone Street</line2>
+            <line3>Bourne</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>PE10 9AX</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2003</startdate>
+              <enddate>07/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bourne West</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1990</councillorid>
+          <fullusername>Councillor David Mapp</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/0/9/9/Info00001990/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/0/9/9/Info00001990/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Bourne West Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <mobile>07788145608</mobile>
+            <email>d.mapp@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Saffron Walk</line1>
+            <line2>Bourne</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>PE10 9NR</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1172</councillorid>
+          <fullusername>Councillor Helen Powell</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/2/7/1/Info00001172/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/2/7/1/Info00001172/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Bourne West Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <mobile>07712 64 11 75</mobile>
+            <email>h.powell@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Westwood Drive</line1>
+            <line2>Bourne</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>PE10 9QH</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Casewick</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1179</councillorid>
+          <fullusername>Councillor Kelham Cooke</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/9/7/1/Info00001179/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/9/7/1/Info00001179/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Casewick Ward</representing>
+          <keyposts>Portfolio: Governance</keyposts>
+          <workaddress>
+            <mobile>07940 18 74 26</mobile>
+            <email>k.cooke@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Dairy</line1>
+            <line2>Greatford Road</line2>
+            <line3>Uffington</line3>
+            <line4>Stamford, Lincolnshire</line4>
+            <postcode>PE9 4ST</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1181</councillorid>
+          <fullusername>Councillor Rosemary H Woolley</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/1/8/1/Info00001181/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/1/8/1/Info00001181/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Casewick Ward</representing>
+          <keyposts>Chairman: Communities Policy Development Group</keyposts>
+          <workaddress>
+            <email>rh.woolley@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Old Hall</line1>
+            <line2>Barholm</line2>
+            <line3>Stamford</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>PE9 4RA</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Castle</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1168</councillorid>
+          <fullusername>Councillor Nick Robins</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/8/6/1/Info00001168/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/8/6/1/Info00001168/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Castle Ward</representing>
+          <keyposts>Chairman: Engagement Policy Development Group</keyposts>
+          <workaddress>
+            <phone>07785 98 71 12</phone>
+            <email>n.robins@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Halford Close</line1>
+            <line2>South Witham</line2>
+            <line3>Grantham</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>NG33 5SL</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Deeping St James</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1203</councillorid>
+          <fullusername>Councillor Phil Dilks</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/3/0/2/Info00001203/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/3/0/2/Info00001203/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Deeping St James Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>07786 862 320</phone>
+            <email>p.dilks@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>24 Church Street</line1>
+            <line2>Deeping St James</line2>
+            <line3>Peterborough</line3>
+            <postcode>PE6 8HD</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/06/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1997</councillorid>
+          <fullusername>Councillor Leigh Johnson</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/7/9/9/Info00001997/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/7/9/9/Info00001997/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Deeping St James Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01778 349 320</phone>
+            <mobile>07930 397 653</mobile>
+            <email>l.johnson@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Bells Farm</line1>
+            <line2>Stamford Road</line2>
+            <line3>Market Deeping</line3>
+            <postcode>PE6 8AE</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1202</councillorid>
+          <fullusername>Councillor Judy Stevens</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/2/0/2/Info00001202/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/2/0/2/Info00001202/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Deeping St James</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01778 348859</phone>
+            <email>j.stevens@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>41 Frognall</line1>
+            <line2>Deeping St James</line2>
+            <line3>PE6 8RR</line3>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/06/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Dole Wood</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1983</councillorid>
+          <fullusername>Councillor Barry Dobson</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/3/8/9/Info00001983/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/3/8/9/Info00001983/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Dole Wood Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01778426649</phone>
+            <mobile>07855 309 615</mobile>
+            <email>b.dobson@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Northorpe Lane</line1>
+            <line2>Thurlby</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>PE10 0HE</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Glen</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1167</councillorid>
+          <fullusername>Councillor Martin Wilkins</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/7/6/1/Info00001167/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/7/6/1/Info00001167/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Glen Ward</representing>
+          <keyposts>Chairman: Development Control Committee</keyposts>
+          <workaddress>
+            <mobile>07949 091 492</mobile>
+            <email>m.wilkins@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Rutland Close</line1>
+            <line2>South Witham</line2>
+            <line3>Grantham</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>NG33 5QA</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Grantham Arnoldfield</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1985</councillorid>
+          <fullusername>Councillor Helen Goral</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/5/8/9/Info00001985/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/5/8/9/Info00001985/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham Arnoldfield Ward</representing>
+          <keyposts>Vice-Chairman: Engagement Policy Development Group</keyposts>
+          <workaddress>
+            <mobile>07947569298</mobile>
+            <email>h.goral@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>27 Lindisfarne Way</line1>
+            <line2>Grantham</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>NG31 8ST</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1994</councillorid>
+          <fullusername>Councillor Dean Ward</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/4/9/9/Info00001994/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/4/9/9/Info00001994/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham Arnoldfield Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <mobile>07786076898</mobile>
+            <email>d.ward@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>88 Denton Avenue</line1>
+            <line2>Grantham</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>NG31 7JH</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Grantham Barrowby Gate</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1981</councillorid>
+          <fullusername>Councillor Lynda Coutts</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/1/8/9/Info00001981/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/1/8/9/Info00001981/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham Barrowby Gate Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01476403585</phone>
+            <email>l.coutts@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>22 Winchester Road</line1>
+            <line2>Grantham</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>NG31 8AD</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>311</councillorid>
+          <fullusername>Councillor Frank Turner</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/1/1/3/Info00000311/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/1/1/3/Info00000311/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham Barrowby Gate Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01476 402910</phone>
+            <email>f.turner@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>71 Barrowby Road</line1>
+            <line2>Grantham</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>NG31 8AB</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2003</startdate>
+              <enddate>07/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Grantham Earlesfield</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1982</councillorid>
+          <fullusername>Councillor Felicity Cunningham</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/2/8/9/Info00001982/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/2/8/9/Info00001982/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UK Independence Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham Earlesfield Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <mobile>07785524385</mobile>
+            <email>f.cunningham@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>51 Alexandra Road</line1>
+            <line2>Grantham</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>NG31 7AW</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1984</councillorid>
+          <fullusername>Councillor Tracey Forman</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/4/8/9/Info00001984/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/4/8/9/Info00001984/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham Earlesfield Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>t.forman@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>32 New Beacon Road</line1>
+            <line2>Grantham</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>NG31 9JX</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Grantham Harrowby</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>275</councillorid>
+          <fullusername>Councillor Ian Selby</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/5/7/2/Info00000275/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/5/7/2/Info00000275/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Unaligned</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham Harrowby Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>07766 26 97 20</phone>
+            <email>i.selby@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>31 Princess Drive</line1>
+            <line2>Grantham</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>NG31 9QA</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2003</startdate>
+              <enddate>07/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1995</councillorid>
+          <fullusername>Councillor Mrs Linda Wootten</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/5/9/9/Info00001995/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/5/9/9/Info00001995/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham Harrowby Ward</representing>
+          <keyposts>Portfolio: Culture</keyposts>
+          <workaddress>
+            <phone>01476 40 01 83</phone>
+            <email>l.wootten@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Burgage</line1>
+            <line2>141 Manthorpe Road</line2>
+            <line3>Grantham</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>NG31 8DH</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Grantham Springfield</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1989</councillorid>
+          <fullusername>Councillor Nikki Manterfield</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/9/8/9/Info00001989/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/9/8/9/Info00001989/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham Springfield Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01476405011</phone>
+            <email>n.manterfield@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1166</councillorid>
+          <fullusername>Councillor Adam Stokes</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/6/6/1/Info00001166/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/6/6/1/Info00001166/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham Springfields Ward</representing>
+          <keyposts>Vice-Chairman: Resources Policy Development Group</keyposts>
+          <workaddress>
+            <phone>07974 34 26 48</phone>
+            <email>a.stokes@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>22 Tissington Road</line1>
+            <line2>Grantham</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>NG31 7FP</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Grantham St Vincent's</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1063</councillorid>
+          <fullusername>Councillor Michael Cook</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/3/6/0/Info00001063/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/3/6/0/Info00001063/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham St. Vincent's Ward</representing>
+          <keyposts>Chairman: Resources Policy Development Group</keyposts>
+          <workaddress>
+            <phone>01476 570725</phone>
+            <email>m.cook@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>80 Dudley Road</line1>
+            <line2>Grantham</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>NG31 9AA</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1986</councillorid>
+          <fullusername>Councillor Graham Jeal</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/6/8/9/Info00001986/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/6/8/9/Info00001986/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham St. Vincents Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>g.jeal@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>St. Vincents House</line1>
+            <line2>St. Vincents Road</line2>
+            <line3>Grantham</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>NG31 9EJ</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1178</councillorid>
+          <fullusername>Councillor Charmaine Morgan</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/8/7/1/Info00001178/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/8/7/1/Info00001178/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham St. Vincent's Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01476 57 47 48</phone>
+            <mobile>07429 334260</mobile>
+            <email>c.morgan@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>45 Harrowby Road</line1>
+            <line2>Grantham</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>NG31 9ED</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Grantham St. Wulfram's</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1169</councillorid>
+          <fullusername>Councillor Jacky Smith</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/9/6/1/Info00001169/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/9/6/1/Info00001169/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham St. Wulfram's Ward</representing>
+          <keyposts>Vice-Chairman: Development Control Committee</keyposts>
+          <workaddress>
+            <phone>01476 56 24 00</phone>
+            <mobile>07808 73 54 42</mobile>
+            <email>jacky.smith@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Bradfield House</line1>
+            <line2>Low Road</line2>
+            <line3>Manthorpe</line3>
+            <line4>Grantham</line4>
+            <postcode>NG31 8NQ</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1067</councillorid>
+          <fullusername>Councillor Ray Wootten</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/7/6/0/Info00001067/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/7/6/0/Info00001067/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Grantham St. Wulfram's Ward</representing>
+          <keyposts>Chairman of the Council, Chairman: Constitution Committee</keyposts>
+          <workaddress>
+            <phone>01476 400183</phone>
+            <email>r.wootten@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Burgage</line1>
+            <line2>141 Manthorpe Road</line2>
+            <line3>Grantham</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>NG31 8DH</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Isaac Newton</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1060</councillorid>
+          <fullusername>Councillor Bob Adams</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/0/6/0/Info00001060/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/0/6/0/Info00001060/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Isaac Newton Ward</representing>
+          <keyposts>Leader of the Council, Portfolio: Growth</keyposts>
+          <workaddress>
+            <phone>01476 530329</phone>
+            <mobile>07763 987058</mobile>
+            <email>b.adams@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>25 Dallygate</line1>
+            <line2>Great Ponton</line2>
+            <line3>Grantham</line3>
+            <line4>Lincs</line4>
+            <postcode>NG33 5DP</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1048</councillorid>
+          <fullusername>Councillor Mrs Andrea Webster</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/8/4/0/Info00001048/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/8/4/0/Info00001048/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Isaac Newton Ward</representing>
+          <keyposts>Vice-Chairman: Communities Policy Development Group</keyposts>
+          <workaddress>
+            <phone>01476 870738</phone>
+            <email>a.webster@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Yew Cottage</line1>
+            <line2>Main Street</line2>
+            <line3>Woolsthorpe By Belvoir, Nr Grantham</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>NG32 1LY</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Lincrest</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1061</councillorid>
+          <fullusername>Councillor Peter Stephens</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/1/6/0/Info00001061/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/1/6/0/Info00001061/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Lincrest Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>07979 53 88 03</phone>
+            <email>p.stephens@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Manor House</line1>
+            <line2>Old Somerby</line2>
+            <line3>Grantham</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>NG33 4AF</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Loveden Heath</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1171</councillorid>
+          <fullusername>Councillor Bob Sampson</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/1/7/1/Info00001171/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/1/7/1/Info00001171/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Loveden Heath Ward</representing>
+          <keyposts>Chairman: Scrutiny Committee</keyposts>
+          <workaddress>
+            <phone>01400 27 38 73</phone>
+            <email>b.sampson@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Shrubbery</line1>
+            <line2>South Heath Lane</line2>
+            <line3>Fulbeck, Grantham</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>NG32 3HU</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Market and West Deeping</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1348</councillorid>
+          <fullusername>Councillor Ashley Baxter</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/8/4/3/Info00001348/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/8/4/3/Info00001348/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Market &amp; West Deeping Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01778 344070</phone>
+            <mobile>07799 077090</mobile>
+            <email>a.baxter@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>11 Kesteven Close</line1>
+            <line2>Deeping St James</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>PE6 8JW</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>29/06/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1062</councillorid>
+          <fullusername>Councillor Robert Broughton</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/2/6/0/Info00001062/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/2/6/0/Info00001062/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Market &amp; West Deeping Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01778 343600</phone>
+            <email>b.broughton@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>44 Halfleet</line1>
+            <line2>Market Deeping</line2>
+            <line3>Peterborough</line3>
+            <postcode>PE6 8DB</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/06/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1198</councillorid>
+          <fullusername>Councillor Nick Neilson</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/8/9/1/Info00001198/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/8/9/1/Info00001198/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Market &amp; West Deeping Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01778 344 745</phone>
+            <email>n.neilson@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>11 Saint Guthlac Avenue</line1>
+            <line2>Market Deeping</line2>
+            <line3>Peterborough</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>PE6 8BH</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>29/06/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Morton</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>291</councillorid>
+          <fullusername>Councillor Mrs Frances Cartwright</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/1/9/2/Info00000291/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/1/9/2/Info00000291/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Morton Ward</representing>
+          <keyposts>Portfolio: Housing</keyposts>
+          <workaddress>
+            <phone>01778 440165</phone>
+            <email>f.cartwright@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Brooklands Cottage</line1>
+            <line2>Aveland Way</line2>
+            <line3>Aslackby</line3>
+            <line4>Sleaford</line4>
+            <postcode>NG34 0HG</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2003</startdate>
+              <enddate>07/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Peascliffe &amp; Ridgeway</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>303</councillorid>
+          <fullusername>Councillor Mrs Rosemary Kaberry-Brown</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/3/0/3/Info00000303/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/3/0/3/Info00000303/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Peascliffe &amp; Ridgeway Ward</representing>
+          <keyposts>Vice-Chairman: Constitution Committee</keyposts>
+          <workaddress>
+            <phone>01400 230413</phone>
+            <email>r.kaberry-brown@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Old Owls Barn</line1>
+            <line2>1 Heath Farm Close</line2>
+            <line3>Sudbrooke</line3>
+            <line4>GRANTHAM</line4>
+            <postcode>NG32 3SP</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2003</startdate>
+              <enddate>07/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>903</councillorid>
+          <fullusername>Councillor Ian Stokes</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/3/0/9/Info00000903/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/3/0/9/Info00000903/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Peascliffe &amp; Ridgeway Ward</representing>
+          <keyposts>Chairman: Governance and Audit Committee</keyposts>
+          <workaddress>
+            <line1>22 Tissington Road</line1>
+            <line2>Grantham</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>NG31 7FP</postcode>
+            <phone>01476 591142</phone>
+            <email>i.stokes@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>21/10/2004</startdate>
+              <enddate>07/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stamford All Saints</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>924</councillorid>
+          <fullusername>Councillor Mike Exton</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/4/2/9/Info00000924/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/4/2/9/Info00000924/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Stamford All Saints Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01780 751265</phone>
+            <email>m.exton@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>84 Churchill Road</line1>
+            <line2>Stamford</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>PE9 1JG</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>unspecified</startdate>
+              <enddate>10/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1175</councillorid>
+          <fullusername>Councillor Breda Griffin</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/5/7/1/Info00001175/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/5/7/1/Info00001175/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Stamford All Saints Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01780 76 38 70</phone>
+            <email>b.griffin@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>86 Churchill Road</line1>
+            <line2>Stamford</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>PE9 1JG</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stamford St. George's</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1980</councillorid>
+          <fullusername>Councillor Katherine Brown</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/0/8/9/Info00001980/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/0/8/9/Info00001980/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Stamford St. George's Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01780 763 061</phone>
+            <email>k.brown@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Ryhall Road</line1>
+            <line2>Stamford</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>PE9 1UB</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1174</councillorid>
+          <fullusername>Councillor Mrs Brenda Sumner</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/4/7/1/Info00001174/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/4/7/1/Info00001174/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Stamford St George's Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01780 75 28 33</phone>
+            <email>brenda.sumner@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Hazel Grove</line1>
+            <line2>Stamford</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>PE9 2HJ</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stamford St. John's</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1176</councillorid>
+          <fullusername>Councillor Terl Bryant</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/6/7/1/Info00001176/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/6/7/1/Info00001176/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Stamford St. John's</representing>
+          <keyposts>Portfolio: Resources</keyposts>
+          <workaddress>
+            <phone>01780 75 57 34</phone>
+            <email>t.bryant@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>47 Caithness Road</line1>
+            <line2>Stamford</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>PE9 2TF</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/1991</startdate>
+              <enddate>08/05/1995</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/1999</startdate>
+              <enddate>05/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2003</startdate>
+              <enddate>07/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1996</councillorid>
+          <fullusername>Councillor Damian Evans</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/6/9/9/Info00001996/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/6/9/9/Info00001996/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Stamford St John's Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>C/O South Kesteven District Council</line1>
+            <line2>Council Offices</line2>
+            <line3>St Peter's Hill</line3>
+            <line4>Grantham, Lincolnshire</line4>
+            <postcode>NG31 6PZ</postcode>
+            <mobile>07809 826 901</mobile>
+            <email>d.evans@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stamford St. Mary's</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1988</councillorid>
+          <fullusername>Councillor Matthew Lee</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/8/8/9/Info00001988/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/8/8/9/Info00001988/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Stamford St. Mary's Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <mobile>07920160457</mobile>
+            <email>m.lee@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Pinfold Lane</line1>
+            <line2>St. Martins</line2>
+            <line4>Lincolnshire</line4>
+            <postcode>PE9 2LS</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1993</councillorid>
+          <fullusername>Councillor Brian Sumner</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/3/9/9/Info00001993/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/3/9/9/Info00001993/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Stamford St. Mary's Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01780 752833</phone>
+            <email>brian.sumner@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Hazel Grove</line1>
+            <line2>Stamford</line2>
+            <line3>Lincolnshire</line3>
+            <postcode>PE9 2HJ</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Toller</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1182</councillorid>
+          <fullusername>Councillor Michael King</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/2/8/1/Info00001182/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/2/8/1/Info00001182/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Toller Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01529 241005</phone>
+            <email>m.king@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Ivy House</line1>
+            <line2>2 Folkingham Road</line2>
+            <line3>Billingborough</line3>
+            <line4>Sleaford</line4>
+            <postcode>NG34 0NT</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Viking</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1992</councillorid>
+          <fullusername>Councillor Mrs Sarah Stokes</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/2/9/9/Info00001992/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/2/9/9/Info00001992/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Viking Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>s.stokes@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Easthorpe Road</line1>
+            <line2>Great Gonerby</line2>
+            <line3>Grantham</line3>
+            <line4>Lincolnshire</line4>
+            <postcode>NG31 8LZ</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>286</councillorid>
+          <fullusername>Councillor Paul Wood</fullusername>
+          <photosmallurl>http://moderngov.southkesteven.gov.uk/UserData/6/8/2/Info00000286/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.southkesteven.gov.uk/UserData/6/8/2/Info00000286/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Viking Ward</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01400 282223</phone>
+            <email>p.wood@southkesteven.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>59 The Pastures</line1>
+            <line2>Long Bennington</line2>
+            <line3>NEWARK</line3>
+            <postcode>NG23 5EG</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2003</startdate>
+              <enddate>07/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>06/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

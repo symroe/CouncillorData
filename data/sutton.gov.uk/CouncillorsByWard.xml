@@ -1,0 +1,1994 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Beddington North</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1046</councillorid>
+          <fullusername>Councillor Pathumal Ali</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/6/4/0/Info00001046/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/6/4/0/Info00001046/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chair, Scrutiny Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <line4>Surrey</line4>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 5224</phone>
+            <email>pathumal.ali@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Please contact Councillor Pathumal Ali to arrange an appointment.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1524</councillorid>
+          <fullusername>Councillor Nick Mattey</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/4/2/5/Info00001524/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/4/2/5/Info00001524/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>020 8770 4244</phone>
+            <email>Nick.Mattey@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>34 Crichton Avenue</line1>
+            <line2>Wallington</line2>
+            <postcode>SM6 8HL</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1531</councillorid>
+          <fullusername>Councillor Nighat Piracha</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/1/3/5/Info00001531/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/1/3/5/Info00001531/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chair, Environment &amp; Neighbourhood Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4165</phone>
+            <email>Nighat.Piracha@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Beddington South</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1510</councillorid>
+          <fullusername>Councillor Manuel Abellan</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/0/1/5/Info00001510/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/0/1/5/Info00001510/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4231</phone>
+            <email>Manuel.Abellan@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Please contact Councillor Abellan to arrange a meeting.</line1>
+            <line2>contact number 020 8770 4231</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1518</councillorid>
+          <fullusername>Councillor Neil Garratt</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/8/1/5/Info00001518/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/8/1/5/Info00001518/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4238</phone>
+            <email>Neil.Garratt@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1050</councillorid>
+          <fullusername>Councillor Edward Joyce</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/0/5/0/Info00001050/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/0/5/0/Info00001050/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>020 8770 5416</phone>
+            <mobile>07848 448 669</mobile>
+            <email>edward.joyce@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>18 Beddington Lane</line1>
+            <line2>Beddington</line2>
+            <line3>Surrey</line3>
+            <postcode>CR0 4TA</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>3rd Saturday in every month (except August) from 10 am until 11.30 am at Sainsbury's, Wallington</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Belmont</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1052</councillorid>
+          <fullusername>Councillor David Hicks</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/2/5/0/Info00001052/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/2/5/0/Info00001052/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Audit Committee; Vice-Chair, Sutton South, Cheam &amp; Belmont Local Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <line4>Surrey</line4>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4632</phone>
+            <email>david.hicks@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Wednesday in every month, except August, from 7 pm until 8 pm  in the Church Hall, St Johns Church, Belmont.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1525</councillorid>
+          <fullusername>Councillor Patrick McManus</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/5/2/5/Info00001525/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/5/2/5/Info00001525/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4245</phone>
+            <email>Patrick.Mcmanus@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1528</councillorid>
+          <fullusername>Councillor Jane Pascoe</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/8/2/5/Info00001528/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/8/2/5/Info00001528/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4617</phone>
+            <email>Jane.Pascoe@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07770 455116</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Carshalton Central</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>187</councillorid>
+          <fullusername>Councillor Hamish Pollock</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/7/8/1/Info00000187/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/7/8/1/Info00000187/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Carshalton &amp; Clockhouse Local Committee</keyposts>
+          <workaddress>
+            <phone>020 8647 8202</phone>
+            <email>hamish.pollock@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>117 Sandy Lane South</line1>
+            <line2>Wallington</line2>
+            <line3>Surrey</line3>
+            <postcode>SM6 9NW</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Please contact Councillor Pollock to arrange a meeting.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/1990</startdate>
+              <enddate>05/05/1994</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>04/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1053</councillorid>
+          <fullusername>Councillor Alan Salter</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/3/5/0/Info00001053/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/3/5/0/Info00001053/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Scrutiny Committee; Vice-Chair, Audit Committee and Carshalton &amp; Clockhouse Local Committee</keyposts>
+          <workaddress>
+            <phone>020 8296 8880</phone>
+            <email>alan.salter@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>16 Butter Hill</line1>
+            <line2>Wallington</line2>
+            <line3>Surrey</line3>
+            <postcode>SM6 7JD</postcode>
+            <phone>020 8296 8880</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Please contact Councillor Salter to arrange a meeting.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1054</councillorid>
+          <fullusername>Councillor Jill Whitehead</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/4/5/0/Info00001054/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/4/5/0/Info00001054/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Environment &amp; Neighbourhood Committee</keyposts>
+          <workaddress>
+            <phone>020 8642 9766</phone>
+            <email>jill.whitehead@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>32 Milton Avenue</line1>
+            <line2>Sutton</line2>
+            <line3>Surrey</line3>
+            <postcode>SM1 3QB</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Please contact Councillor Whitehead to arrange a meeting.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Carshalton South and Clockhouse</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>471</councillorid>
+          <fullusername>Councillor Moira Butt</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/1/7/4/Info00000471/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/1/7/4/Info00000471/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>London Borough of Sutton</line1>
+            <line2>Civic Offices</line2>
+            <line3>St Nicholas Way</line3>
+            <line4>Sutton</line4>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 5035</phone>
+            <email>moira.butt@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Saturday in each month, except August and December, from 10 am to 12 noon at the Clockhouse One Stop Shop, Hillcrest Parade, Clockhouse</line1>
+            <line2>Last Saturday in every month, except August and December from 1 pm to 3 pm at the Good Shepherd Church Centre,</line2>
+            <line3>Queen Mary's Avenue, Carshalton.  Please contact Councillor direct if urgent)</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>472</councillorid>
+          <fullusername>Councillor Tim Crowley</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/2/7/4/Info00000472/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/2/7/4/Info00000472/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Opposition</keyposts>
+          <workaddress>
+            <line1>London Borough of Sutton</line1>
+            <line2>Civic Offices</line2>
+            <line3>St Nicholas Way</line3>
+            <line4>Sutton</line4>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4236</phone>
+            <mobile>07946 318 856</mobile>
+            <email>Tim.Crowley@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Saturday in each month, except August and December, from 10 am to 12 noon at the Clockhouse One Stop Shop, Hillcrest Parade, Clockhouse</line1>
+            <line2>Last Saturday in every month, except August and December from 1 pm to 3 pm at the Good Shepherd Church Centre,</line2>
+            <line3>Queen Mary's Avenue, Carshalton  (NOTE:  No surgey on 30 March 2013.  Please contact Councillor direct if urgent)</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1520</councillorid>
+          <fullusername>Councillor Amy Haldane</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/0/2/5/Info00001520/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/0/2/5/Info00001520/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4240</phone>
+            <email>Amy.Haldane@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cheam</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1056</councillorid>
+          <fullusername>Councillor Mary Burstow</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/6/5/0/Info00001056/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/6/5/0/Info00001056/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Licensing Committee</keyposts>
+          <workaddress>
+            <mobile>0787 555 4929</mobile>
+            <email>mary.burstow@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>40 Fromondes Road</line1>
+            <line2>Cheam</line2>
+            <line3>Sutton</line3>
+            <line4>Surrey</line4>
+            <postcode>SM3 8QR</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>On the second Saturday in every month (except August) at Costa Coffee, 15 High Street</line1>
+            <line2>Cheam from 10.30 am to 11.30 am</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1994</startdate>
+              <enddate>07/05/1998</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1533</councillorid>
+          <fullusername>Councillor Holly Ramsey</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/3/3/5/Info00001533/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/3/3/5/Info00001533/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 6444</phone>
+            <email>Holly.Ramsey@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Contact Councillor direct to initially discuss an issue and if necessary, arrange an immediate personal meeting</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>456</councillorid>
+          <fullusername>Councillor Graham Whitham</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/6/5/4/Info00000456/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/6/5/4/Info00000456/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>London Borough of Sutton</line1>
+            <line2>Civic Offices</line2>
+            <line3>St Nicholas Way</line3>
+            <line4>Sutton</line4>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 5036</phone>
+            <email>graham.whitham@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Contact Councillor direct to initially discuss an issue and if necessary, arrange an immediate personal meeting</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>14/05/1978</startdate>
+              <enddate>06/05/1982</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/1982</startdate>
+              <enddate>01/05/1986</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>01/05/1986</startdate>
+              <enddate>03/05/1990</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/1990</startdate>
+              <enddate>05/05/1994</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/1994</startdate>
+              <enddate>07/05/1998</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/1998</startdate>
+              <enddate>02/05/2002</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Nonsuch</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1512</councillorid>
+          <fullusername>Councillor Samantha Bourne</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/2/1/5/Info00001512/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/2/1/5/Info00001512/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chair, Planning Committee and Cheam North &amp; Worcester Park Local Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4233</phone>
+            <email>Samantha.Bourne@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Saturday in month except August from 11-12 at Worcester Park Library</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1513</councillorid>
+          <fullusername>Councillor Richard Broadbent</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/3/1/5/Info00001513/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/3/1/5/Info00001513/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice Chair, Pension Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 6448</phone>
+            <email>Richard.Broadbent@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Saturday in month except August from 11-12 at Worcester Park Library</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1535</councillorid>
+          <fullusername>Councillor Daniel Sangster</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/5/3/5/Info00001535/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/5/3/5/Info00001535/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <mobile>0751 777 5050</mobile>
+            <email>daniel.sangster@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Saturday in month except August from 11-12 at Worcester Park Library</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>St Helier</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1515</councillorid>
+          <fullusername>Councillor Jean Crossby</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/5/1/5/Info00001515/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/5/1/5/Info00001515/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, St Helier, The Wrythe and Wandle Valley Local Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4235</phone>
+            <email>Jean.Crossby@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1519</councillorid>
+          <fullusername>Councillor Martin Gonzalez</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/9/1/5/Info00001519/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/9/1/5/Info00001519/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4239</phone>
+            <email>martin.gonzalez@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1522</councillorid>
+          <fullusername>Councillor Doug Hunt</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/2/2/5/Info00001522/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/2/2/5/Info00001522/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4242</phone>
+            <email>Doug.Hunt@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stonecot</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1059</councillorid>
+          <fullusername>Councillor Adrian Davey</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/9/5/0/Info00001059/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/9/5/0/Info00001059/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <line4>Surrey</line4>
+            <postcode>SM1 1EA</postcode>
+            <mobile>07795 483 434</mobile>
+            <email>adrian.davey@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Saturday of the month (except August) 11.00 - 12.00 at the Sutton Life Centre.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1290</councillorid>
+          <fullusername>Councillor Nick Emmerson</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/0/9/2/Info00001290/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/0/9/2/Info00001290/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chair, Housing, Economy &amp; Business Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St. Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <line4>SM1 1EA</line4>
+            <phone>020 8770 4807</phone>
+            <email>Nick.Emmerson@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Saturday of the month (except August) 11.00 - 12.00 at the Sutton Life Centre.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/12/2012</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1060</councillorid>
+          <fullusername>Councillor Miguel Javelot</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/0/6/0/Info00001060/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/0/6/0/Info00001060/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Appeals Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <line4>Surrey</line4>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4527</phone>
+            <email>miguel.javelot@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Saturday of the month (except August) 11.00 - 12.00 at the Sutton Life Centre.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sutton Central</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1511</councillorid>
+          <fullusername>Councillor David Bartolucci</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/1/1/5/Info00001511/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/1/1/5/Info00001511/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4232</phone>
+            <email>David.Bartolucci@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1517</councillorid>
+          <fullusername>Councillor Vincent Galligan</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/7/1/5/Info00001517/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/7/1/5/Info00001517/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chair, Sutton Local Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4237</phone>
+            <email>Vincent.Galligan@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1526</councillorid>
+          <fullusername>Councillor Ali Mirhashem</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/6/2/5/Info00001526/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/6/2/5/Info00001526/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4273</phone>
+            <email>Ali.Mirhashem@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sutton North</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>127</councillorid>
+          <fullusername>Councillor Ruth Dombey</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/7/2/1/Info00000127/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/7/2/1/Info00000127/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Council; Chair, Strategy &amp; Resources Committee and Health and Wellbeing Board</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St. Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 5406</phone>
+            <email>ruth.dombey@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>69 Waverley Avenue</line1>
+            <line2>Sutton</line2>
+            <postcode>SM1 3JX</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Saturday, except during August, from 11am until 12 noon at the Salvation Army Hall, Benhill Avenue, Sutton</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>04/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>163</councillorid>
+          <fullusername>Councillor Marlene Heron</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/3/6/1/Info00000163/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/3/6/1/Info00000163/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Sutton Local Committee; Vice-Chair, Appeals Committee; Vice-Chair, Licensing Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St. Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 5511</phone>
+            <email>marlene.heron@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>25 Leafield Road</line1>
+            <line2>Sutton</line2>
+            <postcode>SM1 2NH</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Saturday, except during August, from 11am until 12 noon at the Salvation Army Hall, Benhill Avenue, Sutton</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>04/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1530</councillorid>
+          <fullusername>Councillor Steve Penneck</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/0/3/5/Info00001530/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/0/3/5/Info00001530/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 6400</phone>
+            <email>Steve.Penneck@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sutton South</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1071</councillorid>
+          <fullusername>Councillor Richard Clifton</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/1/7/0/Info00001071/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/1/7/0/Info00001071/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Planning Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>0775 905 0685</phone>
+            <email>richard.clifton@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>55 The Ridgway</line1>
+            <line2>Sutton</line2>
+            <line3>Surrey</line3>
+            <postcode>SM2 5JX</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors Clifton and Fivey will arrange a meeting with residents who contact them seeking a meeting, at a time and place convenient to the residents.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1516</councillorid>
+          <fullusername>Councillor Trish Fivey</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/6/1/5/Info00001516/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/6/1/5/Info00001516/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 6442</phone>
+            <email>Trish.Fivey@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07769671168</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors Clifton and Fivey will arrange a meeting with residents who contact them seeking a meeting, at a time and place convenient to the residents.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>167</councillorid>
+          <fullusername>Councillor Tony Shields</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/7/6/1/Info00000167/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/7/6/1/Info00000167/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of the Opposition; Chair, Sutton South, Cheam &amp; Belmont Local Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <mobile>07951 056 660</mobile>
+          </workaddress>
+          <homeaddress>
+            <line1>55 Egmont Road</line1>
+            <line2>Sutton</line2>
+            <postcode>SM2 5JR</postcode>
+            <phone>020 8642 4264</phone>
+            <email>tonyshields@blueyonder.co.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor Shields aims to meet with residents face to face within 48 hours.  Please contact him at anytime to arrange a meeting.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>04/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sutton West</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1514</councillorid>
+          <fullusername>Councillor Kevin Burke</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/4/1/5/Info00001514/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/4/1/5/Info00001514/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>020 8770 4234</phone>
+            <email>Kevin.Burke@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>103 Cheam Road</line1>
+            <line2>Sutton</line2>
+            <postcode>SM1 2BE</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1078</councillorid>
+          <fullusername>Councillor Wendy Mathys</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/8/7/0/Info00001078/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/8/7/0/Info00001078/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Children, Family and Education Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <line4>Surrey</line4>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4588</phone>
+            <email>wendy.mathys@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Saturday in every month, except August and December, from 11am to 12 noon at St. Alban's Church, (side entrance) Gander Green Lane, Sutton or by arrangment with one of the ward Councillors</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>480</councillorid>
+          <fullusername>Councillor Simon Wales</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/0/8/4/Info00000480/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/0/8/4/Info00000480/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader, Lead Member for Finance, Assets and the Voluntary Sector and Vice-Chair, Strategy &amp; Resources Committee</keyposts>
+          <workaddress>
+            <phone>020 8770 5104</phone>
+            <email>simon.wales@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Flat 6</line1>
+            <line2>86 Worcester Road</line2>
+            <line3>Sutton</line3>
+            <line4>Surrey</line4>
+            <postcode>SM2 6QQ</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>2nd Saturday in every month, except in August, from 11 am to 12 noon at St. Alban's Church, (side entrance) Gander Green Lane, Sutton or by arrangment with one of the ward Councillors</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>The Wrythe</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1527</councillorid>
+          <fullusername>Councillor Callum Morton</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/7/2/5/Info00001527/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/7/2/5/Info00001527/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 5268</phone>
+            <email>Callum.Morton@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1529</councillorid>
+          <fullusername>Councillor Nali Patel</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/9/2/5/Info00001529/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/9/2/5/Info00001529/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <mobile>07737 683 074</mobile>
+            <email>Nali.Patel@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>464</councillorid>
+          <fullusername>Councillor Colin Stears</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/4/6/4/Info00000464/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/4/6/4/Info00000464/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Adult Social Services &amp; Health Committee; Vice Chair, St. Helier The  Wrythe and Wandle Valley Local Committee and Health and Wellbeing Board</keyposts>
+          <workaddress>
+            <phone>020 8770 5268</phone>
+            <email>colin.stears@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>42 Culvers Avenue</line1>
+            <line2>Carshalton</line2>
+            <line3>Surrey</line3>
+            <postcode>SM5 2BL</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Contact the Liberal Democrat Office in The Wrythe Ward at 5 Nightingale Road Carshalton between 9am and 5pm weekdays or call  8770 5033 to arrange an appointment or a home or site visit.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wallington North</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1079</councillorid>
+          <fullusername>Councillor Sunita Gordon</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/9/7/0/Info00001079/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/9/7/0/Info00001079/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <line4>Surrey</line4>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4526</phone>
+            <email>sunita.gordon@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>1st Saturday in every month (excluding August) from 10 am to 11 am at the Trinity Centre, Holy Trinity Church, Maldon Road, Wallington</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1051</councillorid>
+          <fullusername>Councillor Joyce Melican</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/1/5/0/Info00001051/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/1/5/0/Info00001051/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Beddington &amp; Wallington Local Committee; and Deputy Mayor</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <line4>Surrey</line4>
+            <postcode>SM1 1EA</postcode>
+            <mobile>07765 909 241</mobile>
+            <email>joyce.melican@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>3rd Saturday in every month (except August) from 10 am until 11.30 am at Sainsbury's, Wallington</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1532</councillorid>
+          <fullusername>Councillor Marian Radford</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/2/3/5/Info00001532/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/2/3/5/Info00001532/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chair, Adult Social Services &amp; Health Committee and Vice-Chair, Beddington &amp; Wallington Local Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <postcode>SM1 1EA</postcode>
+            <mobile>07456 779 877</mobile>
+            <email>Marian.Radford@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wallington South</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1776</councillorid>
+          <fullusername>Councillor Steve Cook</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/6/7/7/Info00001776/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/6/7/7/Info00001776/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <line4>Surrey</line4>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 6681</phone>
+            <email>steve.cook@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Third Saturday in every month (except August) from 10am to 11.30am in Sainsbury's, Wallington (Wallington Square entrance) . Please note that the December surgery will NOT be in Sainsbury's, but in the Iris Tomlin Room in Wallington Library from 10am to 11.30am.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/06/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>495</councillorid>
+          <fullusername>Councillor Jayne McCoy</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/5/9/4/Info00000495/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/5/9/4/Info00000495/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Housing, Economy &amp; Business Committee</keyposts>
+          <workaddress>
+            <line1>London Borough of Sutton</line1>
+            <line2>Civic Offices</line2>
+            <line3>St Nicholas Way</line3>
+            <line4>Sutton</line4>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 5031</phone>
+            <email>jayne.mccoy@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Third Saturday in every month (except August) from 10am to 11.30am in Sainsbury's, Wallington.   Please note that the December surgery will NOT be in Sainsbury's, but in the Iris Tomlin Room in Wallington Library from 10am to 11.30am.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>13/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1534</councillorid>
+          <fullusername>Councillor Muhammad Sadiq</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/4/3/5/Info00001534/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/4/3/5/Info00001534/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Mayor</keyposts>
+          <workaddress>
+            <phone>020 8770 6522</phone>
+            <email>Muhammad.Sadiq@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>11 Overhill Road</line1>
+            <line2>Purley</line2>
+            <postcode>CR8 2JD</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wandle Valley</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>176</councillorid>
+          <fullusername>Councillor Margaret Court</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/6/7/1/Info00000176/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/6/7/1/Info00000176/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 5111</phone>
+            <email>Margaret.Court@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Please telephone 020 8770 5111 to make an appointment</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1994</startdate>
+              <enddate>07/05/1998</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/1998</startdate>
+              <enddate>02/05/2002</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>04/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>131</councillorid>
+          <fullusername>Councillor Jason Reynolds</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/1/3/1/Info00000131/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/1/3/1/Info00000131/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 6513</phone>
+            <email>jason.reynolds@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>04/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1537</councillorid>
+          <fullusername>Councillor Hanna Zuchowska</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/7/3/5/Info00001537/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/7/3/5/Info00001537/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>07421990697</phone>
+            <email>Hanna.Zuchowska@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>95 Stanley Park Road</line1>
+            <line2>Carshalton</line2>
+            <postcode>SM5 3HX</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Worcester Park</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1521</councillorid>
+          <fullusername>Councillor Arthur Hookway</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/1/2/5/Info00001521/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/1/2/5/Info00001521/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chair, Children, Family &amp; Education Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4241</phone>
+            <email>Arthur.Hookway@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>11-12:00 on the 3rd Saturday of each month at Worcester Park Library</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1523</councillorid>
+          <fullusername>Councillor Richard Marston</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/3/2/5/Info00001523/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/3/2/5/Info00001523/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair, Cheam North &amp; Worcester Park Local Committee</keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 4243</phone>
+            <email>richard.marston@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>11-12:00 on the 3rd Saturday of each month at Worcester Park Library</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1536</councillorid>
+          <fullusername>Councillor Paul Wingfield</fullusername>
+          <photosmallurl>https://moderngov.sutton.gov.uk/UserData/6/3/5/Info00001536/smallpic.jpg</photosmallurl>
+          <photobigurl>https://moderngov.sutton.gov.uk/UserData/6/3/5/Info00001536/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Civic Offices</line1>
+            <line2>St Nicholas Way</line2>
+            <line3>Sutton</line3>
+            <postcode>SM1 1EA</postcode>
+            <phone>020 8770 6585</phone>
+            <email>paul.wingfield@sutton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>11-12:00 on the 3rd Saturday of each month at Worcester Park Library</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

@@ -1,0 +1,1611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Alvechurch</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>74</councillorid>
+          <fullusername>June Griffiths</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/4/7/0/Info00000074/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/4/7/0/Info00000074/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chairman of the Adult Care and Well Being Overview and Scrutiny Panel</keyposts>
+          <workaddress>
+            <email>JGriffiths@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Tre Dhen</line1>
+            <line2>439 Birmingham Road</line2>
+            <line3>Bordesley</line3>
+            <line4>Redditch</line4>
+            <postcode>B97 6RL</postcode>
+            <phone>01527 62018</phone>
+            <mobile>07926 906738</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Arrow Valley East (Shared)</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>47</councillorid>
+          <fullusername>Joseph Baker</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/7/4/0/Info00000047/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/7/4/0/Info00000047/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>joebaker@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>52 Turnpike Lane</line1>
+            <line2>Redditch</line2>
+            <line3>Worcestershire</line3>
+            <postcode>B97 6UJ</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>68</councillorid>
+          <fullusername>Peter Bridle</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/8/6/0/Info00000068/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/8/6/0/Info00000068/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UK Independence Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>pbridle@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Member Support Team</line1>
+            <line2>County Hall</line2>
+            <line3>Spetchley Road</line3>
+            <line4>Worcester</line4>
+            <postcode>WR5 0NP</postcode>
+            <phone>01527 542544</phone>
+            <mobile>07496931506</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Arrow Valley West (Shared)</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>77</councillorid>
+          <fullusername>Andrew Fry</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/7/7/0/Info00000077/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/7/7/0/Info00000077/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>AndrewFry@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>64 Northleach Close</line1>
+            <line2>Church Hill</line2>
+            <line3>Redditch</line3>
+            <postcode>B98 8RB</postcode>
+            <phone>01527 584394</phone>
+            <mobile>07894 058880</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>72</councillorid>
+          <fullusername>Pattie Hill</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/2/7/0/Info00000072/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/2/7/0/Info00000072/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>PHill3@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>60 Rosehall Close</line1>
+            <line2>Oakenshaw</line2>
+            <line3>Redditch</line3>
+            <line4>Worcestershire</line4>
+            <postcode>B98 7YD</postcode>
+            <mobile>07734 569902</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Beacon</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>63</councillorid>
+          <fullusername>Peter McDonald</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/3/6/0/Info00000063/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/3/6/0/Info00000063/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Labour Group</keyposts>
+          <workaddress>
+            <email>PMcdonald2@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Waseley Road</line1>
+            <line2>Rubery</line2>
+            <line3>Birmingham</line3>
+            <postcode>B45 9TP</postcode>
+            <phone>0121 453 9267</phone>
+            <mobile>07472 400949</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bedwardine</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>57</councillorid>
+          <fullusername>Derek Prodger MBE</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/7/5/0/Info00000057/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/7/5/0/Info00000057/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>dprodger@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>52 Cormorant Rise</line1>
+            <line2>Lower Wick</line2>
+            <line3>Worcester</line3>
+            <postcode>WR2 4BA</postcode>
+            <phone>01905 426293</phone>
+            <mobile>07771 908789</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bewdley</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>52</councillorid>
+          <fullusername>John Campion</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/2/5/0/Info00000052/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/2/5/0/Info00000052/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Cabinet Member with Responsibility for Children and Families</representing>
+          <keyposts>Cabinet Member with Responsibility for Children and Families</keyposts>
+          <workaddress>
+            <email>jcampion@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Flat 1</line1>
+            <line2>18 Load Street</line2>
+            <line3>Bewdley</line3>
+            <line4>Worcs</line4>
+            <postcode>DY12 2AE</postcode>
+            <mobile>07779 991329</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bowbrook</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>62</councillorid>
+          <fullusername>Tony Miller</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/2/6/0/Info00000062/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/2/6/0/Info00000062/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chairman of the Council</keyposts>
+          <workaddress>
+            <email>TMiller2@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>19 Morton Avenue</line1>
+            <line2>Fernhill Health</line2>
+            <line3>Worcester</line3>
+            <postcode>WR3 7UE</postcode>
+            <phone>01905 453418</phone>
+            <mobile>07503 032776</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bredon</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>73</councillorid>
+          <fullusername>Adrian Hardman</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/3/7/0/Info00000073/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/3/7/0/Info00000073/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <phone>01905 766678</phone>
+            <email>AIHardman@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Dormers</line1>
+            <line2>Oak Lane</line2>
+            <line3>Bredon</line3>
+            <line4>Tewkesbury</line4>
+            <postcode>GL20 7LR</postcode>
+            <phone>01684 773172</phone>
+            <mobile>07904 520363</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Broadway</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>29</councillorid>
+          <fullusername>Elizabeth Eyre</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/9/2/0/Info00000029/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/9/2/0/Info00000029/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice Chairman, Overview and Scrutiny Performance Board</keyposts>
+          <workaddress>
+            <email>EEyre@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Holmwood</line1>
+            <line2>150 High Street</line2>
+            <line3>Broadway</line3>
+            <line4>WR12 7AJ</line4>
+            <phone>01386 854807</phone>
+            <mobile>07801 816755</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bromsgrove Central</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>32</councillorid>
+          <fullusername>Anthony Blagg</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/2/3/0/Info00000032/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/2/3/0/Info00000032/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Deputy Leader and Cabinet Member with Responsibility for Environment</representing>
+          <keyposts>Deputy Leader and Cabinet Member with Responsibility for Environment</keyposts>
+          <workaddress>
+            <email>ABlagg@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Nailers Cottage</line1>
+            <line2>29 Whetty Lane</line2>
+            <line3>Rubery</line3>
+            <line4>Birmingham</line4>
+            <postcode>B45 9DL</postcode>
+            <phone>0121 460 1766</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bromsgrove East</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>43</councillorid>
+          <fullusername>Kit Taylor</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/3/4/0/Info00000043/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/3/4/0/Info00000043/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chairman, Corporate and Communities Overview and Scrutiny Panel</keyposts>
+          <workaddress>
+            <email>KTaylor3@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>22 Brickhouse Lane</line1>
+            <line2>Stoke Prior</line2>
+            <line3>Bromsgrove</line3>
+            <postcode>B60 4LX</postcode>
+            <phone>01527 879339</phone>
+            <mobile>07860 827318</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bromsgrove South</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>50</councillorid>
+          <fullusername>Chris Bloore</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/0/5/0/Info00000050/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/0/5/0/Info00000050/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour and Co-operative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>CBloore@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Flat 13</line1>
+            <line2>Craft Court</line2>
+            <line3>Railway Walk</line3>
+            <line4>Bromsgrove</line4>
+            <postcode>B60 3GW</postcode>
+            <mobile>07905 612710</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bromsgrove West</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>64</councillorid>
+          <fullusername>Luke Mallett</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/4/6/0/Info00000064/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/4/6/0/Info00000064/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour and Co-operative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chairman of the Audit &amp; Governance Committee</keyposts>
+          <workaddress>
+            <email>LMallett@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>22 Highfield Road</line1>
+            <line2>Bromsgrove</line2>
+            <postcode>B61 7BD</postcode>
+            <phone>01527 876147</phone>
+            <mobile>07951 205499</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Chaddesley</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>83</councillorid>
+          <fullusername>Stephen Clee</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/3/8/0/Info00000083/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/3/8/0/Info00000083/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>SClee@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Three Gables</line1>
+            <line2>Hop Pole Lane</line2>
+            <line3>Bewdley</line3>
+            <postcode>DY12 2QH</postcode>
+            <phone>01299 402338</phone>
+            <mobile>07973 392959</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Claines</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>46</councillorid>
+          <fullusername>Sue Askin</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/6/4/0/Info00000046/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/6/4/0/Info00000046/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>SAskin@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>292 Ombersley Road</line1>
+            <line2>Worcester</line2>
+            <postcode>WR3 7HD</postcode>
+            <phone>01905 456066</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Clent Hills</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>66</councillorid>
+          <fullusername>Rachel Jenkins</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/6/6/0/Info00000066/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/6/6/0/Info00000066/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>RJenkins@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>21 Birmingham Road</line1>
+            <line2>Hagley</line2>
+            <line3>West Midlands</line3>
+            <postcode>DY9 9JZ</postcode>
+            <mobile>07974 257172</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cookley, Wolverley &amp; Wribbenhall</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>26</councillorid>
+          <fullusername>Gordon Yarranton</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/6/2/0/Info00000026/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/6/2/0/Info00000026/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>GYarranton@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Telford Drive</line1>
+            <line2>Bewdely</line2>
+            <line3>Worcester</line3>
+            <postcode>DY12 2EP</postcode>
+            <phone>01299 403835</phone>
+            <mobile>07791 950088</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Croome</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>53</councillorid>
+          <fullusername>Roger Sutton</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/3/5/0/Info00000053/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/3/5/0/Info00000053/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Independent Alliance Group</keyposts>
+          <workaddress>
+            <email>RSutton@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>41 The Beeches</line1>
+            <line2>Holly Green</line2>
+            <line3>Upton-upon-Severn</line3>
+            <line4>Worcestershire</line4>
+            <postcode>WR8 0QQ</postcode>
+            <phone>01684 593282</phone>
+            <mobile>07766 880192</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Droitwich East</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>81</councillorid>
+          <fullusername>Pamela Davey</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/1/8/0/Info00000081/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/1/8/0/Info00000081/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>PDavey@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Kantara</line1>
+            <line2>Hanbury Road</line2>
+            <line3>Droitwich Spa</line3>
+            <postcode>WR9 7DN</postcode>
+            <phone>01905 773289</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Droitwich West</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>78</councillorid>
+          <fullusername>Lynne Duffy</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/8/7/0/Info00000078/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/8/7/0/Info00000078/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chairman for the Children and Young People Overview and Scrutiny Panel</keyposts>
+          <workaddress>
+            <email>LDuffy@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>66 Little Hill</line1>
+            <line2>Droitwich Spa</line2>
+            <postcode>WR9 0RQ</postcode>
+            <phone>01905 797816</phone>
+            <mobile>07918 026036</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Evesham North West</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>28</councillorid>
+          <fullusername>John Smith</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/8/2/0/Info00000028/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/8/2/0/Info00000028/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Cabinet Member with Responsibility for Highways</representing>
+          <keyposts>Cabinet Member with Responsiblity for Highways</keyposts>
+          <workaddress>
+            <email>JHSmith@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Orchard</line1>
+            <line2>Malinshill Road</line2>
+            <line3>Hampton</line3>
+            <line4>Evesham, Worcestershire</line4>
+            <postcode>WR11 2QG</postcode>
+            <phone>01386 443157</phone>
+            <mobile>07967 644801</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Evesham South</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>48</councillorid>
+          <fullusername>Bob Banks</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/8/4/0/Info00000048/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/8/4/0/Info00000048/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>RBanks@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Rectory Cottage</line1>
+            <line2>Buckland</line2>
+            <line3>Broadway</line3>
+            <line4>Worcestershire</line4>
+            <postcode>WR12 7LY</postcode>
+            <phone>01386 858292</phone>
+            <mobile>07802 981200</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Gorse Hill and Warndon</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>45</councillorid>
+          <fullusername>Alan Amos</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/5/4/0/Info00000045/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/5/4/0/Info00000045/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>AAmos@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>8 Lancing Road</line1>
+            <line2>Worcester</line2>
+            <postcode>WR5 2HT</postcode>
+            <phone>01905 359717</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Hallow</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>44</councillorid>
+          <fullusername>Phil Grove</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/4/4/0/Info00000044/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/4/4/0/Info00000044/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>PGrove@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Crisgrove Villa</line1>
+            <line2>The Oaklands</line2>
+            <line3>Tenbury</line3>
+            <line4>Worcestershire</line4>
+            <postcode>WR15 8FB</postcode>
+            <phone>01584 811525</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Harvington</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>70</councillorid>
+          <fullusername>Clive Holt</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/0/7/0/Info00000070/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/0/7/0/Info00000070/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>CHolt@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Oaken</line1>
+            <line2>Grooms Hill</line2>
+            <line3>Abbots Morton</line3>
+            <line4>Worcestershire</line4>
+            <postcode>WR7 4LT</postcode>
+            <phone>01386 792490</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Kidderminster - St Chads</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>61</councillorid>
+          <fullusername>Fran Oborski</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/1/6/0/Info00000061/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/1/6/0/Info00000061/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chairman of the Children and Young People Overview and Scrutiny Panel</keyposts>
+          <workaddress>
+            <email>FOborski@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Osborne Close</line1>
+            <line2>Kidderminister</line2>
+            <line3>Worcestershire</line3>
+            <postcode>DY10 3YY</postcode>
+            <phone>01562 823911</phone>
+            <mobile>07973 281552</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Kidderminster - St Johns</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>31</councillorid>
+          <fullusername>Marcus Hart</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/1/3/0/Info00000031/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/1/3/0/Info00000031/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Cabinet Member with Responsibility for Health and Well Being</representing>
+          <keyposts>Cabinet Member with Responsibility for Health and Well Being</keyposts>
+          <workaddress>
+            <email>MHart@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Apartment 2</line1>
+            <line2>Woodhamcote Manor</line2>
+            <line3>Wolverley Village</line3>
+            <line4>Worcestershire</line4>
+            <postcode>DY11 5XZ</postcode>
+            <phone>01562 851769</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Littletons</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>34</councillorid>
+          <fullusername>Alastair Adams</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/4/3/0/Info00000034/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/4/3/0/Info00000034/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>AAdams@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Sunnyside</line1>
+            <line2>Back Lane</line2>
+            <line3>Pebworth</line3>
+            <line4>Stratford-upon-Avon</line4>
+            <postcode>CV37 8XA</postcode>
+            <phone>01789 721227</phone>
+            <mobile>07725 979277</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Malvern Chase</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>30</councillorid>
+          <fullusername>Lucy Hodgson</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/0/3/0/Info00000030/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/0/3/0/Info00000030/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Cabinet Member with Responsibility for Localism and Communities</representing>
+          <keyposts>Cabinet Member with Responsibility for Localism and Communities</keyposts>
+          <workaddress>
+            <email>LHodgson@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>24 Brecon Avenue</line1>
+            <line2>Worcester</line2>
+            <postcode>WR4 0RJ</postcode>
+            <phone>01905 754724</phone>
+            <mobile>07879 880384</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Malvern Langland</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>69</councillorid>
+          <fullusername>Ian Hopwood</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/9/6/0/Info00000069/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/9/6/0/Info00000069/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chairman of the Council</keyposts>
+          <workaddress>
+            <email>IHopwood@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>31 Church Road</line1>
+            <line2>Malvern</line2>
+            <line3>Worcestershire</line3>
+            <postcode>WR14 1LT</postcode>
+            <phone>01684 562815</phone>
+            <mobile>07734 569907</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Malvern Link</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>40</councillorid>
+          <fullusername>Paul Tuthill</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/0/4/0/Info00000040/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/0/4/0/Info00000040/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>PTuthill@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Elms Farmhouse</line1>
+            <line2>Lower Howsell</line2>
+            <line3>Malvern</line3>
+            <line4>Worcestershire</line4>
+            <postcode>WR14 1DH</postcode>
+            <phone>01886 832309</phone>
+            <mobile>07817 369397</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Malvern Trinity</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>56</councillorid>
+          <fullusername>John Raine</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/6/5/0/Info00000056/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/6/5/0/Info00000056/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Green Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>JRaine@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Newsholme</line1>
+            <line2>Brockhill Road</line2>
+            <line3>West Malvern</line3>
+            <line4>Worcestershire</line4>
+            <postcode>WR14 4DL</postcode>
+            <phone>01684 565052</phone>
+            <mobile>07786 198332</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Nunnery</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>36</councillorid>
+          <fullusername>Pat Agar</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/6/3/0/Info00000036/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/6/3/0/Info00000036/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour and Co-operative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>PAgar@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>291A Tolladine Road</line1>
+            <line2>Worcester</line2>
+            <postcode>WR4 9BB</postcode>
+            <phone>01905 23689</phone>
+            <mobile>07875 957312</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Ombersley</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>51</councillorid>
+          <fullusername>Maurice Broomfield</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/1/5/0/Info00000051/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/1/5/0/Info00000051/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Spindles</line1>
+            <line2>Addis Lane</line2>
+            <line3>Cutnall Green</line3>
+            <line4>Droitwich</line4>
+            <postcode>WR9 0NB</postcode>
+            <phone>01299 851384</phone>
+            <mobile>07812 041639</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Pershore</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>41</councillorid>
+          <fullusername>Liz Tucker</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/1/4/0/Info00000041/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/1/4/0/Info00000041/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the 2013 Group</keyposts>
+          <workaddress>
+            <email>LTucker@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Throckmorton</line1>
+            <line2>Pershore</line2>
+            <line3>Worcestershire</line3>
+            <postcode>WR10 2JX</postcode>
+            <phone>01386 462441</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Powick</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>38</councillorid>
+          <fullusername>Tom Wells</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/8/3/0/Info00000038/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/8/3/0/Info00000038/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chairman Adult Care and Well Being Overview and Scrutiny Panel</keyposts>
+          <workaddress>
+            <email>TWells@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>27 Upton Road</line1>
+            <line2>Callow End</line2>
+            <line3>Worcester</line3>
+            <postcode>WR2 4TY</postcode>
+            <phone>01905 831752</phone>
+            <mobile>07702 996203</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Rainbow Hill</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>80</councillorid>
+          <fullusername>Paul Denham</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/0/8/0/Info00000080/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/0/8/0/Info00000080/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour and Co-operative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chairman of Planning and Regulatory Committee</keyposts>
+          <workaddress>
+            <email>PDenham@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>18 Oaklands</line1>
+            <line2>Worcester</line2>
+            <postcode>WR5 1SL</postcode>
+            <phone>01905 354181</phone>
+            <mobile>07833 221328</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Redditch North (Shared)</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>65</councillorid>
+          <fullusername>Robin Lunn</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/5/6/0/Info00000065/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/5/6/0/Info00000065/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>RLunn@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Little Hambledon</line1>
+            <line2>10 Malthouse Crescent</line2>
+            <line3>Inkberrow</line3>
+            <line4>Worcestershire</line4>
+            <postcode>WR7 4EF</postcode>
+            <phone>01386 792073</phone>
+            <mobile>07785 305849</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>37</councillorid>
+          <fullusername>Graham Vickery</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/7/3/0/Info00000037/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/7/3/0/Info00000037/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chairman Economy, Environment and Communities Overview and Scrutiny Panel</keyposts>
+          <workaddress>
+            <email>GVickery@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>60 Rectory Road</line1>
+            <line2>Headless Cross</line2>
+            <line3>Redditch</line3>
+            <line4>Worcestershire</line4>
+            <phone>01527 544742</phone>
+            <mobile>07887 944881</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Redditch South (Shared)</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>82</councillorid>
+          <fullusername>Stuart Cross</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/2/8/0/Info00000082/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/2/8/0/Info00000082/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UK Independence Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>SCross@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Member Support Team</line1>
+            <line2>County Hall</line2>
+            <line3>Spetchley Road</line3>
+            <line4>Worcester</line4>
+            <postcode>WR5 2NP</postcode>
+            <mobile>07867 747415</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>75</councillorid>
+          <fullusername>Philip Gretton</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/5/7/0/Info00000075/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/5/7/0/Info00000075/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chairman of the Audit &amp; Governance Committee</keyposts>
+          <workaddress>
+            <email>PGretton@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Middle Bouts Farm</line1>
+            <line2>Bouts Lane</line2>
+            <line3>Inkberrow</line3>
+            <line4>Worcestershire</line4>
+            <postcode>WR7 4HP</postcode>
+            <phone>01386 792240</phone>
+            <mobile>07785 715986</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>St Barnabas</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>71</councillorid>
+          <fullusername>Anne Hingley</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/1/7/0/Info00000071/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/1/7/0/Info00000071/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chairman of the Standards and Ethics Committee</keyposts>
+          <workaddress>
+            <email>AHingley@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>19 Franche Road</line1>
+            <line2>Wolverley</line2>
+            <line3>Kidderminister</line3>
+            <postcode>DY11 5TP</postcode>
+            <phone>01562 852736</phone>
+            <mobile>07814 265751</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>St Georges and St Oswald</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>55</councillorid>
+          <fullusername>Mary Rayner</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/5/5/0/Info00000055/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/5/5/0/Info00000055/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent Community and Health Concern and Residents</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>MRayner@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>23 Dunnington Avenue</line1>
+            <line2>Kidderminister</line2>
+            <line3>Worcestershire</line3>
+            <postcode>DY10 2YS</postcode>
+            <phone>01562 748564</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>St Marys</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>79</councillorid>
+          <fullusername>Nathan Desmond</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/9/7/0/Info00000079/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/9/7/0/Info00000079/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>NDesmond@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>17 Jay Park Crescent</line1>
+            <line2>Kidderminister</line2>
+            <postcode>DY10 4JP</postcode>
+            <phone>01562 68156</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stourport-on-Severn (Shared)</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>850</councillorid>
+          <fullusername>Tony Muir</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/0/5/8/Info00000850/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/0/5/8/Info00000850/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>TMuir@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Bronwen Ingham Court</line1>
+            <line2>Kidderminster</line2>
+            <line3>Worcestershire</line3>
+            <postcode>DY10 2ET</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>42</councillorid>
+          <fullusername>John Thomas</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/2/4/0/Info00000042/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/2/4/0/Info00000042/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent Community and Health Concern and Residents</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>JThomas2@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>01299 823876</phone>
+            <mobile>07870239651</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Tenbury</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>58</councillorid>
+          <fullusername>Ken Pollock</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/8/5/0/Info00000058/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/8/5/0/Info00000058/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Cabinet Member with Responsibility for Economy, Skills and Infrastructure</representing>
+          <keyposts>Cabinet Member with Responsibility for Economy, Skills and Infrastructure</keyposts>
+          <workaddress>
+            <email>KPollock2@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 The Old Chantry</line1>
+            <line2>Martley</line2>
+            <line3>Worcestershire</line3>
+            <postcode>WR6 6QA</postcode>
+            <phone>01242 582025</phone>
+            <mobile>07899 794858</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Upton Snodsbury</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>35</councillorid>
+          <fullusername>Robert Adams</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/5/3/0/Info00000035/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/5/3/0/Info00000035/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chairman of Planning and Regulatory Committee</keyposts>
+          <workaddress>
+            <email>RAdams@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Aston Hall Farm</line1>
+            <line2>White Ladies Aston</line2>
+            <line3>Spetchley</line3>
+            <line4>Worcester</line4>
+            <postcode>WR7 4QJ</postcode>
+            <phone>01905 345223</phone>
+            <mobile>07885 306608</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Warndon Parish</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>54</councillorid>
+          <fullusername>Andrew Roberts</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/4/5/0/Info00000054/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/4/5/0/Info00000054/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chairman of the Health Overview and Scrutiny Committee</keyposts>
+          <workaddress>
+            <email>andyroberts@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Tyndale</line1>
+            <line2>Harley Goodacre</line2>
+            <line3>Worcester</line3>
+            <postcode>WR4 0PR</postcode>
+            <phone>01905 21799</phone>
+            <mobile>07969 082426</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Woodvale</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>27</councillorid>
+          <fullusername>Sheila Blagg</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/7/2/0/Info00000027/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/7/2/0/Info00000027/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member with Responsibility for Adult Social Care</keyposts>
+          <workaddress>
+            <email>SBlagg@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Nailers Cottage</line1>
+            <line2>29 Whetty Lane</line2>
+            <line3>Rubery</line3>
+            <line4>Birmingham</line4>
+            <postcode>B45 9DL</postcode>
+            <phone>0121 460 1766</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Worcester - Riverside</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>76</councillorid>
+          <fullusername>Simon Geraghty</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/6/7/0/Info00000076/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/6/7/0/Info00000076/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Leader and Cabinet Member with Responsibility for Finance</representing>
+          <keyposts>Leader and Cabinet Member with Responsibility for Finance</keyposts>
+          <workaddress>
+            <email>SGeraghty@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>35 Fern Road</line1>
+            <line2>Worcester</line2>
+            <postcode>WR2 6HJ</postcode>
+            <phone>01905 420740</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Worcester - St John</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>39</councillorid>
+          <fullusername>Richard Udall</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/9/3/0/Info00000039/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/9/3/0/Info00000039/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour and Co-operative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chairman Overview and Scrutiny Performance Board</keyposts>
+          <workaddress>
+            <email>RUdall2@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>18 Skinner Road</line1>
+            <line2>St Johns</line2>
+            <line3>Worcester</line3>
+            <postcode>WR2 4JB</postcode>
+            <phone>01905 428191</phone>
+            <mobile>07710 780845</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Worcester - St Peter</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>49</councillorid>
+          <fullusername>Marc Bayliss</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/9/4/0/Info00000049/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/9/4/0/Info00000049/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Cabinet Member with Responsibility for Transformation and Commissioning</representing>
+          <keyposts>Cabinet Member with Responsibility for Transformation and Commissioning</keyposts>
+          <workaddress>
+            <email>MBayliss@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Copsewood Avenue</line1>
+            <line2>Worcester</line2>
+            <postcode>WR5 1SH</postcode>
+            <phone>01905 767717</phone>
+            <mobile>07950 678544</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Worcester - St Stephen</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>67</councillorid>
+          <fullusername>Matthew Jenkins</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/7/6/0/Info00000067/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/7/6/0/Info00000067/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Green Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>MJenkins3@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>34 Hillery Road</line1>
+            <line2>Worcester</line2>
+            <postcode>WR5 1RF</postcode>
+            <phone>01905 767426</phone>
+            <mobile>07726 303517</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wythall</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>59</councillorid>
+          <fullusername>Stephen Peters</fullusername>
+          <photosmallurl>http://worcestershire.moderngov.co.uk/UserData/9/5/0/Info00000059/smallpic.jpg</photosmallurl>
+          <photobigurl>http://worcestershire.moderngov.co.uk/UserData/9/5/0/Info00000059/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Wythall Residents' Association</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chairman of the  Resources Overview and Scrutiny Panel  Vice-Chairman of the Standards and Ethics Committee</keyposts>
+          <workaddress>
+            <email>SPeters@worcestershire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>325 Alcester Road</line1>
+            <line2>Wythall</line2>
+            <line3>Worcestershire</line3>
+            <postcode>B47 6JG</postcode>
+            <phone>01564 824927</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

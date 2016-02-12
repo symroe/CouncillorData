@@ -1,0 +1,2591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Ainsdale</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1541</councillorid>
+          <fullusername>Cllr Ted Hartill</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/4/5/Info00001541/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/4/5/Info00001541/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ted.hartill@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>95 Virginia Street</line1>
+            <line2>Southport</line2>
+            <postcode>PR8 6SP</postcode>
+            <mobile>07733 041300</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS</line1>
+            <line2>I do not hold formal surgeries. Please telephone or email me if you wish to ask my advice and arrange a home visit.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>145</councillorid>
+          <fullusername>Cllr Terry Jones</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/5/4/1/Info00000145/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/5/4/1/Info00000145/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of Conservative Group</keyposts>
+          <workaddress>
+            <email>terry.jones@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>49 Limont Road</line1>
+            <line2>Ainsdale</line2>
+            <line3>Southport</line3>
+            <postcode>PR8 3NJ</postcode>
+            <phone>01704 572625</phone>
+            <mobile>07486 009 204</mobile>
+            <email>terryjones15@sky.com</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS</line1>
+            <line2>I do not hold formal surgeries. Please telephone or email me if you wish to ask my advice and arrange a home visit.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>967</councillorid>
+          <fullusername>Cllr Haydn Preece</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/7/6/9/Info00000967/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/7/6/9/Info00000967/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>preecehay@aol.com</email>
+          </workaddress>
+          <homeaddress>
+            <line1>157 Kenilworth Road</line1>
+            <line2>Ainsdale</line2>
+            <line3>Southport</line3>
+            <postcode>PR8 2QY</postcode>
+            <phone>01704 570689</phone>
+            <mobile>07768 000818</mobile>
+            <email>preecehay@aol.com</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Birkdale</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>163</councillorid>
+          <fullusername>Cllr Iain Brodie - Browne</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/3/6/1/Info00000163/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/3/6/1/Info00000163/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>iain.brodie.browne@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>27 Dunkirk Road</line1>
+            <line2>Birkdale</line2>
+            <line3>Southport</line3>
+            <postcode>PR8 4QZ</postcode>
+            <phone>01704 567272</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR BIRKDALE WARD</line1>
+            <line2>First Saturday of the month, 11.00am - 12.00 noon at Liverpool Road Methodist Church Hall, Birkdale (The "Red Chapel", corner of Sandon Road).</line2>
+            <line3>No appointment necessary.</line3>
+            <line4>Or telephone the Liberal Democrat Group Office on 0151 934 2252</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/1984</startdate>
+              <enddate>07/05/1987</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>204</councillorid>
+          <fullusername>Cllr Richard Hands</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/4/0/2/Info00000204/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/4/0/2/Info00000204/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>r.hands303@btinternet.com</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Warwick Close</line1>
+            <line2>Birkdale</line2>
+            <line3>Southport</line3>
+            <postcode>PR8 5ER</postcode>
+            <phone>01704 535411</phone>
+            <mobile>07817 295784</mobile>
+            <email>richard.hands@councillors.sefton.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR BIRKDALE WARD</line1>
+            <line2>First Saturday of the month, 11.00am - 12.00 noon at Liverpool Road Methodist Church Hall, Birkdale (The "Red Chapel", corner of Sandon Road).</line2>
+            <line3>No appointment necessary.</line3>
+            <line4>Or telephone the Liberal Democrat Group Office on 0151 934 2252</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/1986</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>242</councillorid>
+          <fullusername>Cllr Simon Shaw</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/2/4/2/Info00000242/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/2/4/2/Info00000242/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>simon.shaw@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>66 Liverpool Road</line1>
+            <line2>Birkdale</line2>
+            <line3>Southport</line3>
+            <postcode>PR8 4BB</postcode>
+            <phone>01704 565546</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR BIRKDALE WARD</line1>
+            <line2>First Saturday of the month, 11.00am - 12.00 noon at Liverpool Road Methodist Church Hall, Birkdale (The "Red Chapel", corner of Sandon Road).</line2>
+            <line3>No appointment necessary.</line3>
+            <line4>Or telephone the Liberal Democrat Group Office on 0151 934 2252</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/1984</startdate>
+              <enddate>07/05/1992</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/1996</startdate>
+              <enddate>04/05/2000</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Blundellsands</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1544</councillorid>
+          <fullusername>Cllr Veronica Bennett</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/4/4/5/Info00001544/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/4/4/5/Info00001544/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>0151 531 1193</phone>
+            <mobile>07595 946087</mobile>
+            <email>veronica.bennett@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>35 Regent Road</line1>
+            <line2>Crosby</line2>
+            <line3>Liverpool</line3>
+            <postcode>L23 5RL</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>BLUNDELLSANDS SURGERY DETAILS:</line1>
+            <line2>The Church Hall of St. Nicholas Parish Church, Bridge Road, Blundellsands (The Church Hall</line2>
+            <line3>is accessed from Harlech Road)</line3>
+            <line4>Time: 6.15pm - 7.15pm</line4>
+            <line5>Date: 30 October, 2015</line5>
+            <line6>Or telephone the Labour Group Office 0151 934 3361</line6>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1193</councillorid>
+          <fullusername>Cllr Andy Dams</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/3/9/1/Info00001193/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/3/9/1/Info00001193/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>0151 934 3361</phone>
+            <email>andy.dams@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>14 Walmer Road</line1>
+            <line2>Waterloo</line2>
+            <postcode>L22 5NL</postcode>
+            <mobile>07539 200792</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>BLUNDELLSANDS SURGERY DETAILS:</line1>
+            <line2>The Church Hall of St. Nicholas Parish Church, Bridge Road, Blundellsands (The Church Hall</line2>
+            <line3>is accessed from Harlech Road)</line3>
+            <line4>Time: 6.15pm - 7.15pm</line4>
+            <line5>Date: Friday 29th January, 2016</line5>
+            <line6>Or telephone the Labour Group Office 0151 934 3361</line6>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>3468</councillorid>
+          <fullusername>Cllr Daniel Terence Lewis</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/8/6/4/Info00003468/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/8/6/4/Info00003468/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Dan.T.Lewis@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>16 Bark Road</line1>
+            <line2>Litherland</line2>
+            <postcode>L21 7PQ</postcode>
+            <mobile>07718 171823</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>BLUNDELLSANDS SURGERY DETAILS:</line1>
+            <line2>The Church Hall of St. Nicholas Parish Church, Bridge Road, Blundellsands (The Church Hall</line2>
+            <line3>is accessed from Harlech Road)</line3>
+            <line4>Time: 6.15pm - 7.15pm</line4>
+            <line5>Date: 29 January, 2015</line5>
+            <line6>Or telephone the Labour Group Office 0151 934 3361</line6>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cambridge</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>3469</councillorid>
+          <fullusername>Cllr Harry Bliss</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/9/6/4/Info00003469/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/9/6/4/Info00003469/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Correspondence via</line1>
+            <line2>Conservative Group Office</line2>
+            <line3>Town Hall</line3>
+            <line4>Southport</line4>
+            <postcode>PR8 1DA</postcode>
+            <email>harry.bliss@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07740 985405</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1195</councillorid>
+          <fullusername>Cllr Pat Keith</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/5/9/1/Info00001195/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/5/9/1/Info00001195/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>pat.keith@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Hesketh Road</line1>
+            <line2>Southport</line2>
+            <postcode>PR9 9PD</postcode>
+            <mobile>07735 005802</mobile>
+            <email>cllrpatriciakeith@gmail.com</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS</line1>
+            <line2>I hold surgeries every month</line2>
+            <line3>O/S shops Manchester Road, 30th March, 11-12noon</line3>
+            <line4>Sunnydale Court, Avondale Road, 27th April, 11-12 noon</line4>
+            <line5>Spar, Cambridge Road, Churchtown, 25th May, 11-12 noon</line5>
+            <line6>Churchill Road shops, 29th June,  11-12 noon</line6>
+            <line7>Outside the Cooperative Store, Fylde Road, 27th July, 11-12 noon</line7>
+            <line8>You can also telephone or email me if you require any advice  or if you want  to meet up with me  outside of the surgery times.</line8>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>140</councillorid>
+          <fullusername>Cllr Sue McGuire</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/0/4/1/Info00000140/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/0/4/1/Info00000140/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of Liberal Democrat Group</keyposts>
+          <workaddress>
+            <email>sue.mcguire@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>26 Park Avenue</line1>
+            <line2>Southport</line2>
+            <postcode>PR9 9EF</postcode>
+            <phone>01704 536438</phone>
+            <mobile>07766 968162</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS</line1>
+            <line2>I hold surgeries every month</line2>
+            <line3>O/S shops Manchester Road, 30th March, 11-12noon</line3>
+            <line4>Sunnydale Court, Avondale Road, 27th April, 11-12 noon</line4>
+            <line5>Spar, Cambridge Road, Churchtown, 25th May, 11-12 noon</line5>
+            <line6>Churchill Road shops, 29th June,  11-12 noon</line6>
+            <line7>Outside the Cooperative Store, Fylde Road, 27th July, 11-12 noon</line7>
+            <line8>You can also telephone or email me if you require any advice  or if you want  to meet up with me  outside of the surgery times.</line8>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Church</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>138</councillorid>
+          <fullusername>Cllr Paul Cummins</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/8/3/1/Info00000138/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/8/3/1/Info00000138/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member - Adult Social Care</keyposts>
+          <workaddress>
+            <email>paul.cummins@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>41 Handfield Road</line1>
+            <line2>Waterloo</line2>
+            <line3>Liverpool</line3>
+            <postcode>L22 0NU</postcode>
+            <phone>0151 474 9396</phone>
+            <mobile>07725 518308</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR CHURCH WARD</line1>
+            <line2>Town Hall, Great Georges Road, Waterloo.  Every Saturday 11am-12noon</line2>
+            <line3>Or telephone the Labour Group Office 0151 934 3361</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>29/10/1992</startdate>
+              <enddate>01/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/03/2006</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>141</councillorid>
+          <fullusername>Cllr Daren Veidman</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/4/1/Info00000141/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/4/1/Info00000141/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member - Planning and Building Control</keyposts>
+          <workaddress>
+            <email>daren.veidman@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>14 Masefield Crescent</line1>
+            <line2>Bootle</line2>
+            <postcode>L30 9SS</postcode>
+            <mobile>07932 654116</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR CHURCH WARD</line1>
+            <line2>Town Hall, Great Georges Road, Waterloo.  Every Saturday 11am-12noon</line2>
+            <line3>Or telephone the Labour Group Office 0151 934 3361</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>147</councillorid>
+          <fullusername>Cllr Veronica Webster</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/7/4/1/Info00000147/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/7/4/1/Info00000147/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>veronica.webster@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Halsall Lane</line1>
+            <line2>Formby</line2>
+            <line3>Liverpool</line3>
+            <postcode>L37 3NW</postcode>
+            <mobile>07711 806394</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR CHURCH WARD</line1>
+            <line2>Town Hall, Great Georges Road, Waterloo.  Every Saturday 11am-12noon</line2>
+            <line3>Or telephone the Labour Group Office 0151 934 3361</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Derby</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>3062</councillorid>
+          <fullusername>Cllr Michael O'Brien</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/2/6/0/Info00003062/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/2/6/0/Info00003062/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>michael.o'brien@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>68 Bark Road</line1>
+            <line2>Litherland</line2>
+            <postcode>L21 7QP</postcode>
+            <mobile>07884 233419</mobile>
+            <email>dilbert33@hotmail.com</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR DERBY WARD:</line1>
+            <line2>Christ Church Community Cafe, Oxford Road, Bootle</line2>
+            <line3>Every Thursday 10.00am - 12 noon</line3>
+            <line4>Bootle Library</line4>
+            <line5>1st and 3rd Saturday of every month</line5>
+            <line6>11.30 am -12.30 pm</line6>
+            <line7>Street surgeries and home visits</line7>
+            <line8>2nd and 4th Saturday of every month</line8>
+            <line9>10am - 12noon</line9>
+            <line10>O.D.VA. Club, Fernhill Road, Bootle, L20 0AH</line10>
+            <line11>1st Monday of each month 6.00pm - 8.00pm</line11>
+            <line12>or telephone the Labour Group Office 0151 934 3361</line12>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1199</councillorid>
+          <fullusername>Cllr Dave Robinson</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/9/9/1/Info00001199/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/9/9/1/Info00001199/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Overview and Scrutiny Committee (Regulatory, Compliance and Corporate Services)</keyposts>
+          <workaddress>
+            <email>dave.robinson@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>33 Warwick Road</line1>
+            <line2>Bootle</line2>
+            <postcode>L20 9BY</postcode>
+            <phone>07904 774998</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR DERBY WARD:</line1>
+            <line2>Christ Church Community Cafe, Oxford Road, Bootle</line2>
+            <line3>Every Thursday 10.00am - 12 noon</line3>
+            <line4>Bootle Library</line4>
+            <line5>1st and 3rd Saturday of every month</line5>
+            <line6>11.30 am -12.30 pm</line6>
+            <line7>Street surgeries and home visits</line7>
+            <line8>2nd and 4th Saturday of every month</line8>
+            <line9>10am - 12noon</line9>
+            <line10>O.D.VA. Club, Fernhill Road, Bootle, L20 0AH</line10>
+            <line11>1st Monday of each month 6.00pm - 8.00pm</line11>
+            <line12>or telephone the Labour Group Office 0151 934 3361</line12>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>2493</councillorid>
+          <fullusername>Cllr Anne Thompson</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/3/9/4/Info00002493/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/3/9/4/Info00002493/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Sefton Labour Group Office</line1>
+            <line2>Town Hall</line2>
+            <line3>Bootle</line3>
+            <postcode>L20 7AE</postcode>
+            <email>anne.thompson@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07958 710973</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR DERBY WARD:</line1>
+            <line2>Christ Church Community Cafe, Oxford Road, Bootle</line2>
+            <line3>Every Thursday 10.00am - 12 noon</line3>
+            <line4>Bootle Library</line4>
+            <line5>1st and 3rd Saturday of every month</line5>
+            <line6>11.30 am -12.30 pm</line6>
+            <line7>Street surgeries and home visits</line7>
+            <line8>2nd and 4th Saturday of every month</line8>
+            <line9>10am - 12noon</line9>
+            <line10>O.D.VA. Club, Fernhill Road, Bootle, L20 0AH</line10>
+            <line11>1st Monday of each month 6.00pm - 8.00pm</line11>
+            <line12>or telephone the Labour Group Office 0151 934 3361</line12>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Dukes</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1200</councillorid>
+          <fullusername>Cllr Mrs Pat Ball</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/0/0/2/Info00001200/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/0/0/2/Info00001200/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>pat.ball@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Rotten Row</line1>
+            <line2>Southport</line2>
+            <postcode>PR8 1RU</postcode>
+            <phone>01704 537884</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Dukes Ward Surgeries</line1>
+            <line2>Councillors David Barton &amp; Pat Ball will hold their Ward Surgery every third Saturday of the month during 2016 from 2pm to 3pm at the Atkinson Arts Centre on Lord Street to assist residents with any local issues or neighbourhood concerns. The upcoming dates for these are as follows:-</line2>
+            <line3>Saturday 23 January</line3>
+            <line4>Saturday 20 February</line4>
+            <line5>Saturday 19 March</line5>
+            <line6>Saturday 16 April</line6>
+            <line7>Saturday 21 May</line7>
+            <line8>Saturday 18 June</line8>
+            <line9>Saturday 16 July</line9>
+            <line10>Saturday 20 August</line10>
+            <line11>Saturday 17 September</line11>
+            <line12>Saturday 15 October</line12>
+            <line13>Saturday 19 November</line13>
+            <line14>Saturday 17 December</line14>
+            <line15>Alternatively, the Conservative Councillors can be contacted on:</line15>
+            <line16>Tel: David Barton 07968 581611 /  Pat Ball 01704 537884</line16>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>3097</councillorid>
+          <fullusername>Cllr David Barton</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/7/9/0/Info00003097/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/7/9/0/Info00003097/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>0151 934 2061</phone>
+            <email>davidbarton.dukesward@outlook.com</email>
+          </workaddress>
+          <homeaddress>
+            <line1>19 Oxford Road</line1>
+            <line2>Southport</line2>
+            <postcode>PR8 2JR</postcode>
+            <mobile>07968 581611</mobile>
+            <email>david.barton@councillors.sefton.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Dukes Ward Surgeries</line1>
+            <line2>Councillors David Barton &amp; Pat Ball will hold their Ward Surgery every third Saturday of the month during 2016 from 2pm to 3pm at the Atkinson Arts Centre on Lord Street to assist residents with any local issues or neighbourhood concerns. The upcoming dates for these are as follows:-</line2>
+            <line3>Saturday 23 January</line3>
+            <line4>Saturday 20 February</line4>
+            <line5>Saturday 19 March</line5>
+            <line6>Saturday 16 April</line6>
+            <line7>Saturday 21 May</line7>
+            <line8>Saturday 18 June</line8>
+            <line9>Saturday 16 July</line9>
+            <line10>Saturday 20 August</line10>
+            <line11>Saturday 17 September</line11>
+            <line12>Saturday 15 October</line12>
+            <line13>Saturday 19 November</line13>
+            <line14>Saturday 17 December</line14>
+            <line15>Alternatively, the Conservative Councillors can be contacted on:</line15>
+            <line16>Tel: David Barton 07968 581611 /  Pat Ball 01704 537884</line16>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1201</councillorid>
+          <fullusername>Cllr Tony Dawson</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/0/2/Info00001201/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/0/2/Info00001201/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of Liberal Democrat Group</keyposts>
+          <workaddress>
+            <phone>01704 533555</phone>
+            <email>td@johnpughmp.com</email>
+          </workaddress>
+          <homeaddress>
+            <line1>103 Forest Road</line1>
+            <line2>Southport</line2>
+            <line3>Lancashire</line3>
+            <postcode>PR8 6HY</postcode>
+            <phone>01704 514989</phone>
+            <email>tony.dawson@councillors.sefton.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS</line1>
+            <line2>First Saturday of the month, 11.00am - 12.00 noon at Liverpool Road Methodist Church Hall, Birkdale (The "Red Chapel", corner of Sandon Road).</line2>
+            <line3>No appointment necessary.</line3>
+            <line4>Or telephone the Liberal Democrat Group Office on 0151 934 2252</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Ford</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>173</councillorid>
+          <fullusername>Cllr Kevin Cluskey</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/3/7/1/Info00000173/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/3/7/1/Info00000173/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Chair of the Council</keyposts>
+          <workaddress>
+            <email>kevin.cluskey@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>39 Kent Avenue</line1>
+            <line2>Litherland</line2>
+            <line3>Liverpool</line3>
+            <postcode>L21 7QJ</postcode>
+            <phone>0151 920 3704</phone>
+            <mobile>07468 422959</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR FORD WARD:</line1>
+            <line2>• 1st Wednesday of each month from 11.00am - 11.45am at Litherland Children’s Centre, 201 Moss Lane, Litherland, L21 7NW</line2>
+            <line3>• 2nd and 4th Saturday of each month at Litherland Youth and Community Centre 41 Sefton Road, Litherland, L21 9HD at 9.30am -10.30am</line3>
+            <line4>***SURGERY FOR 13th FEBRUARY HAS BEEN CANCELLED***</line4>
+            <line5>• 3rd Tuesday of each month from 7.00pm - 8.00pm at Litherland Youth and Community Centre.</line5>
+            <line6>Or telephone the Labour Group Office on 0151 934 3361</line6>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/1986</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1552</councillorid>
+          <fullusername>Cllr Paulette Lappin</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/2/5/5/Info00001552/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/2/5/5/Info00001552/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member - Regulatory, Compliance and Corporate Services</keyposts>
+          <workaddress>
+            <email>paulette.lappin@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>14 Corona Road</line1>
+            <line2>Waterloo</line2>
+            <line3>Liverpool</line3>
+            <postcode>L22 0LW</postcode>
+            <phone>07807 727396</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR FORD WARD:</line1>
+            <line2>• 1st Wednesday of each month from 11.00am - 11.45am at Litherland Children’s Centre, 201 Moss Lane, Litherland, L21 7NW</line2>
+            <line3>• 2nd and 4th Saturday of each month at Litherland Youth and Community Centre 41 Sefton Road, Litherland, L21 9HD at 9.30am -10.30am</line3>
+            <line4>***SURGERY FOR 13th FEBRUARY HAS BEEN CANCELLED***</line4>
+            <line5>• 3rd Tuesday of each month from 7.00pm - 8.00pm at Litherland Youth and Community Centre.</line5>
+            <line6>Or telephone the Labour Group Office on 0151 934 3361</line6>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>226</councillorid>
+          <fullusername>Cllr Ian Moncur</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/2/2/Info00000226/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/2/2/Info00000226/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member - Health and Wellbeing</keyposts>
+          <workaddress>
+            <email>ian.moncur@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>13 Manor Drive</line1>
+            <line2>Netherton</line2>
+            <line3>Bootle</line3>
+            <postcode>L30 8RG</postcode>
+            <mobile>07852 240787</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR FORD WARD:</line1>
+            <line2>• 1st Wednesday of each month from 11.00am - 11.45am at Litherland Children’s Centre, 201 Moss Lane, Litherland, L21 7NW</line2>
+            <line3>• 2nd and 4th Saturday of each month at Litherland Youth and Community Centre 41 Sefton Road, Litherland, L21 9HD at 9.30am -10.30am</line3>
+            <line4>***SURGERY FOR 13th FEBRUARY HAS BEEN CANCELLED***</line4>
+            <line5>• 3rd Tuesday of each month from 7.00pm - 8.00pm at Litherland Youth and Community Centre.</line5>
+            <line6>Or telephone the Labour Group Office on 0151 934 3361</line6>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1988</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Harington</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>996</councillorid>
+          <fullusername>Cllr Denise Dutton</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/9/9/Info00000996/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/9/9/Info00000996/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of Conservative Group</keyposts>
+          <workaddress>
+            <line1>Conservative Office</line1>
+            <line2>Town Hall</line2>
+            <line3>Lord Street</line3>
+            <line4>Southport</line4>
+            <postcode>PR8 1DA</postcode>
+            <phone>0151 934 2061</phone>
+            <email>denise.dutton@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>18 Holmwood Close</line1>
+            <line2>Formby</line2>
+            <line3>Liverpool</line3>
+            <postcode>L37 1XW</postcode>
+            <phone>01704 871132</phone>
+            <mobile>07827 871871</mobile>
+            <email>denise.dutton@councillors.sefton.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS</line1>
+            <line2>Formby Library - 11.00am - 12 noon</line2>
+            <line3>on the second Saturday of each month</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1014</councillorid>
+          <fullusername>Cllr Simon Jamieson</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/4/1/0/Info00001014/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/4/1/0/Info00001014/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>simon.jamieson@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>22 Runnells Lane</line1>
+            <line2>Thornton</line2>
+            <postcode>L23 1TR</postcode>
+            <mobile>07900 175048</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1553</councillorid>
+          <fullusername>Cllr Nina Killen</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/3/5/5/Info00001553/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/3/5/5/Info00001553/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Labour Group Office</line1>
+            <line2>Town Hall</line2>
+            <line3>Oriel Road</line3>
+            <line4>Bootle</line4>
+            <postcode>L20 7AE</postcode>
+            <email>nina.killen@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>07919 617556</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Surgery details for 2016:</line1>
+            <line2>Last Friday of the month from 4.00pm to 5.00pm at Formby Library.</line2>
+            <line3>Please call on 07919 617556 or email ninakillen@googlemail.com if you planning to attend a surgery.</line3>
+            <line4>If you wish to see Cllr Killen at another time please call to arrange.</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Kew</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>153</councillorid>
+          <fullusername>Cllr Mike  Booth</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/3/5/1/Info00000153/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/3/5/1/Info00000153/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>mike.booth@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Rainbow Cottage</line1>
+            <line2>1 Sea Cop</line2>
+            <line3>Fylde Road</line3>
+            <line4>Southport</line4>
+            <postcode>PR9 9UF</postcode>
+            <phone>07581 016914</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS</line1>
+            <line2>I do not hold formal surgeries.  Please telephone or email me if you wish to ask my advice.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>191</councillorid>
+          <fullusername>Cllr Mrs Maureen Fearn J.P.</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/9/1/Info00000191/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/9/1/Info00000191/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>maureen.fearn@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>21 Everard Road</line1>
+            <line2>Southport</line2>
+            <postcode>PR8 6NN</postcode>
+            <phone>01704 532429</phone>
+            <mobile>07885 409141</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS</line1>
+            <line2>I do not hold formal surgeries.  Please telephone or email me if you wish to ask my advice.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1983</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>252</councillorid>
+          <fullusername>Cllr Frederick Weavers</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/2/5/2/Info00000252/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/2/5/2/Info00000252/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <mobile>07771635332</mobile>
+            <email>frederick.weavers@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>45 Garstang Road,</line1>
+            <line2>Southport</line2>
+            <postcode>PR9 9XW</postcode>
+            <phone>01704 214389</phone>
+            <mobile>07771 635332</mobile>
+            <email>fredweavers@fsmail.net</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS</line1>
+            <line2>I do not hold formal surgeries.  Please telephone or email me if you wish to ask my advice.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Linacre</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>186</councillorid>
+          <fullusername>Cllr John Fairclough</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/8/1/Info00000186/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/8/1/Info00000186/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of the Council and Cabinet Member - Locality Services.  Deputy Leader of Labour Group</keyposts>
+          <workaddress>
+            <email>john.fairclough@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>34 Queens Road</line1>
+            <line2>Bootle</line2>
+            <postcode>L20 7BS</postcode>
+            <phone>0151 476 7621</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR LINACRE WARD</line1>
+            <line2>Bootle Town Hall, Oriel Road, Bootle - Every Friday 5.00pm - 6.00pm</line2>
+            <line3>Or telephone the Labour Group Office 0151 934 3361</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/10/1993</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>196</councillorid>
+          <fullusername>Cllr Gordon Friel</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/9/1/Info00000196/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/9/1/Info00000196/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Labour Group Office</line1>
+            <line2>Town Hall</line2>
+            <line3>Bootle</line3>
+            <postcode>L20 7AE</postcode>
+            <email>gordon.friel@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Wasdale Avenue</line1>
+            <line2>Maghull</line2>
+            <line3>Liverpool</line3>
+            <postcode>L31 9DN</postcode>
+            <phone>0151 476 1644</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR LINACRE WARD</line1>
+            <line2>Bootle Town Hall, Oriel Road, Bootle - Every Friday 5.00pm - 6.00pm</line2>
+            <line3>Or telephone the Labour Group Office 0151 934 3361</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1994</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>215</councillorid>
+          <fullusername>Cllr Ms Doreen Kerrigan</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/5/1/2/Info00000215/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/5/1/2/Info00000215/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Licensing and Regulatory Committee</keyposts>
+          <workaddress>
+            <email>doreen.kerrigan@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Jersey Close</line1>
+            <line2>Bootle</line2>
+            <postcode>L20 4BL</postcode>
+            <phone>0151 306 9503</phone>
+            <mobile>07746 592416</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR LINACRE WARD</line1>
+            <line2>Bootle Town Hall, Oriel Road, Bootle - Every Friday 5.00pm - 6.00pm</line2>
+            <line3>Or telephone the Labour Group Office 0151 934 3361</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/1996</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Litherland</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>206</councillorid>
+          <fullusername>Cllr Ms Patricia Hardy</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/0/2/Info00000206/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/0/2/Info00000206/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member - Communities and Housing</keyposts>
+          <workaddress>
+            <phone>0151 934 3361</phone>
+            <email>patricia.hardy@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Oxford Drive</line1>
+            <line2>Waterloo</line2>
+            <line3>Liverpool</line3>
+            <postcode>L22 7RZ</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR LITHERLAND WARD:</line1>
+            <line2>Springwell Park Children’s Centre</line2>
+            <line3>Menai Road, L20 6PG</line3>
+            <line4>Fortnightly on Monday 4.30pm - 5.30</line4>
+            <line5>2016 dates:</line5>
+            <line6>11 January</line6>
+            <line7>25 January</line7>
+            <line8>8 February</line8>
+            <line9>22 February</line9>
+            <line10>7 March</line10>
+            <line11>21 March</line11>
+            <line12>4 April</line12>
+            <line13>18 April</line13>
+            <line14>2 May (closed B/Hol)</line14>
+            <line15>16 May</line15>
+            <line16>30 May (closed B/Hol)</line16>
+            <line17>13 June</line17>
+            <line18>27 June</line18>
+            <line19>11 July</line19>
+            <line20>25 July</line20>
+            <line21>8 August</line21>
+            <line22>22 August</line22>
+            <line23>5 September</line23>
+            <line24>19 September</line24>
+            <line25>3 October</line25>
+            <line26>17 October</line26>
+            <line27>31 October</line27>
+            <line28>14 November</line28>
+            <line29>28 November and</line29>
+            <line30>12 December</line30>
+            <line31>Linacre Bridge Community Hub, 546 Stanley Road, Bootle</line31>
+            <line32>2nd Wednesday of the month</line32>
+            <line33>1.00pm - 3.00pm</line33>
+            <line34>Or telephone the Labour Group Office 0151 934 3361</line34>
+            <line35>Please note that Councillor Hardy is not available for Councillor Surgeries during school holidays.</line35>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2003</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1010</councillorid>
+          <fullusername>Cllr John Kelly</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/0/1/0/Info00001010/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/0/1/0/Info00001010/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Overview and Scrutiny Committee (Regeneration and Skills)</keyposts>
+          <workaddress>
+            <line1>c/o Labour Group Office</line1>
+            <line2>Town Hall</line2>
+            <line3>Oriel Road</line3>
+            <line4>Bootle</line4>
+            <postcode>L20 7AE</postcode>
+            <phone>0151 934 3361</phone>
+            <email>john.kelly@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07742 383907</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR LITHERLAND WARD:</line1>
+            <line2>Springwell Park Children's Centre</line2>
+            <line3>Menai Road, L20 6PG</line3>
+            <line4>Fortnightly on Monday 4.30pm - 5.30pm</line4>
+            <line5>2016 dates:</line5>
+            <line6>11 January</line6>
+            <line7>25 January</line7>
+            <line8>8 February</line8>
+            <line9>22 February</line9>
+            <line10>7 March</line10>
+            <line11>21 March</line11>
+            <line12>4 April</line12>
+            <line13>18 April</line13>
+            <line14>2 May (closed B/Hol)</line14>
+            <line15>16 May</line15>
+            <line16>30 May (closed B/Hol)</line16>
+            <line17>13 June</line17>
+            <line18>27 June</line18>
+            <line19>11 July</line19>
+            <line20>25 July</line20>
+            <line21>8 August</line21>
+            <line22>22 August</line22>
+            <line23>5 September</line23>
+            <line24>19 September</line24>
+            <line25>3 October</line25>
+            <line26>17 October</line26>
+            <line27>31 October</line27>
+            <line28>14 November</line28>
+            <line29>28 November and</line29>
+            <line30>12 December</line30>
+            <line31>2nd Wednesday of every month 1:00 - 3:00pm</line31>
+            <line32>Linacre Bridge Community Hub, 546 Stanley Road, L20 5DW</line32>
+            <line33>Please telephone the Labour Group Office 0151 934 3361</line33>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>248</councillorid>
+          <fullusername>Cllr Paul Tweed</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/8/4/2/Info00000248/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/8/4/2/Info00000248/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>paul.tweed@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>37 York Close</line1>
+            <line2>Netherton</line2>
+            <line3>Bootle</line3>
+            <postcode>L30 7QP</postcode>
+            <phone>0151 476 4834</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR LITHERLAND WARD:</line1>
+            <line2>Springwell Park Children's Centre</line2>
+            <line3>Menai Road, L20 6PG</line3>
+            <line4>Fortnightly on Monday 4.30pm - 5.30pm</line4>
+            <line5>2016 dates:</line5>
+            <line6>11 January</line6>
+            <line7>25 January</line7>
+            <line8>8 February</line8>
+            <line9>22 February</line9>
+            <line10>7 March</line10>
+            <line11>21 March</line11>
+            <line12>4 April</line12>
+            <line13>18 April</line13>
+            <line14>2 May (closed B/Hol)</line14>
+            <line15>16 May</line15>
+            <line16>30 May (closed B/Hol)</line16>
+            <line17>13 June</line17>
+            <line18>27 June</line18>
+            <line19>11 July</line19>
+            <line20>25 July</line20>
+            <line21>8 August</line21>
+            <line22>22 August</line22>
+            <line23>5 September</line23>
+            <line24>19 September</line24>
+            <line25>3 October</line25>
+            <line26>17 October</line26>
+            <line27>31 October</line27>
+            <line28>14 November</line28>
+            <line29>28 November and</line29>
+            <line30>12 December</line30>
+            <line31>Linacre Bridge Community Hub, 546 Stanley Road, Bootle</line31>
+            <line32>2nd Wednesday of the month</line32>
+            <line33>1.00pm - 3.00pm</line33>
+            <line34>Or telephone the Labour Group Office 0151 934 3361</line34>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/1992</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Manor</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>3480</councillorid>
+          <fullusername>Cllr Clare Louise Carragher</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/0/8/4/Info00003480/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/0/8/4/Info00003480/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>clare.carragher@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>18 Woodley Road</line1>
+            <line2>Maghull</line2>
+            <postcode>L31 5LD</postcode>
+            <mobile>07935 732074</mobile>
+            <email>clarecarragher31@gmail.com.</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>MANOR WARD SURGERY:</line1>
+            <line2>First Saturday of the month at St. William of York, Edge Lane, Thornton between 10-30am and midday.</line2>
+            <line3>or Contact the Labour Group Office on 0151 934 3361</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1578</councillorid>
+          <fullusername>Cllr John Joseph Kelly</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/8/7/5/Info00001578/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/8/7/5/Info00001578/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member - Children, Schools and Safeguarding</keyposts>
+          <workaddress>
+            <email>john.joseph.kelly@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>50 Edenhurst Drive</line1>
+            <line2>Formby</line2>
+            <line3>Liverpool</line3>
+            <postcode>L37 2LH</postcode>
+            <mobile>07504 972726</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>MANOR WARD SURGERY:</line1>
+            <line2>First Saturday of the month at St. William of York, Edge Lane, Thornton between 10-30am and midday.</line2>
+            <line3>or Contact the Labour Group Office on 0151 934 3361</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>224</councillorid>
+          <fullusername>Cllr Steve McGinnity</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/4/2/2/Info00000224/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/4/2/2/Info00000224/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>steve.mcginnity@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>36 Poulsom Drive</line1>
+            <line2>Netherton</line2>
+            <line3>Bootle</line3>
+            <postcode>L30 2NW</postcode>
+            <phone>0151 280 3493</phone>
+            <mobile>07714 249929</mobile>
+            <email>cllrstevemcginnity@outlook.com</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>MANOR WARD SURGERY:</line1>
+            <line2>First Saturday of the month at St. William of York, Edge Lane, Thornton between 10-30am and midday.</line2>
+            <line3>or Contact the Labour Group Office on 0151 934 3361</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Meols</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1210</councillorid>
+          <fullusername>Cllr Nigel Ashton</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/0/1/2/Info00001210/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/0/1/2/Info00001210/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01704 538721</phone>
+          </workaddress>
+          <homeaddress>
+            <line1>95 St. Luke's Road</line1>
+            <line2>Southport</line2>
+            <postcode>PR9 9AJ</postcode>
+            <email>nigel.ashton@councillors.sefton.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every second Saturday in the month (except August) - St John's Primary School, Rufford Road, Crossens between 11am and 12 noon.</line1>
+            <line2>Every fourth Thursday in the month (except December) - Cafe Moo Moo, Cambridge Road (by the junction with Preston New Road, next to Boots) between 10:30 am and 11:30 am.</line2>
+            <line3>No appointment needed – just drop-in.</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2011</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>3078</councillorid>
+          <fullusername>Cllr Jo Barton</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/8/7/0/Info00003078/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/8/7/0/Info00003078/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>jo.barton@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Mallee Crescent</line1>
+            <line2>Southport</line2>
+            <postcode>PR8 8NJ</postcode>
+            <mobile>07779 384802</mobile>
+            <email>jo_is@talk21.com</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every second Saturday in the month (except August) - St John's Primary School, Rufford Road, Crossens between 11am and 12 noon.</line1>
+            <line2>Every fourth Thursday in the month (except December) - Cafe Moo Moo, Cambridge Road (by the junction with Preston New Road, next to Boots) between 10:30 am and 11:30 am.</line2>
+            <line3>No appointment needed - just drop-in</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>181</councillorid>
+          <fullusername>Cllr John Dodd</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/8/1/Info00000181/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/8/1/Info00000181/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>mail@johndodd.co.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>43 Lime Street</line1>
+            <line2>Southport</line2>
+            <postcode>PR8 6BZ</postcode>
+            <phone>01704 510134</phone>
+            <mobile>07974 243593</mobile>
+            <email>john.dodd@councillors.sefton.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every second Saturday in the month (except August) - St John's Primary School, Rufford Road, Crossens between 11am and 12 noon.</line1>
+            <line2>Every fourth Thursday in the month (except December) - Cafe Moo Moo, Cambridge Road (by the junction with Preston New Road, next to Boots) between 10:30 am and 11:30 am.</line2>
+            <line3>No appointment needed – just drop-in.</line3>
+            <line4>For further information, phone John Dodd 01704 510134.</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/1991</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Molyneux</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1211</councillorid>
+          <fullusername>Cllr Marion  Atkinson</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/1/2/Info00001211/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/1/2/Info00001211/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member - Regeneration and Skills</keyposts>
+          <workaddress>
+            <line1>Labour Group Office</line1>
+            <line2>Town Hall</line2>
+            <line3>Oriel Road</line3>
+            <line4>Bootle</line4>
+            <postcode>L20 7AE</postcode>
+            <phone>0151 934 3361</phone>
+            <email>marion.atkinson@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Ollery Green</line1>
+            <line2>Bootle</line2>
+            <postcode>L30 8RU</postcode>
+            <mobile>07547 045079</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR MOLYNEUX WARD:</line1>
+            <line2>Aintree Youth and Community Centre, Oriel Drive</line2>
+            <line3>Every Saturday 10.00am - 11.00am</line3>
+            <line4>or Contact the Labour Group office on 0151 934 3361</line4>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1021</councillorid>
+          <fullusername>Cllr Anthony Carr</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/2/0/Info00001021/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/2/0/Info00001021/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>anthony.carr@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Birchtree Drive</line1>
+            <line2>Melling</line2>
+            <line3>Liverpool</line3>
+            <postcode>L31 1DE</postcode>
+            <mobile>07773 672406</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR MOLYNEUX WARD</line1>
+            <line2>Aintree Youth and Community Centre, Oriel Drive</line2>
+            <line3>Every Saturday 10.00am - 11.00am</line3>
+            <line4>or Contact the Labour Group office on 0151 934 3361</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1559</councillorid>
+          <fullusername>Cllr Paula Murphy</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/9/5/5/Info00001559/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/9/5/5/Info00001559/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Overview and Scrutiny Committee (Children's Services and Safeguarding)</keyposts>
+          <workaddress>
+            <email>paula.murphy@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>12 Baytree Grove</line1>
+            <line2>Melling</line2>
+            <line3>Liverpool</line3>
+            <postcode>L31 1LR</postcode>
+            <mobile>07725 866036</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR MOLYNEUX WARD</line1>
+            <line2>Aintree Youth and Community Centre, Oriel Drive</line2>
+            <line3>Every Saturday 10.00am - 11.00am</line3>
+            <line4>or Contact the Labour Group office on 0151 934 3361</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Netherton and Orrell</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>605</councillorid>
+          <fullusername>Cllr Mrs Susan Bradshaw</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/5/0/6/Info00000605/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/5/0/6/Info00000605/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>susan.bradshaw@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Albert Schweitzer Avenue</line1>
+            <line2>Netherton</line2>
+            <line3>Bootle</line3>
+            <postcode>L30 5SE</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>NETHERTON AND ORRELL COUNCILLORS’ SURGERIES</line1>
+            <line2>Netherton Park Community Centre</line2>
+            <line3>1st and 3rd Saturday of the month: 11am – 12noon</line3>
+            <line4>20 December 2014</line4>
+            <line5>2016</line5>
+            <line6>16 January</line6>
+            <line7>6 February</line7>
+            <line8>20 February</line8>
+            <line9>5 March</line9>
+            <line10>19 March</line10>
+            <line11>2 April</line11>
+            <line12>16 April</line12>
+            <line13>7 May</line13>
+            <line14>21 May</line14>
+            <line15>4 June</line15>
+            <line16>18 June</line16>
+            <line17>2 July</line17>
+            <line18>16 July</line18>
+            <line19>6 August</line19>
+            <line20>20 August</line20>
+            <line21>3 September</line21>
+            <line22>17 September</line22>
+            <line23>1 October</line23>
+            <line24>15 October</line24>
+            <line25>5 November</line25>
+            <line26>19 November</line26>
+            <line27>3 December</line27>
+            <line28>17 December</line28>
+            <line29>Or telephone the Labour Group Office 0151 934 3361</line29>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>162</councillorid>
+          <fullusername>Cllr Robert Brennan</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/2/6/1/Info00000162/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/2/6/1/Info00000162/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Audit and Governance Committee</keyposts>
+          <workaddress>
+            <line1>Labour Group Office</line1>
+            <line2>Town Hall</line2>
+            <line3>Bootle</line3>
+            <postcode>L20 7AG</postcode>
+            <phone>0151 934 3361</phone>
+            <email>robert.brennan@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>116 Harris Drive</line1>
+            <line2>Bootle</line2>
+            <postcode>L20 6ED</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Bootle Day Centre, Linacre Lane (adjacent to Orrell Housing Office)</line1>
+            <line2>Every Thursday: 6.00pm – 7.00pm</line2>
+            <line3>07 and 21 Jan</line3>
+            <line4>4 and 18 Feb</line4>
+            <line5>10 and 24 March</line5>
+            <line6>07 and 28 April</line6>
+            <line7>12 and 25 May</line7>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1994</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>218</councillorid>
+          <fullusername>Cllr Ian Maher</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/8/1/2/Info00000218/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/8/1/2/Info00000218/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Council and Leader of Labour Group</keyposts>
+          <workaddress>
+            <line1>Labour Group Office</line1>
+            <line2>Town Hall</line2>
+            <line3>Oriel Road</line3>
+            <line4>Bootle</line4>
+            <postcode>L20 7AE</postcode>
+            <phone>0151 934 3361</phone>
+            <email>ian.maher@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Held on the first Monday of every month at 2.00pm at Netherton Park Community Centre, Chester Avenue as below:</line1>
+            <line2>1 February</line2>
+            <line3>7 March</line3>
+            <line4>4 April</line4>
+            <line5>6 June</line5>
+            <line6>4 July</line6>
+            <line7>1 August</line7>
+            <line8>5 September</line8>
+            <line9>3 October</line9>
+            <line10>7 November</line10>
+            <line11>5 December</line11>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/1996</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Norwood</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>279</councillorid>
+          <fullusername>Cllr Lord Ronnie Fearn of Southport, O.B.E.</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/9/7/2/Info00000279/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/9/7/2/Info00000279/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>libdems@sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Norcliffe</line1>
+            <line2>56 Norwood Avenue</line2>
+            <line3>Southport</line3>
+            <postcode>PR9 7EQ</postcode>
+            <phone>01704 228577</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS</line1>
+            <line2>I do not hold formal surgeries.  Please telephone or email me if you wish to ask my advice.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/1973</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1011</councillorid>
+          <fullusername>Cllr Daniel Lewis</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/1/0/Info00001011/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/1/0/Info00001011/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>daniel.lewis@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>46 Ruddington Road,</line1>
+            <line2>Southport</line2>
+            <postcode>PR8 6XD</postcode>
+            <mobile>07981 129056</mobile>
+            <email>daniel.lewisld@gmail.com</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1217</councillorid>
+          <fullusername>Cllr Marianne Welsh</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/7/1/2/Info00001217/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/7/1/2/Info00001217/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>marianne.welsh@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>18 Hereford Road</line1>
+            <line2>Southport</line2>
+            <postcode>PR9 7DX</postcode>
+            <phone>01704 383503</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS</line1>
+            <line2>I do not hold formal surgeries.  Please telephone or email me if you wish to ask my advice.</line2>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Park</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>3086</councillorid>
+          <fullusername>Cllr June Burns</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/8/0/Info00003086/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/8/0/Info00003086/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>june.burns@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Bridge Farm Drive</line1>
+            <line2>Maghull</line2>
+            <postcode>L31 9AL</postcode>
+            <mobile>07763 980000</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR PARK WARD:</line1>
+            <line2>To be held at the Meadows Leisure Centre (by the main entrance), Hall Lane, Maghull, L31 7BB every Saturday from 10.30am – 11.30am.</line2>
+            <line3>or Contact the Labour Group Office on 0151 934 3361</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1251</councillorid>
+          <fullusername>Cllr Stephen Kermode</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/5/2/Info00001251/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/5/2/Info00001251/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Mayor</keyposts>
+          <workaddress>
+            <email>stephen.kermode@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Ulverston Close</line1>
+            <line2>Maghull</line2>
+            <line3>Liverpool</line3>
+            <postcode>L31 9BB</postcode>
+            <phone>0151 531 7608</phone>
+            <mobile>07798 722243</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR PARK WARD:</line1>
+            <line2>To be held at the Meadows Leisure Centre (by the main entrance), Hall Lane, Maghull, L31 7BB every Saturday from 10.30am – 11.30am.</line2>
+            <line3>or Contact the Labour Group Office on 0151 934 3361</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>3171</councillorid>
+          <fullusername>Cllr John Sayers</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/7/1/Info00003171/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/1/7/1/Info00003171/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>john.sayers@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Aisthorpe Grove</line1>
+            <line2>Maghull</line2>
+            <line3>Liverpool</line3>
+            <postcode>L31 5PN</postcode>
+            <mobile>07570 799257</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR PARK WARD:</line1>
+            <line2>To be held at the Meadows Leisure Centre (by the main entrance), Hall Lane, Maghull, L31 7BB every Saturday from 10.30am – 11.30am.</line2>
+            <line3>or Contact the Labour Group Office on 0151 934 3361</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Ravenmeols</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>3089</councillorid>
+          <fullusername>Cllr Maria Bennett</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/9/8/0/Info00003089/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/9/8/0/Info00003089/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Formby Residents Action Group</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>maria.bennett@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>25 St. Anne's Road</line1>
+            <line2>Formby</line2>
+            <postcode>L37 7AS</postcode>
+            <phone>(1470) 01704 832825</phone>
+            <mobile>07468 413555</mobile>
+            <email>maria.bennett1957@gmail.com</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Dove Centre, Formby (opposite Formby Station) on the 2nd Friday of every month excluding August and December at 4.00 pm to 6.30 pm</line1>
+            <line2>Ince Blundell Village Hall on the  2nd Saturday of every month, excluding August and December from 10.00 am to 12 noon</line2>
+            <line3>Please telephone or email me if you wish to make an appointment to see me at any other time</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>3068</councillorid>
+          <fullusername>Cllr Tim Hale</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/8/6/0/Info00003068/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/8/6/0/Info00003068/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>tim.hale@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>91 Greenloons Drive</line1>
+            <line2>Formby</line2>
+            <postcode>L37 2LX</postcode>
+            <mobile>07932 161665</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/1995</startdate>
+              <enddate>06/05/1999</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1220</councillorid>
+          <fullusername>Cllr Catie Page</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/0/2/2/Info00001220/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/0/2/2/Info00001220/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Overview and Scrutiny Committee (Adult Social Care)</keyposts>
+          <workaddress>
+            <line1>Labour Group Office</line1>
+            <line2>Town Hall</line2>
+            <line3>Oriel Road</line3>
+            <line4>Bootle</line4>
+            <postcode>L20 7AE</postcode>
+            <phone>0151 934 3361</phone>
+            <email>catie.page@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>96 Gores Lane</line1>
+            <line2>Formby</line2>
+            <line3>Liverpool</line3>
+            <postcode>L37 7DF</postcode>
+            <phone>01704 832807</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>St. Oswald</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>185</councillorid>
+          <fullusername>Cllr Peter Dowd M.P.</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/5/8/1/Info00000185/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/5/8/1/Info00000185/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Constituency Office</line1>
+            <line2>Opportunites House</line2>
+            <line3>270 Marsh Lane</line3>
+            <line4>Bootle</line4>
+            <postcode>L20 5BW</postcode>
+            <phone>0151 933 8432</phone>
+            <email>peter.dowd.mp@parliament.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>St Oswald Ward Surgery details:</line1>
+            <line2>Netherton Activity Centre, Glovers Lane, Netherton</line2>
+            <line3>Every Tuesday: 12noon - 1.00pm</line3>
+            <line4>The L30 Centre, Stonyfield, L30 OQS (next door to The Grange Primary School)</line4>
+            <line5>Every Friday: 10.00am - 11.00am</line5>
+            <line6>Or telephone the Labour Group Office 0151 934 3361</line6>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/12/1991</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>219</councillorid>
+          <fullusername>Cllr James Mahon</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/9/1/2/Info00000219/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/9/1/2/Info00000219/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>james.mahon@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Marie Curie Avenue</line1>
+            <line2>Netherton</line2>
+            <line3>Bootle</line3>
+            <postcode>L30 5RX</postcode>
+            <phone>0151 284 2558</phone>
+            <mobile>07799 110295</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>St Oswald Ward Surgery details:</line1>
+            <line2>Netherton Activity Centre, Glovers Lane, Netherton</line2>
+            <line3>Every Tuesday: 12noon - 1.00pm</line3>
+            <line4>The L30 Centre, Stonyfield, L30 OQS (next door to The Grange Primary School)</line4>
+            <line5>Every Friday: 10.00am - 11.00am</line5>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/1973</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>3494</councillorid>
+          <fullusername>Cllr Paula Spencer</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/4/9/4/Info00003494/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/4/9/4/Info00003494/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Labour Group Office</line1>
+            <line2>Bootle Town Halll</line2>
+            <line3>Trinity Road</line3>
+            <line4>Bootle</line4>
+            <postcode>L21 7AE</postcode>
+            <phone>0151 934 3361</phone>
+            <email>paula.spencer@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07784 994495</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>St Oswald Ward Surgery details:</line1>
+            <line2>Netherton Activity Centre, Glovers Lane, Netherton</line2>
+            <line3>Every Tuesday: 12noon - 1.00pm</line3>
+            <line4>The L30 Centre, Stonyfield, L30 OQS (next door to The Grange Primary School)</line4>
+            <line5>Every Friday: 10.00am - 11.00am</line5>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sudell</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1566</councillorid>
+          <fullusername>Cllr Lynn Gatherer</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/6/5/Info00001566/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/6/5/Info00001566/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>lynn.gatherer@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>31 Grasmere Road</line1>
+            <line2>Maghull</line2>
+            <line3>Liverpool</line3>
+            <postcode>L31 6BX</postcode>
+            <mobile>07904 939454</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR SUDELL WARD</line1>
+            <line2>To be held at the Meadows Leisure Centre (by the main entrance), Hall Lane, Maghull, L31 7BB on the following Saturdays from 10.30am – 11.30am.</line2>
+            <line3>14 June, 28 June, 12 July, 26 July, 9 Aug, 23 Aug, 6 Sept, 20 Sept, 4 Oct, 18 Oct, 1 Nov, 15 Nov, 29 Nov, 13 Dec</line3>
+            <line4>or Contact the Labour Group Office on 0151 934 3361</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1223</councillorid>
+          <fullusername>Cllr Patrick McKinley</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/3/2/2/Info00001223/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/3/2/2/Info00001223/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>patrick.mckinley@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Ripley Close</line1>
+            <line2>Maghull</line2>
+            <line3>Liverpool</line3>
+            <postcode>L31 6BD</postcode>
+            <phone>0151 526 2339</phone>
+            <mobile>07843 085872</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR SUDELL WARD</line1>
+            <line2>To be held at the Meadows Leisure Centre (by the main entrance), Hall Lane, Maghull, L31 7BB on the following Saturdays from 10.30am – 11.30am.</line2>
+            <line3>14 June, 28 June, 12 July, 26 July, 9 Aug, 23 Aug, 6 Sept, 20 Sept, 4 Oct, 18 Oct, 1 Nov, 15 Nov, 29 Nov, 13 Dec</line3>
+            <line4>or Contact the Labour Group Office on 0151 934 3361</line4>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>3095</councillorid>
+          <fullusername>Cllr Robert Owens</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/5/9/0/Info00003095/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/5/9/0/Info00003095/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>0151 934 3361</phone>
+            <email>robert.owens@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>23 Silver Birch Way</line1>
+            <line2>Lydiate</line2>
+            <postcode>L31 4DT</postcode>
+            <mobile>07852 196468</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>SURGERY DETAILS FOR SUDELL WARD</line1>
+            <line2>To be held at the Meadows Leisure Centre (by the main entrance), Hall Lane, Maghull, L31 7BB on the following Saturdays from 10.30am – 11.30am.</line2>
+            <line3>14 June, 28 June, 12 July, 26 July, 9 Aug, 23 Aug, 6 Sept, 20 Sept, 4 Oct, 18 Oct, 1 Nov, 15 Nov, 29 Nov, 13 Dec</line3>
+            <line4>or Contact the Labour Group Office on 0151 934 3361</line4>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Victoria</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>172</councillorid>
+          <fullusername>Cllr Leslie Byrom C.B.E.</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/2/7/1/Info00000172/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/2/7/1/Info00000172/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>01704 574859</phone>
+            <email>les.byrom@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>14 Belvedere Road</line1>
+            <line2>Ainsdale</line2>
+            <line3>Southport</line3>
+            <postcode>PR8 2PA</postcode>
+            <mobile>07836 621059</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>VICTORIA WARD SURGERIES</line1>
+            <line2>Venue: Comrades Club, Liverpool Road</line2>
+            <line3>Dates: 15 Feb, 11 April, 13 June, 10 October, 12 Dec</line3>
+            <line4>Time: 7.30pm</line4>
+            <line5>Please contact us by email rather than wait for a surgery if you have any issues of concern.</line5>
+            <line6>les.byrom@councillors.sefton.gov.uk</line6>
+            <line7>janet.grace@councillors.sefton.gov.uk</line7>
+            <line8>michael.roche@councillors.sefton.gov.uk</line8>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/06/1985</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>3096</councillorid>
+          <fullusername>Cllr Janet Grace</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/9/0/Info00003096/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/6/9/0/Info00003096/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>janet.grace@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>32 Whitham Avenue</line1>
+            <line2>Crosby</line2>
+            <postcode>L23 0RD</postcode>
+            <phone>0151 474 9931</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>VICTORIA WARD SURGERIES</line1>
+            <line2>Venue: Comrades Club, Liverpool Road</line2>
+            <line3>Dates: 15 Feb, 11 April, 13 June, 10 October, 12 Dec</line3>
+            <line4>Time: 7.30pm</line4>
+            <line5>Please contact us by email rather than wait for a surgery if you have any issues of concern.</line5>
+            <line6>les.byrom@councillors.sefton.gov.uk</line6>
+            <line7>janet.grace@councillors.sefton.gov.uk</line7>
+            <line8>michael.roche@councillors.sefton.gov.uk</line8>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1567</councillorid>
+          <fullusername>Cllr Michael Roche</fullusername>
+          <photosmallurl>http://modgov.sefton.gov.uk/moderngov/UserData/7/6/5/Info00001567/smallpic.jpg</photosmallurl>
+          <photobigurl>http://modgov.sefton.gov.uk/moderngov/UserData/7/6/5/Info00001567/bigpic.jpg</photobigurl>
+          <politicalpartytitle>The Labour Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>michael.roche@councillors.sefton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>56 The Northern Road</line1>
+            <line2>Crosby</line2>
+            <line3>Liverpool</line3>
+            <postcode>L23 2RG</postcode>
+            <phone>0151 281 0892</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>VICTORIA WARD SURGERIES</line1>
+            <line2>Venue: Comrades Club, Liverpool Road</line2>
+            <line3>Dates: 15 Feb, 11 April, 13 June, 10 October, 12 Dec</line3>
+            <line4>Time: 7.30pm</line4>
+            <line5>Please contact us by email rather than wait for a surgery if you have any issues of concern.</line5>
+            <line6>les.byrom@councillors.sefton.gov.uk</line6>
+            <line7>janet.grace@councillors.sefton.gov.uk</line7>
+            <line8>michael.roche@councillors.sefton.gov.uk</line8>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

@@ -1,0 +1,1800 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Bargate</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>136</councillorid>
+          <fullusername>Councillor Sarah Bogle</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/6/3/1/Info00000136/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/6/3/1/Info00000136/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Member Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8034 7551</phone>
+            <email>Councillor.s.bogle@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits by arrangement.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1273</councillorid>
+          <fullusername>Councillor John Noon</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/3/7/2/Info00001273/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/3/7/2/Info00001273/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>Councillor.J.Noon@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Flat 3</line1>
+            <line2>10 Forest View</line2>
+            <line3>Southampton</line3>
+            <postcode>SO14 2BZ</postcode>
+            <phone>02380 638605</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits can be arranged by telephone or email.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2110</councillorid>
+          <fullusername>Councillor Matt Tucker</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/0/1/1/Info00002110/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/0/1/1/Info00002110/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>Councillor.M.Tucker@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits can be arranged</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bassett</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>166</councillorid>
+          <fullusername>Councillor John Hannides</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/6/6/1/Info00000166/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/6/6/1/Info00000166/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>councillor.j.hannides@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8070 3387</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits by arrangement.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>03/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>630</councillorid>
+          <fullusername>Councillor Beryl Harris</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/0/3/6/Info00000630/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/0/3/6/Info00000630/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>councillor.b.harris@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8076 6701</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits by arrangement.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1278</councillorid>
+          <fullusername>Councillor Les Harris</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/8/7/2/Info00001278/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/8/7/2/Info00001278/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>Councillor.L.Harris@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8083 2430</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits can be arranged by telephone or email.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bevois</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>160</councillorid>
+          <fullusername>Councillor Stephen Barnes-Andrews</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/0/6/1/Info00000160/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/0/6/1/Info00000160/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>councillor.s.barnes-andrews@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8055 2828</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits by appointment.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>03/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>179</councillorid>
+          <fullusername>Councillor Derek Burke</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/9/7/1/Info00000179/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/9/7/1/Info00000179/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>councillor.d.burke@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8077 7129</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits by appointment.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>142</councillorid>
+          <fullusername>Councillor Jacqui Rayment</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/2/4/1/Info00000142/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/2/4/1/Info00000142/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Environment and Transport</keyposts>
+          <workaddress>
+            <line1>c/o Cabinet Members' Room</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>SOUTHAMPTON</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8083 2430 (PA)</phone>
+            <email>councillor.j.rayment@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits by arrangement.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bitterne</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>3568</councillorid>
+          <fullusername>Councillor John Jordan</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/8/6/5/Info00003568/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/8/6/5/Info00003568/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>Councillor.j.jordan@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>07775 637819</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits can be arranged with Councillor Jordan by telephone or email.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>168</councillorid>
+          <fullusername>Councillor Simon Letts</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/8/6/1/Info00000168/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/8/6/1/Info00000168/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Council</keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8083 2434(PA)</phone>
+            <email>councillor.s.letts@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8023 4689</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor Letts holds a surgery on the first Tuesday of the month, between 10 and 12noon, at Hinkler Place Community Centre.  Councillor Letts is happy to visit you in your own home by arrangement.  To make an appointment, please phone or email Councillor Letts using the details given on this page.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2127</councillorid>
+          <fullusername>Councillor Mary Lloyd</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/7/2/1/Info00002127/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/7/2/1/Info00002127/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8083 2430</phone>
+            <email>councillor.m.lloyd@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bitterne Park</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>3569</councillorid>
+          <fullusername>Councillor David Fuller</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/9/6/5/Info00003569/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/9/6/5/Info00003569/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>Councillor.d.fuller@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8083 2430</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors share surgeries at Cobbett Road Library on the third Saturday of the month from 10.30 am to 12.30 pm (except August and December)</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2139</councillorid>
+          <fullusername>Councillor John Inglis</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/9/3/1/Info00002139/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/9/3/1/Info00002139/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8083 2430</phone>
+            <email>Councillor.J.Inglis@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors share surgeries at Cobbett Road Library on the third Saturday of the month, from 10.30am to 12.30pm (except August and December).</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>155</councillorid>
+          <fullusername>Councillor Ivan White</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/5/5/1/Info00000155/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/5/5/1/Info00000155/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8083 2430</phone>
+            <email>councillor.i.white@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors share surgeries at Cobbett Road Libarary on the third Saturday of the month, from 10.30am to 12.30pm (except August and December).  Home visits by appointment.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>04/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Coxford</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>635</councillorid>
+          <fullusername>Councillor Keith Morrell</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/5/3/6/Info00000635/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/5/3/6/Info00000635/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Councillors Against Cuts</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Councillors Against Cuts Group</keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8083 2430</phone>
+            <email>councillor.k.morrell@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8073 3453</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2144</councillorid>
+          <fullusername>Councillor Sally  Spicer</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/4/4/1/Info00002144/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/4/4/1/Info00002144/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <phone>023 8083 2430</phone>
+            <email>councillor.s.spicer@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>152</councillorid>
+          <fullusername>Councillor Don Thomas</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/2/5/1/Info00000152/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/2/5/1/Info00000152/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Councillors Against Cuts</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>councillor.d.thomas@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>21 Myrtle Road</line1>
+            <line2>Coxford</line2>
+            <line3>Southampton</line3>
+            <postcode>SO16 5GP</postcode>
+            <phone>023 8032 0584</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor Thomas holds a surgery on the first Saturday of each month at Lordshill Library from 10.30am to 12noon and on the fourth Saturday of each month at Coxford Community Centre from 10.30am to 12noon.  Please phone 8032 0584 for an appointment at the Lordshill Library.  Home visits by arrangement- please phone 8032 0584.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Freemantle</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>171</councillorid>
+          <fullusername>Councillor Jeremy Moulton</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/1/7/1/Info00000171/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/1/7/1/Info00000171/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Conservative Group</keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>councillor.j.moulton@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8044 3454</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors Moulton and Parnell share surgeries, times and venues are advertised locally.</line1>
+            <line2>Home visits by arrangement.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>04/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/06/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>124</councillorid>
+          <fullusername>Councillor Brian Parnell</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/4/2/1/Info00000124/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/4/2/1/Info00000124/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre Road</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>councillor.b.parnell@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8079 0094</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors Parnell and Moulton share surgeries, times and venues are advertised locally.</line1>
+            <line2>Home visits by arrangement.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2151</councillorid>
+          <fullusername>Councillor Dave Shields</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/1/5/1/Info00002151/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/1/5/1/Info00002151/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Health and Adult Social Care</keyposts>
+          <workaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7YL</postcode>
+            <phone>023 8083 3340 (PA)</phone>
+            <email>Councillor.D.Shields@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>07919 217407</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Harefield</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>127</councillorid>
+          <fullusername>Councillor Edward Daunt</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/7/2/1/Info00000127/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/7/2/1/Info00000127/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <mobile>07528 268618</mobile>
+            <email>councillor.e.daunt@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>07528 268618</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor Daunt holds a surgery on the first Saturday of each month, from 10am to 12noon at Eastern Library, Bitterne Road East.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>03/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>130</councillorid>
+          <fullusername>Councillor Daniel Fitzhenry</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/0/3/1/Info00000130/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/0/3/1/Info00000130/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8083 2430</phone>
+            <mobile>07843 426684</mobile>
+            <email>councillor.d.fitzhenry@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits by arrangement</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>145</councillorid>
+          <fullusername>Councillor Royston Smith</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/5/4/1/Info00000145/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/5/4/1/Info00000145/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Members' Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8083 2430</phone>
+            <email>councillor.r.smith@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Harefield ward councillors share surgeries on the first Saturday of the month from 10am to 12noon at Eastern Library, Bitterne Road East.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Millbrook</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>3295</councillorid>
+          <fullusername>Councillor Mike Denness</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/5/9/2/Info00003295/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/5/9/2/Info00003295/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <mobile>07864 731955</mobile>
+            <email>councillor.m.denness@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>3570</councillorid>
+          <fullusername>Councillor David Furnell</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/0/7/5/Info00003570/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/0/7/5/Info00003570/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>Councillor.d.furnell@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8022 3809</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits can be arranged with Cllr Furnell by telephone or email.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2160</councillorid>
+          <fullusername>Councillor Steven Galton</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/0/6/1/Info00002160/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/0/6/1/Info00002160/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>councillor.s.galton@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8048 1732</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>25/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Peartree</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>3571</councillorid>
+          <fullusername>Councillor Alex Houghton</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/1/7/5/Info00003571/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/1/7/5/Info00003571/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>Councillor.a.houghton@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8083 2430</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits can be arranged with Councillor Houghton by telephone or email.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2161</councillorid>
+          <fullusername>Councillor Eamonn Keogh</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/1/6/1/Info00002161/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/1/6/1/Info00002161/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8042 1913</phone>
+            <email>Councillor.E.Keogh@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits by appointments</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2162</councillorid>
+          <fullusername>Councillor Paul Lewzey</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/2/6/1/Info00002162/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/2/6/1/Info00002162/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8083 2430</phone>
+            <email>Councillor.P.Lewzey@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits by appointments</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Portswood</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1279</councillorid>
+          <fullusername>Councillor Matthew Claisse</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/9/7/2/Info00001279/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/9/7/2/Info00001279/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8083 2430</phone>
+            <email>Councillor.M.Claisse@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors Claisse, Norris and O'Neill share a surgery at Portswood Library on the fourth Monday of the month from 7.15pm - 8.15pm.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2173</councillorid>
+          <fullusername>Councillor Linda Norris</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/3/7/1/Info00002173/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/3/7/1/Info00002173/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Mayor of Southampton 2015-2016</keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>02380 760687</phone>
+            <email>Councillor.L.Norris@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors Norris, Claisse and O'Neill share a surgery at Portswood Library on the fourth Monday of the month from 7.15pm - 8.15pm.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>3309</councillorid>
+          <fullusername>Councillor Paul O'Neill</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/9/0/3/Info00003309/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/9/0/3/Info00003309/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>councillor.P.O'neill@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07833 249014</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillors O'Neill, Claisse and Norris share a surgery at Portswood Library on the fourth Monday of the month from 7.15pm - 8.15pm.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Redbridge</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>131</councillorid>
+          <fullusername>Councillor Catherine McEwing</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/1/3/1/Info00000131/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/1/3/1/Info00000131/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Sheriff of Southampton 2015-2016</keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton Civic Cente</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>councillor.c.mcewing@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>30 Buttermere Close</line1>
+            <line2>Maybush</line2>
+            <line3>Southampton</line3>
+            <postcode>SO16 9GL</postcode>
+            <phone>023 8032 8621</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits by appointment.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1276</councillorid>
+          <fullusername>Councillor Andrew Pope</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/6/7/2/Info00001276/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/6/7/2/Info00001276/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>Councillor.A.Pope@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>07580 715687</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits can be arranged by telephone or email.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2175</councillorid>
+          <fullusername>Councillor Lee Whitbread</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/5/7/1/Info00002175/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/5/7/1/Info00002175/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8077 5619</phone>
+            <email>Councillor.L.Whitbread@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>02380 832430</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor Whitbread is available for home visits.  Please ring 023 8077 5619 to book an appointment.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Shirley</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>2180</councillorid>
+          <fullusername>Councillor Mark Chaloner</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/0/8/1/Info00002180/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/0/8/1/Info00002180/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Finance</keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>07712 530486</phone>
+            <email>Councillor.M.Chaloner@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>3315</councillorid>
+          <fullusername>Councillor Hannah Coombs</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/5/1/3/Info00003315/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/5/1/3/Info00003315/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SIO14 7LY</postcode>
+            <mobile>07475 444 771</mobile>
+            <email>councillor.h.coombs@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1277</councillorid>
+          <fullusername>Councillor Satvir Kaur</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/7/7/2/Info00001277/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/7/7/2/Info00001277/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Communities, Culture and Leisure</keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>Councillor.S.Kaur@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>07917 244222</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits can be arranged by telephone or email.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sholing</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>3320</councillorid>
+          <fullusername>Councillor Nigel Hecks</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/0/2/3/Info00003320/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/0/2/3/Info00003320/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8083 2430</phone>
+            <email>councillor.N.hecks@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2206</councillorid>
+          <fullusername>Councillor Daniel Jeffery</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/6/0/2/Info00002206/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/6/0/2/Info00002206/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Education and Children's Social Care</keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8083 3340 (PA)</phone>
+            <email>Councillor.D.Jeffery@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>3572</councillorid>
+          <fullusername>Councillor Graham Wilkinson</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/2/7/5/Info00003572/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/2/7/5/Info00003572/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>3 Lowry Gardens</line1>
+            <line2>Sholing</line2>
+            <line3>Southaampton</line3>
+            <postcode>SO19 0SR</postcode>
+            <email>Councillor.g.wilkinson@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8044 6227</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits can be arranged with Councillor Wilkinson by telephone or email.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Swaythling</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>2189</councillorid>
+          <fullusername>Councillor Sharon Mintoff</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/9/8/1/Info00002189/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/9/8/1/Info00002189/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8055 5894</phone>
+            <email>Councillor.S.Mintoff@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visit to be made by appointment only.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>3305</councillorid>
+          <fullusername>Councillor Bob Painton</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/5/0/3/Info00003305/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/5/0/3/Info00003305/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>Councillor.B.Painton@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07845 808620</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1280</councillorid>
+          <fullusername>Councillor Spiros Vassiliou</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/0/8/2/Info00001280/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/0/8/2/Info00001280/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>Councillor.S.Vassiliou@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>07762297015</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Home visits can be arranged with Councillor Vassiliou by telephone or email</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Woolston</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>3307</councillorid>
+          <fullusername>Councillor Caran Chamberlain</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/7/0/3/Info00003307/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/7/0/3/Info00003307/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <email>Councillor.C.Chamberlain@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>023 8090 0728</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2712</councillorid>
+          <fullusername>Councillor Christopher Hammond</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/2/1/7/Info00002712/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/2/1/7/Info00002712/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Transformation</keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>07702495937</phone>
+            <email>Councillor.C.Hammond@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>13/06/2013</startdate>
+              <enddate>04/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>132</councillorid>
+          <fullusername>Councillor Warwick Payne</fullusername>
+          <photosmallurl>http://www.southampton.gov.uk/moderngov/UserData/2/3/1/Info00000132/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.southampton.gov.uk/moderngov/UserData/2/3/1/Info00000132/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Housing and Sustainability, Deputy Leader</keyposts>
+          <workaddress>
+            <line1>c/o Democratic Services</line1>
+            <line2>Southampton City Council</line2>
+            <line3>Civic Centre</line3>
+            <line4>Southampton</line4>
+            <postcode>SO14 7LY</postcode>
+            <phone>023 8083 2434(PA)</phone>
+            <email>councillor.w.payne@southampton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>25 Church Road</line1>
+            <line2>Woolston</line2>
+            <line3>Southampton</line3>
+            <postcode>SO19 9FR</postcode>
+            <phone>023 8044 1977</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor Payne holds a surgery on the first Saturday of the month, at the Institute in Victoria Road, from 10.30am to 11.30am.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

@@ -1,0 +1,2037 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Cannock Chase - Brereton and Ravenhill</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4785</councillorid>
+          <fullusername>Alan Dudson</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/5/8/7/Info00004785/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/5/8/7/Info00004785/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>alan.dudson@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Woodlands</line1>
+            <line2>The Pingle, Slitting Mill</line2>
+            <line3>Rugeley</line3>
+            <line4>Staffordshire</line4>
+            <postcode>WS15 2UR</postcode>
+            <phone>01889 574868</phone>
+            <mobile>07815000483</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cannock Chase - Cannock Town Centre</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4791</councillorid>
+          <fullusername>Alison Joy Spicer</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/1/9/7/Info00004791/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/1/9/7/Info00004791/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>alison.spicer@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>40 Highfield Road</line1>
+            <line2>Heath Hayes</line2>
+            <line3>Cannock</line3>
+            <line4>Staffordshire</line4>
+            <postcode>WS12 2DX</postcode>
+            <phone>01543 279654</phone>
+            <mobile>07814 144045</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cannock Chase - Cannock Villages</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4794</councillorid>
+          <fullusername>Diane Todd</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/4/9/7/Info00004794/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/4/9/7/Info00004794/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>diane.todd@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>35 Lyndhurst Road</line1>
+            <line2>Heath Hayes</line2>
+            <line3>Cannock</line3>
+            <line4>Staffordshire</line4>
+            <postcode>WS12 3HD</postcode>
+            <phone>01543 278778</phone>
+            <mobile>07814 144147</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Saturday of the month 10 am - 11 am at Norton Canes Library</line1>
+            <line2>Last Saturday of the month 10.30 am - 11.30 am at Heath Hayes Library</line2>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cannock Chase - Chadsmoor</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>158</councillorid>
+          <fullusername>Derek Davis, OBE</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/8/5/1/Info00000158/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/8/5/1/Info00000158/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>derek.davis@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>19 Queen Street</line1>
+            <line2>Hightown</line2>
+            <line3>Chadsmoor</line3>
+            <line4>Hednesford</line4>
+            <postcode>WS11 5TH</postcode>
+            <phone>01543 423148</phone>
+            <mobile>07976 329815</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/1985</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cannock Chase - Etchinghill and Heath</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1699</councillorid>
+          <fullusername>Geoffrey Martin</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/9/9/6/Info00001699/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/9/9/6/Info00001699/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Rugeley Town</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>geoffrey.martin@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Grey Cottage</line1>
+            <line2>Willslock</line2>
+            <line3>Uttoxeter</line3>
+            <postcode>ST14 8NH</postcode>
+            <phone>01889 560163</phone>
+            <mobile>07800 884570</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cannock Chase - Hednesford and Rawnsley</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>4802</councillorid>
+          <fullusername>George Adamson</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/2/0/8/Info00004802/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/2/0/8/Info00004802/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Shadow Cabinet Member for Economy, Environment and Transport</keyposts>
+          <workaddress>
+            <email>george.adamson@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>383 Huntington Terrace Road</line1>
+            <line2>Cannock</line2>
+            <line3>Staffordshire</line3>
+            <postcode>WS11 5HX</postcode>
+            <phone>01543 426629</phone>
+            <mobile>07814 144146</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Joint surgery with Councillor Christine Mitchell on the first Saturday of the month from 10.00 am - 11.00 am at Hednesford Library.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2013</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>4804</councillorid>
+          <fullusername>Christine Mitchell</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/4/0/8/Info00004804/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/4/0/8/Info00004804/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>christine.mitchell@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>35 Huntington Terrace Road</line1>
+            <line2>Cannock</line2>
+            <line3>Staffordshire</line3>
+            <postcode>WS11 5HA</postcode>
+            <phone>01543 503374</phone>
+            <mobile>07814 144091</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Joint surgery with Councillor George Adamson on the first Saturday of the month from 10.00 am - 11.00 am at Hednesford Library.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>East Staffordshire - Burton Tower</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4697</councillorid>
+          <fullusername>Conor Wileman</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/7/9/6/Info00004697/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/7/9/6/Info00004697/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>conor.wileman@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Carpenter Close</line1>
+            <line2>Stapenhill</line2>
+            <line3>Burton upon Trent</line3>
+            <line4>Staffordshire</line4>
+            <postcode>DE15 9AL</postcode>
+            <phone>01283 529281</phone>
+            <mobile>07907 182477</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>East Staffordshire - Burton Town</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1632</councillorid>
+          <fullusername>Ron Clarke</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/2/3/6/Info00001632/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/2/3/6/Info00001632/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>Burton</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ron.clarke@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>59 Meadow View</line1>
+            <line2>Rolleston-on-Dove</line2>
+            <line3>Burton-on-Trent</line3>
+            <line4>DE13 9AL</line4>
+            <phone>01283 810217</phone>
+            <mobile>07896 347077</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>East Staffordshire - Burton Trent</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>147</councillorid>
+          <fullusername>Peter Davies</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/7/4/1/Info00000147/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/7/4/1/Info00000147/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>Anglesey</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>peter.davies@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Hall Green</line1>
+            <line2>92 - 94 Church Road</line2>
+            <line3>Stretton</line3>
+            <line4>Burton upon Trent</line4>
+            <postcode>DE13 0HE</postcode>
+            <phone>01283 543743</phone>
+            <mobile>07800 883180</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2005</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>East Staffordshire - Dove</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>167</councillorid>
+          <fullusername>Bob Fraser</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/7/6/1/Info00000167/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/7/6/1/Info00000167/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Anslow</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice-Chairman of the County Council</keyposts>
+          <workaddress>
+            <email>bob.fraser@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>77 Dover Road</line1>
+            <line2>Horninglow</line2>
+            <line3>Burton upon Trent</line3>
+            <line4>Staffordshire</line4>
+            <postcode>DE13 0TB</postcode>
+            <phone>01283 683865</phone>
+            <mobile>07736 646334</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2005</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>East Staffordshire - Horninglow and Stretton</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4707</councillorid>
+          <fullusername>Shelagh McKiernan</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/7/0/7/Info00004707/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/7/0/7/Info00004707/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>shelagh.mckiernan@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Waterton Close</line1>
+            <line2>Stretton</line2>
+            <line3>Burton upon Trent</line3>
+            <line4>DE13 0RL</line4>
+            <phone>01283 509725</phone>
+            <mobile>07814 144046</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>East Staffordshire - Needwood Forest</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>141</councillorid>
+          <fullusername>Tim Corbett</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/1/4/1/Info00000141/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/1/4/1/Info00000141/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Barton under Needwood</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>timothy.corbett@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Moat Hall</line1>
+            <line2>Moat Lane</line2>
+            <line3>Newborough</line3>
+            <line4>Burton upon Trent</line4>
+            <postcode>DE13 8SS</postcode>
+            <phone>01283 575737</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2001</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>East Staffordshire - Uttoxeter Rural</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>127</councillorid>
+          <fullusername>Philip Atkins</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/7/2/1/Info00000127/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/7/2/1/Info00000127/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Abbots Bromley</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Council</keyposts>
+          <workaddress>
+            <line1>Cabinet Office</line1>
+            <line2>Wedgwood Building</line2>
+            <line3>Tipping Street</line3>
+            <line4>Stafford</line4>
+            <postcode>St16 2DH</postcode>
+            <email>philip.atkins@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Abbey Fields</line1>
+            <line2>Mill Street</line2>
+            <line3>Rocester</line3>
+            <line4>Uttoxeter</line4>
+            <postcode>ST14 5JX</postcode>
+            <phone>01889 590230</phone>
+            <mobile>07800 886017</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/1987</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>East Staffordshire - Uttoxeter Town</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>172</councillorid>
+          <fullusername>Geoff Morrison</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/2/7/1/Info00000172/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/2/7/1/Info00000172/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Uttoxeter Town</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2005</startdate>
+              <enddate>09/02/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Lichfield - Burntwood North</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4863</councillorid>
+          <fullusername>Susan Woodward</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/3/6/8/Info00004863/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/3/6/8/Info00004863/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of the Opposition and Shadow Cabinet Member for Strategy and Corporate Issues</keyposts>
+          <workaddress>
+            <email>susan.woodward@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>120 Ironstone Road</line1>
+            <line2>Chase Terrace</line2>
+            <line3>Burntwood</line3>
+            <postcode>WS7 1LY</postcode>
+            <mobile>07814 144047</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Saturday of the month from 10.00 am - 11.00 am at Burntwood Library</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2013</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Lichfield - Burntwood South</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4739</councillorid>
+          <fullusername>Jeff Sheriff</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/9/3/7/Info00004739/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/9/3/7/Info00004739/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UK Independence Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>jeffrey.sheriff@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Wheatcroft Close</line1>
+            <line2>Burntwood</line2>
+            <line3>Staffordshire</line3>
+            <postcode>WS7 4SX</postcode>
+            <phone>01543 672172</phone>
+            <mobile>07814 144210</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Lichfield - Lichfield City North</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4742</councillorid>
+          <fullusername>Caroline Wood</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/2/4/7/Info00004742/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/2/4/7/Info00004742/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>caroline.wood@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>59 St Michael Road</line1>
+            <line2>Lichfield</line2>
+            <line3>Staffordshire</line3>
+            <postcode>WS13 6SN</postcode>
+            <phone>01543 410998</phone>
+            <mobile>07814 144150</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Lichfield - Lichfield City South</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>166</councillorid>
+          <fullusername>Terry Finn</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/6/6/1/Info00000166/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/6/6/1/Info00000166/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Lichfield City</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>terence.finn@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Rowan Close</line1>
+            <line2>Lichfield</line2>
+            <postcode>WS13 6ES</postcode>
+            <phone>01543 252348</phone>
+            <mobile>07712 063407</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2001</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Lichfield - Lichfield Rural East</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1602</councillorid>
+          <fullusername>Alan White</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/2/0/6/Info00001602/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/2/0/6/Info00001602/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Lichfield City</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Health, Care and Wellbeing</keyposts>
+          <workaddress>
+            <line1>Cabinet Office</line1>
+            <line2>Wedgwood Building</line2>
+            <line3>Tipping Street</line3>
+            <line4>Stafford</line4>
+            <postcode>ST16 2DH</postcode>
+            <email>alan.white@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07793 838432</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Lichfield - Lichfield Rural North</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>163</councillorid>
+          <fullusername>Janet Eagland</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/3/6/1/Info00000163/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/3/6/1/Info00000163/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Alrewas</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chairman of the County Council</keyposts>
+          <workaddress>
+            <mobile>07800 881016</mobile>
+            <email>janet.eagland@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Alder Close</line1>
+            <line2>Lichfield</line2>
+            <postcode>WS14 9UT</postcode>
+            <phone>01543 257102</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2005</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Lichfield - Lichfield Rural South</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4749</councillorid>
+          <fullusername>David Smith</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/9/4/7/Info00004749/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/9/4/7/Info00004749/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.smith1@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Ormside House</line1>
+            <line2>Church Road</line2>
+            <line3>Stonnall</line3>
+            <line4>Staffordshire</line4>
+            <postcode>WS9 9HL</postcode>
+            <phone>01543 374690</phone>
+            <mobile>07831 533550</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Lichfield - Lichfield Rural West</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4750</councillorid>
+          <fullusername>Martyn Tittley</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/0/5/7/Info00004750/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/0/5/7/Info00004750/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>martyn.tittley@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>34 Shropshire Brook Road</line1>
+            <line2>Handsacre</line2>
+            <line3>Rugeley</line3>
+            <line4>Staffs</line4>
+            <postcode>WS15 4UZ</postcode>
+            <phone>01543 490758</phone>
+            <mobile>07814 144119</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Newcastle - Audley and Chesterton</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4595</councillorid>
+          <fullusername>Ann Beech</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/5/9/5/Info00004595/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/5/9/5/Info00004595/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ann.beech@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Ley Ground Farm</line1>
+            <line2>Bridgemere</line2>
+            <line3>Nr Nantwich</line3>
+            <postcode>CW5 7PX</postcode>
+            <mobile>07814 144081</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Newcastle - Bradwell, Porthill and Wolstanton</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>170</councillorid>
+          <fullusername>Sandra Hambleton</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/0/7/1/Info00000170/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/0/7/1/Info00000170/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>sandra.hambleton@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>21 Hanbridge Avenue</line1>
+            <line2>Bradwell</line2>
+            <line3>Newcastle Under Lyme</line3>
+            <postcode>ST5 8HH</postcode>
+            <phone>01782 624919</phone>
+            <mobile>07758 097235</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>I hold two surgeries, one at Bradwell Community Centre on the last Saturday of the month between 10.00 am and 12 noon.  The other at Bradwell Lodge on the first Saturday of the month again between 10.00 am and 12 noon.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/1997</startdate>
+              <enddate>05/06/2009</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Newcastle - Keele, Knutton and Silverdale</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1656</councillorid>
+          <fullusername>Derrick Huckfield</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/6/5/6/Info00001656/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/6/5/6/Info00001656/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>derrick.huckfield@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>20 Cherry Hill Lane</line1>
+            <line2>Silverdale</line2>
+            <line3>Newcastle</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 6EE</postcode>
+            <phone>01782 628740</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Newcastle - Kidsgrove</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>117</councillorid>
+          <fullusername>Margaret Astle</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/7/1/1/Info00000117/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/7/1/1/Info00000117/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>Kidsgrove Town</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>margaret.astle@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>16 Sussex Drive</line1>
+            <line2>Kidsgrove</line2>
+            <line3>Stoke-on-Trent</line3>
+            <postcode>ST7 1HG</postcode>
+            <phone>01782 776236</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2005</startdate>
+              <enddate>05/06/2009</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Newcastle - May Bank and Cross Heath</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4760</councillorid>
+          <fullusername>Mark Olszewski</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/0/6/7/Info00004760/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/0/6/7/Info00004760/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>mark.olszewski@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>27 Silverdale Road</line1>
+            <line2>Wolstanton</line2>
+            <line3>Newcastle Under Lyme</line3>
+            <line4>Staffs</line4>
+            <postcode>ST5 8BQ</postcode>
+            <phone>01782 638086</phone>
+            <mobile>07922 106068</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Newcastle - Newcastle Rural</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>3459</councillorid>
+          <fullusername>David Loades</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/9/5/4/Info00003459/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/9/5/4/Info00003459/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.loades@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>31 Badger Brow Road</line1>
+            <line2>Loggerheads</line2>
+            <line3>Shropshire</line3>
+            <postcode>TF9 4RG</postcode>
+            <phone>01630 673532</phone>
+            <mobile>07960 131408</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Newcastle - Newcastle South</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1672</councillorid>
+          <fullusername>Stephen Sweeney</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/2/7/6/Info00001672/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/2/7/6/Info00001672/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>stephen.sweeney@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>85 Clumber Avenue</line1>
+            <line2>Clayton</line2>
+            <line3>Newcastle-under-Lyme</line3>
+            <line4>Staffordshire</line4>
+            <postcode>ST5 3AP</postcode>
+            <phone>01782 661430</phone>
+            <mobile>07800 880858</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Newcastle - Talke and Red Street</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>125</councillorid>
+          <fullusername>John Taylor</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/5/2/1/Info00000125/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/5/2/1/Info00000125/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>Kidsgrove Town</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Opposition</keyposts>
+          <workaddress>
+            <email>john.taylor@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>20 Second Avenue</line1>
+            <line2>Kidsgrove</line2>
+            <line3>Stoke-on-Trent</line3>
+            <line4>ST7 1DE</line4>
+            <phone>01782  786227</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>My Surgery is held on the first Saturday of the month, between 10.00 am and 12 noon, at Hollinwood Meeting Hall, Hollinwood Close, Kidsgrove.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/1993</startdate>
+              <enddate>05/06/2009</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Newcastle - Westlands and Thistleberry</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>126</councillorid>
+          <fullusername>Simon Tagg</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/6/2/1/Info00000126/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/6/2/1/Info00000126/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Keele</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>simon.tagg@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1a Winston Terrace</line1>
+            <line2>Newcastle-under-Lyme</line2>
+            <line3>ST5 8AE</line3>
+            <mobile>07896 778360</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>12/07/2007</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>South Staffordshire - Brewood</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4808</councillorid>
+          <fullusername>Mark Sutton</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/8/0/8/Info00004808/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/8/0/8/Info00004808/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Support Member for Social and Health Care</keyposts>
+          <workaddress>
+            <email>mark.sutton@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Great Gable</line1>
+            <line2>Coven Road</line2>
+            <line3>Brewood</line3>
+            <line4>Stafford</line4>
+            <postcode>ST19 9DF</postcode>
+            <phone>01902 851682</phone>
+            <mobile>07814 144072</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>If you have any issues or concerns which you would like to discuss then please contact me.  I will be happy to meet you at a mutually convenient location and time.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>South Staffordshire - Cheslyn Hay, Essington and Great Wyrley</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>178</councillorid>
+          <fullusername>Mike Lawrence</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/8/7/1/Info00000178/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/8/7/1/Info00000178/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Cheslyn Hay</districttitle>
+          <representing>Staffordshire County Council</representing>
+          <keyposts>Cabinet Member for Children and Community Safety</keyposts>
+          <workaddress>
+            <email>michael.lawrence@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>11 The Leas</line1>
+            <line2>Featherstone</line2>
+            <line3>Wolverhampton</line3>
+            <line4>WV10 7AJ</line4>
+            <phone>01902 730396</phone>
+            <mobile>07713 294285</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2005</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>142</councillorid>
+          <fullusername>Kath Perry</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/2/4/1/Info00000142/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/2/4/1/Info00000142/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Cheslyn Hay</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>kath.perry@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>8 Roman View</line1>
+            <line2>Churchbridge</line2>
+            <line3>Cannock</line3>
+            <line4>WS11 8TA</line4>
+            <phone>Home: 01922 412369</phone>
+            <mobile>07800 885737</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2005</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>South Staffordshire - Codsall</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>174</councillorid>
+          <fullusername>Robert Marshall</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/4/7/1/Info00000174/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/4/7/1/Info00000174/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Bilbrook</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>37 Old Farm Drive</line1>
+            <line2>St Nicholas Gardens</line2>
+            <line3>Codsall</line3>
+            <line4>Staffordshire</line4>
+            <postcode>WV8 1GF</postcode>
+            <phone>(01902) 846664</phone>
+            <mobile>07854 430012</mobile>
+            <email>robert.marshall@staffordshire.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/1997</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>South Staffordshire - Kinver</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>164</councillorid>
+          <fullusername>Brian Edwards MBE</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/4/6/1/Info00000164/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/4/6/1/Info00000164/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Bobbington</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>brian.edwards@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Stourton House</line1>
+            <line2>Greens Forge Lane</line2>
+            <line3>Stourton</line3>
+            <line4>Stourbridge</line4>
+            <postcode>DY7 5BD</postcode>
+            <phone>01384 872245</phone>
+            <mobile>07983 427987</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/1989</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>South Staffordshire - Penkridge</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4813</councillorid>
+          <fullusername>David Williams</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/3/1/8/Info00004813/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/3/1/8/Info00004813/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.williams2@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>85 Wood Lane</line1>
+            <line2>Cannock</line2>
+            <line3>Wedges Mill</line3>
+            <line4>South Staffordshire</line4>
+            <postcode>WS11 1SZ</postcode>
+            <phone>01922 511319</phone>
+            <mobile>07814 144149</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>South Staffordshire - Perton</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4815</councillorid>
+          <fullusername>Keith James</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/5/1/8/Info00004815/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/5/1/8/Info00004815/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>keith.james@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>High Barn</line1>
+            <line2>Barn Lane</line2>
+            <line3>Kingswood</line3>
+            <line4>Albrighton, Wolverhampton</line4>
+            <postcode>WV7 3AW</postcode>
+            <phone>01902 845904</phone>
+            <mobile>07979 963753</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>I am available to speak with residents at Parish Council meetings held in Perton and Pattingham.  The dates of these meetings are published on the Parish Council websites.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>South Staffordshire - Wombourne</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4817</councillorid>
+          <fullusername>Mike Davies</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/7/1/8/Info00004817/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/7/1/8/Info00004817/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>mike.davies@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Millpool Close</line1>
+            <line2>Wombourne</line2>
+            <line3>Wolverhampton</line3>
+            <postcode>WV5 8HS</postcode>
+            <phone>01902 893284</phone>
+            <mobile>07814 144079</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stafford - Eccleshall</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>155</councillorid>
+          <fullusername>Frank Chapman</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/5/5/1/Info00000155/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/5/5/1/Info00000155/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Adbaston</districttitle>
+          <representing>Staffordshire County Council</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>frank.chapman@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>17 Redhills</line1>
+            <line2>Eccleshall</line2>
+            <line3>Stafford</line3>
+            <postcode>ST21 6JW</postcode>
+            <phone>01785 850838</phone>
+            <mobile>07800 882420</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stafford - Gnosall and Doxey</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>119</councillorid>
+          <fullusername>Mark Winnington</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/9/1/1/Info00000119/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/9/1/1/Info00000119/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Bradley</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Economy , Environment and Transport</keyposts>
+          <workaddress>
+            <email>mark.winnington@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Woodside Farm</line1>
+            <line2>Gnosall</line2>
+            <line3>Stafford</line3>
+            <line4>ST20 0JA</line4>
+            <phone>Home: 01785 822224</phone>
+            <mobile>07800 886275</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2005</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stafford - Stafford Central</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>140</councillorid>
+          <fullusername>Maureen Compton</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/0/4/1/Info00000140/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/0/4/1/Info00000140/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Shadow Cabinet Member for Children and Community Safety</keyposts>
+          <workaddress>
+            <mobile>07814 144048</mobile>
+            <email>maureen.compton@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>25 Carder Avenue</line1>
+            <line2>Stafford</line2>
+            <postcode>ST16 1QU</postcode>
+            <phone>01785 256641</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2005</startdate>
+              <enddate>05/06/2009</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stafford - Stafford North</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4720</councillorid>
+          <fullusername>Ian Hollinshead</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/0/2/7/Info00004720/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/0/2/7/Info00004720/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ian.hollinshead@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Yarlet Croft</line1>
+            <line2>Stafford</line2>
+            <line3>ST16 3HX</line3>
+            <phone>01785 214426</phone>
+            <mobile>07814 143999</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>I will be holding regular Forums.  Dates to be announced soon.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stafford - Stafford South East</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1492</councillorid>
+          <fullusername>John Francis</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/2/9/4/Info00001492/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/2/9/4/Info00001492/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>john.francis@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>'Chaseview'</line1>
+            <line2>200/2 Main Road</line2>
+            <line3>Milford</line3>
+            <line4>Stafford</line4>
+            <postcode>ST17 0UN</postcode>
+            <phone>01785 665490</phone>
+            <mobile>07800 881957</mobile>
+            <email>chaseview@hotmail.com</email>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stafford - Stafford Trent Valley</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>134</councillorid>
+          <fullusername>Len Bloomer</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/4/3/1/Info00000134/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/4/3/1/Info00000134/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Berkswich</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>len.bloomer@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 The Paddock</line1>
+            <line2>Seighford</line2>
+            <line3>Stafford</line3>
+            <postcode>ST18 9PJ</postcode>
+            <phone>01785 282336</phone>
+            <mobile>07800 884603</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Although I no longer hold a formal surgery I am available to meet my constituents at any time, either at County Buildings, my home or your home.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2001</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stafford - Stafford West</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>4729</councillorid>
+          <fullusername>Trish Rowlands</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/9/2/7/Info00004729/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/9/2/7/Info00004729/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>trish.rowlands@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Hambridge Close</line1>
+            <line2>Stafford</line2>
+            <line3>ST17 9PJ</line3>
+            <phone>01785 259240</phone>
+            <mobile>07960 383425</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stafford - Stone Rural</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>145</councillorid>
+          <fullusername>Ian Parry</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/5/4/1/Info00000145/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/5/4/1/Info00000145/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Barlaston</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader and Cabinet Member for Strategy, Finance and Corporate Issues</keyposts>
+          <workaddress>
+            <line1>Cabinet Office</line1>
+            <line2>Wedgwood Building</line2>
+            <line3>Tipping Street</line3>
+            <line4>Stafford</line4>
+            <postcode>ST16 2DH</postcode>
+            <phone>01785 276015</phone>
+            <email>ian.parry@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Stafford - Stone Urban</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1513</councillorid>
+          <fullusername>Philip E Jones</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/3/1/5/Info00001513/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/3/1/5/Info00001513/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Stone Town</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>philip.e.jones@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>High Trees House</line1>
+            <line2>Old Road</line2>
+            <line3>Stone</line3>
+            <line4>Staffordshire</line4>
+            <postcode>ST15 8US</postcode>
+            <phone>01785 812981</phone>
+            <mobile>07800 885163</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Saturday of each month from 10.30 am to 12.30 pm at 50 High Street, Stone.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Staffordshire Moorlands - Biddulph North</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1539</councillorid>
+          <fullusername>Ian Lawson</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/9/3/5/Info00001539/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/9/3/5/Info00001539/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ian.lawson@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Stoneyfields</line1>
+            <line2>Biddulph Moor</line2>
+            <line3>Stoke-on-trent</line3>
+            <line4>Staffordshire</line4>
+            <postcode>ST8 7NB</postcode>
+            <phone>01782 522614</phone>
+            <mobile>07800 881163</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Second Saturday of the month at Biddulph Conservative Club at 10.30 am.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Staffordshire Moorlands - Biddulph South and Endon</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>855</councillorid>
+          <fullusername>Kevin Jackson</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/5/5/8/Info00000855/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/5/5/8/Info00000855/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>kevin.jackson@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>110 Church Close</line1>
+            <line2>Biddulph</line2>
+            <line3>Stoke on Trent</line3>
+            <postcode>ST8 6NA</postcode>
+            <phone>01782 515295</phone>
+            <mobile>07814 116557</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Staffordshire Moorlands - Caverswall</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>156</councillorid>
+          <fullusername>William Day</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/6/5/1/Info00000156/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/6/5/1/Info00000156/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>Caverswall</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>william.day@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Fair Views</line1>
+            <line2>40 Hillside Road</line2>
+            <line3>Werrington</line3>
+            <line4>Stoke-on-Trent</line4>
+            <postcode>ST9 0LJ</postcode>
+            <phone>(01782) 303266</phone>
+            <mobile>07800 884575</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>From November my Surgery will  take place on the 1st Tuesday of each month at 7.30 pm at Werrington Primary School, Washerwall Lane, Werrington.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>29/05/2001</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Staffordshire Moorlands - Cheadle and Checkley</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>2463</councillorid>
+          <fullusername>Mark Deaville</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/3/6/4/Info00002463/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/3/6/4/Info00002463/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Support Member for Highways and Transport</keyposts>
+          <workaddress>
+            <phone>01785 278797</phone>
+            <email>mark.deaville@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Springhill Bungalow</line1>
+            <line2>Breach Lane</line2>
+            <line3>Totmonslow</line3>
+            <line4>Staffordshire</line4>
+            <postcode>ST10 4JL</postcode>
+            <phone>01538 724194</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Staffordshire Moorlands - Churnet Valley</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>3452</councillorid>
+          <fullusername>Mike Worthington</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/2/5/4/Info00003452/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/2/5/4/Info00003452/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Alton</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <mobile>07896 347064</mobile>
+            <email>mike.worthington@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>74 Folly Lane</line1>
+            <line2>Cheddleton</line2>
+            <line3>Nr Leek</line3>
+            <postcode>ST13 7DA</postcode>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>12/07/2011</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Staffordshire Moorlands - Leek Rural</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>176</councillorid>
+          <fullusername>Gill Heath</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/6/7/1/Info00000176/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/6/7/1/Info00000176/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Alstonefield</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Support Member for Environment and Rural Issues</keyposts>
+          <workaddress>
+            <email>gill.heath@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Highfield House</line1>
+            <line2>Highfield</line2>
+            <line3>Leek</line3>
+            <line4>ST13 8SG</line4>
+            <phone>(01538) 381601</phone>
+            <mobile>07932 165472</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/1997</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Staffordshire Moorlands - Leek South</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>249</councillorid>
+          <fullusername>Charlotte  Atkins</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/9/4/2/Info00000249/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/9/4/2/Info00000249/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Shadow Cabinet Member for Health, Care and Wellbeing</keyposts>
+          <workaddress>
+            <email>charlotte.atkins@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>South View</line1>
+            <line2>Park Road</line2>
+            <line3>Leek</line3>
+            <postcode>ST13 8JU</postcode>
+            <phone>01538 371188</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2013</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Tamworth - Amington</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1567</councillorid>
+          <fullusername>Sheree Peaple</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/7/6/5/Info00001567/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/7/6/5/Info00001567/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Shadow Cabinet Member for Learning and Skills</keyposts>
+          <workaddress>
+            <email>sheree.peaple@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>13 Sharpe Street</line1>
+            <line2>Amington</line2>
+            <line3>Tamworth</line3>
+            <line4>Staffordshire</line4>
+            <postcode>B77 3HY</postcode>
+            <mobile>07814 144075</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>My surgeries are normally held on the second Saturday of each month from 10.00 - 12.00 at Sacred Heart Church, Silverlink Road, Glascote, Tamworth, B77 2EA</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Tamworth - Bolebridge</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>157</councillorid>
+          <fullusername>Carol Dean</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/7/5/1/Info00000157/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/7/5/1/Info00000157/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>carol.dean@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>17 Monks Way</line1>
+            <line2>Amington</line2>
+            <line3>Tamworth</line3>
+            <postcode>B77 3DB</postcode>
+            <mobile>0796 830 9290</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2001</startdate>
+              <enddate>05/06/2009</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Tamworth - Perrycrofts</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1549</councillorid>
+          <fullusername>Ben Adams</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/9/4/5/Info00001549/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/9/4/5/Info00001549/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Cabinet Member for Learning and Skills</keyposts>
+          <workaddress>
+            <email>ben.adams@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>12 Court Drive</line1>
+            <line2>Shenstone</line2>
+            <line3>Lichfield</line3>
+            <line4>Staffordshire</line4>
+            <postcode>WS14 0JG</postcode>
+            <phone>01543 483013</phone>
+            <mobile>07973 519729</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Tamworth - Stonydelph</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1555</councillorid>
+          <fullusername>Chris Cooke</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/5/5/5/Info00001555/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/5/5/5/Info00001555/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Independent Group</keyposts>
+          <workaddress>
+            <email>chris.cooke@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>33 Camhouses</line1>
+            <line2>Stonydelph</line2>
+            <line3>Tamworth</line3>
+            <line4>Staffordshire</line4>
+            <postcode>B77 4HJ</postcode>
+            <phone>01827 735900</phone>
+            <mobile>07796463787</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Tamworth - Watling North</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>254</councillorid>
+          <fullusername>Brian Jenkins</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/4/5/2/Info00000254/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/4/5/2/Info00000254/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Shadow Cabinet Member for Finance</keyposts>
+          <workaddress>
+            <email>brian.jenkins@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>12 Orkney Drive</line1>
+            <line2>Wilnecote</line2>
+            <line3>Tamworth</line3>
+            <line4>Staffs</line4>
+            <postcode>B77 5AR</postcode>
+            <phone>01827 286147</phone>
+            <mobile>07814 144148</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Second Thursday of the month at Belgrave Baptist Church 7.00 pm - 8.30 pm (in conjunction with Belgrave Residents).</line1>
+            <line2>Third Monday of the month at the Prince of Wales, Hockley Road  8.00 pm - 9.30 pm</line2>
+            <line3>Last Wednesday of the month at Wilnecote High School 7.00 pm - 8.30 pm (in conjunction with Wilnecote and Hockley Residents)</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>unspecified</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Tamworth - Watling South</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>3221</councillorid>
+          <fullusername>Michael Greatorex</fullusername>
+          <photosmallurl>http://moderngov.staffordshire.gov.uk/UserData/1/2/2/Info00003221/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.staffordshire.gov.uk/UserData/1/2/2/Info00003221/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <mobile>07814 144231</mobile>
+            <email>michael.greatorex@staffordshire.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>8 Melmerby</line1>
+            <line2>Wilnecote</line2>
+            <line3>Tamworth</line3>
+            <line4>Staffordshire</line4>
+            <postcode>B77 4LP</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Tuesday of the month at 7.00 pm at Wilnecote High School, Tinkers Green Road, Wilnecote, Tamworth in conjunction with Wilnecote and Hockey Residents Group.</line1>
+            <line2>Last Wednesday of each month at 7.00 pm at Norman Chapel, Church Road, Dosthill, Tamworth in conjunction with Dosthill Residents Group.</line2>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

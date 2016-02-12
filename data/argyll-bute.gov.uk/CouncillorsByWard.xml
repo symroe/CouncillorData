@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Cowal</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1020</councillorid>
+          <fullusername>Councillor Gordon Blair</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish National Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 6: Cowal</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>63 Sandhaven, Sandbank, Dunoon</line1>
+            <postcode>PA23 8QW</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>166</councillorid>
+          <fullusername>Councillor Bruce Marshall</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 6: Cowal</representing>
+          <keyposts>Depute Policy Lead for Improvement, HR, Customer Services and Facility Services</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Violet Grove</line1>
+            <line2>Strone</line2>
+            <line3>Dunoon</line3>
+            <line4>Argyll</line4>
+            <postcode>PA23 8RX</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>595</councillorid>
+          <fullusername>Councillor Alex McNaughton</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 6: Cowal</representing>
+          <keyposts>Depute Policy Lead for PPSL, Planning Services, Historic and Sustainable Environment,  Vice Chair of PPSL, Vice Chair of the Licensing Board &amp; Vice Chair Bute and Cowal Area Committee</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Old Police House</line1>
+            <line2>Colintraive</line2>
+            <postcode>PA22 3AS</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Dunoon</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1029</councillorid>
+          <fullusername>Councillor Michael Breslin</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>
+          </politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 7: Dunoon</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>St Colmacs, Toward, Dunoon</line1>
+            <postcode>PA23 7UD</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>198</councillorid>
+          <fullusername>Councillor James McQueen</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 7: Dunoon</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>8 Nile Street</line1>
+            <line2>Dunoon</line2>
+            <line3>Argyll</line3>
+            <postcode>PA23 8AG</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>182</councillorid>
+          <fullusername>Councillor Dick Walsh</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 7: Dunoon</representing>
+          <keyposts>Leader of the Council. Policy Lead for Strategic Finance (IT Services, Improvement, HR, Customer Support, Facility Services, Governance and Law</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Victoria Villa</line1>
+            <line2>Royal Crescent</line2>
+            <line3>Dunoon</line3>
+            <postcode>PA23 8EG</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Helensburgh and Lomond South</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>600</councillorid>
+          <fullusername>Councillor David Kinniburgh</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish Conservative and Unionists</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 11: Helensburgh and Lomond South</representing>
+          <keyposts>Depute Provost, Policy Lead for PPSL, Planning Services, Historic and Sustainable Environment, Chair of PPSL Committee</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Fraser Avenue</line1>
+            <line2>Dumbarton</line2>
+            <postcode>G82 3LS</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>209</councillorid>
+          <fullusername>Councillor Ellen Morton</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 11: Helensburgh and Lomond South</representing>
+          <keyposts>Depute Leader of the Council, Policy Lead for Roads,  Infrastructure, Amenity Services and Special Projects</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>18 Adelaide Street</line1>
+            <line2>Helensburgh</line2>
+            <line3>Argyll</line3>
+            <postcode>G84 7DL</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1028</councillorid>
+          <fullusername>Councillor Richard Trail</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish National Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 11: Helensburgh and Lomond South</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Havelock Street, Helensburgh</line1>
+            <postcode>G84 7HJ</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Helensburgh Central</wardtitle>
+      <councillors>
+        <councillorcount> 4</councillorcount>
+        <councillor>
+          <councillorid>598</councillorid>
+          <fullusername>Councillor Vivien Dance</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 10: Helensburgh Central</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Barremman</line1>
+            <line2>24 Straid a Cnoc</line2>
+            <line3>Clynder</line3>
+            <postcode>G84 0QX</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1027</councillorid>
+          <fullusername>Councillor Aileen Morton</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 10: Helensburgh Central</representing>
+          <keyposts>Policy Lead for Sustainable Economic Growth (Economic Development, European Affairs, Renewables and Strategic Tourism)</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>372</councillorid>
+          <fullusername>Councillor Gary Mulvaney</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish Conservative and Unionists</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 10: Helensburgh Central</representing>
+          <keyposts>Depute Policy Lead for Strategic Finance (IT Services, Improvement, HR, Customer Support, Facility Services, Governance and Law, Chair of Helensburgh and Lomond Area Committee</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>105 East Princes Street</line1>
+            <line2>Helensburgh</line2>
+            <postcode>G84 7DN</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>599</councillorid>
+          <fullusername>Councillor James Robb</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish National Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 10: Helensburgh Central</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>27 Redclyffe Gardens</line1>
+            <line2>Helensburgh</line2>
+            <postcode>G84 9JJ</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Isle of Bute</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>201</councillorid>
+          <fullusername>Councillor Robert Macintyre</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish National Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 8: Isle of Bute</representing>
+          <keyposts>Chair of Bute and Cowal Area Committee</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Dunallan Farm</line1>
+            <line2>Rothesay</line2>
+            <line3>Isle of Bute</line3>
+            <postcode>PA20 0QG</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>199</councillorid>
+          <fullusername>Councillor Len Scoullar</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 8: Isle of Bute</representing>
+          <keyposts>Provost of the Council and  Policy Lead for Island Affairs</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>&amp;quot;Tangmeer&amp;quot;, 45 Craigmore Road</line1>
+            <line2>Rothesay</line2>
+            <line3>Isle of Bute</line3>
+            <postcode>PA20 9ES</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>156</councillorid>
+          <fullusername>Councillor Isobel Strong</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish National Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 8: Isle of Bute</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Lilybank</line1>
+            <line2>Glebelands Road</line2>
+            <line3>Rothesay</line3>
+            <line4>Isle of Bute</line4>
+            <postcode>PA20 9HN</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Kintyre and the Islands</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>145</councillorid>
+          <fullusername>Councillor Robin Currie</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 2: Kintyre and the Islands</representing>
+          <keyposts>Policy Lead for Strategic Housing, Gaelic, Community &amp; Culture</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Burnside</line1>
+            <line2>Bruichladdich</line2>
+            <line3>Isle of Islay</line3>
+            <postcode>PA49 7UR</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>588</councillorid>
+          <fullusername>Councillor Anne Horn</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish National Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 2: Kintyre and the Islands</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Lochgair Place</line1>
+            <line2>Tarbert</line2>
+            <postcode>PA29 6XH</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>374</councillorid>
+          <fullusername>Councillor John McAlpine</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 2: Kintyre and the Islands</representing>
+          <keyposts>Depute Lead Councillor for Adult Care</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Market Place</line1>
+            <line2>Tarbert</line2>
+            <postcode>PA29 6AB</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Lomond North</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1021</councillorid>
+          <fullusername>Councillor Maurice Corry</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish Conservative and Unionists</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 9: Lomond North</representing>
+          <keyposts>Policy Lead for Health and Social Care Integration and Depute Policy Lead for European Affairs, Sustainable Economic Growth and Strategic Transportation</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Fairfield, 5 West Abercromby Street, Helensburgh</line1>
+            <postcode>G84 9LL</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>173</councillorid>
+          <fullusername>Councillor George Freeman</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 9: Lomond North</representing>
+          <keyposts>Vice Chair of Helensburgh and Lomond Area Committee</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>8 Upland Wynd</line1>
+            <line2>Garelochhead</line2>
+            <line3>Helensburgh</line3>
+            <postcode>G84 0BL</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1026</councillorid>
+          <fullusername>Councillor Robert Graham MacIntyre</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 9: Lomond North</representing>
+          <keyposts>Depute Policy Lead for Roads, Infrastructure, Amenity Services and Special Projects</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Mamore Farm, Peaton Road, Rahane, Rosneath</line1>
+            <line2>Helensburgh</line2>
+            <postcode>G84 0QW</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Mid Argyll</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>180</councillorid>
+          <fullusername>Councillor Donald MacMillan</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 3: Mid Argyll</representing>
+          <keyposts>Vice Chair of Mid Argyll, Kintyre and the Islands Area Committee</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Ardpatrick Place</line1>
+            <line2>Lochgilphead</line2>
+            <line3>Argyll</line3>
+            <postcode>PA31 8TN</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>589</councillorid>
+          <fullusername>Councillor Douglas Philand</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 3: Mid Argyll</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>32 Fernoch Crescent</line1>
+            <line2>Lochgilphead</line2>
+            <postcode>PA31 8AE</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>152</councillorid>
+          <fullusername>Councillor Sandy Taylor</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish National Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 3: Mid Argyll</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Dunmor Avenue, Lochgilphead</line1>
+            <postcode>PA31</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Oban North and Lorn</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1024</councillorid>
+          <fullusername>Councillor Iain MacDonald</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 5: Oban North and Lorn</representing>
+          <keyposts>Depute Policy Lead for Community and Culture and Strategic Housing</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Inveresregan, Ardchattan, Argyll</line1>
+            <postcode>PA37 1RG</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1424</councillorid>
+          <fullusername>Councillor Iain MacLean</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish National Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 5: Oban North and Lorn</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>376</councillorid>
+          <fullusername>Councillor Elaine Robertson</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 5: Oban North &amp; Lorn</representing>
+          <keyposts>Depute Policy Lead for Adult Care, Vice Chair of Oban, Lorn and the Isles Area Committee</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Dungrianach</line1>
+            <line2>Crannaig-a-Mhinister</line2>
+            <line3>Oban</line3>
+            <postcode>PA34 4LU</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Oban South and the Isles</wardtitle>
+      <councillors>
+        <councillorcount> 4</councillorcount>
+        <councillor>
+          <councillorid>591</councillorid>
+          <fullusername>Councillor Mary-Jean Devon</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>
+          </politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 4 Oban South &amp; the Isles</representing>
+          <keyposts>Depute Policy Lead for Children and Families and Children's Champion</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Struan Crescent</line1>
+            <line3>Tobermory</line3>
+            <line4>Isle of Mull</line4>
+            <postcode>PA75</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1025</councillorid>
+          <fullusername>Councillor Alistair MacDougall</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 4: Oban South and the Isles</representing>
+          <keyposts>Policy Lead for Transportation (Strategic Local, Ferries, Piers, Harbours and Airports)</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Aridhglas House, Creich, Fionnphort, Mull</line1>
+            <postcode>PA66 6BW</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1182</councillorid>
+          <fullusername>Councillor Neil MacIntyre</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 4: Oban South and the Isles</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Flat B, 28 Glencruitten Drive, Oban</line1>
+            <postcode>PA34 4EQ</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>590</councillorid>
+          <fullusername>Councillor Roderick McCuish</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>
+          </politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 4: Oban South and the Isles</representing>
+          <keyposts>Chair of Oban, Lorn and the Isles Area Committee &amp; Depute Policy Lead for Strategic Housinig, Gaelic, Community &amp; Culture</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>20B Dalintart Drive</line1>
+            <line2>Oban</line2>
+            <postcode>PA34 4EE</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>South Kintyre</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1427</councillorid>
+          <fullusername>Councillor John Armour</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish National Party</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 1: Kintyre</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>370</councillorid>
+          <fullusername>Councillor Rory Colville</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish Liberal Democrats</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 1: South Kintyre</representing>
+          <keyposts>Policy Lead for Education and Lifelong Learning, Chair of Licensing Board, Chair of Mid Argyll, Kintyre and the Islands Area Committee</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Langa Farm</line1>
+            <line2>Kilkenzie</line2>
+            <line3>Campbeltown</line3>
+            <postcode>PA28 6QD</postcode>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>251</councillorid>
+          <fullusername>Councillor Donald Kelly</fullusername>
+          <photosmallurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.argyll-bute.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Scottish Conservative and Unionists</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Ward 1: South Kintyre</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Strathmore</line1>
+            <line2>Drumlemble</line2>
+            <line3>Campbeltown</line3>
+            <line4>Argyll</line4>
+            <postcode>PA28 6PW</postcode>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

@@ -1,0 +1,2398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Appleton</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1079</councillorid>
+          <fullusername>Councillor Susan Edge</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/9/7/0/Info00001079/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/9/7/0/Info00001079/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>sue.edge@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>23 Foster Street</line1>
+            <line2>Widnes</line2>
+            <line3>WA8 6ET</line3>
+            <phone>0151 424 5628</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Saturday in each month 11.00am - 12.00 noon Bowls Pavilion, Victoria Park, Widnes</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>05/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2010</startdate>
+              <enddate>05/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>924</councillorid>
+          <fullusername>Councillor Eddie Jones</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/4/2/9/Info00000924/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/4/2/9/Info00000924/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>eddie.jones@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>12 Fairfield Road</line1>
+            <line2>Widnes</line2>
+            <line3>WA8 6SE</line3>
+            <phone>0151 420 8582</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Saturday in each month, 11.00am - 12 noon, Bowls Pavilion, Victoria Park, Widnes.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2000</startdate>
+              <enddate>09/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>05/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>05/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>926</councillorid>
+          <fullusername>Councillor Ged Philbin</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/6/2/9/Info00000926/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/6/2/9/Info00000926/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Mayor</keyposts>
+          <workaddress>
+            <email>ged.philbin@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>146 Barrows Green Lane</line1>
+            <line2>Widnes</line2>
+            <line3>WA8 3JJ</line3>
+            <phone>0151 4951625</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Saturday in each month, 11.00am - 12 noon, Bowls Pavilion, Victoria Park, Widnes.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1999</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>06/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Beechwood</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1743</councillorid>
+          <fullusername>Councillor Chris Loftus</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/3/4/7/Info00001743/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/3/4/7/Info00001743/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>chris.loftus@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>30 Lilac Crescent</line1>
+            <line2>Runcorn</line2>
+            <postcode>WA7 5JX</postcode>
+            <phone>01928 772697</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The 2nd Tuesday in each month, 6.30pm - 7.30pm at Beechwood Community Centre Runcorn.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>09/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1817</councillorid>
+          <fullusername>Councillor Geoffrey Logan</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/7/1/8/Info00001817/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/7/1/8/Info00001817/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Geoffrey.Logan@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Newmoore Lane</line1>
+            <line2>Sandymoor</line2>
+            <line3>Runcorn</line3>
+            <postcode>WA7 1QX</postcode>
+            <phone>07769 363394</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The 2nd Tuesday in each month, 6.30pm - 7.30pm at Beechwood Community Centre Runcorn.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>03/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Birchfield</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1744</councillorid>
+          <fullusername>Councillor Sandra Baker</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/4/4/7/Info00001744/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/4/4/7/Info00001744/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>sandra.baker@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>30 Alder Avenue</line1>
+            <line2>Widnes</line2>
+            <postcode>WA8 6QG</postcode>
+            <mobile>07787 105777</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Tuesday in each month 6.00pm-7.00pm Birchfield Social Club, Birchfield Road Widnes</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>09/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1641</councillorid>
+          <fullusername>Councillor Mike Fry</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/1/4/6/Info00001641/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/1/4/6/Info00001641/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Labour</representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>michael.fry@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Hoghton Road</line1>
+            <line2>Hale Village</line2>
+            <line3>Liverpool</line3>
+            <postcode>L24 4BW</postcode>
+            <mobile>07717 643 790</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Tuesday in each month 6.00pm-7.00pm Birchfield Social Club, Birchfield Road Widnes</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>10/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1818</councillorid>
+          <fullusername>Councillor Bill Woolfall</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/8/1/8/Info00001818/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/8/1/8/Info00001818/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Bill.Woolfall2@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>8 Wellingford Avenue</line1>
+            <line2>Widnes</line2>
+            <postcode>WA8 8WG</postcode>
+            <phone>07795 318211</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Tuesday in each month 6.00pm-7.00pm Birchfield Social Club, Birchfield Road Widnes</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>03/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Broadheath</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>932</councillorid>
+          <fullusername>Councillor Robert Gilligan</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/2/3/9/Info00000932/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/2/3/9/Info00000932/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>robert.gilligan@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Cornforth Way</line1>
+            <line2>Widnes</line2>
+            <line3>WA8 9WB</line3>
+            <phone>0151 424 9197</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Tuesday in each month 5.00pm-6.00pm, Ashley School, Cawfield Avenue, Widnes.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/1982</startdate>
+              <enddate>09/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>06/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>933</councillorid>
+          <fullusername>Councillor Tony McDermott</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/3/3/9/Info00000933/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/3/3/9/Info00000933/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>tony.mcdermott@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>290 Liverpool Road</line1>
+            <line2>Widnes</line2>
+            <line3>WA8 7HT</line3>
+            <phone>0151 424 0835</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Tuesday in each month, 5.00pm-6.00pm, Ashley School, Cawfield Avenue, Widnes.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1972</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>05/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>07/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>934</councillorid>
+          <fullusername>Councillor Keith Morley</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/4/3/9/Info00000934/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/4/3/9/Info00000934/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>keith.morley@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>80 Heath Road</line1>
+            <line2>Widnes</line2>
+            <postcode>WA8 7NU</postcode>
+            <phone>0151 424 2439</phone>
+            <mobile>07952 433025</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Tuesday in each month 5.00pm-6.00pm, Ashley School, Cawfield Avenue, Widnes.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1998</startdate>
+              <enddate>05/05/1991</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2000</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>08/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>08/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2010</startdate>
+              <enddate>08/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Daresbury</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>979</councillorid>
+          <fullusername>Councillor John Bradshaw</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/9/7/9/Info00000979/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/9/7/9/Info00000979/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>john.bradshaw@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>54 Clifton Road</line1>
+            <line2>Runcorn</line2>
+            <line3>WA7 4SZ</line3>
+            <phone>01928 561813</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Cllr John Bradshaw and Cllrs Mrs M Bradshaw will be happy to call on residents to discuss their concerns at their request, throughout the ward. Please contact them on (01928) 561813 or email  john.bradshaw@halton.gov.uk and marjorie.bradshaw@halton.gov.uk</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>06/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1438</councillorid>
+          <fullusername>Councillor Marjorie Bradshaw</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/8/3/4/Info00001438/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/8/3/4/Info00001438/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>marjorie.bradshaw@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>54 Clifton Road</line1>
+            <line2>Runcorn</line2>
+            <postcode>WA7 4SZ</postcode>
+            <phone>01928 561813</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Cllr John Bradshaw and Cllrs Mrs M Bradshaw will be happy to call on residents to discuss their concerns at their request, throughout the ward. Please contact them on (01928) 561813 or email  john.bradshaw@halton.gov.uk and marjorie.bradshaw@halton.gov.uk</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>07/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Ditton</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>940</councillorid>
+          <fullusername>Councillor Shaun Osborne</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/0/4/9/Info00000940/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/0/4/9/Info00000940/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>shaun.osborne@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>155 Peel House Lane</line1>
+            <line2>Widnes</line2>
+            <line3>WA8 9UH</line3>
+            <phone>0151 420 6895</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Thursday in each month 6.30pm–7.30pm, Halebank Youth Club, Widnes.</line1>
+            <line2>The first Friday in each month 10.30am–11.30am, Halton Direct Lik, Queens Avenue, Widnes.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1997</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>06/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1642</councillorid>
+          <fullusername>Councillor Joe Roberts</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/2/4/6/Info00001642/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/2/4/6/Info00001642/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>joe.roberts@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>53 Wellingford Avenue</line1>
+            <line2>Halebank</line2>
+            <line3>Widnes</line3>
+            <postcode>WA8 8WG</postcode>
+            <mobile>07717 631661</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Thursday in each month 6.30pm–7.30pm, Halebank Youth Club, Widnes.</line1>
+            <line2>The first Friday in each month 10.30am–11.30am, Halton Direct Lik, Queens Avenue, Widnes.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>941</councillorid>
+          <fullusername>Councillor Marie Wright</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/1/4/9/Info00000941/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/1/4/9/Info00000941/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>marie.wright@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>37 Arley Drive</line1>
+            <line2>Widnes</line2>
+            <line3>WA8 4XS</line3>
+            <phone>0151 420 2096</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Thursday in each month 6.30pm–7.30pm, Halebank Youth Club, Widnes.</line1>
+            <line2>The first Friday in each month 10.30am–11.30am, Halton Direct Lik, Queens Avenue, Widnes.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1995</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>05/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>07/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Farnworth</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1819</councillorid>
+          <fullusername>Councillor Valerie Hill</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/9/1/8/Info00001819/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/9/1/8/Info00001819/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Valerie.Hill@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>30 Swinford Avenue</line1>
+            <line2>Widnes</line2>
+            <postcode>WA8 3YF</postcode>
+            <phone>07769 363060</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Tuesday in each month 6.00pm - 7.00pm Birchfield Social Club, Birchfield Road Widnes</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>03/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1643</councillorid>
+          <fullusername>Councillor Andrew MacManus</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/3/4/6/Info00001643/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/3/4/6/Info00001643/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>andrew.macmanus@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>12 Mason Avenue</line1>
+            <line2>Widnes</line2>
+            <line3>Cheshire</line3>
+            <postcode>WA8 9LD</postcode>
+            <mobile>07785 305892</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Tuesday in each month 6.00pm - 7.00pm Birchfield Social Club, Birchfield Road Widnes</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1745</councillorid>
+          <fullusername>Councillor Angela McInerney</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/5/4/7/Info00001745/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/5/4/7/Info00001745/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>angela.mcinerney@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Tuscan Close</line1>
+            <line2>Widnes</line2>
+            <postcode>WA8 9RE</postcode>
+            <phone>0151 424 4491</phone>
+            <mobile>07796 993978</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Tuesday in each month 6.00pm - 7.00pm Birchfield Social Club, Birchfield Road Widnes</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>09/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Grange</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>957</councillorid>
+          <fullusername>Councillor Mark Dennett</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/7/5/9/Info00000957/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/7/5/9/Info00000957/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>mark.dennett@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>91 Moughland Lane</line1>
+            <line2>Runcorn</line2>
+            <line3>WA7 4SG</line3>
+            <phone>01928 770085</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The Saturday, following the fourth Friday in each month, 10.00am - 12 noon, Runcorn Library, Granville Street, Runcorn.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>08/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>05/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1820</councillorid>
+          <fullusername>Councillor Darren Lea</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/0/2/8/Info00001820/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/0/2/8/Info00001820/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Darren.Lea@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Potton Close</line1>
+            <line2>Runcorn</line2>
+            <postcode>WA7 1EA</postcode>
+            <phone>07769 363069</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The 3rd Thursday in each month 6.15pm - 7.15pm at the Grangeway Centre, Grangeway, Runcorn.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>03/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1325</councillorid>
+          <fullusername>Councillor Joan Lowe</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/5/2/3/Info00001325/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/5/2/3/Info00001325/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>joan.lowe@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>8 Perrin Avenue</line1>
+            <line2>Runcorn</line2>
+            <line3>WA7 4BJ</line3>
+            <phone>01928 592010</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The Saturday, following the fourth Friday in each month, 10.00am - 12 noon, Runcorn Library, Granville Street, Runcorn.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Hale</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>960</councillorid>
+          <fullusername>Councillor Mike Wharton</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/0/6/9/Info00000960/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/0/6/9/Info00000960/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader</keyposts>
+          <workaddress>
+            <email>mike.wharton@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>8 Vicarage Close</line1>
+            <line2>Hale Village</line2>
+            <line3>Liverpool</line3>
+            <line4>L24 4BH</line4>
+            <phone>0151 425 2991</phone>
+            <mobile>07825 521364</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The Saturday, following the fourth Friday in each month, 9.30am–10.00am, Hale Village Hall, High Street, Hale Village.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2002</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>08/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>08/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Halton Brook</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>946</councillorid>
+          <fullusername>Councillor Stef Nelson</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/6/4/9/Info00000946/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/6/4/9/Info00000946/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>stef.nelson@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Brookfield Avenue</line1>
+            <line2>Runcorn</line2>
+            <line3>WA7 5QZ</line3>
+            <phone>01928 770233</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The Saturday, following the fourth Friday in each month, 10.00am - 12 noon, Runcorn Library, Granville Street, Runcorn.</line1>
+            <line2>A three monthly cycle (the third Thursday in each month, 7.00pm - 7.30pm) in the following order:-</line2>
+            <line3>Brook Centre, Halton Brook Estate, Runcorn - April 2016, July 2016</line3>
+            <line4>Brook Chapel, Boston Avenue Runcorn - February 2016, May 2016, August 2016, November 2016</line4>
+            <line5>Christian Centre, Wicksten Drive, Runcorn - March 2016, June 2016, September 2016, December 2016</line5>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>22/05/1997</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>05/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>07/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1746</councillorid>
+          <fullusername>Councillor Carol Plumpton Walsh</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/6/4/7/Info00001746/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/6/4/7/Info00001746/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>carol.plumptonwalsh@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>43 Suffolk Street</line1>
+            <line2>Runcorn</line2>
+            <postcode>WA7 1EX</postcode>
+            <mobile>07771 805125</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The Saturday, following the fourth Friday in each month, 10.00am - 12 noon, Runcorn Library, Granville Street, Runcorn.</line1>
+            <line2>A three monthly cycle (the third Thursday in each month, 7.00pm - 7.30pm) in the following order:-</line2>
+            <line3>Brook Centre, Halton Brook Estate, Runcorn - April 2016, July 2016</line3>
+            <line4>Brook Chapel, Boston Avenue Runcorn - February 2016, May 2016, August 2016, November 2016</line4>
+            <line5>Christian Centre, Wicksten Drive, Runcorn - March 2016, June 2016, September 2016, December 2016</line5>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>09/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1081</councillorid>
+          <fullusername>Councillor John Stockton</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/1/8/0/Info00001081/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/1/8/0/Info00001081/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>john.stockton@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7B Windmill Street</line1>
+            <line2>Runcorn</line2>
+            <line4>WA7 5RY</line4>
+            <mobile>07776 456384</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The Saturday, following the fourth Friday in each month, 10.00am - 12 noon, Runcorn Library, Granville Street, Runcorn.</line1>
+            <line2>A three monthly cycle (the third Thursday in each month, 7.00pm - 7.30pm) in the following order:-</line2>
+            <line3>Brook Centre, Halton Brook Estate, Runcorn - April 2016, July 2016</line3>
+            <line4>Brook Chapel, Boston Avenue Runcorn - February 2016, May 2016, August 2016, November 2016</line4>
+            <line5>Christian Centre, Wicksten Drive, Runcorn - March 2016, June 2016, September 2016, December 2016</line5>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2000</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>08/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Halton Castle</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>989</councillorid>
+          <fullusername>Councillor Ellen Cargill</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/9/8/9/Info00000989/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/9/8/9/Info00000989/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Mayor</keyposts>
+          <workaddress>
+            <email>ellen.cargill@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>41 Haywood Crescent</line1>
+            <line2>Waters Edge</line2>
+            <line3>Runcorn</line3>
+            <line4>WA7 6NA</line4>
+            <phone>01928 717344</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The second Wednesday and the fourth Thursday in each month (except August,) 7.00 pm - 8.00 pm, Castlefields Community Centre, Runcorn.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/1997</startdate>
+              <enddate>01/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/07/2005</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>935</councillorid>
+          <fullusername>Councillor Arthur Cole</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/5/3/9/Info00000935/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/5/3/9/Info00000935/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>arthur.cole@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Cresta Drive</line1>
+            <line2>Weston Village</line2>
+            <line3>Runcorn</line3>
+            <line4>WA7 4RS</line4>
+            <phone>01928 771306</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The second Wednesday and the fourth Thursday in each month (except August,) 7.00 pm - 8.00 pm, Castlefields Community Centre, Runcorn.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/06/1973</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>06/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>09/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1124</councillorid>
+          <fullusername>Councillor Harry Howard</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/4/2/1/Info00001124/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/4/2/1/Info00001124/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>harry.howard@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Priory Close</line1>
+            <line2>Halton Village</line2>
+            <line3>Runcorn</line3>
+            <postcode>WA7 2BN</postcode>
+            <phone>01928 560951</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The second Wednesday and the fourth Thursday in each month (except August,) 7.00 pm - 8.00 pm, Castlefields Community Centre, Runcorn.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/07/2006</startdate>
+              <enddate>05/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>07/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Halton Lea</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>947</councillorid>
+          <fullusername>Councillor Kath Loftus</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/7/4/9/Info00000947/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/7/4/9/Info00000947/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>kath.loftus@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>30 Lilac Crescent</line1>
+            <line2>Runcorn</line2>
+            <line3>WA7 5JX</line3>
+            <phone>01928 772697</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Saturday between 10am and 11am in Meeting Room 2, Halton Lea Direct Link Runcorn.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1986</startdate>
+              <enddate>05/05/1997</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2002</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>06/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>948</councillorid>
+          <fullusername>Councillor Alan Lowe</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/8/4/9/Info00000948/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/8/4/9/Info00000948/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>alan.lowe@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>8 Perrin Avenue</line1>
+            <line2>Runcorn</line2>
+            <line3>WA7 4BJ</line3>
+            <phone>01928 592010</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Saturday between 10am and 11am in Meeting Room 2, Halton Lea Direct Link Runcorn.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2000</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>08/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>08/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>949</councillorid>
+          <fullusername>Councillor Dave Thompson</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/9/4/9/Info00000949/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/9/4/9/Info00000949/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>dave.thompson@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>51 Canal Street</line1>
+            <line2>Runcorn</line2>
+            <line3>WA7 1SA</line3>
+            <phone>01928 500484</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Saturday between 10am and 11am in Meeting Room 2, Halton Lea Direct Link Runcorn.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/06/2001</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>05/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>07/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Halton View</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>961</councillorid>
+          <fullusername>Councillor Tom McInerney</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/1/6/9/Info00000961/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/1/6/9/Info00000961/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>tom.mcinerney@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Tuscan Close</line1>
+            <line2>Widnes</line2>
+            <line3>WA8 9RE</line3>
+            <phone>0151 424 4491</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The fourth Thursday in each month, 6.30pm – 7.30pm, St. Ambrose Church Hall, Widnes.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1997</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>08/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>08/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>962</councillorid>
+          <fullusername>Councillor Stan Parker</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/2/6/9/Info00000962/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/2/6/9/Info00000962/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>stan.parker@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Humber Close</line1>
+            <line2>Widnes</line2>
+            <line3>WA8 3YY</line3>
+            <phone>0151 424 6347</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The fourth Thursday in each month, 6.30pm–7.30pm, St. Ambrose Church Hall, Widnes.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1996</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>06/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>963</councillorid>
+          <fullusername>Councillor Rob Polhill</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/3/6/9/Info00000963/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/3/6/9/Info00000963/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Council Leader</keyposts>
+          <workaddress>
+            <email>rob.polhill@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>18 Fieldway</line1>
+            <line2>Widnes</line2>
+            <line3>WA8 3JD</line3>
+            <phone>0151 4248713</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The fourth Thursday in each month, 6.30pm–7.30pm, St. Ambrose Church Hall, Widnes.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1988</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>05/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>07/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Heath</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>2169</councillorid>
+          <fullusername>Councillor Charlotte Gerrard</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/9/6/1/Info00002169/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/9/6/1/Info00002169/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>charlotte.gerrard@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>58 Heath Road South</line1>
+            <line2>Weston Village</line2>
+            <line3>Runcorn</line3>
+            <postcode>WA7 4RT</postcode>
+            <phone>01928 771329</phone>
+            <mobile>07833 082524</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The Saturday following the 4th Friday in each month (except August &amp; December) 10.00am - 12 noon at Runcorn Library, Granville Street, Runcorn.</line1>
+            <line2>The 4th Monday in each month (except August and December) 6.30pm - 7.30 pm West Runcorn Youth Centre, Russell Road, Runcorn.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>966</councillorid>
+          <fullusername>Councillor Christopher Rowe</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/6/6/9/Info00000966/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/6/6/9/Info00000966/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>christopher.rowe@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>101 Heath Road South</line1>
+            <line2>Runcorn</line2>
+            <line3>WA7 4QH</line3>
+            <phone>01928 576832</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The third Saturday in each month 10am - 11.30am at Esposito Cafe, Runcorn Hill Park.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>08/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>08/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1821</councillorid>
+          <fullusername>Councillor Gareth Stockton</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/1/2/8/Info00001821/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/1/2/8/Info00001821/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Gareth.Stockton@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Cheltenham Crescent</line1>
+            <line2>Runcorn</line2>
+            <postcode>WA7 4YT</postcode>
+            <phone>07769 363268</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The third Saturday in each month 10am - 11.30am at Esposito Cafe, Runcorn Hill Park.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>03/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Hough Green</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>950</councillorid>
+          <fullusername>Councillor Phil Harris</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/0/5/9/Info00000950/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/0/5/9/Info00000950/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>phil.harris@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>31 Ridsdale</line1>
+            <line2>Widnes</line2>
+            <line3>WA8 8XX</line3>
+            <phone>0151 208 7981</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The third Thursday in each month 7.30pm–8.30pm, Upton Community Centre, Widnes.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1986</startdate>
+              <enddate>04/05/1987</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/1987</startdate>
+              <enddate>06/05/1991</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/1991</startdate>
+              <enddate>04/05/1995</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/1995</startdate>
+              <enddate>04/05/2000</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2000</startdate>
+              <enddate>09/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>08/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>08/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>951</councillorid>
+          <fullusername>Councillor Paul Nolan</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/1/5/9/Info00000951/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/1/5/9/Info00000951/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>paul.nolan@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>383 Liverpool Road</line1>
+            <line2>Widnes</line2>
+            <line3>WA8 7HR</line3>
+            <phone>0151 423 5334</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The third Thursday in each month 7.30pm–8.30pm, Upton Community Centre, Widnes.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1996</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>05/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>07/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>952</councillorid>
+          <fullusername>Councillor Kevan Wainwright</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/2/5/9/Info00000952/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/2/5/9/Info00000952/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>kevan.wainwright@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>75 Netherfield</line1>
+            <line2>Widnes</line2>
+            <line3>WA8 8BZ</line3>
+            <phone>0151 510 3975</phone>
+            <mobile>07769 954284</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The third Thursday in each month 7.30pm–8.30pm, Upton Community Centre, Widnes.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/1998</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>06/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Kingsway</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>955</councillorid>
+          <fullusername>Councillor Margaret Horabin</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/5/5/9/Info00000955/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/5/5/9/Info00000955/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>margaret.horabin@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>107 Lowerhouse Lane</line1>
+            <line2>Widnes</line2>
+            <line3>WA8 7DU</line3>
+            <phone>0151 510 0477</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Thursday in each month 6.00pm – 7.00pm, Room 15, Library, Kingsway, Widnes.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>05/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>07/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2012</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2077</councillorid>
+          <fullusername>Councillor June Roberts</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/7/7/0/Info00002077/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/7/7/0/Info00002077/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>june.roberts@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>117 Highfield Road</line1>
+            <line2>Widnes</line2>
+            <postcode>WA8 7DH</postcode>
+            <phone>07917 556380</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The first Thursday in each month 6.00pm – 7.00pm, Room 15, Library, Kingsway, Widnes.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>2148</councillorid>
+          <fullusername>Councillor Andrea Wall</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/8/4/1/Info00002148/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/8/4/1/Info00002148/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Councillor</keyposts>
+          <workaddress>
+            <email>andrea.wall@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Lockett Road</line1>
+            <line2>Widnes</line2>
+            <postcode>WA8 6SL</postcode>
+            <phone>07795 390979</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The third Wednesday of each month 12.30pm - 1.30pm, St Paul's Community Centre, Vicarage Road, Widnes.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>14/12/2014</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Mersey</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1646</councillorid>
+          <fullusername>Councillor John Gerrard</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/6/4/6/Info00001646/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/6/4/6/Info00001646/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>john.gerrard@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>58 Heath Road South</line1>
+            <line2>Weston Village</line2>
+            <line3>Runcorn</line3>
+            <postcode>WA7 4RT</postcode>
+            <phone>01928 771329</phone>
+            <mobile>07901 115199</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The 4th Saturday in each month 10.00 am - 12.00 noon Runcorn Library, Granville Street, Runcorn.</line1>
+            <line2>The 4th Monday in each month (except August and December) 6.30pm - 7.30 pm West Runcorn Youth Centre, Russell Road, Runcorn.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1747</councillorid>
+          <fullusername>Councillor Norman Plumpton Walsh</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/7/4/7/Info00001747/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/7/4/7/Info00001747/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>norman.plumptonwalsh@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>43 Suffolk Street</line1>
+            <line2>Runcorn</line2>
+            <postcode>WA7 1EX</postcode>
+            <mobile>07500 109478</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The 4th Saturday in each month 10.00 am - 12.00 noon Runcorn Library, Granville Street, Runcorn.</line1>
+            <line2>The 4th Monday in each month (except August and December) 6.30pm - 7.30 pm West Runcorn Youth Centre, Russell Road, Runcorn.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>09/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1822</councillorid>
+          <fullusername>Councillor Pauline Sinnott</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/2/2/8/Info00001822/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/2/2/8/Info00001822/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Pauline.Sinnott2@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>13 Speakman Street</line1>
+            <line2>Runcorn</line2>
+            <postcode>WA7 1HW</postcode>
+            <phone>07769 363273</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The 4th Saturday in each month 10.00 am - 12.00 noon Runcorn Library, Granville Street, Runcorn.</line1>
+            <line2>The 4th Monday in each month (except August and December) 6.30pm - 7.30 pm West Runcorn Youth Centre, Russell Road, Runcorn.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>03/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Norton North</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1823</councillorid>
+          <fullusername>Councillor Lauren Cassidy</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/3/2/8/Info00001823/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/3/2/8/Info00001823/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Lauren.Cassidy@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>20 Adlington Road</line1>
+            <line2>Water's Edge</line2>
+            <line3>Runcorn</line3>
+            <postcode>WA7 6NE</postcode>
+            <phone>07769 363337</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Thursday 7.00 -7.30pm  Murdishaw Community Centre, Barnfield Ave, Runcorn.</line1>
+            <line2>First Thursday of each month 6.15pm - 7.00 pm Brookvale Community Centre, Higher House -</line2>
+            <line3>( Rota Basis with Norton South Ward Members.)</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>03/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1647</councillorid>
+          <fullusername>Councillor Peter Lloyd Jones</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/7/4/6/Info00001647/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/7/4/6/Info00001647/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>peter.lloydjones@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>14 Peckforton Drive</line1>
+            <line2>Runcorn</line2>
+            <line3>Cheshire</line3>
+            <postcode>WA7 3HG</postcode>
+            <phone>01928 779151</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Thursday 7.00 -7.30pm  Murdishaw Community Centre, Barnfield Ave, Runcorn.</line1>
+            <line2>First Thursday of each month 6.15pm - 7.00 pm Brookvale Community Centre, Higher House -</line2>
+            <line3>( Rota Basis with Norton South Ward Members.)</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1748</councillorid>
+          <fullusername>Councillor Geoff Zygadllo</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/8/4/7/Info00001748/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/8/4/7/Info00001748/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>geoff.zygadllo@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>54 Helston Close</line1>
+            <line2>Runcorn</line2>
+            <postcode>WA7 6AA</postcode>
+            <phone>01928 718220</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Thursday 7.00 -7.30pm  Murdishaw Community Centre, Barnfield Ave, Runcorn.</line1>
+            <line2>First Thursday of each month 6.15pm - 7.00 pm Brookvale Community Centre, Higher House -</line2>
+            <line3>( Rota Basis with Norton South Ward Members.)</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>09/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Norton South</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>974</councillorid>
+          <fullusername>Councillor Dave Cargill</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/4/7/9/Info00000974/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/4/7/9/Info00000974/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>dave.cargill@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>41 Haywood Crescent</line1>
+            <line2>Waters Edge</line2>
+            <line3>Runcorn</line3>
+            <line4>WA7 6NA</line4>
+            <phone>01928 717344</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Thursday 7.00pm - 7.30pm, Murdishaw Community Centre, Barnfield Ave, Runcorn.</line1>
+            <line2>First Thursday of each month, 6.15pm-7.00pm, Brookvale Community Centre, Higher House.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/1977</startdate>
+              <enddate>06/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>975</councillorid>
+          <fullusername>Councillor Ron Hignett</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/5/7/9/Info00000975/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/5/7/9/Info00000975/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ron.hignett@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>19 Launceston Close</line1>
+            <line2>Brookvale</line2>
+            <line3>Runcorn</line3>
+            <line4>WA7 6BA</line4>
+            <phone>01928 710550</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Thursday 7.00pm - 7.30pm, Murdishaw Community Centre, Barnfield Ave, Runcorn.</line1>
+            <line2>First Thursday of each month, 6.15pm-7.00pm, Brookvale Community Centre, Higher House, Runcorn.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/1988</startdate>
+              <enddate>09/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>05/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2008</startdate>
+              <enddate>07/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2011</startdate>
+              <enddate>05/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1083</councillorid>
+          <fullusername>Councillor Martha Lloyd Jones</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/3/8/0/Info00001083/smallmug.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/3/8/0/Info00001083/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>martha.lloydjones@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>14 Peckforton Drive</line1>
+            <line2>Runcorn</line2>
+            <line3>WA7 3HG</line3>
+            <phone>01928 779151</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Every Thursday 7.00pm - 7.30pm, Murdishaw Community Centre, Barnfield Ave, Runcorn.</line1>
+            <line2>First Thursday of each month, 6.15pm-7.00pm, Brookvale Community Centre, Higher House.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>04/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2010</startdate>
+              <enddate>22/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Riverside</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1824</councillorid>
+          <fullusername>Councillor Stan Hill</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/4/2/8/Info00001824/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/4/2/8/Info00001824/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Stan.Hill@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>30 Swinford Avenue</line1>
+            <line2>Widnes</line2>
+            <postcode>WA8 3YF</postcode>
+            <phone>07769 363355</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The third Thursday in each month 11.00am - 12.00 noon - Ditton Community Centre.</line1>
+            <line2>The third Thursday in each month 6.00pm–7.00pm Cafe - Ground Floor, Municipal Building, Kingsway, Widnes</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>03/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1084</councillorid>
+          <fullusername>Councillor Pamela Wallace</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/4/8/0/Info00001084/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/4/8/0/Info00001084/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>pamela.wallace@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>11 James Close</line1>
+            <line2>West Bank</line2>
+            <line3>Widnes</line3>
+            <line4>WA8 0DB</line4>
+            <phone>0151 257 8954</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The third Thursday in each month 11.00am - 12.00 noon - Ditton Community Centre.</line1>
+            <line2>The third Thursday in each month 6.00pm–7.00pm Cafe - Ground Floor, Municipal Building, Kingsway, Widnes</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2006</startdate>
+              <enddate>06/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/05/2007</startdate>
+              <enddate>08/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>07/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Windmill Hill</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1825</councillorid>
+          <fullusername>Councillor Pauline Hignett</fullusername>
+          <photosmallurl>http://councillors.halton.gov.uk/UserData/5/2/8/Info00001825/smallpic.jpg</photosmallurl>
+          <photobigurl>http://councillors.halton.gov.uk/UserData/5/2/8/Info00001825/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>Pauline.Hignett2@halton.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>19 Launceston Close</line1>
+            <line2>Brookvale</line2>
+            <line4>Runcorn</line4>
+            <postcode>WA7 6BA</postcode>
+            <phone>07769 363365</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The third Thursday in each month.</line1>
+            <line2>2.30pm - 3.30pm in Windmill Hill Children's Centre, Norton Hill, Windmill Hill, Runcorn.</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2012</startdate>
+              <enddate>03/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

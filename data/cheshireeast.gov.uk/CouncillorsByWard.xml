@@ -1,0 +1,3128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Alderley Edge</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>7377</councillorid>
+          <fullusername>Councillor Craig Browne</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/7/3/Info00007377/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/7/3/Info00007377/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Alderley Edge First</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>craig.browne@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>23 Wilton Crescent</line1>
+            <line2>Alderley Edge</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK9 7RE</postcode>
+            <phone>01625 865627</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Alsager</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>7378</councillorid>
+          <fullusername>Councillor Martin Deakin</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/7/3/Info00007378/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/7/3/Info00007378/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>martin.deakin@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>104 Talke Road</line1>
+            <line2>Alsager</line2>
+            <line3>Stoke-on-Trent</line3>
+            <line4>Staffordshire</line4>
+            <postcode>ST7 2PP</postcode>
+            <phone>01270 883355</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>400</councillorid>
+          <fullusername>Councillor Rod Fletcher</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/0/4/Info00000400/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/0/4/Info00000400/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Liberal Democrat Group</keyposts>
+          <workaddress>
+            <email>rod.fletcher@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Cranfield Drive</line1>
+            <line2>Alsager</line2>
+            <line3>Cheshire</line3>
+            <postcode>ST7 2LQ</postcode>
+            <phone>01270 874578</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>401</councillorid>
+          <fullusername>Councillor Derek Hough</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/0/4/Info00000401/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/0/4/Info00000401/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>derek.hough@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>61 Pikemere Road</line1>
+            <line2>Alsager</line2>
+            <line3>Stoke On Trent</line3>
+            <line4>Staffordshire</line4>
+            <postcode>ST7 2SN</postcode>
+            <phone>01270 875144</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Audlem</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>416</councillorid>
+          <fullusername>Councillor Rachel Bailey</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/1/4/Info00000416/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/1/4/Info00000416/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Children and Families Portfolio Holder</keyposts>
+          <workaddress>
+            <line1>Cath Law PA to the Cabinet</line1>
+            <line2>Westfields</line2>
+            <line3>Middlewich Road</line3>
+            <line4>Sandbach, Cheshire</line4>
+            <postcode>CW11 1HZ</postcode>
+            <phone>01270 686014</phone>
+            <mobile>07825 436587</mobile>
+            <email>cath.law@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Westfields</line1>
+            <line2>Middlewich Road</line2>
+            <line3>Sandbach</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW11 1HZ</postcode>
+            <mobile>07825 436587</mobile>
+            <email>rachel.bailey@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bollington</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>7379</councillorid>
+          <fullusername>Councillor Amanda Stott</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/7/3/Info00007379/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/7/3/Info00007379/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Bollington First</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>amanda.stott@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>52A Bollington Road</line1>
+            <line2>Bollington</line2>
+            <line3>Macclesfield</line3>
+            <line4>Cheshire</line4>
+            <postcode>SK10 5EJ</postcode>
+            <phone>07890 326245</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>7380</councillorid>
+          <fullusername>Councillor Jonathan Weston</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/8/3/Info00007380/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/8/3/Info00007380/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>jonathon.weston@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>45 Palmerston Street</line1>
+            <line2>Bollington</line2>
+            <line3>Macclesfield</line3>
+            <line4>Cheshire</line4>
+            <postcode>SK10 5PX</postcode>
+            <phone>07496 585296</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Brereton Rural</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>420</councillorid>
+          <fullusername>Councillor John Wray</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/2/4/Info00000420/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/2/4/Info00000420/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>john.wray@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Farriers Cottage</line1>
+            <line2>Back Lane Moss End</line2>
+            <line3>Smallwood</line3>
+            <line4>Sandbach</line4>
+            <postcode>CW11 2XQ</postcode>
+            <phone>01477 500609</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Broken Cross and Upton</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>7381</councillorid>
+          <fullusername>Councillor Liz Durham</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/8/3/Info00007381/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/8/3/Info00007381/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Finance and Assets Deputy Porfolio Holder</keyposts>
+          <workaddress>
+            <email>liz.durham@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Knightsbridge Square</line1>
+            <line2>Macclesfield</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK10 3GF</postcode>
+            <phone>01625 423858</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>448</councillorid>
+          <fullusername>Councillor Martin Hardy</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/4/4/Info00000448/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/4/4/Info00000448/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>martin.hardy@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>39 Kent Walk</line1>
+            <line2>Macclesfield</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK10 3HG</postcode>
+            <phone>01625 262413</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Bunbury</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1125</councillorid>
+          <fullusername>Councillor Michael Jones</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/2/1/Info00001125/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/2/1/Info00001125/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Council; Leader of the Conservative Group</keyposts>
+          <workaddress>
+            <line1>Lorraine Thomson, PA to the Leader of the Council</line1>
+            <line2>Westfields</line2>
+            <line3>Middlewich Road</line3>
+            <line4>Sandbach, Cheshire</line4>
+            <postcode>CW11 1HZ</postcode>
+            <phone>01270 686011</phone>
+            <email>lorraine.thomson@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Mill Lane</line1>
+            <line2>Bulkeley</line2>
+            <line3>Malpas</line3>
+            <line4>Cheshire</line4>
+            <postcode>SY14 8BL</postcode>
+            <phone>01829 720771</phone>
+            <email>michael.e.jones@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Chelford</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>415</councillorid>
+          <fullusername>Councillor George Walton</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/1/4/Info00000415/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/1/4/Info00000415/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>george.walton@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>48 Blackhill Lane</line1>
+            <line2>Knutsford</line2>
+            <line3>Cheshire</line3>
+            <postcode>WA16 9DW</postcode>
+            <phone>01565 651507</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Congleton East</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>8049</councillorid>
+          <fullusername>Councillor Geoff Baggott</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/4/0/Info00008049/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/4/0/Info00008049/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Malbon Townsend Ltd</line1>
+            <line2>5 Swan Bank</line2>
+            <line3>Congleton</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW12 4NR</postcode>
+          </workaddress>
+          <homeaddress>
+            <phone>01260 291222</phone>
+            <email>geoff.baggott@cheshireeast.gov.uk</email>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>421</councillorid>
+          <fullusername>Councillor David Brown</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/2/4/Info00000421/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/2/4/Info00000421/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of the Council; Highways Portfolio Holder</keyposts>
+          <workaddress>
+            <line1>Cath Law  PA to the Cabinet</line1>
+            <line2>Westfields</line2>
+            <line3>Middlewich Road</line3>
+            <line4>Sandbach, Cheshire</line4>
+            <postcode>CW11 1HZ</postcode>
+            <phone>01270 686014</phone>
+            <email>cath.law@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>21 Leek Road</line1>
+            <line2>Congleton</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW12 3HU</postcode>
+            <phone>01260 274471</phone>
+            <email>david.brown@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>7382</councillorid>
+          <fullusername>Councillor Glen Williams</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/8/3/Info00007382/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/8/3/Info00007382/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Communities Deputy Portfolio Holder</keyposts>
+          <workaddress>
+            <email>glen.williams@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>70 Edinburgh Road</line1>
+            <line2>Congleton</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW12 3EN</postcode>
+            <phone>01260 277384</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Congleton West</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>7383</councillorid>
+          <fullusername>Councillor Paul Bates</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/3/8/3/Info00007383/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/3/8/3/Info00007383/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>paul.bates@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Vernon Avenue</line1>
+            <line2>Mossley</line2>
+            <line3>Congleton</line3>
+            <postcode>CW12 3AZ</postcode>
+            <phone>07896 011565</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>406</councillorid>
+          <fullusername>Councillor Gordon Baxendale</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/0/4/Info00000406/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/0/4/Info00000406/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>gordon.baxendale@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Suffolk Close</line1>
+            <line2>Congleton</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW12 1SQ</postcode>
+            <phone>01260 277274</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>7384</councillorid>
+          <fullusername>Councillor George Hayes</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/4/8/3/Info00007384/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/4/8/3/Info00007384/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Children and Families Deputy Portfolio Holder</keyposts>
+          <workaddress>
+            <email>george.hayes@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>83 Buxton Road</line1>
+            <line2>Congleton</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW12 2DX</postcode>
+            <phone>07964 808200</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Crewe Central</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1126</councillorid>
+          <fullusername>Councillor Irene Faseyi</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/2/1/Info00001126/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/2/1/Info00001126/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>irene.faseyi@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>53 Ford Lane</line1>
+            <line2>Crewe</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW1 3EQ</postcode>
+            <phone>01270 210324</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Crewe East</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>7385</councillorid>
+          <fullusername>Councillor Suzanne Brookfield</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/8/3/Info00007385/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/8/3/Info00007385/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>suzanne.brookfield@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Spring Gardens</line1>
+            <line2>Crewe</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW1 4AP</postcode>
+            <phone>01270 480128</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>7386</councillorid>
+          <fullusername>Councillor Clair Chapman</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/8/3/Info00007386/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/8/3/Info00007386/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>clair.chapman@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3A Westminster Street</line1>
+            <line2>Crewe</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW2 7LQ</postcode>
+            <phone>01270 215216</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1127</councillorid>
+          <fullusername>Councillor David Newton</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/2/1/Info00001127/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/2/1/Info00001127/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Labour Group</keyposts>
+          <workaddress>
+            <email>david.newton@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>56 Pillory Street</line1>
+            <line2>Nantwich</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW5 5BG</postcode>
+            <phone>01270 619331</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Crewe North</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1128</councillorid>
+          <fullusername>Councillor Mo Grant</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/2/1/Info00001128/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/2/1/Info00001128/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>mo.grant@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Skylark Close</line1>
+            <line2>Crewe</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW1 3WE</postcode>
+            <phone>01270 256062</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Crewe South</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>432</councillorid>
+          <fullusername>Councillor Dorothy Flude</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/3/4/Info00000432/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/3/4/Info00000432/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Tynedale Avenue</line1>
+            <line2>Crewe</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW2 7NY</postcode>
+            <phone>01270 668428</phone>
+            <email>dorothy.flude@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>16/06/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1189</councillorid>
+          <fullusername>Councillor Steven Hogben</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/8/1/Info00001189/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/8/1/Info00001189/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>steven.hogben@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>38 Salisbury Avenue</line1>
+            <line2>Crewe</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW2 6JW</postcode>
+            <phone>01270 255749</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>16/06/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Crewe St Barnabas</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>7387</councillorid>
+          <fullusername>Councillor Damian Bailey</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/8/3/Info00007387/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/8/3/Info00007387/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>damian.bailey@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Spring Gardens</line1>
+            <line2>Crewe</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW1 4AP</postcode>
+            <phone>01270 480128</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Crewe West</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>7388</councillorid>
+          <fullusername>Councillor Jill Rhodes</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/8/3/Info00007388/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/8/3/Info00007388/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>jill.rhodes@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>22 Brooklyn Street</line1>
+            <line2>Crewe</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW2 7JF</postcode>
+            <phone>01270 216340</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>7389</councillorid>
+          <fullusername>Councillor Brian Roberts</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/8/3/Info00007389/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/8/3/Info00007389/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>brian.roberts@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Marshall Cottages</line1>
+            <line2>Lewis Street</line2>
+            <line3>Crewe</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW2 7QS</postcode>
+            <phone>01270 257374</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Dane Valley</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>445</councillorid>
+          <fullusername>Councillor Les Gilbert</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/4/4/Info00000445/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/4/4/Info00000445/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Communities Portfolio Holder</keyposts>
+          <workaddress>
+            <line1>Cath Law PA to the Cabinet</line1>
+            <line2>Westfields, Middlewich Road</line2>
+            <line3>Sandbach</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW11 1HZ</postcode>
+            <phone>01270 686014</phone>
+            <email>cath.law@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>75 Ravenscroft</line1>
+            <line2>Holmes Chapel</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW4 7HJ</postcode>
+            <phone>01477 544307</phone>
+            <email>les.gilbert@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>446</councillorid>
+          <fullusername>Councillor Andrew Kolker</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/4/4/Info00000446/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/4/4/Info00000446/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>andrew.kolker@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>42 Primrose Chase</line1>
+            <line2>Goostrey</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW4 8LJ</postcode>
+            <phone>01477 544513</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Disley</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>407</councillorid>
+          <fullusername>Councillor Harold Davenport</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/0/4/Info00000407/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/0/4/Info00000407/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>harold.davenport@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Countinghouse Road</line1>
+            <line2>Disley</line2>
+            <line3>Stockport</line3>
+            <line4>Cheshire</line4>
+            <postcode>SK12 2DB</postcode>
+            <phone>01663 763986</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Gawsworth</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>471</councillorid>
+          <fullusername>Councillor Lesley Smetham</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/7/4/Info00000471/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/7/4/Info00000471/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Little Trees</line1>
+            <line2>Gawsworth Road</line2>
+            <line3>Gawsworth</line3>
+            <line4>Macclesfield, Cheshire</line4>
+            <postcode>SK11 9RA</postcode>
+            <phone>01625 426173</phone>
+            <email>lesley.smetham@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Handforth</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1131</councillorid>
+          <fullusername>Councillor Barry Burkhill</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/3/1/Info00001131/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/3/1/Info00001131/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Handforth Ratepayers</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>barry.burkhill@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>19 Brereton Road</line1>
+            <line2>Handforth</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK9 3AN</postcode>
+            <phone>01625 524646</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1132</councillorid>
+          <fullusername>Councillor Dennis Mahon</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/3/1/Info00001132/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/3/1/Info00001132/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Handforth Ratepayers</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>dennis.mahon@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>12 Willow Drive</line1>
+            <line2>Handforth</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK9 3DR</postcode>
+            <phone>01625 526509</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Haslington</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>438</councillorid>
+          <fullusername>Councillor John Hammond</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/3/4/Info00000438/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/3/4/Info00000438/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>john.hammond@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Cross Lane</line1>
+            <line2>Winterley</line2>
+            <line3>Sandbach</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW11 4RW</postcode>
+            <phone>01270 753205</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1133</councillorid>
+          <fullusername>Councillor David Marren</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/3/3/1/Info00001133/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/3/3/1/Info00001133/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>david.marren@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>76 Crewe Road</line1>
+            <line2>Shavington</line2>
+            <line3>Crewe</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW2 5DW</postcode>
+            <phone>01270 569284</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>High Legh</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>440</councillorid>
+          <fullusername>Councillor Olivia Hunter</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/4/4/Info00000440/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/4/4/Info00000440/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Parish</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Mayor of Cheshire East Council</keyposts>
+          <workaddress>
+            <line1>Nicola Carberry, Mayors PA</line1>
+            <line2>Westfields</line2>
+            <line3>c/o Municipal Buildings, Earle Street</line3>
+            <line4>Crewe</line4>
+            <postcode>CW1 2BJ</postcode>
+            <phone>01270 686475</phone>
+            <email>nicola.carberry@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>11 Manor Park South</line1>
+            <line2>Knutsford</line2>
+            <line3>Cheshire</line3>
+            <postcode>WA16 8AD</postcode>
+            <phone>01565 632717</phone>
+            <mobile>07803 296803</mobile>
+            <email>olivia.hunter@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Knutsford</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>7390</councillorid>
+          <fullusername>Councillor Tony Dean</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/9/3/Info00007390/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/9/3/Info00007390/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Regeneration and Assets Deputy Portfolio Holder</keyposts>
+          <workaddress>
+            <email>tony.dean@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>8 Trevone Close</line1>
+            <line2>Knutsford</line2>
+            <line3>Cheshire</line3>
+            <postcode>WA16 9EJ</postcode>
+            <phone>01565 650527</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1134</councillorid>
+          <fullusername>Councillor Stewart Gardiner</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/4/3/1/Info00001134/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/4/3/1/Info00001134/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Adults, Health and Leisure Deputy Portfolio Holder</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>23 Queen Street</line1>
+            <line2>Knutsford</line2>
+            <line3>Cheshire</line3>
+            <postcode>WA16 6HZ</postcode>
+            <phone>01565 641906</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>7391</councillorid>
+          <fullusername>Councillor Hayley Wells-Bradshaw</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/9/3/Info00007391/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/9/3/Info00007391/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>hayley.wells-bradshaw@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Crow Trees Cottage</line1>
+            <line2>35 Chelford Road</line2>
+            <line3>Knutsford</line3>
+            <line4>Cheshire</line4>
+            <postcode>WA16 8NN</postcode>
+            <phone>07841 417832</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Leighton</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>429</councillorid>
+          <fullusername>Councillor Derek Bebbington</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/2/4/Info00000429/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/2/4/Info00000429/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>derek.bebbington@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>8a Weaver View</line1>
+            <line2>Church Minshull</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW5 6EB</postcode>
+            <phone>01270 522902</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Macclesfield Central</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>7392</councillorid>
+          <fullusername>Councillor Beverley Dooley</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/9/3/Info00007392/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/9/3/Info00007392/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>beverley.dooley@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>331 Park Lane</line1>
+            <line2>Macclesfield</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK11 8AE</postcode>
+            <phone>01625 615345</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1020</councillorid>
+          <fullusername>Councillor Janet Jackson</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/2/0/Info00001020/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/2/0/Info00001020/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>janet.jackson@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Clowes Street</line1>
+            <line2>Macclesfield</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK11 8HX</postcode>
+            <phone>01625 613688</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Macclesfield East</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>7393</councillorid>
+          <fullusername>Councillor Mick Warren</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/3/9/3/Info00007393/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/3/9/3/Info00007393/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>mick.warren@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>23 Union Road</line1>
+            <line2>Macclesfield</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK11 8BN</postcode>
+            <phone>07890 326269</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Macclesfield Hurdsfield</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>3927</councillorid>
+          <fullusername>Councillor Stephen Carter</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/2/9/Info00003927/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/2/9/Info00003927/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>stephen.carter@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>39 Middlewood Road</line1>
+            <line2>Higher Poynton</line2>
+            <line3>Cheshire</line3>
+            <line4>SK12 1TX</line4>
+            <phone>01625 872928</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>25/04/2013</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Macclesfield South</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>7394</councillorid>
+          <fullusername>Councillor Chris Andrew</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/4/9/3/Info00007394/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/4/9/3/Info00007394/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>chris.andrew@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>2 Jasmine Avenue</line1>
+            <line2>Macclesfield</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK10 3GH</postcode>
+            <phone>07890 325792</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1139</councillorid>
+          <fullusername>Councillor Laura Jeuda</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/3/1/Info00001139/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/3/1/Info00001139/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>laura.jeuda@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>47 Sandringham Road</line1>
+            <line2>Macclesfield</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK10 1QB</postcode>
+            <phone>01625 426740</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Macclesfield Tytherington</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>410</councillorid>
+          <fullusername>Councillor Ainsley Arnold</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/1/4/Info00000410/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/1/4/Info00000410/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Housing and Planning Portfolio Holder</keyposts>
+          <workaddress>
+            <line1>Cath Law PA to the Cabinet</line1>
+            <line2>Westfields</line2>
+            <line3>Middlewich Road</line3>
+            <line4>Sandbach, Cheshire</line4>
+            <postcode>CW11 1HZ</postcode>
+            <phone>01270 686014</phone>
+            <email>cath.law@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Cumberland Street</line1>
+            <line2>Macclesfield</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK10 1DD</postcode>
+            <phone>01625 426484</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>7396</councillorid>
+          <fullusername>Councillor Sam Gardner</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/9/3/Info00007396/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/9/3/Info00007396/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Open Spaces Portfolio Holder</keyposts>
+          <workaddress>
+            <line1>Cath Law PA to the Cabinet</line1>
+            <line2>Westfields</line2>
+            <line3>Middlewich Road</line3>
+            <line4>Sandbach</line4>
+            <postcode>CW11 1HZ</postcode>
+            <phone>01270 686014</phone>
+            <email>cath.law@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Holford Farm</line1>
+            <line2>Wallhill Lane</line2>
+            <line3>Brownlow</line3>
+            <line4>Congleton</line4>
+            <postcode>CW12 4TD</postcode>
+            <phone>07899 920992</phone>
+            <email>sam.gardner@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Macclesfield West and Ivy</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1142</councillorid>
+          <fullusername>Councillor Alift Harewood</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/4/1/Info00001142/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/4/1/Info00001142/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>alift.harewood@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>41 Wilton Crescent</line1>
+            <line2>Macclesfield</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK11 8TH</postcode>
+            <phone>01625 613776</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>7397</councillorid>
+          <fullusername>Councillor Nick Mannion</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/9/3/Info00007397/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/9/3/Info00007397/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>nick.mannion@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>54 Amberley Road</line1>
+            <line2>Macclesfield</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK11 8LX</postcode>
+            <phone>01625 430476</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Middlewich</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>450</councillorid>
+          <fullusername>Councillor Simon McGrory</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/5/4/Info00000450/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/5/4/Info00000450/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Middlewich First</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>simon.mcgrory@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>39 Whitepark Close</line1>
+            <line2>Middlewich</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW10 9GB</postcode>
+            <phone>07825 870673</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>451</councillorid>
+          <fullusername>Councillor Michael Parsons</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/5/4/Info00000451/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/5/4/Info00000451/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Middlewich First</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>michael.parsons@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Waterside Way</line1>
+            <line2>Middlewich</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW10 9HP</postcode>
+            <phone>01606 834942</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>7398</councillorid>
+          <fullusername>Councillor Bernice Walmsley</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/9/3/Info00007398/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/9/3/Info00007398/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Middlewich First</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>bernice.walmsley@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Paddock View</line1>
+            <line2>Middlewich</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW10 9DB</postcode>
+            <phone>01606 837303</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Mobberley</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>414</councillorid>
+          <fullusername>Councillor Jamie Macrae</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/4/1/4/Info00000414/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/4/1/4/Info00000414/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Tollgate Cottage</line1>
+            <line2>10 Greenwood Terrace</line2>
+            <line3>Town Lane, Mobberley</line3>
+            <line4>Knutsford, Cheshire</line4>
+            <postcode>WA16 7HL</postcode>
+            <phone>07872 807367</phone>
+            <email>jamie.macrae@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Nantwich North and West</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1143</councillorid>
+          <fullusername>Councillor Penny Butterill</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/3/4/1/Info00001143/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/3/4/1/Info00001143/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Nantwich First</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>penny.butterill@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>21 Birchin Lane</line1>
+            <line2>Nantwich</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW5 6JU</postcode>
+            <phone>01270 625575</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>453</councillorid>
+          <fullusername>Councillor Arthur Moran</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/3/5/4/Info00000453/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/3/5/4/Info00000453/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Nantwich First</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Independent Group</keyposts>
+          <workaddress>
+            <email>arthur.moran@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>16 Gerard Drive</line1>
+            <line2>Nantwich</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW5 5JR</postcode>
+            <phone>01270 624071</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Nantwich South and Stapeley</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1144</councillorid>
+          <fullusername>Councillor Peter Groves</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/4/4/1/Info00001144/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/4/4/1/Info00001144/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Finance and Assets Portfolio Holder</keyposts>
+          <workaddress>
+            <line1>Cath Law PA to the Cabinet</line1>
+            <line2>Westfields</line2>
+            <line3>Middlewich Road</line3>
+            <line4>Sandbach, Cheshire</line4>
+            <postcode>CW11 1HZ</postcode>
+            <phone>01270 686014</phone>
+            <email>cath.law@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Yew Tree Close</line1>
+            <line2>Bulkeley</line2>
+            <line3>Near Malpas</line3>
+            <line4>Cheshire</line4>
+            <postcode>SY14 8DA</postcode>
+            <phone>01829 720439</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>475</councillorid>
+          <fullusername>Councillor Andrew Martin</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/7/4/Info00000475/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/7/4/Info00000475/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>Oak Lodge</line1>
+            <line2>48-50 London Road</line2>
+            <line3>Stapeley</line3>
+            <line4>Nantwich, Cheshire</line4>
+            <postcode>CW5 7JL</postcode>
+            <mobile>07875 555096</mobile>
+            <email>andrew.martin@cheshireeast.gov.</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Odd Rode</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>479</councillorid>
+          <fullusername>Councillor Rhoda Bailey</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/7/4/Info00000479/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/7/4/Info00000479/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>rhoda.bailey@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Moors Farm</line1>
+            <line2>Church Lane</line2>
+            <line3>Scholar Green</line3>
+            <line4>Stoke on Trent, Staffordshire</line4>
+            <postcode>ST7 3QR</postcode>
+            <phone>01270 872436</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>7399</councillorid>
+          <fullusername>Councillor Liz Wardlaw</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/9/3/Info00007399/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/9/9/3/Info00007399/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>liz.wardlaw@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Peel Drive</line1>
+            <line2>Astbury</line2>
+            <line3>Congleton</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW12 4RF</postcode>
+            <phone>01260 272752</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Poynton East and Pott Shrigley</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>455</councillorid>
+          <fullusername>Councillor Howard Murray</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/5/4/Info00000455/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/5/4/Info00000455/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>howard.murray@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>86 Parklands Way</line1>
+            <line2>Poynton</line2>
+            <line3>Stockport</line3>
+            <line4>Cheshire</line4>
+            <postcode>SK12 1AT</postcode>
+            <phone>01625 878367</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1150</councillorid>
+          <fullusername>Councillor Jos Saunders</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/5/1/Info00001150/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/5/1/Info00001150/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>jos.saunders@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Hawthorne Grove</line1>
+            <line2>Higher Poynton</line2>
+            <line3>Stockport</line3>
+            <line4>Cheshire</line4>
+            <postcode>SK12 1TR</postcode>
+            <phone>01625 875222</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Poynton West and Adlington</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>7400</councillorid>
+          <fullusername>Councillor Michael Beanland</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/0/4/Info00007400/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/0/4/Info00007400/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>michael.beanland@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Grebe Close</line1>
+            <line2>Poynton</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK12 1HU</postcode>
+            <phone>01625 876606</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>7401</councillorid>
+          <fullusername>Councillor Mike Sewart</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/0/4/Info00007401/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/0/4/Info00007401/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>mike.sewart@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>67 Oak Grove</line1>
+            <line2>Poynton</line2>
+            <line3>Stockport</line3>
+            <line4>Cheshire</line4>
+            <postcode>SK12 1AD</postcode>
+            <phone>01625 263171</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Prestbury</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>476</councillorid>
+          <fullusername>Councillor Paul Findlow</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/7/4/Info00000476/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/7/4/Info00000476/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Performance Portfolio Holder</keyposts>
+          <workaddress>
+            <line1>Cath Law PA to the Cabinet</line1>
+            <line2>Westfields</line2>
+            <line3>Middlewich Road</line3>
+            <line4>Sandbach, Cheshire</line4>
+            <postcode>CW11 1HZ</postcode>
+            <phone>01270 686014</phone>
+            <email>cath.law@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Kandersteg</line1>
+            <line2>Broad Walk</line2>
+            <line3>Prestbury</line3>
+            <line4>Macclesfield, Cheshire</line4>
+            <postcode>SK10 4BR</postcode>
+            <phone>01625 828004</phone>
+            <email>paul.findlow@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sandbach Elworth</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>461</councillorid>
+          <fullusername>Councillor Gill Merry</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/6/4/Info00000461/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/1/6/4/Info00000461/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>gillian.merry@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>217 Middlewich Road</line1>
+            <line2>Sandbach</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW11 3EL</postcode>
+            <phone>01270 764580</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sandbach Ettiley Heath and Wheelock</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1146</councillorid>
+          <fullusername>Councillor Gail Wait</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/4/1/Info00001146/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/4/1/Info00001146/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>gail.wait@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>29 Masefield Way</line1>
+            <line2>Ettiley Heath</line2>
+            <line3>Sandbach</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW11 3ZJ</postcode>
+            <phone>01270 768318</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sandbach Heath and East</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1147</councillorid>
+          <fullusername>Councillor Sam Corcoran</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/4/1/Info00001147/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/4/1/Info00001147/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>sam.corcoran@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Radbroke Close</line1>
+            <line2>Sandbach</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW11 1YT</postcode>
+            <phone>01270 753038</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sandbach Town</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>462</councillorid>
+          <fullusername>Councillor Barry Moran</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/6/4/Info00000462/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/6/4/Info00000462/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>barry.moran@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>143 Middlewich Road</line1>
+            <line2>Sandbach</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW11 1JD</postcode>
+            <phone>01270 768816</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Shavington</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>7402</councillorid>
+          <fullusername>Councillor Steven Edgar</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/0/4/Info00007402/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/0/4/Info00007402/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>steven.edgar@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>9 Fairview Avenue</line1>
+            <line2>Weston</line2>
+            <line3>Crewe</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW2 5LX</postcode>
+            <phone>07974 467969</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Sutton</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>442</councillorid>
+          <fullusername>Councillor Hilda Gaddum</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/4/4/Info00000442/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/2/4/4/Info00000442/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Mayor of Cheshire East Council</keyposts>
+          <workaddress>
+            <line1>Nicola Carberry, Mayors PA</line1>
+            <line2>Westfields</line2>
+            <line3>c/o Municipal Buildings, Earle Street</line3>
+            <line4>Crewe</line4>
+            <postcode>CW1 2BJ</postcode>
+            <phone>01270 686475</phone>
+            <email>nicola.carberry@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Lane Ends House</line1>
+            <line2>Hollin Lane, Sutton</line2>
+            <line3>Macclesfield</line3>
+            <line4>Cheshire</line4>
+            <postcode>SK11 0DY</postcode>
+            <phone>01260 252456</phone>
+            <email>hilda.gaddum@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Willaston and Rope</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>7403</councillorid>
+          <fullusername>Councillor Sarah Pochin</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/3/0/4/Info00007403/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/3/0/4/Info00007403/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>sarah.pochin@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>Ikey House</line1>
+            <line2>Ikey Lane</line2>
+            <line3>Burland</line3>
+            <line4>Nantwich, Cheshire</line4>
+            <postcode>CW5 8NY</postcode>
+            <phone>07827 568528</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wilmslow Dean Row</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>7404</councillorid>
+          <fullusername>Councillor Toni Fox</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/4/0/4/Info00007404/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/4/0/4/Info00007404/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Residents of Wilmslow</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>toni.fox@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>28 Woodlands Road</line1>
+            <line2>Handforth</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK9 3AU</postcode>
+            <phone>01625 251016</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wilmslow East</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>468</councillorid>
+          <fullusername>Councillor Rod Menlove</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/6/4/Info00000468/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/6/4/Info00000468/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>20 Thorngrove Drive</line1>
+            <line2>Wilmslow</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK9 1DQ</postcode>
+            <phone>07825 431776</phone>
+            <email>rod.menlove@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wilmslow Lacey Green</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>480</councillorid>
+          <fullusername>Councillor Don Stockton</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/8/4/Info00000480/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/0/8/4/Info00000480/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Regeneration and Assets Portfolio Holder</keyposts>
+          <workaddress>
+            <line1>Cath Law PA To the Cabinet</line1>
+            <line2>Westfields,</line2>
+            <line3>Middlewich Road</line3>
+            <line4>Sandbach</line4>
+            <postcode>CW11 1HZ</postcode>
+            <phone>01270 686014</phone>
+            <email>cath.law@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>10 Cottage Lawns</line1>
+            <line2>Heyes Lane</line2>
+            <line3>Alderley Edge</line3>
+            <line4>Wilmslow, Cheshire</line4>
+            <postcode>SK9 7NF</postcode>
+            <phone>01625 581882</phone>
+            <email>don.stockton@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wilmslow West and Chorley</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>467</councillorid>
+          <fullusername>Councillor Gary Barton</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/6/4/Info00000467/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/7/6/4/Info00000467/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>gary.barton@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>4 Winchester Close</line1>
+            <line2>Wilmslow</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK9 6BZ</postcode>
+            <phone>01625 524455</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>7405</councillorid>
+          <fullusername>Councillor Ellie Brooks</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/0/4/Info00007405/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/0/4/Info00007405/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>ellie.brooks@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>44 Adlington Road</line1>
+            <line2>Wilmslow</line2>
+            <line3>Cheshire</line3>
+            <postcode>SK9 2BJ</postcode>
+            <phone>01625 524165</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wistaston</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>405</councillorid>
+          <fullusername>Councillor Margaret Simon</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/0/4/Info00000405/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/5/0/4/Info00000405/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>margaret.simon@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>7 Glaisdale Close</line1>
+            <line2>Wistaston</line2>
+            <line3>Crewe</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW2 6SF</postcode>
+            <phone>01270 651582</phone>
+            <email>margaret.simon@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>436</councillorid>
+          <fullusername>Councillor Jacqueline Weatherill</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/3/4/Info00000436/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/6/3/4/Info00000436/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>jacquie.weatherill@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>45 Dane Bank Avenue</line1>
+            <line2>Crewe</line2>
+            <line3>Cheshire</line3>
+            <postcode>CW2 8AE</postcode>
+            <phone>01270 569551</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2008</startdate>
+              <enddate>09/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wrenbury</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>838</councillorid>
+          <fullusername>Councillor Stan Davies</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/3/8/Info00000838/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/3/8/Info00000838/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>C/o Karen Bedford Members Secretary</line1>
+            <line2>Westfields</line2>
+            <line3>Middlewich Road, Sandbach</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW11 1HZ</postcode>
+            <phone>01270 686474</phone>
+            <email>stanley.davies@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wybunbury</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1148</councillorid>
+          <fullusername>Councillor Janet Clowes</fullusername>
+          <photosmallurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/4/1/Info00001148/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.cheshireeast.gov.uk/ecminutes/UserData/8/4/1/Info00001148/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Adults, Health and Leisure Portfolio Holder</keyposts>
+          <workaddress>
+            <line1>Cath Law PA to the Cabinet</line1>
+            <line2>Westfields, Middlewich Road</line2>
+            <line3>Sandbach</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW11 1HZ</postcode>
+            <phone>01270 686014</phone>
+            <email>cath.law@cheshireeast.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>The Old Vicarage</line1>
+            <line2>Doddington</line2>
+            <line3>Nantwich</line3>
+            <line4>Cheshire</line4>
+            <postcode>CW5 7PS</postcode>
+            <phone>01270 520327</phone>
+            <email>janet.clowes@cheshireeast.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>09/05/2011</startdate>
+              <enddate>11/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>11/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

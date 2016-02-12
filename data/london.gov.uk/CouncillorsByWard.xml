@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Bexley and Bromley</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>119</councillorid>
+          <fullusername>James Cleverly MP</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Brent and Harrow</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>133</councillorid>
+          <fullusername>Navin Shah</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>City and East</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>116</councillorid>
+          <fullusername>Mayor John Biggs</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Croydon and Sutton</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>130</councillorid>
+          <fullusername>Steve O'Connell</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Enfield and Haringey</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>129</councillorid>
+          <fullusername>Joanne McCartney</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Greenwich and Lewisham</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>122</councillorid>
+          <fullusername>Len Duvall</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Havering and Redbridge</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>123</councillorid>
+          <fullusername>Roger Evans</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Lambeth and Southwark</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>134</councillorid>
+          <fullusername>Valerie Shawcross CBE</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Londonwide</wardtitle>
+      <councillors>
+        <councillorcount> 7</councillorcount>
+        <councillor>
+          <councillorid>113</councillorid>
+          <fullusername>Gareth Bacon</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>117</councillorid>
+          <fullusername>Andrew Boff</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>124</councillorid>
+          <fullusername>Nicky Gavron</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>126</councillorid>
+          <fullusername>Darren Johnson</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Green</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>127</councillorid>
+          <fullusername>Jenny Jones</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Green</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>131</councillorid>
+          <fullusername>Caroline Pidgeon MBE</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>132</councillorid>
+          <fullusername>Murad Qureshi</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Merton and Wandsworth</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>125</councillorid>
+          <fullusername>Richard Tracey</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>North East</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>112</councillorid>
+          <fullusername>Jennette Arnold OBE</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>South West</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>111</councillorid>
+          <fullusername>Tony Arbour</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>West Central</wardtitle>
+      <councillors>
+        <councillorcount> 8</councillorcount>
+        <councillor>
+          <councillorid>128</councillorid>
+          <fullusername>Kit Malthouse MP</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1722</councillorid>
+          <fullusername>Kemi Badenoch</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>
+          </politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1032</councillorid>
+          <fullusername>Tom Copley</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>
+          </politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1028</councillorid>
+          <fullusername>Andrew Dismore</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>
+          </politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>361</councillorid>
+          <fullusername>Boris Johnson</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>
+          </politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Greater London Authority</representing>
+          <keyposts>Mayor of London</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1031</councillorid>
+          <fullusername>Stephen Knight</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>
+          </politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1029</councillorid>
+          <fullusername>Dr Onkar Sahota</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>
+          </politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1030</councillorid>
+          <fullusername>Fiona Twycross</fullusername>
+          <photosmallurl>http://www.london.gov.uk/moderngov/mgimages/missingsmallmug.gif</photosmallurl>
+          <photobigurl>http://www.london.gov.uk/moderngov/mgimages/missingbigmug.gif</photobigurl>
+          <politicalpartytitle>
+          </politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

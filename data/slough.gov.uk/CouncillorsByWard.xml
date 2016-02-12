@@ -1,0 +1,1741 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Baylis and Stoke</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1207</councillorid>
+          <fullusername>Councillor Antreev K. Dhillon</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/7/0/2/Info00001207/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/7/0/2/Info00001207/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07853 352 385</mobile>
+            <email>antreev.dhillon@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Sunday of each month (12.30 - 13.30)</line1>
+            <line2>Manor Park Community Centre, Villiers Road, Slough SL2 1NP</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2012</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>08/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>421</councillorid>
+          <fullusername>Councillor Fiza A Matloob</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/1/2/4/Info00000421/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/1/2/4/Info00000421/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berks</line4>
+            <postcode>SL1  3UF</postcode>
+            <mobile>07984 209 529</mobile>
+            <email>fiza.matloob@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Sunday of the month (12.30 - 13.30)</line1>
+            <line2>Manor Park Community Centre, Villiers Road, Slough SL2 1NP</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>06/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1203</councillorid>
+          <fullusername>Councillor Mohammed Nazir</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/3/0/2/Info00001203/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/3/0/2/Info00001203/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07958 794 007</mobile>
+            <email>mohammed.nazir@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Sunday of each month (12.30 - 13.30)</line1>
+            <line2>Manor Park Community Centre, Villiers Road, Slough SL2 1NP</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/03/2012</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Britwell and Northborough</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>204</councillorid>
+          <fullusername>Councillor Robert Anderson</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/4/0/2/Info00000204/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/4/0/2/Info00000204/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Slough Borough Council</representing>
+          <keyposts>Leader of the Council and Commissioner of Finance and Strategy</keyposts>
+          <workaddress>
+            <email>rob.anderson@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Dovehouse Crescent</line1>
+            <line2>Britwell</line2>
+            <line3>Slough</line3>
+            <postcode>SL2 2PZ</postcode>
+            <phone>01753 531649</phone>
+            <email>rob.anderson@slough.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Saturday of every month (10.00 - 12.00 noon)</line1>
+            <line2>Britwell Centre, Wentworth Avenue, Britwell, Slough, SL2 2DS</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>06/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2012</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>06/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1111</councillorid>
+          <fullusername>Councillor Martin F. Carter</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/1/1/1/Info00001111/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/1/1/1/Info00001111/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Commissioner for Community and Leisure</keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07856 723 037</mobile>
+            <email>martin.carter@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Saturday of every month (10.00 - 12.00 noon)</line1>
+            <line2>Britwell Centre, Wentworth Avenue, Britwell, Slough, SL2 2DS</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>08/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1021</councillorid>
+          <fullusername>Councillor Pavitar K. Mann</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/1/2/0/Info00001021/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/1/2/0/Info00001021/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Commissioner for Education and Children</keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <email>Pavitar.Mann@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>07832 345 887</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Saturday of every month (10.00 - 12.00 noon)</line1>
+            <line2>Britwell Centre, Wentworth Avenue, Britwell, Slough, SL2 2DS</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Central</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1433</councillorid>
+          <fullusername>Councillor Zaffar Ajaib</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/3/3/4/Info00001433/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/3/3/4/Info00001433/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07887 921 992</mobile>
+            <email>zaffar.ajaib@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Sunday of the month (14.00 - 16.00)</line1>
+            <line2>Upton Lea Community Centre, Wexham Road, Slough, SL2 5JW</line2>
+            <line3>No surgery in August / January</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>06/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>126</councillorid>
+          <fullusername>Councillor Shafiq A Chaudhry</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/6/2/1/Info00000126/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/6/2/1/Info00000126/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>shafiq.chaudhry@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>58 Goodman Park</line1>
+            <line2>Slough</line2>
+            <line3>Berkshire</line3>
+            <postcode>SL2 5NN</postcode>
+            <phone>01753 529881</phone>
+            <mobile>07855 955 250</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Sunday of the month (14.00 - 16.00)</line1>
+            <line2>Upton Lea Community Centre, Wexham Road, Slough, SL2 5JW</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>05/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2015</startdate>
+              <enddate>08/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1208</councillorid>
+          <fullusername>Councillor Sabia Hussain</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/8/0/2/Info00001208/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/8/0/2/Info00001208/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>Slough Borough Council</representing>
+          <keyposts>Commissioner for Health and Wellbeing</keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07967 822 124</mobile>
+            <email>sabia.hussain@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Sunday of the month (14.00 - 16.00)</line1>
+            <line2>Upton Lea Community Centre, Wexham Road, Slough, SL2 5JW</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2012</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Chalvey</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1116</councillorid>
+          <fullusername>Councillor Mohammed Sharif</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/6/1/1/Info00001116/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/6/1/1/Info00001116/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Commissioner for Performance and Accountability</keyposts>
+          <workaddress>
+            <email>mohammed.sharif@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Tintern Close</line1>
+            <line2>Slough</line2>
+            <line3>SL1 2TA</line3>
+            <mobile>07984 260 582</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Saturday of the month (11.00 - 13.00)</line1>
+            <line2>Chalvey Community Centre, The Green, Chalvey, Slough, SL1 2SP.</line2>
+            <line3>No surgery in August / January</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>06/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1442</councillorid>
+          <fullusername>Councillor Khaula Usmani</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/2/4/4/Info00001442/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/2/4/4/Info00001442/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07470 157 873</mobile>
+            <email>khaula.usmani@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Saturday of the month (11.00 - 13.00)</line1>
+            <line2>Chalvey Community Centre, The Green, Chalvey, Slough, SL1 2SP.</line2>
+            <line3>No surgery in August / January</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>120</councillorid>
+          <fullusername>Councillor Raja M Zarait</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/0/2/1/Info00000120/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/0/2/1/Info00000120/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07867 803 842</mobile>
+            <email>raja.zarait@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Saturday of the month (11.00 - 13.00)</line1>
+            <line2>Chalvey Community Centre, The Green, Chalvey, Slough, SL1 2SP.</line2>
+            <line3>No surgery in August / January</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>08/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cippenham Green</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>616</councillorid>
+          <fullusername>Councillor Roger Davis</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/6/1/6/Info00000616/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/6/1/6/Info00000616/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>roger.davis@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>12 Moreton Way</line1>
+            <line2>Cippenham</line2>
+            <line3>Slougn</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 5LT</postcode>
+            <phone>01628 542549</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Saturday of every month (11.00 - 12.00 noon) Cippenham Library, Elmshott Lane, Cippenham, Slough, SL1 5RB.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>03/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>06/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1437</councillorid>
+          <fullusername>Councillor Nora Holledge</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/7/3/4/Info00001437/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/7/3/4/Info00001437/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>11 Moreton Way</line1>
+            <line2>Cippenham</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 5LS</postcode>
+            <phone>01628 541 590</phone>
+            <mobile>07795 975 730</mobile>
+            <email>nora.holledge@slough.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Saturday of every month (11.00 - 12.00 noon) Cippenham Library, Elmshott Lane, Cippenham, Slough, SL1 5RB.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>08/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>192</councillorid>
+          <fullusername>Councillor James C Swindlehurst</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/2/9/1/Info00000192/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/2/9/1/Info00000192/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Commissioner for Neighbourhoods and Renewal (Deputy Leader)</keyposts>
+          <workaddress>
+            <email>james.swindlehurst@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>47 Cippenham Lane</line1>
+            <line2>Cippenham</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 5BZ</postcode>
+            <phone>01753 532441</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Saturday of every month (11.00 - 12.00 noon) Cippenham Library, Elmshott Lane, Cippenham, Slough, SL1 5RB.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>04/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Cippenham Meadows</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>159</councillorid>
+          <fullusername>Councillor Nimrit Chohan</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/9/5/1/Info00000159/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/9/5/1/Info00000159/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07779 240 806</mobile>
+            <email>nimrit.chohan@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Friday of each month</line1>
+            <line2>(18.30 to 19.30) Cippenham Community Centre, Earls Lane, Slough SL1 5DJ</line2>
+            <line3>No surgery in August or December</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>06/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>613</councillorid>
+          <fullusername>Councillor Natasa Pantelic</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/3/1/6/Info00000613/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/3/1/6/Info00000613/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07745 398 001</mobile>
+            <email>natasa.pantelic@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Friday of each month</line1>
+            <line2>(18.30 to 19.30) Cippenham Community Centre, Earls Lane, Slough SL1 5DJ</line2>
+            <line3>No surgery in August or December</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>06/05/2012</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2012</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>164</councillorid>
+          <fullusername>Councillor Satpal S Parmar</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/4/6/1/Info00000164/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/4/6/1/Info00000164/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Commissioner for Environment and Open Spaces</keyposts>
+          <workaddress>
+            <email>satpal.parmar@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>51 Mildenhall Road</line1>
+            <line2>Slough</line2>
+            <line3>Berkshire</line3>
+            <postcode>SL1 3JH</postcode>
+            <phone>01753 535278</phone>
+            <mobile>07703 912 019</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Friday of each month</line1>
+            <line2>(18.30 to 19.30) Cippenham Community Centre, Earls Lane, Slough SL1 5DJ</line2>
+            <line3>No surgery in August or December</line3>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/1995</startdate>
+              <enddate>01/05/1997</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>07/06/2001</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>08/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Colnbrook with Poyle</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1436</councillorid>
+          <fullusername>Councillor Avtar K. Cheema</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/6/3/4/Info00001436/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/6/3/4/Info00001436/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL3 8LU</postcode>
+            <mobile>07533 060 322</mobile>
+            <email>avtar.cheema@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>06/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1117</councillorid>
+          <fullusername>Councillor Dexter J. Smith</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/7/1/1/Info00001117/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/7/1/1/Info00001117/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Conservative Group Deputy Leader</keyposts>
+          <workaddress>
+            <email>dexter.smith@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>3 Daventry Close</line1>
+            <line2>Colnbrook</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL3 0PW</postcode>
+            <phone>01753 683542</phone>
+            <mobile>07785 723 764</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Surgeries are arranged on demand – no fixed venue.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2000</startdate>
+              <enddate>10/06/2004</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>01/05/2008</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Elliman</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>614</councillorid>
+          <fullusername>Councillor Arvind Dhaliwal</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/4/1/6/Info00000614/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/4/1/6/Info00000614/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Mayor</keyposts>
+          <workaddress>
+            <email>arvind.dhaliwal@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>34 Shaggy Calf Lane</line1>
+            <line2>Slough</line2>
+            <line3>Berkshire</line3>
+            <postcode>SL2 5HH</postcode>
+            <phone>07920 485 142</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Sunday of the month (14.00 - 16.00)</line1>
+            <line2>Upton Lea Community Centre, Wexham Road, Slough, SL2 5JW</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2000</startdate>
+              <enddate>01/05/2003</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>01/05/2008</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>06/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1438</councillorid>
+          <fullusername>Councillor Fatima Mansoor</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/8/3/4/Info00001438/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/8/3/4/Info00001438/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07429 553 267</mobile>
+            <email>fatima.mansoor@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Sunday of the month (14.00 - 16.00)</line1>
+            <line2>Upton Lea Community Centre, Wexham Road, Slough, SL2 5JW</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>08/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1114</councillorid>
+          <fullusername>Councillor Sohail Munawar</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/4/1/1/Info00001114/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/4/1/1/Info00001114/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Commissioner for Social and Economic Inclusion</keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07789 941 543</mobile>
+            <email>sohail.munawar@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07809 605 905</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Sunday of the month (14.00 - 16.00)</line1>
+            <line2>Upton Lea Community Centre, Wexham Road, Slough, SL2 5JW</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Farnham</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>206</councillorid>
+          <fullusername>Councillor Joginder S Bal</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/6/0/2/Info00000206/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/6/0/2/Info00000206/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1  3UF</postcode>
+            <mobile>07877 475 124</mobile>
+            <email>joginder.bal@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2012</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>06/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>130</councillorid>
+          <fullusername>Councillor Mohammed Rasib</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/0/3/1/Info00000130/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/0/3/1/Info00000130/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Mayor</keyposts>
+          <workaddress>
+            <email>mohammed.rasib@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>244 Eltham Avenue</line1>
+            <line2>Cippenham</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 5AF</postcode>
+            <mobile>07877 551 239</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Saturday of every month (11.00 - 13.00) Chalvey Community Centre, The Green, Chalvey, Slough, SL1 2SP.</line1>
+            <line2>No surgery in August / January</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>08/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1210</councillorid>
+          <fullusername>Councillor Ishrat Shah</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/0/1/2/Info00001210/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/0/1/2/Info00001210/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07577 470 972</mobile>
+            <email>ishrat.shah@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2012</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Foxborough</wardtitle>
+      <councillors>
+        <councillorcount> 1</councillorcount>
+        <councillor>
+          <councillorid>1115</councillorid>
+          <fullusername>Councillor Ted Plenty</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/5/1/1/Info00001115/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/5/1/1/Info00001115/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <mobile>07534 682 295</mobile>
+            <email>ted.plenty@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>15 Blenheim Road</line1>
+            <line2>Slough</line2>
+            <line3>Berkshire</line3>
+            <postcode>SL3 7NL</postcode>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Saturday of the month 10.00 to 11.00 (except August and December) Mencap Centre, Horsemoor Green Community Centre, Spitfire Close, SL3 8JU.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>08/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Haymill and Lynch Hill</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1612</councillorid>
+          <fullusername>Councillor Darren Morris</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/2/1/6/Info00001612/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/2/1/6/Info00001612/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07722 996 746</mobile>
+            <email>darren.morris@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1118</councillorid>
+          <fullusername>Councillor Wayne Strutton</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/8/1/1/Info00001118/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/8/1/1/Info00001118/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>wayne.strutton@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>168 Derwent Drive</line1>
+            <line2>Priory</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 6HP</postcode>
+            <mobile>07580 361 884</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Friday of each month (6.30pm - 7.30pm) Primrose Hall, Goldsworthy Way, Haymill and Lynch Hill, Slough, SL1 6AX</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>08/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1020</councillorid>
+          <fullusername>Councillor Anna Wright</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/0/2/0/Info00001020/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/0/2/0/Info00001020/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>anna.wright@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>108 Bowyer Drive</line1>
+            <line2>Cippenham</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 5EQ</postcode>
+            <phone>01628 664 929</phone>
+            <mobile>07706 445 629</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>First Friday of each month (6.30pm - 7.30pm) Primrose Hall, Goldsworthy Way, Haymill and Lynch Hill, Slough, SL1 6AX</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>06/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Langley Kedermister</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1211</councillorid>
+          <fullusername>Councillor Preston Brooker</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/1/1/2/Info00001211/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/1/1/2/Info00001211/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>43 Chatfield</line1>
+            <line2>Slough</line2>
+            <line3>Berkshire</line3>
+            <postcode>SL2 1SH</postcode>
+            <mobile>07791 913 555</mobile>
+            <email>preston.brooker@slough.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2012</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>06/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>121</councillorid>
+          <fullusername>Councillor Michael Holledge</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/1/2/1/Info00000121/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/1/2/1/Info00000121/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>11 Moreton Way</line1>
+            <line2>Cippenham</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 5LS</postcode>
+            <phone>01628 541 590</phone>
+            <mobile>07795 975 740</mobile>
+            <email>michael.holledge@slough.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/06/2004</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>08/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1440</councillorid>
+          <fullusername>Councillor Mandeep K. Rana</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/0/4/4/Info00001440/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/0/4/4/Info00001440/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07957 334 387</mobile>
+            <email>mandeep.rana@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>02/05/2014</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Langley St Mary's</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1019</councillorid>
+          <fullusername>Councillor Frank Abe</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/9/1/0/Info00001019/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/9/1/0/Info00001019/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <email>frank.abe@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>07956 584 664</phone>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Surgeries are arranged on demand – no fixed venue.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>08/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>149</councillorid>
+          <fullusername>Councillor Diana Coad</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/9/4/1/Info00000149/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/9/4/1/Info00000149/bigpic.jpg</photobigurl>
+          <politicalpartytitle>UKIP</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>diana.coad@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>77 Burnham Lane</line1>
+            <line2>Burnham</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 6JY</postcode>
+            <phone>01628 666456</phone>
+            <mobile>07881 904 124</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Surgeries are arranged on demand – no fixed venue.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>03/05/2007</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>03/05/2007</startdate>
+              <enddate>05/05/2011</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>05/05/2011</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>29/01/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>30/01/2015</startdate>
+              <enddate>28/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1611</councillorid>
+          <fullusername>Councillor Amarpreet S. Dhaliwal</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/1/1/6/Info00001611/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/1/1/6/Info00001611/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07732 875 015</mobile>
+            <email>amarpreet.dhaliwal@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Upton</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1434</councillorid>
+          <fullusername>Councillor Rayman Bains</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/4/3/4/Info00001434/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/4/3/4/Info00001434/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07790 575 468</mobile>
+            <email>rayman.bains@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Thursday of each month (7pm – 8.30pm) St Francis Church, London Road, Langley, Slough, SL3 7LN</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1435</councillorid>
+          <fullusername>Councillor Wal Chahal</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/5/3/4/Info00001435/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/5/3/4/Info00001435/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Conservative Group Leader</keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <phone>01753 825276</phone>
+            <mobile>07766 470 550</mobile>
+            <email>wal.chahal@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Thursday of each month (7pm – 8.30pm) St Francis Church, London Road, Langley, Slough, SL3 7LN</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>06/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>836</councillorid>
+          <fullusername>Councillor Rajinder S Sandhu</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/6/3/8/Info00000836/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/6/3/8/Info00000836/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07956 839 126</mobile>
+            <email>rajinder.sandhu@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Thursday of each month (7pm – 8.30pm) St Francis Church, London Road, Langley, Slough, SL3 7LN</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>08/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Wexham Lea</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1112</councillorid>
+          <fullusername>Councillor Haqeeq Dar</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/2/1/1/Info00001112/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/2/1/1/Info00001112/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>St Martins Place</line1>
+            <line2>51 Bath Road</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL1 3UF</postcode>
+            <mobile>07800 587 851</mobile>
+            <email>haqeeq.dar@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Sunday of the month (14.00 - 16.00)</line1>
+            <line2>Upton Lea Community Centre, Wexham Road, Slough, SL2 5JW</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2011</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>06/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1214</councillorid>
+          <fullusername>Councillor Sandra Malik</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/4/1/2/Info00001214/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/4/1/2/Info00001214/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <mobile>07816 006 824</mobile>
+            <email>sandra.malik@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>8 Allington Court</line1>
+            <line2>Myrtle Crescent</line2>
+            <line3>Slough</line3>
+            <line4>Berkshire</line4>
+            <postcode>SL2 5AL</postcode>
+            <mobile>07816 006 824</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Sunday of the month (14.00 - 16.00)</line1>
+            <line2>Upton Lea Community Centre, Wexham Road, Slough, SL2 5JW</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2012</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>28/05/2016</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>843</councillorid>
+          <fullusername>Councillor Paul S Sohal</fullusername>
+          <photosmallurl>http://www.slough.gov.uk/moderngov/UserDocs/3/4/8/Info00000843/smallpic.jpg</photosmallurl>
+          <photobigurl>http://www.slough.gov.uk/moderngov/UserDocs/3/4/8/Info00000843/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>paul.sohal@slough.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>31 The Normans</line1>
+            <line2>Slough</line2>
+            <line3>Berkshire</line3>
+            <postcode>SL2 5TT</postcode>
+            <phone>01753 714906</phone>
+            <mobile>07534 387 291</mobile>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Last Sunday of the month (14.00 - 16.00)</line1>
+            <line2>Upton Lea Community Centre, Wexham Road, Slough, SL2 5JW</line2>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>01/05/1997</startdate>
+              <enddate>06/05/1999</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2010</startdate>
+              <enddate>26/05/2014</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>26/05/2014</startdate>
+              <enddate>10/05/2015</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>10/05/2015</startdate>
+              <enddate>02/05/2019</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>

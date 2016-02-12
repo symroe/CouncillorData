@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Alexandra Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>272</councillorid>
+          <fullusername>Councillor Ian George</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/2/7/2/Info00000272/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/2/7/2/Info00000272/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Surbiton</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Lead Member: Resident Services</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <email>Ian.George@kingston.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1290</councillorid>
+          <fullusername>Councillor Chris Hayes</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/0/9/2/Info00001290/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/0/9/2/Info00001290/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Surbiton</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Lead Member: Children's Social Care and Health</keyposts>
+          <workaddress>
+            <mobile>07736 042 753</mobile>
+            <email>chris.hayes@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>273</councillorid>
+          <fullusername>Councillor Richard Hudson</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/3/7/2/Info00000273/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/3/7/2/Info00000273/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Surbiton</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>c/o Conservative Group Office RBK</line1>
+            <line2>Guildhall</line2>
+            <line3>High Street</line3>
+            <line4>Kingston upon Thames</line4>
+            <postcode>KT1 1EU</postcode>
+            <phone>020 8547 5130</phone>
+          </workaddress>
+          <homeaddress>
+            <email>richard.hudson@kingston.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Berrylands Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1184</councillorid>
+          <fullusername>Councillor Sushila Abraham</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/4/8/1/Info00001184/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/4/8/1/Info00001184/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>Surbiton</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Liberal Democrat Office</line1>
+            <line2>Guildhall</line2>
+            <line3>High Street</line3>
+            <line4>Kingston upon Thames</line4>
+            <phone>020 8547 5141</phone>
+          </workaddress>
+          <homeaddress>
+            <email>sushila.abraham@kingston.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>28/02/2013</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>442</councillorid>
+          <fullusername>Councillor Mike Head</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/2/4/4/Info00000442/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/2/4/4/Info00000442/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Surbiton</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>mike.head@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>209 Raeburn Avenue</line1>
+            <line2>Surbiton</line2>
+            <line3>KT5 9DE</line3>
+            <mobile>07879 667264</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1297</councillorid>
+          <fullusername>Councillor Andy Johnson-Creek</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/7/9/2/Info00001297/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/7/9/2/Info00001297/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Surbiton</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Portfolio Holder: Resident Participation</keyposts>
+          <workaddress>
+            <email>andy.johnson@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Beverley Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1301</councillorid>
+          <fullusername>Councillor Paul Bedforth</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/1/0/3/Info00001301/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/1/0/3/Info00001301/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Maldens and Coombe</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <line1>Conservative Group Office</line1>
+            <line2>The Guildhall</line2>
+            <line3>High Street</line3>
+            <line4>Kingston Upon Thames</line4>
+          </workaddress>
+          <homeaddress>
+            <mobile>07802 985661</mobile>
+            <email>paul.bedforth@kingston.gov.uk</email>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1305</councillorid>
+          <fullusername>Councillor Raju Pandya</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/5/0/3/Info00001305/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/5/0/3/Info00001305/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Maldens and Coombe</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Lead Member: Partnerships</keyposts>
+          <workaddress>
+            <line1>Conservative Group Office</line1>
+            <line2>The Guildhall</line2>
+            <line3>High Street</line3>
+            <line4>Kingston Upon Thames</line4>
+            <email>raju.pandya@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07956 252294</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1224</councillorid>
+          <fullusername>Councillor Terry Paton</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/4/2/2/Info00001224/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/4/2/2/Info00001224/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Maldens and Coombe</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Portfolio Holder: Resident Services</keyposts>
+          <workaddress>
+            <email>terry.paton@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>c/o Conservative Group Office</line1>
+            <line2>Guildhall</line2>
+            <line3>High Street</line3>
+            <line4>Kingston upon Thames</line4>
+            <postcode>KT1 1EU</postcode>
+            <phone>0208 6050288</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>25/07/2013</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Canbury Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>277</councillorid>
+          <fullusername>Councillor Geoff Austin</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/7/7/2/Info00000277/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/7/7/2/Info00000277/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Kingston Town</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>97 Clifton Road</line1>
+            <line2>Kingston Upon Thames</line2>
+            <postcode>KT2 6PL</postcode>
+            <phone>020 8549 3757</phone>
+            <email>Geoff.Austin@kingston.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>883</councillorid>
+          <fullusername>Councillor Andrea Craig</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/3/8/8/Info00000883/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/3/8/8/Info00000883/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Kingston Town</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Portfolio Holder: Growth and Identity</keyposts>
+          <workaddress>
+            <line1>Conservative Group Office</line1>
+            <line2>The Guildhall</line2>
+            <line3>High Street</line3>
+            <line4>Kingston Upon Thames</line4>
+          </workaddress>
+          <homeaddress>
+            <mobile>07411 515 029</mobile>
+            <email>andrea.craig@kingston.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>278</councillorid>
+          <fullusername>Councillor David Glasspool</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/8/7/2/Info00000278/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/8/7/2/Info00000278/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Kingston Town</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Portfolio Holder: Treasury</keyposts>
+          <workaddress>
+            <line1>Conservative Group Office</line1>
+            <line2>The Guildhall</line2>
+            <line3>High Street</line3>
+            <line4>Kingston Upon Thames</line4>
+          </workaddress>
+          <homeaddress>
+            <mobile>07785 725280</mobile>
+            <email>David.Glasspool@kingston.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>06/05/2010</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Chessington North &amp; Hook Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1312</councillorid>
+          <fullusername>Councillor Clive Chase</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/2/1/3/Info00001312/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/2/1/3/Info00001312/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>South of the Borough</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <phone>0208 397 3191</phone>
+            <email>clive.chase@kingston.gov.uk</email>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>464</councillorid>
+          <fullusername>Councillor Andrew Day</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/4/6/4/Info00000464/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/4/6/4/Info00000464/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>South of the Borough</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>andrew.day@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Mansfield Road</line1>
+            <line2>Chessington</line2>
+            <postcode>KT9 2PJ</postcode>
+            <phone>07975 915737</phone>
+            <email>andrew.day@kingston.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>893</councillorid>
+          <fullusername>Councillor Margaret Thompson</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/3/9/8/Info00000893/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/3/9/8/Info00000893/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>South of the Borough</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Opposition Spokesperson: Children's Social Care and Health</keyposts>
+          <workaddress>
+            <email>margaret.thompson@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>124 Somerset Avenue</line1>
+            <line2>Hook</line2>
+            <line3>Chessington</line3>
+            <postcode>KT9 1PR</postcode>
+            <phone>020 8397 3505</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Chessington South Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>137</councillorid>
+          <fullusername>Councillor Patricia Bamford</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/7/3/1/Info00000137/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/7/3/1/Info00000137/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>South of the Borough</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Opposition Spokesperson: Adult Social Care and Health</keyposts>
+          <workaddress>
+            <email>Patricia.Bamford@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>305 Hook Road</line1>
+            <line2>Chessington</line2>
+            <line3>Surrey</line3>
+            <postcode>KT9 1EH</postcode>
+            <phone>020 8287 0689</phone>
+            <email>Patricia.Bamford@kingston.gov.uk</email>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>148</councillorid>
+          <fullusername>Councillor Shiraz Mirza</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/8/4/1/Info00000148/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/8/4/1/Info00000148/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>South of the Borough</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>shiraz.mirza@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Leatherhead Road</line1>
+            <line2>Chessington</line2>
+            <line3>Surrey</line3>
+            <postcode>KT9 2HN</postcode>
+            <phone>020 8241 9938</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>226</councillorid>
+          <fullusername>Councillor Rachel Reid</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/6/2/2/Info00000226/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/6/2/2/Info00000226/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>South of the Borough</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of South of the Borough Neighbourhood Committee</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>6 Church Lane</line1>
+            <line2>Chessington</line2>
+            <line3>Surrey</line3>
+            <postcode>KT9 2DJ</postcode>
+            <phone>020 8974 1779</phone>
+            <email>rachel.reid@kingston.gov.uk</email>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Coombe Hill Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1323</councillorid>
+          <fullusername>Councillor Rowena Bass</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/3/2/3/Info00001323/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/3/2/3/Info00001323/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Maldens and Coombe</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Lead Member: Treasury; Chair of Audit, Governance and Standards</keyposts>
+          <workaddress>
+            <line1>Conservative Group Office</line1>
+            <line2>The Guildhall</line2>
+            <line3>High Street</line3>
+            <line4>Kingston Upon Thames</line4>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8547 5130 (Group Office)</phone>
+            <mobile>07804 561 478</mobile>
+            <email>rowena.bass@kingston.gov.uk</email>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>119</councillorid>
+          <fullusername>Councillor Eric Humphrey</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/9/1/1/Info00000119/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/9/1/1/Info00000119/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Maldens and Coombe</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Portfolio Holder: Children's Social Care and Health</keyposts>
+          <workaddress>
+            <email>eric.humphrey@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>26 Berystede</line1>
+            <line2>Kingston upon Thames</line2>
+            <postcode>KT2 7PQ</postcode>
+            <phone>020 8549 4030</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1111</councillorid>
+          <fullusername>Councillor Gaj Wallooppillai</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/1/1/1/Info00001111/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/1/1/1/Info00001111/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Maldens and Coombe</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>5 Lord Chancellor Walk</line1>
+            <line2>Kingston upon Thames</line2>
+            <postcode>KT2 7HG</postcode>
+            <phone>07803835524</phone>
+            <email>gaj.wallooppillai@kingston.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2012</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Coombe Vale Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1325</councillorid>
+          <fullusername>Councillor Roy Arora</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/5/2/3/Info00001325/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/5/2/3/Info00001325/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Maldens and Coombe</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Mayor</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <email>roy.arora@kingston.gov.uk</email>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1097</councillorid>
+          <fullusername>Councillor Julie Pickering</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/7/9/0/Info00001097/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/7/9/0/Info00001097/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Maldens and Coombe</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Leader of the Council &amp; Portfolio Holder: Partnerships</keyposts>
+          <workaddress>
+            <line1>Conservative Group Office</line1>
+            <line2>Guildhall</line2>
+            <line3>Kingston Upon Thames</line3>
+            <line4>KT1 1EU</line4>
+          </workaddress>
+          <homeaddress>
+            <mobile>07986568973</mobile>
+            <email>julie.pickering@kingston.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>I hold a drop in surgery with my Coombe Vale ward colleagues on the second Saturday of each month with the exception of August and December. It is held at Dickerage Sports and Community Centre, Dickerage Lane, New Malden between 10am and 12 noon.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>15/12/2011</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1330</councillorid>
+          <fullusername>Councillor Cathy Roberts</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/0/3/3/Info00001330/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/0/3/3/Info00001330/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Maldens and Coombe</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Portfolio Holder: Adults Social Care and Health</keyposts>
+          <workaddress>
+            <line1>Conservative Group Office</line1>
+            <line2>The Guildhall</line2>
+            <line3>High Street</line3>
+            <line4>Kingston Upon Thames</line4>
+            <email>cathy.roberts@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <mobile>07752 366819</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Grove Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1334</councillorid>
+          <fullusername>Councillor Phil Doyle</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/4/3/3/Info00001334/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/4/3/3/Info00001334/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Kingston Town</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Licensing Committee</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>9, Westfield Court</line1>
+            <line2>Portsmouth Road</line2>
+            <line3>Surbiton</line3>
+            <line4>KT6 4HG</line4>
+            <mobile>07809 874066</mobile>
+            <email>phil.doyle@kingston.gov.uk</email>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1139</councillorid>
+          <fullusername>Councillor Rebekah Moll</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/9/3/1/Info00001139/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/9/3/1/Info00001139/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>Kingston Town</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>C/o Liberal Democrat Group Office</line1>
+            <line2>Guildhall</line2>
+            <line3>Kingston upon Thames</line3>
+            <line4>Surrey</line4>
+            <postcode>KT1 1EU</postcode>
+            <phone>0208 547 5141</phone>
+            <mobile>07834240723</mobile>
+            <email>rebekah.moll@kingston.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1540</councillorid>
+          <fullusername>Councillor Jon Tolley</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/0/4/5/Info00001540/smallpic.png</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/0/4/5/Info00001540/bigpic.png</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>Kingston Town</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>jon.tolley@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>C/O Banquet Records</line1>
+            <line2>52 Eden Street</line2>
+            <line3>Kingston upon Thames</line3>
+            <line4>KT1 1EE</line4>
+            <phone>020 8549 5871</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>16/07/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Norbiton Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1389</councillorid>
+          <fullusername>Councillor Bill Brisbane</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/9/8/3/Info00001389/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/9/8/3/Info00001389/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Opposition Spokesperson: Regeneration</keyposts>
+          <workaddress>
+            <line1>Liberal Democrat Group Office</line1>
+            <line2>The Guildhall</line2>
+            <line3>High Street</line3>
+            <line4>Kingston Upon Thames</line4>
+          </workaddress>
+          <homeaddress>
+            <mobile>07836 273501</mobile>
+            <email>bill.brisbane@kingston.gov.uk</email>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1391</councillorid>
+          <fullusername>Councillor Linsey Cottington</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/1/9/3/Info00001391/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/1/9/3/Info00001391/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Labour Group</keyposts>
+          <workaddress>
+            <line1>Labour Group Office</line1>
+            <line2>The Guildhall</line2>
+            <line3>High Street</line3>
+            <line4>Kingston Upon Thames</line4>
+          </workaddress>
+          <homeaddress>
+            <mobile>07887 846 193</mobile>
+            <email>linsey.cottington@kingston.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor Cottington holds a surgery every second Saturday of the month, except for December and August, from 10am to 12 noon at Piper Hall Community Centre.</line1>
+          </surgerydetails>
+        </councillor>
+        <councillor>
+          <councillorid>1392</councillorid>
+          <fullusername>Councillor Sheila Griffin</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/2/9/3/Info00001392/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/2/9/3/Info00001392/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Labour</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <phone>0208 399 2325</phone>
+            <email>sheila.griffin@kingston.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor Griffin holds a surgery every second Saturday of the month, except for December and August, from 10am to 12 noon at Piper Hall Community Centre.</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Old Malden Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>536</councillorid>
+          <fullusername>Councillor Mary Clark</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/6/3/5/Info00000536/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/6/3/5/Info00000536/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Independent</politicalpartytitle>
+          <districttitle>Maldens and Coombe</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Deputy Mayor</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <phone>0208 949 3157</phone>
+            <email>mary.clark@kingston.gov.uk</email>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>132</councillorid>
+          <fullusername>Councillor Kevin  Davis</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/2/3/1/Info00000132/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/2/3/1/Info00000132/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Maldens and Coombe</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Council</keyposts>
+          <workaddress>
+            <line1>Conservative Group Office</line1>
+            <line2>The Guildhall</line2>
+            <line3>High Street</line3>
+            <line4>Kingston Upon Thames</line4>
+            <phone>020 8547 5130 (Group Office)</phone>
+          </workaddress>
+          <homeaddress>
+            <email>kevin.davis@kingston.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/1998</startdate>
+              <enddate>02/05/2002</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>02/05/2002</startdate>
+              <enddate>04/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>22/05/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>112</councillorid>
+          <fullusername>Councillor David Fraser</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/2/1/1/Info00000112/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/2/1/1/Info00000112/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Maldens and Coombe</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>David.Fraser@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>292 Malden Road</line1>
+            <line2>New Malden</line2>
+            <line3>Surrey</line3>
+            <postcode>KT3 6AT</postcode>
+            <phone>020 8949 6910</phone>
+            <email>David.Fraser@kingston.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>Councillor David Fraser holds a surgery on the first Sat. in the month from 10 - 12 noon at the Old Malden Library</line1>
+          </surgerydetails>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>St James Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1360</councillorid>
+          <fullusername>Councillor Jack Cheetham</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/0/6/3/Info00001360/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/0/6/3/Info00001360/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Lead Member: Resident Participation</keyposts>
+          <workaddress>
+            <email>jack.cheetham@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>75, Bodley Road</line1>
+            <line2>New Malden</line2>
+            <line3>KT3 5QJ</line3>
+            <mobile>07585900613</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>18/12/2014</startdate>
+              <enddate>03/05/2018</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>931</councillorid>
+          <fullusername>Councillor Priyen Patel</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/1/3/9/Info00000931/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/1/3/9/Info00000931/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Maldens and Coombe</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Lead Member: Regeneration</keyposts>
+          <workaddress>
+            <email>priyen.patel@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>1 Gloucester Court</line1>
+            <line2>Lovelace Gardens</line2>
+            <line3>Surbiton</line3>
+            <postcode>KT6 6SB</postcode>
+            <mobile>07830 262 904</mobile>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>285</councillorid>
+          <fullusername>Councillor Ken Smith</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/5/8/2/Info00000285/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/5/8/2/Info00000285/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Maldens and Coombe</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Lead Member: Growth and Identity</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>7 The Grange</line1>
+            <line2>Blakes Lane</line2>
+            <line3>New Malden</line3>
+            <postcode>KT3 6NY</postcode>
+            <phone>07752 152 829</phone>
+            <email>Ken.Smith@kingston.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>St Mark's Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>198</councillorid>
+          <fullusername>Councillor Liz Green</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/8/9/1/Info00000198/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/8/9/1/Info00000198/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>Surbiton</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Leader of the Opposition, Opposition Spokesperson: Resident Participation</keyposts>
+          <workaddress>
+            <line1>c/o Lib Dem Group Office</line1>
+            <line2>RB Kingston upon Thames, Guildhall,</line2>
+            <line3>High Street,</line3>
+            <line4>Kingston upon Thames</line4>
+            <postcode>KT1 1EU</postcode>
+            <phone>0208 547 5132</phone>
+            <email>Liz.Green@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <phone>020 8390 0138</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>1367</councillorid>
+          <fullusername>Councillor Diane White</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/7/6/3/Info00001367/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/7/6/3/Info00001367/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>Surbiton</districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>diane.white@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>52, Westfield Road</line1>
+            <line2>Surbiton</line2>
+            <line3>KT6 4EJ</line3>
+            <phone>020 8339 9178</phone>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>201</councillorid>
+          <fullusername>Councillor Yogan Yoganathan</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/1/0/2/Info00000201/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/1/0/2/Info00000201/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>Surbiton</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Opposition Spokesperson: Partnerships</keyposts>
+          <workaddress>
+            <email>yogan.yoganathan@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>47 Parkside Crescent</line1>
+            <line2>Berrylands</line2>
+            <line3>Surbiton</line3>
+            <line4>Surrey</line4>
+            <postcode>KT5 9HT</postcode>
+            <phone>020 8390 5630</phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Surbiton Hill Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1079</councillorid>
+          <fullusername>Councillor John Ayles</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/9/7/0/Info00001079/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/9/7/0/Info00001079/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>Surbiton</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Opposition Spokesperson: Treasury</keyposts>
+          <workaddress>
+            <email>john.ayles@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>23 Corkran Road</line1>
+            <line2>Surbiton</line2>
+            <line3>KT6 6PL</line3>
+            <phone>07890 316521</phone>
+            <email>john.ayles@kingston.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>23/09/2011</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>542</councillorid>
+          <fullusername>Councillor Hilary Gander</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/2/4/5/Info00000542/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/2/4/5/Info00000542/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>Surbiton</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Opposition Spokesperson: Resident Services</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>34a St Matthews Avenue</line1>
+            <line2>Surbiton</line2>
+            <line3>KT6 6JQ</line3>
+            <phone>0208 255 6343</phone>
+            <email>hilary.gander@kingston.gov.uk</email>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>946</councillorid>
+          <fullusername>Councillor Malcolm Self</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/6/4/9/Info00000946/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/6/4/9/Info00000946/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>Surbiton</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Surbiton Neighbourhood Committee</keyposts>
+          <workaddress>
+            <email>malcolm.self@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>38 Chiltern Drive</line1>
+            <line2>Surbiton</line2>
+            <postcode>KT5 8LW</postcode>
+            <phone>020 8390 1639</phone>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/2010</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Tolworth &amp; Hook Rise Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>1510</councillorid>
+          <fullusername>Councillor Tom Davies</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/0/1/5/Info00001510/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/0/1/5/Info00001510/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Opposition Spokesperson: Growth and Identity</keyposts>
+          <workaddress>
+            <line1>C/O Liberal Democrat Group Office</line1>
+            <line2>Guildhall</line2>
+            <line3>Kingston Upon Thames</line3>
+            <line4>KT1 1EU</line4>
+            <phone>0208 547 5141</phone>
+          </workaddress>
+          <homeaddress>
+            <phone>0208 547 5141</phone>
+            <email>tom.davies@kingston.gov.uk</email>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>07/05/2015</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1377</councillorid>
+          <fullusername>Councillor Lorraine Rolfe</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/7/7/3/Info00001377/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/7/7/3/Info00001377/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>South of the Borough</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Vice Chair South of the Borough Neighbourhood Committee</keyposts>
+          <workaddress>
+            <email>lorraine.rolfe@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>18 Oakcroft Villas</line1>
+            <line2>Chessington</line2>
+            <line3>KT9 1RJ</line3>
+            <mobile>07931 733470</mobile>
+          </homeaddress>
+        </councillor>
+        <councillor>
+          <councillorid>425</councillorid>
+          <fullusername>Councillor Thay Thayalan</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/5/2/4/Info00000425/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/5/2/4/Info00000425/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Liberal Democrat</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>
+          </keyposts>
+          <workaddress>
+            <email>thay.thayalan@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>16, Greenfield Avenue</line1>
+            <line2>Surbiton</line2>
+            <line3>KT5 9HR</line3>
+            <phone>0208 399 7848 </phone>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+    <ward>
+      <wardtitle>Tudor Ward</wardtitle>
+      <councillors>
+        <councillorcount> 3</councillorcount>
+        <councillor>
+          <councillorid>110</councillorid>
+          <fullusername>Councillor David Cunningham</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/0/1/1/Info00000110/smallmug.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/0/1/1/Info00000110/bigmug.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Kingston Town</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Portfolio Holder: Regeneration</keyposts>
+          <workaddress>
+          </workaddress>
+          <homeaddress>
+            <line1>86 Durlston Road</line1>
+            <line2>Kingston upon Thames</line2>
+            <line3>Surrey</line3>
+            <postcode>KT2 5RU</postcode>
+            <phone>020 8549 8111</phone>
+            <email>david.cunningham@kingston.gov.uk</email>
+          </homeaddress>
+          <surgerydetails>
+            <line1>The Tudor Ward Councillors hold a surgery every second Saturday in the month at Tudor Hall, Tudor Drive between 10 a.m &amp; noon. No appointment needed.</line1>
+          </surgerydetails>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>06/05/1990</startdate>
+              <enddate>05/05/1994</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/1994</startdate>
+              <enddate>05/05/1998</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/1998</startdate>
+              <enddate>05/05/2002</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>06/05/2002</startdate>
+              <enddate>03/05/2006</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>04/05/2006</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1452</councillorid>
+          <fullusername>Councillor Maria Netley</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/2/5/4/Info00001452/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/2/5/4/Info00001452/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>Kingston Town</districttitle>
+          <representing>
+          </representing>
+          <keyposts>Lead Member: Adults Social Care and Health</keyposts>
+          <workaddress>
+            <email>maria.netley@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+          </homeaddress>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>16/10/2014</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1381</councillorid>
+          <fullusername>Councillor Hugh Scantlebury</fullusername>
+          <photosmallurl>http://moderngov.kingston.gov.uk/UserData/1/8/3/Info00001381/smallpic.jpg</photosmallurl>
+          <photobigurl>http://moderngov.kingston.gov.uk/UserData/1/8/3/Info00001381/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Conservative</politicalpartytitle>
+          <districttitle>
+          </districttitle>
+          <representing>
+          </representing>
+          <keyposts>Chair of Kingston Town Neighbourhood Committee</keyposts>
+          <workaddress>
+            <email>hugh.scantlebury@kingston.gov.uk</email>
+          </workaddress>
+          <homeaddress>
+            <line1>18 Woodside Road</line1>
+            <line2>Kingston Upon Thames</line2>
+            <line3>KT2 5AT</line3>
+            <mobile>07527 191 172</mobile>
+          </homeaddress>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>
