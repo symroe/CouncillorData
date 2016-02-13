@@ -1,4 +1,4 @@
-import base_parser
+from base_parser import BaseParser
 
 class CouncillorPhotoParser(BaseParser):
     def parse(self):
