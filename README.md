@@ -46,11 +46,15 @@ Worth a look at e.g. http://democracy.kirklees.gov.uk/mgWebService.asmx?WSDL to 
 
 ## Scraping
 
-Run:
+To scrape all the URLs in urls.txt, run:
 
 `python scrape_all.py`
 
 And wait a while (not all URLs work at the moment)
+
+To scrape a specific authority, then specify the URL as a parameter:
+
+`python scrape_all.py democracy.kirklees.gov.uk`
 
 ## Councillor Photos!
 
