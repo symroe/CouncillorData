@@ -1,0 +1,21 @@
+CheckComms - requires sRid parameter
+GetAttachment - requires lAttachmentID parameter
+GetAttachmentByPath - requires lAttachmentPath parameter
+GetMeeting - requires lCommitteeID parameter
+GetAllMeetingsByDate - requires lCommitteeID parameter
+GetCalendarEvents - requires bGlobalCalendar parameter
+GetCommittees - works fine, using scrape_all.py returns a data file for each council with a list of committee, id etc
+GetCommitteesByUser - requires lUserID parameter
+GetCouncillorsByPostcode - requires sPostcode parameter
+GetCouncillorsByWard - works fine, returns data file for each authority
+GetCouncillorsByWardId - requires lWardId parameter
+GetDeletedWebcastMeetings - requires sFromDate parameter
+GetElectionResults - requires lElectionId parameter
+GetElectionResultsRdf - requires lType parameter
+GetMeetings - requires lCommitteeId parameter
+GetMemberGroup - requires sShortName parameter
+GetMpOrMepAndWardsByPostcode - requires sPostcode parameter
+GetMpOrMepsAndWards - requires bIsMPs parameter
+GetParishCouncils - works fine where there are parish council data to find
+GetServerDiagnostics - requires sSecurityId parameter
+GetWebCastMeetings - requires lCommitteeId parameter
