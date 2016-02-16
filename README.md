@@ -40,6 +40,10 @@ I found loads of installs of modern.gov by doing the following Google search:
 
 and copying and pasting the domains in to `urls.txt`
 
+## Parameters
+
+Worth a look at e.g. http://democracy.kirklees.gov.uk/mgWebService.asmx?WSDL to see which parameters are required for different endpoints
+
 ## Scraping
 
 Run:
