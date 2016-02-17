@@ -8,7 +8,7 @@ def main(argv):
 
     # If authority URLs have been passed in as arguments, use those
     # if not, use the list specified in urls.txt
-    if len(sys.argv) >= 2:
+    if argv:
         base_urls = argv
     else:
         base_urls = open('urls.txt')
