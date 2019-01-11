@@ -76,6 +76,7 @@ democracy.lbhf.gov.uk
 democracy.leeds.gov.uk
 democracy.maldon.gov.uk
 democracy.medway.gov.uk
+democracy.merthyr.gov.uk
 democracy.middevon.gov.uk
 democracy.monmouthshire.gov.uk
 democracy.newcastle.gov.uk
